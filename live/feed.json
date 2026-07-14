@@ -1,8 +1,105 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-14T17:08:36.750Z",
-  "rolling24HourCount": 3,
+  "updatedAt": "2026-07-14T18:08:51.464Z",
+  "rolling24HourCount": 4,
   "comics": [
+    {
+      "category": "World",
+      "contentType": "brief",
+      "generatedAt": "2026-07-14T18:08:01.966Z",
+      "imagePath": "/live/media/inflation-slowed-during-pause-in-war-with-iran.webp",
+      "claims": [
+        {
+          "claim": "In June, lower U.S. energy prices cut CPI by 0.4%, briefly easing household fuel costs.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Energy prices fell 5.7%; oil dropped 9.7% and gasoline 9.5%, pulling down the headline index.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "That brought annual CPI inflation to 3.5%, below economists' 3.8% forecast and May's 4.2% reading.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Core inflation, excluding food and energy, was flat for the month and 2.6% higher than a year earlier.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Gas averaged $3.85 a gallon, down from $4.07 a month earlier, a direct household-facing part of the decline.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The relief may prove temporary: fighting hit commercial tankers, and average gasoline prices rose from $3.79 last week.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "In June, lower U.S. energy prices cut CPI by 0.4%, briefly easing household fuel costs.",
+        "Energy prices fell 5.7%; oil dropped 9.7% and gasoline 9.5%, pulling down the headline index.",
+        "That brought annual CPI inflation to 3.5%, below economists' 3.8% forecast and May's 4.2% reading.",
+        "Core inflation, excluding food and energy, was flat for the month and 2.6% higher than a year earlier.",
+        "Gas averaged $3.85 a gallon, down from $4.07 a month earlier, a direct household-facing part of the decline.",
+        "The relief may prove temporary: fighting hit commercial tankers, and average gasoline prices rose from $3.79 last week."
+      ],
+      "shortTitle": "U.S. Energy Price Drop Pulled CPI Inflation to 3.5%",
+      "slug": "inflation-slowed-during-pause-in-war-with-iran",
+      "sourceCount": 3,
+      "sources": [
+        {
+          "name": "CNBC Top News",
+          "url": "https://www.cnbc.com/2026/07/14/consumer-price-index-inflation-report-june-2026.html"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/7/14/us-consumer-prices-drop-in-june-as-energy-costs-tumble?traffic_source=rss"
+        },
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/14/business/economy/inflation-cpi.html"
+        }
+      ],
+      "storylineKey": "",
+      "storylineTitle": "",
+      "summary": "The Consumer Price Index fell to a 3.5 percent annual increase in June, and prices marked their biggest drop from a month earlier since 2020.",
+      "title": "U.S. Energy Price Drop Pulled CPI Inflation to 3.5%"
+    },
     {
       "category": "U.S. & Politics",
       "contentType": "brief",
@@ -5081,103 +5178,6 @@
       "storylineTitle": "",
       "summary": "FIFA suspended implementation of Folarin Balogun's one-game red-card ban for a one-year probation period, letting him play Belgium after U.S. appeal activity and drawing objections from Belgium's federation.",
       "title": "FIFA's Balogun Reversal, Explained"
-    },
-    {
-      "category": "U.S. & Politics",
-      "contentType": "brief",
-      "generatedAt": "2026-07-08T01:35:22.290Z",
-      "imagePath": "/live/media/judge-rejects-doj-s-attempt-to-get-names-of-2020-election-workers-in-fulton-coun.webp",
-      "claims": [
-        {
-          "claim": "Judge blocks a DOJ subpoena for Fulton County election worker names and contact information.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The April subpoena targeted employees and volunteer poll workers from the 2020 election.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Fulton County argued disclosure could expose election workers to harassment risks and retaliation claims.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Judge William Ray called the request low-need, highly burdensome and staggering in scope.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The ruling limits how prosecutors may use a grand jury to demand election-worker data.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Any renewed demand for worker data must satisfy the court's burden-and-need test.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "Judge blocks a DOJ subpoena for Fulton County election worker names and contact information.",
-        "The April subpoena targeted employees and volunteer poll workers from the 2020 election.",
-        "Fulton County argued disclosure could expose election workers to harassment risks and retaliation claims.",
-        "Judge William Ray called the request low-need, highly burdensome and staggering in scope.",
-        "The ruling limits how prosecutors may use a grand jury to demand election-worker data.",
-        "Any renewed demand for worker data must satisfy the court's burden-and-need test."
-      ],
-      "shortTitle": "Court blocks DOJ worker-data subpoena",
-      "slug": "judge-rejects-doj-s-attempt-to-get-names-of-2020-election-workers-in-fulton-coun",
-      "sourceCount": 3,
-      "sources": [
-        {
-          "name": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/politics/judge-rejects-justice-departments-unreasonable-attempt-to-get-names-of-2020-election-workers-in-fulton-county"
-        },
-        {
-          "name": "ABC News Politics",
-          "url": "https://abcnews.com/Politics/wireStory/judge-rejects-justice-department-attempt-names-2020-election-134561868"
-        },
-        {
-          "name": "CBS News Latest",
-          "url": "https://www.cbsnews.com/news/judge-rejects-justice-department-attempt-to-get-names-of-2020-election-workers-in-fulton-county"
-        }
-      ],
-      "storylineKey": "governing-crisis",
-      "storylineTitle": "U.S. Elections",
-      "summary": "A federal judge quashed a Justice Department subpoena seeking Fulton County 2020 election worker names and contact information, calling the request too burdensome and unreasonable.",
-      "title": "Court Blocks DOJ Worker-Data Subpoena in Fulton"
     }
   ],
   "dailyPaper": {
@@ -5227,6 +5227,15 @@
   },
   "feeds": {
     "categories": {
+      "World": [
+        "inflation-slowed-during-pause-in-war-with-iran",
+        "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
+        "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
+        "trump-says-iran-ceasefire-is-over",
+        "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the",
+        "one-of-spain-s-deadliest-wildfires-kills-at-least-12-people-with-23-others-missi",
+        "trump-says-iran-ceasefire-is-over-after-latest-round-of-strikes"
+      ],
       "U.S. & Politics": [
         "justice-kagan-calls-for-additional-supreme-court-security-funding",
         "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa",
@@ -5254,8 +5263,7 @@
         "at-nato-summit-in-turkey-trump-says-he-believes-ceasefire-with-iran-is-over",
         "republican-leaders-say-they-ve-spoken-with-mitch-mcconnell-since-hospitalization",
         "u-s-strikes-iran-and-reimposes-sanctions-after-tanker-attacks",
-        "judge-blocks-doj-bid-for-fulton-election-worker-data",
-        "judge-rejects-doj-s-attempt-to-get-names-of-2020-election-workers-in-fulton-coun"
+        "judge-blocks-doj-bid-for-fulton-election-worker-data"
       ],
       "Guide": [
         "how-us-senate-vacancies-are-filled",
@@ -5272,14 +5280,6 @@
         "easyjet-agrees-to-apollo-7-7b-bid-sidelining-castlelake-offer",
         "what-to-know-about-u-s-oil-production-and-consumption-in-6-charts",
         "fed-minutes-officials-deeply-divided-over-future-path-of-us-inflation"
-      ],
-      "World": [
-        "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
-        "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
-        "trump-says-iran-ceasefire-is-over",
-        "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the",
-        "one-of-spain-s-deadliest-wildfires-kills-at-least-12-people-with-23-others-missi",
-        "trump-says-iran-ceasefire-is-over-after-latest-round-of-strikes"
       ],
       "Tech & Science": [
         "how-to-prevent-meta-from-using-your-instagram-images-in-a-i"
@@ -5313,8 +5313,7 @@
         "maine-democrats-vote-to-replace-platner-before-july-13-senate-deadline",
         "judge-orders-release-of-the-5-8-million-payment-that-trump-owed-e-jean-carroll",
         "sanders-warren-drop-endorsements-of-maine-s-graham-platner",
-        "judge-blocks-doj-bid-for-fulton-election-worker-data",
-        "judge-rejects-doj-s-attempt-to-get-names-of-2020-election-workers-in-fulton-coun"
+        "judge-blocks-doj-bid-for-fulton-election-worker-data"
       ],
       "new-energy-system": [
         "how-ev-battery-recycling-works"
