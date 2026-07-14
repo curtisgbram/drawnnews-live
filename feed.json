@@ -1,0 +1,487 @@
+{
+  "schemaVersion": "drawnnews.live-feed.v1",
+  "updatedAt": "2026-07-14T01:42:38.207Z",
+  "rolling24HourCount": 4,
+  "comics": [
+    {
+      "category": "Guide",
+      "contentType": "guide",
+      "generatedAt": "2026-07-14T00:12:37.437Z",
+      "imagePath": "/live/media/how-us-senate-vacancies-are-filled.webp",
+      "panelCaptions": [
+        "When a senator leaves office, a state must protect voters’ representation by starting a vacancy process under constitutional and state rules.",
+        "The Seventeenth Amendment routes the vacancy to state law, which sets the operators, appointment authority, and election path.",
+        "State lawmakers may authorize a governor to appoint an interim senator or schedule a special election under the vacancy rule.",
+        "The timeline is the bottleneck: statutory deadlines determine an interim term, ballot preparation, and when voters choose.",
+        "A replacement brings state credentials to the Senate, where an oath and seating complete the handoff of representation.",
+        "Watch the vacancy statute and election calendar: they reveal the next legal threshold, deadline, and voter decision."
+      ],
+      "shortTitle": "Filling a Senate Vacancy",
+      "slug": "how-us-senate-vacancies-are-filled",
+      "sourceCount": 3,
+      "sources": [
+        {
+          "name": "U.S. Senate: Seventeenth Amendment",
+          "url": "https://www.senate.gov/about/origins-foundations/senate-and-constitution/seventeenth-amendment.htm"
+        },
+        {
+          "name": "U.S. Senate: Appointed Senators",
+          "url": "https://www.senate.gov/senators/AppointedSenators.htm"
+        },
+        {
+          "name": "South Carolina Code Section 7-19-20",
+          "url": "https://www.scstatehouse.gov/code/t07c019.php"
+        }
+      ],
+      "storylineKey": "governing-crisis",
+      "storylineTitle": "U.S. Elections",
+      "summary": "A U.S. Senate vacancy moves through the Seventeenth Amendment, state law, an interim appointment or special election, and the Senate’s seating process. The key constraint is that states set the replacement rules.",
+      "title": "How U.S. Senate Vacancies Are Filled"
+    },
+    {
+      "category": "Money",
+      "contentType": "brief",
+      "generatedAt": "2026-07-13T23:27:45.385Z",
+      "imagePath": "/live/media/paramount-and-warner-bros-sued-to-block-110bn-mega-merger.webp",
+      "panelCaptions": [
+        "Twelve states sued to block Paramount's $110bn Warner Bros. purchase, saying the merged studio could raise prices for U.S. audiences.",
+        "The suit targets a deal that would combine Paramount and Warner Bros. into one of the nation's largest media companies.",
+        "States say the merger could curb competition and push up cable packages, movie tickets, and other costs for consumers.",
+        "California-led attorneys general asked a court to stop the transaction before it closes under federal antitrust law.",
+        "The combined company would control more than a quarter of major film releases, raising questions for creative workers and streaming households.",
+        "Paramount calls the lawsuit flawed; the court fight now tests whether states can block the $110bn deal."
+      ],
+      "shortTitle": "Twelve states sue to block Paramount's $110bn Warner Bros. merger",
+      "slug": "paramount-and-warner-bros-sued-to-block-110bn-mega-merger",
+      "sourceCount": 7,
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cgev34lvgp4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "CBS News Latest",
+          "url": "https://www.cbsnews.com/news/states-sue-to-block-paramount-warner-bros-discovery-merger"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/now/video/12-states-file-lawsuit-to-block-110-billion-paramount-warner-bros-merger-266596933524"
+        },
+        {
+          "name": "CNBC Top News",
+          "url": "https://www.cnbc.com/2026/07/13/paramount-wbd-merger-lawsuit.html"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/policy/964916/paramount-warner-bros-discovery-states-lawsuit"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/13/12-states-sue-to-block-paramounts-110b-warner-bros-deal"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/7/13/twelve-us-states-sue-paramount-to-block-warner-bros-merger?traffic_source=rss"
+        }
+      ],
+      "storylineKey": "",
+      "storylineTitle": "",
+      "summary": "A dozen US states are taking legal action to halt the largest media consolidation in Hollywood history.",
+      "title": "Twelve states sue to block Paramount's $110bn Warner Bros. merger"
+    },
+    {
+      "category": "Guide",
+      "contentType": "guide",
+      "generatedAt": "2026-07-13T16:11:47.419Z",
+      "imagePath": "/live/media/how-ev-battery-recycling-works.webp",
+      "panelCaptions": [
+        "Workers move a retired EV battery through a safety gate at a recycling facility, where fire risk and critical materials are at stake.",
+        "Workers isolate, discharge, and inspect the pack because transport rules and stored energy make damaged cells hazardous.",
+        "Testing makes the first sorting decision: operators route a healthy pack to stationary storage or a degraded pack to disassembly.",
+        "A cutaway shows technicians opening modules and shredding cells into metal, plastic, and black-mass recovery streams.",
+        "The recovery flow uses heat, chemical leaching, or direct cathode recycling, trading energy, cost, and material yield.",
+        "Commercial recovery can stall when mixed chemistries, safe transport, and low material prices outweigh the value of recovered metals."
+      ],
+      "shortTitle": "EV Battery Recycling, Explained",
+      "slug": "how-ev-battery-recycling-works",
+      "sourceCount": 2,
+      "sources": [
+        {
+          "name": "U.S. Environmental Protection Agency",
+          "url": "https://www.epa.gov/recycle/used-lithium-ion-batteries"
+        },
+        {
+          "name": "U.S. Department of Energy Alternative Fuels Data Center",
+          "url": "https://afdc.energy.gov/vehicles/electric-batteries"
+        }
+      ],
+      "storylineKey": "new-energy-system",
+      "storylineTitle": "The New Energy System",
+      "summary": "An electric-vehicle battery moves from collection and safety handling through diagnosis, reuse or disassembly, material recovery, and refining. Economics, chemistry, transport rules, and design for disassembly determine whether its critical materials return to the supply chain.",
+      "title": "How EV Battery Recycling Works"
+    },
+    {
+      "category": "World",
+      "contentType": "brief",
+      "generatedAt": "2026-07-13T15:09:12.251Z",
+      "imagePath": "/live/media/us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f.webp",
+      "panelCaptions": [
+        "U.S. forces and Iran traded missile and drone strikes around the Strait of Hormuz, a vital shipping route.",
+        "Iran says ships cannot pass the strait, where the narrow sea lane links Gulf oil ports to world markets.",
+        "The U.S. said it hit Iranian air defenses, coastal radar, missiles, drones and small boats used near the waterway.",
+        "Explosions were reported near Qeshm Island and Bandar Abbas, Iran's port city on the strait's northern shore.",
+        "Iran answered with attacks on U.S. military bases in several Gulf states, widening the conflict beyond Iranian territory.",
+        "The immediate test is whether the standoff disrupts ships through Hormuz or collapses the interim peace agreement."
+      ],
+      "shortTitle": "U.S.-Iran Strikes Deepen Hormuz Standoff",
+      "slug": "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
+      "sourceCount": 2,
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/jul/13/us-iran-war-missile-strikes-news-attacks-strait-of-hormuz"
+        },
+        {
+          "name": "CNBC World News",
+          "url": "https://www.cnbc.com/2026/07/13/us-iran-war-hormuz-oil-trump.html"
+        }
+      ],
+      "storylineKey": "war-security-order",
+      "storylineTitle": "The War and Security Order",
+      "summary": "U.S. forces struck Iranian military targets; Iran answered with attacks on U.S. bases in Gulf states, escalating a standoff over the Strait of Hormuz and the shipping route it controls.",
+      "title": "U.S. and Iran Trade Strikes, Deepening the Strait of Hormuz Standoff"
+    },
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-12T11:13:51.375Z",
+      "imagePath": "/live/media/judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa.webp",
+      "panelCaptions": [
+        "A federal judge rules the remaining Proud Boys convictions cannot stand after Trump's clemency erased every federal Jan. 6 prosecution.",
+        "The case began with seditious-conspiracy convictions over a plot to attack the Capitol and block the presidential transfer of power.",
+        "Trump used pardon powers last year to erase cases brought against people prosecuted over the Jan. 6 attack.",
+        "U.S. District Judge Timothy Kelly saw no basis to preserve convictions after the Justice Department abandoned the case.",
+        "Kelly called the Capitol riot a perilous assault on the constitutional requirement for peaceful presidential transfers.",
+        "Kelly said dismissal did not endorse the Justice Department's choice; the order closes the landmark prosecution."
+      ],
+      "shortTitle": "Trump Clemency Ends Proud Boys Case",
+      "slug": "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa",
+      "sourceCount": 2,
+      "sources": [
+        {
+          "name": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/politics/judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trumps-broad-clemency"
+        },
+        {
+          "name": "ABC News U.S.",
+          "url": "https://abcnews.com/US/wireStory/judge-tosses-remnants-proud-boys-seditious-conspiracy-case-134679502"
+        }
+      ],
+      "storylineKey": "",
+      "storylineTitle": "",
+      "summary": "A federal judge dismissed the remaining Proud Boys convictions after President Trump's clemency erased every federal Jan. 6 prosecution.",
+      "title": "Judge Ends Proud Boys Case After Trump Erases Jan. 6 Convictions"
+    },
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-12T08:54:28.046Z",
+      "imagePath": "/live/media/grahams-death-opens-senate-seat-as-gop-guards-slim-majority.webp",
+      "panelCaptions": [
+        "Lindsey Graham’s death opens South Carolina’s Senate seat, leaving voters awaiting a successor while a slim Republican majority faces close votes.",
+        "His office announced a “brief and sudden illness” Saturday night, gave no cause, and asked for family privacy.",
+        "South Carolina law lets the governor appoint an interim senator through January after the next general election.",
+        "Graham had served since 2003 and chaired the Budget Committee, which steers major bills through reconciliation.",
+        "That committee helped carry last year’s tax law without a filibuster, making the vacant seat consequential for close votes.",
+        "Graham returned from Kyiv after advancing a Russia sanctions package; Senate leaders must now decide who carries that work."
+      ],
+      "shortTitle": "Graham Dies, Opening Seat Before Close Senate Votes",
+      "slug": "grahams-death-opens-senate-seat-as-gop-guards-slim-majority",
+      "sourceCount": 12,
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/jul/12/lindsey-graham-key-ally-of-donald-trump-has-died-after-sudden-illness-his-office-says"
+        },
+        {
+          "name": "ABC News Top Stories",
+          "url": "https://abcnews.com/Politics/sen-lindsey-graham-south-carolina-dies-71/story?id=134688641"
+        },
+        {
+          "name": "CBS News Latest",
+          "url": "https://www.cbsnews.com/video/sen-lindsey-graham-dies-after-sudden-illness-special-report"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/politics/politics-news/sen-lindsey-graham-dies-71-brief-sudden-illness-rcna552722"
+        },
+        {
+          "name": "CNBC Top News",
+          "url": "https://www.cnbc.com/2026/07/12/senator-lindsey-graham-has-died-after-a-brief-illness-his-office-says.html"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/12/us-senator-lindsey-graham-passes-away?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/us-senator-lindsey-graham-dies/a-77921386?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/americas/20260712-us-senator-and-trump-ally-lindsey-graham-dies-after-brief-and-sudden-illness"
+        },
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-dead.html"
+        },
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/lindsey-graham-dies-south-carolina-bfa556e170f2df22ce9ffc7165da3dfa"
+        },
+        {
+          "name": "South Carolina Legislature",
+          "url": "https://www.scstatehouse.gov/code/t07c019.php"
+        }
+      ],
+      "storylineKey": "governing-crisis",
+      "storylineTitle": "U.S. Elections",
+      "summary": "Sen. Lindsey Graham died at 71, creating a South Carolina vacancy while the Senate GOP holds a slim majority and an unfinished Russia sanctions push awaits new ownership.",
+      "title": "Graham Dies, Opening Seat Before Close Senate Votes"
+    },
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-12T03:17:12.277Z",
+      "imagePath": "/live/media/u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz.webp",
+      "panelCaptions": [
+        "Iranian forces struck a civilian container ship in the Strait of Hormuz; the U.S. answered with a third round of strikes.",
+        "The Cyprus-flagged ship suffered engine-room damage and a fire about nine nautical miles east of Oman, military authorities reported.",
+        "The crew abandoned ship for a lifeboat, while U.S. Central Command reported one civilian crew member missing.",
+        "Iran said the ship used an unapproved route and had switched off its systems before its forces brought the vessel to a halt.",
+        "U.S. Central Command said its strikes aim to reduce Iran’s ability to attack civilian mariners and commercial ships.",
+        "Iran declared the strait closed and warned retaliation would bring a severe response, raising the risk of further disruption."
+      ],
+      "shortTitle": "U.S. Strikes Iran After Ship Attack Threatens Hormuz Shipping",
+      "slug": "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
+      "sourceCount": 3,
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/jul/12/us-and-iran-exchange-strikes-as-tehran-again-says-strait-of-hormuz-is-closed"
+        },
+        {
+          "name": "Axios",
+          "url": "https://www.axios.com/2026/07/11/iran-strikes-cargo-ship-in-strait-of-hormuz-defying-us-ultimatum"
+        },
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/iran-closes-strait-of-hormuz-us-launches-fresh-strikes/live-77920097?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "storylineKey": "war-security-order",
+      "storylineTitle": "The War and Security Order",
+      "summary": "Iranian forces struck a Cyprus-flagged container ship in the Strait of Hormuz. The U.S. answered with a third round of strikes against Iran as the ship’s crew abandoned the damaged vessel.",
+      "title": "U.S. Strikes Iran After Ship Attack Threatens Hormuz Shipping"
+    },
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-11T23:20:32.464Z",
+      "imagePath": "/live/media/200-young-campers-staff-rescued-amid-record-flooding-in-missouri.webp",
+      "panelCaptions": [
+        "Record flooding forces a Missouri National Guard helicopter evacuation of 202 campers after every road into Camp Taum Sauk becomes a safety risk.",
+        "Six to 12 inches of rain swamped southeastern Missouri, stranding the camp near Lesterville as more storms approached.",
+        "Eight Black Hawk helicopters carried campers to a nearby elementary school, where families reunited after the evacuation.",
+        "At Bearcat Getaway, about 20 people were rescued after floodwaters collapsed the building they had climbed for safety.",
+        "More than 90 water rescues followed across the region, while one person remained missing after Friday's storms.",
+        "Additional storms threatened saturated areas from Missouri through Tennessee; officials urged low-lying communities to prepare for higher ground."
+      ],
+      "shortTitle": "Missouri Guard Rescues 202 Campers as Floods Cut Off Roads",
+      "slug": "200-young-campers-staff-rescued-amid-record-flooding-in-missouri",
+      "sourceCount": 4,
+      "sources": [
+        {
+          "name": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/nation/more-than-200-people-at-a-summer-camp-helicoptered-to-safety-as-missouri-faces-flooding"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/jul/11/missouri-flooding-airlift-rescue"
+        },
+        {
+          "name": "ABC News U.S.",
+          "url": "https://abcnews.com/US/wireStory/emergency-crews-rescue-20-after-campground-building-collapses-134665242"
+        },
+        {
+          "name": "CBS News Latest",
+          "url": "https://www.cbsnews.com/news/missouri-flooding-campers-rescued-helicopter-national-guard"
+        }
+      ],
+      "storylineKey": "",
+      "storylineTitle": "",
+      "summary": "Eight Missouri National Guard helicopters airlifted 202 campers and counselors after 6 to 12 inches of rain cut every road into Camp Taum Sauk, while more storms threatened saturated communities.",
+      "title": "Missouri Guard Rescues 202 Campers as Floods Cut Off Roads"
+    },
+    {
+      "category": "World",
+      "contentType": "brief",
+      "generatedAt": "2026-07-11T21:53:33.272Z",
+      "imagePath": "/live/media/congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank.webp",
+      "panelCaptions": [
+        "Rep. Ro Khanna says armed settlers blocked his delegation for 90 minutes while the federal lawmaker toured the occupied West Bank.",
+        "The group was visiting Khirbet Zanuta, a village abandoned after settler attacks, during a three-day West Bank tour.",
+        "Masked men carrying rifles surrounded the delegation's van; a New York Times photographer witnessed the confrontation.",
+        "Khanna says the group left only after calls to the U.S. Embassy and Israeli police brought outside intervention.",
+        "Israel's military says troops dispersed the civilians and reopened the road, denying that soldiers helped block it.",
+        "The military says the armed person's identity remains under review as Khanna's account and its response diverge."
+      ],
+      "shortTitle": "Armed Settlers Block Khanna's West Bank Delegation",
+      "slug": "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
+      "sourceCount": 6,
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/politics/rep-ro-khanna-says-he-was-detained-by-the-israeli-military-and-settlers-in-the-west-bank"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/jul/11/ro-khanna-congressman-detained-israel-settlers-west-bank"
+        },
+        {
+          "name": "CBS News Latest",
+          "url": "https://www.cbsnews.com/news/ro-khanna-israeli-settlers-west-bank"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/video/rep-ro-khanna-says-he-was-detained-by-israeli-settlers-during-west-bank-visit-266542661983"
+        },
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/11/us/politics/ro-khanna-west-bank.html"
+        }
+      ],
+      "storylineKey": "war-security-order",
+      "storylineTitle": "The War and Security Order",
+      "summary": "Rep. Ro Khanna says armed Israeli settlers blocked his delegation for 90 minutes; Israel's military says troops dispersed the civilians and reopened the road.",
+      "title": "Armed Settlers Block Khanna's West Bank Delegation"
+    },
+    {
+      "category": "Guide",
+      "contentType": "guide",
+      "generatedAt": "2026-07-11T21:31:02.346Z",
+      "imagePath": "/live/media/how-national-bank-charters-work.webp",
+      "panelCaptions": [
+        "The OCC approves a charter before organizers open a national bank, placing institutional risk and operations under federal agency supervision.",
+        "A business-plan document maps proposed activities, markets, managers, capital, earnings, controls, and community needs before review begins.",
+        "OCC reviewers check management, capital, earnings, compliance, and risk controls against the safe-and-sound operating gate.",
+        "For covered applications, a public comment path routes community and industry views to support, oppose, question, or request conditions.",
+        "Preliminary approval triggers a buildout sequence: raise capital, hire staff, install systems, and clear every preopening gate.",
+        "Final approval clears the opening gate, but recurring OCC examinations create a feedback loop that can require corrections."
+      ],
+      "shortTitle": "National Bank Charters",
+      "slug": "how-national-bank-charters-work",
+      "sourceCount": 3,
+      "sources": [
+        {
+          "name": "Office of the Comptroller of the Currency",
+          "url": "https://www.occ.treas.gov/publications-and-resources/publications/comptrollers-licensing-manual/files/licensing-booklet-charters.html"
+        },
+        {
+          "name": "occ.treas.gov",
+          "url": "https://occ.treas.gov/topics/charters-and-licensing/index-charters-licensing.html"
+        },
+        {
+          "name": "occ.treas.gov",
+          "url": "https://www.occ.treas.gov/topics/charters-and-licensing/public-comment/index-public-comments-on-applications.html"
+        }
+      ],
+      "storylineKey": "",
+      "storylineTitle": "",
+      "summary": "A national bank charter turns an organizing group, business plan, managers, capital, risk controls, public review, and OCC decisions into conditional and then final permission to operate under a defined banking scope.",
+      "title": "How National Bank Charters Work"
+    },
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-11T17:20:15.978Z",
+      "imagePath": "/live/media/justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporti.webp",
+      "panelCaptions": [
+        "Agents delivered subpoenas to journalists' doorsteps after Air Force One security stories, moving reporting into federal court process.",
+        "The stories examined security concerns around a Qatar-gifted presidential jet that entered service last week.",
+        "Agents delivered some summonses at reporters' homes, seeking grand jury testimony in Manhattan.",
+        "The subpoenas say testimony is required about an alleged violation of federal criminal law.",
+        "The Times says the reporters must appear before the grand jury on Wednesday.",
+        "DOJ says reporters are not targets; the Times' lawyer calls the doorstep visits intimidation."
+      ],
+      "shortTitle": "DOJ subpoenas Times reporters for court testimony in leak fight",
+      "slug": "justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporti",
+      "sourceCount": 5,
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/jul/11/justice-department-subpoenas-new-york-times-air-force-one"
+        },
+        {
+          "name": "ABC News U.S.",
+          "url": "https://abcnews.com/US/wireStory/multiple-new-york-times-reporters-issued-subpoenas-air-134671452"
+        },
+        {
+          "name": "CBS News Latest",
+          "url": "https://www.cbsnews.com/news/trump-air-force-one-security-subpoena-journalists"
+        },
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/11/business/media/new-york-times-trump-subpoenas.html"
+        }
+      ],
+      "storylineKey": "",
+      "storylineTitle": "",
+      "summary": "The Justice Department subpoenaed New York Times reporters for grand jury testimony after Air Force One security reporting, putting a leak inquiry against press-freedom concerns.",
+      "title": "DOJ subpoenas Times reporters for court testimony in leak fight"
+    },
+    {
+      "category": "World",
+      "contentType": "brief",
+      "generatedAt": "2026-07-11T15:16:42.149Z",
+      "imagePath": "/live/media/trump-says-iran-ceasefire-is-over.webp",
+      "panelCaptions": [
+        "Trump says Iran ceasefire is over after new U.S. military strikes, making Strait of Hormuz shipping a security risk.",
+        "Iranian leaders say they will not surrender, narrowing the path back to the interim deal.",
+        "The U.S. says the strikes target threats to navigation, tying military action to oil and gas routes.",
+        "Mediators are trying to save the deal while both sides signal they may keep escalating.",
+        "Higher fuel prices could become a domestic midterm problem if the conflict keeps disrupting energy markets.",
+        "Watch whether Washington orders more strikes, mediators restore talks, or the fight spreads across the region."
+      ],
+      "shortTitle": "Trump Says Iran Ceasefire Over; Strait Risk Rises",
+      "slug": "trump-says-iran-ceasefire-is-over",
+      "sourceCount": 2,
+      "sources": [
+        {
+          "name": "ABC News U.S.",
+          "url": "https://abcnews.com/US/wireStory/new-attacks-raise-questions-iran-war-134599224"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/are-the-us-and-iran-at-war-again?traffic_source=rss"
+        }
+      ],
+      "storylineKey": "war-security-order",
+      "storylineTitle": "The War and Security Order",
+      "summary": "After new U.S. attacks, Trump says the Iran ceasefire is over, Iranian leaders say they will not surrender, and mediators are trying to stop a wider fight.",
+      "title": "Trump Says Iran Ceasefire Over; Strait Risk Rises"
+    }
+  ]
+}
