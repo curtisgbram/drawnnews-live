@@ -1,6 +1,6 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-14T04:02:58.205Z",
+  "updatedAt": "2026-07-14T13:29:07.259Z",
   "rolling24HourCount": 4,
   "comics": [
     {
@@ -5213,54 +5213,47 @@
   "dailyPaper": {
     "briefs": [
       {
-        "category": "U.S. & Politics",
-        "shortTitle": "Trump Lets Housing Bill Become Law Without Signing",
-        "slug": "trump-lets-housing-bill-become-law-without-signing",
-        "summary": "The bipartisan housing bill takes effect without Trump's signature because he chose not to sign or veto it while demanding action on voter ID legislation.",
-        "title": "Trump Lets Housing Bill Become Law as Voter ID Demand Stalls Signing"
-      },
-      {
-        "category": "U.S. & Politics",
-        "shortTitle": "Trump leaves election agency without members",
-        "slug": "trump-leaves-election-assistance-commission-without-members",
-        "summary": "Trump removed the remaining Election Assistance Commission members, leaving the federal election-administration agency without commissioners months before the midterms.",
-        "title": "Trump leaves Election Assistance Commission without members"
-      },
-      {
         "category": "Money",
-        "shortTitle": "EasyJet agrees to Apollo's $7.7B bid, sidelining Castlelake offer",
-        "slug": "easyjet-agrees-to-apollo-7-7b-bid-sidelining-castlelake-offer",
-        "summary": "British budget airline EasyJet says it has reached an agreement in principle on Apollo's £5.7 billion ($7.7 billion) takeover offer, above Castlelake's rival proposal.",
-        "title": "EasyJet agrees to Apollo's $7.7B bid, sidelining Castlelake offer"
+        "shortTitle": "Twelve states sue to block Paramount's $110bn Warner Bros. merger",
+        "slug": "paramount-and-warner-bros-sued-to-block-110bn-mega-merger",
+        "summary": "A dozen US states are taking legal action to halt the largest media consolidation in Hollywood history.",
+        "title": "Twelve states sue to block Paramount's $110bn Warner Bros. merger"
       },
       {
         "category": "Guide",
-        "shortTitle": "Bills Without a Signature",
-        "slug": "how-bills-become-law-without-a-signature",
-        "summary": "A U.S. bill can become law after House and Senate passage when the enrolled bill reaches the president, the 10-day clock runs without a signed approval or returned veto, and Congress remains able to receive a return message.",
-        "title": "How Bills Become Law Without a Signature"
+        "shortTitle": "Filling a Senate Vacancy",
+        "slug": "how-us-senate-vacancies-are-filled",
+        "summary": "A U.S. Senate vacancy moves through the Seventeenth Amendment, state law, an interim appointment or special election, and the Senate’s seating process. The key constraint is that states set the replacement rules.",
+        "title": "How U.S. Senate Vacancies Are Filled"
+      },
+      {
+        "category": "World",
+        "shortTitle": "U.S.-Iran Strikes Deepen Hormuz Standoff",
+        "slug": "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
+        "summary": "U.S. forces struck Iranian military targets; Iran answered with attacks on U.S. bases in Gulf states, escalating a standoff over the Strait of Hormuz and the shipping route it controls.",
+        "title": "U.S. and Iran Trade Strikes, Deepening the Strait of Hormuz Standoff"
       },
       {
         "category": "Guide",
-        "shortTitle": "The Digital Services Act, Explained",
-        "slug": "how-the-digital-services-act-works",
-        "summary": "The Digital Services Act turns online-platform risks into EU duties: user rights, very-large-platform designation, systemic-risk assessments, mitigation measures, audits, data access and enforcement deadlines.",
-        "title": "How the Digital Services Act Works"
+        "shortTitle": "EV Battery Recycling, Explained",
+        "slug": "how-ev-battery-recycling-works",
+        "summary": "An electric-vehicle battery moves from collection and safety handling through diagnosis, reuse or disassembly, material recovery, and refining. Economics, chemistry, transport rules, and design for disassembly determine whether its critical materials return...",
+        "title": "How EV Battery Recycling Works"
       }
     ],
     "categories": [
-      "U.S. & Politics",
       "Money",
-      "Guide"
+      "Guide",
+      "World"
     ],
-    "date": "2026-07-10",
-    "imagePath": "/live/papers/2026-07-10.webp",
-    "leadTitle": "Trump Lets Housing Bill Become Law as Voter ID Demand Stalls Signing",
-    "shortHeadline": "Trump Lets Housing Bill Become Law as Voter ID Demand Stalls Signing leads the daily briefing.",
-    "sourceTotal": 22,
-    "summary": "Trump Lets Housing Bill Become Law as Voter ID Demand Stalls Signing leads a five-brief front page across 3 sections.",
-    "topStripCount": 5,
-    "updatedAt": "2026-07-11T03:57:11.476Z"
+    "date": "2026-07-13",
+    "imagePath": "/live/papers/2026-07-13.webp",
+    "leadTitle": "Twelve states sue to block Paramount's $110bn Warner Bros. merger",
+    "shortHeadline": "Twelve states sue to block Paramount's $110bn Warner Bros. merger leads the daily briefing.",
+    "sourceTotal": 14,
+    "summary": "Twelve states sue to block Paramount's $110bn Warner Bros. merger leads a 4-brief front page across 3 sections.",
+    "topStripCount": 4,
+    "updatedAt": "2026-07-14T13:29:07.255Z"
   },
   "feeds": {
     "categories": {
