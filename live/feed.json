@@ -1,6 +1,6 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-14T19:11:39.662Z",
+  "updatedAt": "2026-07-14T19:21:26.924Z",
   "rolling24HourCount": 5,
   "comics": [
     {
@@ -135,8 +135,8 @@
           "url": "https://www.nytimes.com/2026/07/13/business/trump-hormuz-shipping-fee.html"
         }
       ],
-      "storylineKey": "",
-      "storylineTitle": "",
+      "storylineKey": "war-security-order",
+      "storylineTitle": "The War and Security Order",
       "summary": "President Trump reversed a planned 20% toll on cargo ships using the Strait of Hormuz as tanker traffic slowed amid U.S.-Iran fighting. The shift leaves shipping companies and officials watching whether transit through the waterway resumes safely.",
       "title": "Trump Changes Hormuz Toll Plan, With Tankers Stalled"
     },
@@ -5327,6 +5327,23 @@
       "how-federal-race-and-ethnicity-data-works"
     ],
     "storylines": {
+      "war-security-order": [
+        "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
+        "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
+        "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
+        "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
+        "trump-says-iran-ceasefire-is-over",
+        "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the",
+        "trump-returns-from-turkey-in-old-air-force-one-jet-due-to-security-concerns",
+        "us-and-iran-exchange-back-and-forth-strikes-for-second-day",
+        "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
+        "new-attacks-raise-questions-about-what-comes-next-in-the-iran-war",
+        "trump-hails-unity-at-nato-summit-despite-recent-tensions",
+        "tensions-with-iran-add-fresh-uncertainty-to-an-already-shaky-global-economy",
+        "at-nato-summit-in-turkey-trump-says-he-believes-ceasefire-with-iran-is-over",
+        "trump-says-iran-ceasefire-is-over-after-latest-round-of-strikes",
+        "u-s-strikes-iran-and-reimposes-sanctions-after-tanker-attacks"
+      ],
       "governing-crisis": [
         "how-us-senate-vacancies-are-filled",
         "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa",
@@ -5345,22 +5362,6 @@
       ],
       "new-energy-system": [
         "how-ev-battery-recycling-works"
-      ],
-      "war-security-order": [
-        "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
-        "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
-        "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
-        "trump-says-iran-ceasefire-is-over",
-        "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the",
-        "trump-returns-from-turkey-in-old-air-force-one-jet-due-to-security-concerns",
-        "us-and-iran-exchange-back-and-forth-strikes-for-second-day",
-        "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
-        "new-attacks-raise-questions-about-what-comes-next-in-the-iran-war",
-        "trump-hails-unity-at-nato-summit-despite-recent-tensions",
-        "tensions-with-iran-add-fresh-uncertainty-to-an-already-shaky-global-economy",
-        "at-nato-summit-in-turkey-trump-says-he-believes-ceasefire-with-iran-is-over",
-        "trump-says-iran-ceasefire-is-over-after-latest-round-of-strikes",
-        "u-s-strikes-iran-and-reimposes-sanctions-after-tanker-attacks"
       ],
       "ai-buildout": [
         "apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secr",
