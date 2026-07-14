@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "drawnnews.live-feed.v1",
-  "updatedAt": "2026-07-14T01:42:38.207Z",
+  "schemaVersion": "drawnnews.live-feed.v2",
+  "updatedAt": "2026-07-14T04:02:58.205Z",
   "rolling24HourCount": 4,
   "comics": [
     {
@@ -8,6 +8,68 @@
       "contentType": "guide",
       "generatedAt": "2026-07-14T00:12:37.437Z",
       "imagePath": "/live/media/how-us-senate-vacancies-are-filled.webp",
+      "claims": [
+        {
+          "claim": "When a senator leaves office, a state must protect voters’ representation by starting a vacancy process under constitutional and state rules.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The Seventeenth Amendment routes the vacancy to state law, which sets the operators, appointment authority, and election path.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "State lawmakers may authorize a governor to appoint an interim senator or schedule a special election under the vacancy rule.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The timeline is the bottleneck: statutory deadlines determine an interim term, ballot preparation, and when voters choose.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "A replacement brings state credentials to the Senate, where an oath and seating complete the handoff of representation.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Watch the vacancy statute and election calendar: they reveal the next legal threshold, deadline, and voter decision.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
       "panelCaptions": [
         "When a senator leaves office, a state must protect voters’ representation by starting a vacancy process under constitutional and state rules.",
         "The Seventeenth Amendment routes the vacancy to state law, which sets the operators, appointment authority, and election path.",
@@ -43,6 +105,92 @@
       "contentType": "brief",
       "generatedAt": "2026-07-13T23:27:45.385Z",
       "imagePath": "/live/media/paramount-and-warner-bros-sued-to-block-110bn-mega-merger.webp",
+      "claims": [
+        {
+          "claim": "Twelve states sued to block Paramount's $110bn Warner Bros. purchase, saying the merged studio could raise prices for U.S. audiences.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The suit targets a deal that would combine Paramount and Warner Bros. into one of the nation's largest media companies.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "States say the merger could curb competition and push up cable packages, movie tickets, and other costs for consumers.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "California-led attorneys general asked a court to stop the transaction before it closes under federal antitrust law.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The combined company would control more than a quarter of major film releases, raising questions for creative workers and streaming households.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Paramount calls the lawsuit flawed; the court fight now tests whether states can block the $110bn deal.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
       "panelCaptions": [
         "Twelve states sued to block Paramount's $110bn Warner Bros. purchase, saying the merged studio could raise prices for U.S. audiences.",
         "The suit targets a deal that would combine Paramount and Warner Bros. into one of the nation's largest media companies.",
@@ -94,6 +242,62 @@
       "contentType": "guide",
       "generatedAt": "2026-07-13T16:11:47.419Z",
       "imagePath": "/live/media/how-ev-battery-recycling-works.webp",
+      "claims": [
+        {
+          "claim": "Workers move a retired EV battery through a safety gate at a recycling facility, where fire risk and critical materials are at stake.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Workers isolate, discharge, and inspect the pack because transport rules and stored energy make damaged cells hazardous.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Testing makes the first sorting decision: operators route a healthy pack to stationary storage or a degraded pack to disassembly.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "A cutaway shows technicians opening modules and shredding cells into metal, plastic, and black-mass recovery streams.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The recovery flow uses heat, chemical leaching, or direct cathode recycling, trading energy, cost, and material yield.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Commercial recovery can stall when mixed chemistries, safe transport, and low material prices outweigh the value of recovered metals.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
       "panelCaptions": [
         "Workers move a retired EV battery through a safety gate at a recycling facility, where fire risk and critical materials are at stake.",
         "Workers isolate, discharge, and inspect the pack because transport rules and stored energy make damaged cells hazardous.",
@@ -125,6 +329,62 @@
       "contentType": "brief",
       "generatedAt": "2026-07-13T15:09:12.251Z",
       "imagePath": "/live/media/us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f.webp",
+      "claims": [
+        {
+          "claim": "U.S. forces and Iran traded missile and drone strikes around the Strait of Hormuz, a vital shipping route.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Iran says ships cannot pass the strait, where the narrow sea lane links Gulf oil ports to world markets.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The U.S. said it hit Iranian air defenses, coastal radar, missiles, drones and small boats used near the waterway.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Explosions were reported near Qeshm Island and Bandar Abbas, Iran's port city on the strait's northern shore.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Iran answered with attacks on U.S. military bases in several Gulf states, widening the conflict beyond Iranian territory.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The immediate test is whether the standoff disrupts ships through Hormuz or collapses the interim peace agreement.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
       "panelCaptions": [
         "U.S. forces and Iran traded missile and drone strikes around the Strait of Hormuz, a vital shipping route.",
         "Iran says ships cannot pass the strait, where the narrow sea lane links Gulf oil ports to world markets.",
@@ -156,6 +416,62 @@
       "contentType": "brief",
       "generatedAt": "2026-07-12T11:13:51.375Z",
       "imagePath": "/live/media/judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa.webp",
+      "claims": [
+        {
+          "claim": "A federal judge rules the remaining Proud Boys convictions cannot stand after Trump's clemency erased every federal Jan. 6 prosecution.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The case began with seditious-conspiracy convictions over a plot to attack the Capitol and block the presidential transfer of power.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Trump used pardon powers last year to erase cases brought against people prosecuted over the Jan. 6 attack.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "U.S. District Judge Timothy Kelly saw no basis to preserve convictions after the Justice Department abandoned the case.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Kelly called the Capitol riot a perilous assault on the constitutional requirement for peaceful presidential transfers.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Kelly said dismissal did not endorse the Justice Department's choice; the order closes the landmark prosecution.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
       "panelCaptions": [
         "A federal judge rules the remaining Proud Boys convictions cannot stand after Trump's clemency erased every federal Jan. 6 prosecution.",
         "The case began with seditious-conspiracy convictions over a plot to attack the Capitol and block the presidential transfer of power.",
@@ -177,8 +493,8 @@
           "url": "https://abcnews.com/US/wireStory/judge-tosses-remnants-proud-boys-seditious-conspiracy-case-134679502"
         }
       ],
-      "storylineKey": "",
-      "storylineTitle": "",
+      "storylineKey": "governing-crisis",
+      "storylineTitle": "U.S. Elections",
       "summary": "A federal judge dismissed the remaining Proud Boys convictions after President Trump's clemency erased every federal Jan. 6 prosecution.",
       "title": "Judge Ends Proud Boys Case After Trump Erases Jan. 6 Convictions"
     },
@@ -187,6 +503,122 @@
       "contentType": "brief",
       "generatedAt": "2026-07-12T08:54:28.046Z",
       "imagePath": "/live/media/grahams-death-opens-senate-seat-as-gop-guards-slim-majority.webp",
+      "claims": [
+        {
+          "claim": "Lindsey Graham’s death opens South Carolina’s Senate seat, leaving voters awaiting a successor while a slim Republican majority faces close votes.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "His office announced a “brief and sudden illness” Saturday night, gave no cause, and asked for family privacy.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "South Carolina law lets the governor appoint an interim senator through January after the next general election.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Graham had served since 2003 and chaired the Budget Committee, which steers major bills through reconciliation.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "That committee helped carry last year’s tax law without a filibuster, making the vacant seat consequential for close votes.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Graham returned from Kyiv after advancing a Russia sanctions package; Senate leaders must now decide who carries that work.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
       "panelCaptions": [
         "Lindsey Graham’s death opens South Carolina’s Senate seat, leaving voters awaiting a successor while a slim Republican majority faces close votes.",
         "His office announced a “brief and sudden illness” Saturday night, gave no cause, and asked for family privacy.",
@@ -258,6 +690,68 @@
       "contentType": "brief",
       "generatedAt": "2026-07-12T03:17:12.277Z",
       "imagePath": "/live/media/u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz.webp",
+      "claims": [
+        {
+          "claim": "Iranian forces struck a civilian container ship in the Strait of Hormuz; the U.S. answered with a third round of strikes.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The Cyprus-flagged ship suffered engine-room damage and a fire about nine nautical miles east of Oman, military authorities reported.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The crew abandoned ship for a lifeboat, while U.S. Central Command reported one civilian crew member missing.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Iran said the ship used an unapproved route and had switched off its systems before its forces brought the vessel to a halt.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "U.S. Central Command said its strikes aim to reduce Iran’s ability to attack civilian mariners and commercial ships.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Iran declared the strait closed and warned retaliation would bring a severe response, raising the risk of further disruption.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
       "panelCaptions": [
         "Iranian forces struck a civilian container ship in the Strait of Hormuz; the U.S. answered with a third round of strikes.",
         "The Cyprus-flagged ship suffered engine-room damage and a fire about nine nautical miles east of Oman, military authorities reported.",
@@ -293,6 +787,74 @@
       "contentType": "brief",
       "generatedAt": "2026-07-11T23:20:32.464Z",
       "imagePath": "/live/media/200-young-campers-staff-rescued-amid-record-flooding-in-missouri.webp",
+      "claims": [
+        {
+          "claim": "Record flooding forces a Missouri National Guard helicopter evacuation of 202 campers after every road into Camp Taum Sauk becomes a safety risk.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Six to 12 inches of rain swamped southeastern Missouri, stranding the camp near Lesterville as more storms approached.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Eight Black Hawk helicopters carried campers to a nearby elementary school, where families reunited after the evacuation.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "At Bearcat Getaway, about 20 people were rescued after floodwaters collapsed the building they had climbed for safety.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "More than 90 water rescues followed across the region, while one person remained missing after Friday's storms.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Additional storms threatened saturated areas from Missouri through Tennessee; officials urged low-lying communities to prepare for higher ground.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
       "panelCaptions": [
         "Record flooding forces a Missouri National Guard helicopter evacuation of 202 campers after every road into Camp Taum Sauk becomes a safety risk.",
         "Six to 12 inches of rain swamped southeastern Missouri, stranding the camp near Lesterville as more storms approached.",
@@ -332,6 +894,86 @@
       "contentType": "brief",
       "generatedAt": "2026-07-11T21:53:33.272Z",
       "imagePath": "/live/media/congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank.webp",
+      "claims": [
+        {
+          "claim": "Rep. Ro Khanna says armed settlers blocked his delegation for 90 minutes while the federal lawmaker toured the occupied West Bank.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The group was visiting Khirbet Zanuta, a village abandoned after settler attacks, during a three-day West Bank tour.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Masked men carrying rifles surrounded the delegation's van; a New York Times photographer witnessed the confrontation.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Khanna says the group left only after calls to the U.S. Embassy and Israeli police brought outside intervention.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Israel's military says troops dispersed the civilians and reopened the road, denying that soldiers helped block it.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The military says the armed person's identity remains under review as Khanna's account and its response diverge.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
       "panelCaptions": [
         "Rep. Ro Khanna says armed settlers blocked his delegation for 90 minutes while the federal lawmaker toured the occupied West Bank.",
         "The group was visiting Khirbet Zanuta, a village abandoned after settler attacks, during a three-day West Bank tour.",
@@ -379,6 +1021,68 @@
       "contentType": "guide",
       "generatedAt": "2026-07-11T21:31:02.346Z",
       "imagePath": "/live/media/how-national-bank-charters-work.webp",
+      "claims": [
+        {
+          "claim": "The OCC approves a charter before organizers open a national bank, placing institutional risk and operations under federal agency supervision.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "A business-plan document maps proposed activities, markets, managers, capital, earnings, controls, and community needs before review begins.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "OCC reviewers check management, capital, earnings, compliance, and risk controls against the safe-and-sound operating gate.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "For covered applications, a public comment path routes community and industry views to support, oppose, question, or request conditions.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Preliminary approval triggers a buildout sequence: raise capital, hire staff, install systems, and clear every preopening gate.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Final approval clears the opening gate, but recurring OCC examinations create a feedback loop that can require corrections.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
       "panelCaptions": [
         "The OCC approves a charter before organizers open a national bank, placing institutional risk and operations under federal agency supervision.",
         "A business-plan document maps proposed activities, markets, managers, capital, earnings, controls, and community needs before review begins.",
@@ -414,6 +1118,80 @@
       "contentType": "brief",
       "generatedAt": "2026-07-11T17:20:15.978Z",
       "imagePath": "/live/media/justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporti.webp",
+      "claims": [
+        {
+          "claim": "Agents delivered subpoenas to journalists' doorsteps after Air Force One security stories, moving reporting into federal court process.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The stories examined security concerns around a Qatar-gifted presidential jet that entered service last week.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Agents delivered some summonses at reporters' homes, seeking grand jury testimony in Manhattan.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The subpoenas say testimony is required about an alleged violation of federal criminal law.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The Times says the reporters must appear before the grand jury on Wednesday.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "DOJ says reporters are not targets; the Times' lawyer calls the doorstep visits intimidation.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
       "panelCaptions": [
         "Agents delivered subpoenas to journalists' doorsteps after Air Force One security stories, moving reporting into federal court process.",
         "The stories examined security concerns around a Qatar-gifted presidential jet that entered service last week.",
@@ -457,6 +1235,62 @@
       "contentType": "brief",
       "generatedAt": "2026-07-11T15:16:42.149Z",
       "imagePath": "/live/media/trump-says-iran-ceasefire-is-over.webp",
+      "claims": [
+        {
+          "claim": "Trump says Iran ceasefire is over after new U.S. military strikes, making Strait of Hormuz shipping a security risk.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Iranian leaders say they will not surrender, narrowing the path back to the interim deal.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The U.S. says the strikes target threats to navigation, tying military action to oil and gas routes.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Mediators are trying to save the deal while both sides signal they may keep escalating.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Higher fuel prices could become a domestic midterm problem if the conflict keeps disrupting energy markets.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Watch whether Washington orders more strikes, mediators restore talks, or the fight spreads across the region.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
       "panelCaptions": [
         "Trump says Iran ceasefire is over after new U.S. military strikes, making Strait of Hormuz shipping a security risk.",
         "Iranian leaders say they will not surrender, narrowing the path back to the interim deal.",
@@ -482,6 +1316,4068 @@
       "storylineTitle": "The War and Security Order",
       "summary": "After new U.S. attacks, Trump says the Iran ceasefire is over, Iranian leaders say they will not surrender, and mediators are trying to stop a wider fight.",
       "title": "Trump Says Iran Ceasefire Over; Strait Risk Rises"
+    },
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-11T14:18:09.676Z",
+      "imagePath": "/live/media/apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secr.webp",
+      "claims": [
+        {
+          "claim": "Apple's lawsuit makes OpenAI's ChatGPT device plans a legal test over alleged stolen hardware secrets.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The case names OpenAI, io Products, Tang Tan and Chang Liu, tying the dispute to hardware hiring.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Apple's evidence path moves through recruiting, emailed files, and claims protected details could benefit OpenAI work.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The legal test asks whether the files were protected secrets and whether OpenAI benefited from them.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "OpenAI says it has no interest in other companies' trade secrets and is reviewing the complaint.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Next signal: court filings may show whether Apple's claim blocks, settles, or forces hardware-plan disclosures.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Apple's lawsuit makes OpenAI's ChatGPT device plans a legal test over alleged stolen hardware secrets.",
+        "The case names OpenAI, io Products, Tang Tan and Chang Liu, tying the dispute to hardware hiring.",
+        "Apple's evidence path moves through recruiting, emailed files, and claims protected details could benefit OpenAI work.",
+        "The legal test asks whether the files were protected secrets and whether OpenAI benefited from them.",
+        "OpenAI says it has no interest in other companies' trade secrets and is reviewing the complaint.",
+        "Next signal: court filings may show whether Apple's claim blocks, settles, or forces hardware-plan disclosures."
+      ],
+      "shortTitle": "Apple Sues OpenAI over Hardware Secrets",
+      "slug": "apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secr",
+      "sourceCount": 7,
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/nation/apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secrets"
+        },
+        {
+          "name": "CBS News U.S.",
+          "url": "https://www.cbsnews.com/news/apple-sues-openai-chatgpt-stealing-trade-secrets"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft"
+        },
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/apple-sues-openai-over-stealing-trade-secrets/a-77912767?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times Technology",
+          "url": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html"
+        }
+      ],
+      "storylineKey": "ai-buildout",
+      "storylineTitle": "The AI Buildout",
+      "summary": "Apple's lawsuit turns OpenAI's device ambitions into a court test over alleged hardware trade-secret theft.",
+      "title": "Apple Sues OpenAI over Alleged Hardware Trade-Secret Theft"
+    },
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-11T13:32:43.574Z",
+      "imagePath": "/live/media/graham-platner-officially-withdraws-from-the-maine-senate-race.webp",
+      "claims": [
+        {
+          "claim": "Platner files withdrawal papers before Maine's July 13 deadline, forcing a ballot change for November Senate voters.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The filing turned a campaign announcement into an official election record inside the Secretary of State's office.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Maine Democrats now have a short replacement window instead of leaving Platner on the ballot.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "State law gives the party until July 27 at 5 p.m. ET to submit a replacement nominee.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The choice determines who challenges Republican Sen. Susan Collins in November.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The next public checkpoint is the replacement filing, not Platner's suspended campaign or the withdrawn letter.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Platner files withdrawal papers before Maine's July 13 deadline, forcing a ballot change for November Senate voters.",
+        "The filing turned a campaign announcement into an official election record inside the Secretary of State's office.",
+        "Maine Democrats now have a short replacement window instead of leaving Platner on the ballot.",
+        "State law gives the party until July 27 at 5 p.m. ET to submit a replacement nominee.",
+        "The choice determines who challenges Republican Sen. Susan Collins in November.",
+        "The next public checkpoint is the replacement filing, not Platner's suspended campaign or the withdrawn letter."
+      ],
+      "shortTitle": "Platner withdrawal opens July 27 Maine Senate race replacement deadline",
+      "slug": "graham-platner-officially-withdraws-from-the-maine-senate-race",
+      "sourceCount": 4,
+      "sources": [
+        {
+          "name": "Axios",
+          "url": "https://www.axios.com/2026/07/09/graham-platner-exit-maine-senate-race-deadline"
+        },
+        {
+          "name": "CBS News Latest",
+          "url": "https://www.cbsnews.com/news/graham-platner-exits-maine-senate-race"
+        },
+        {
+          "name": "NBC News Politics",
+          "url": "https://www.nbcnews.com/politics/2026-election/graham-platner-officially-drops-maine-senate-race-rcna385842"
+        },
+        {
+          "name": "Politico Congress",
+          "url": "https://www.politico.com/live-updates/2026/07/10/congress/graham-platner-officially-withdraws-senate-campaign-00993646"
+        }
+      ],
+      "storylineKey": "governing-crisis",
+      "storylineTitle": "U.S. Elections",
+      "summary": "Graham Platner's formal withdrawal before Maine's July 13 ballot cutoff removes his name from the November ballot and gives Democrats until July 27 to submit a replacement nominee.",
+      "title": "Platner withdrawal opens July 27 Maine Senate race replacement deadline"
+    },
+    {
+      "category": "Guide",
+      "contentType": "guide",
+      "generatedAt": "2026-07-11T12:11:31.609Z",
+      "imagePath": "/live/media/what-the-election-assistance-commission-does.webp",
+      "claims": [
+        {
+          "claim": "EAC cutaway: a federal agency supports election officials and voters through voting-system rules, lab tests and public administration records.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "HAVA table: four Senate-confirmed commissioners sit under party-split rules and can serve until successors take office.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "VVSG standards binder turns functionality, usability and security requirements into a test checklist for voting systems.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Lab path diagram shows accredited testers checking voting hardware and software before certification or decertification decisions.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "State handoff ledger shows certification is voluntary nationally, while some state rules require participation.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Watch board: vacancies, lab accreditation, VVSG migration, certified-system lists and state deadlines expose strain.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "EAC cutaway: a federal agency supports election officials and voters through voting-system rules, lab tests and public administration records.",
+        "HAVA table: four Senate-confirmed commissioners sit under party-split rules and can serve until successors take office.",
+        "VVSG standards binder turns functionality, usability and security requirements into a test checklist for voting systems.",
+        "Lab path diagram shows accredited testers checking voting hardware and software before certification or decertification decisions.",
+        "State handoff ledger shows certification is voluntary nationally, while some state rules require participation.",
+        "Watch board: vacancies, lab accreditation, VVSG migration, certified-system lists and state deadlines expose strain."
+      ],
+      "shortTitle": "What the Election Assistance Commission Does",
+      "slug": "what-the-election-assistance-commission-does",
+      "sourceCount": 4,
+      "sources": [
+        {
+          "name": "U.S. Election Assistance Commission: About",
+          "url": "https://www.eac.gov/about"
+        },
+        {
+          "name": "U.S. Election Assistance Commission: Commissioners",
+          "url": "https://www.eac.gov/about/commissioners"
+        },
+        {
+          "name": "U.S. Election Assistance Commission: Testing and Certification",
+          "url": "https://www.eac.gov/election-technology/testing-certification-program-tc"
+        },
+        {
+          "name": "U.S. Election Assistance Commission: Voluntary Voting System Guidelines",
+          "url": "https://www.eac.gov/voting-equipment/voluntary-voting-system-guidelines"
+        }
+      ],
+      "storylineKey": "governing-crisis",
+      "storylineTitle": "U.S. Elections",
+      "summary": "The Election Assistance Commission helps state and local officials administer voting for voters by setting voluntary voting-system guidelines, accrediting test labs, certifying voting systems and sharing election-administration support without running elections itself.",
+      "title": "What the Election Assistance Commission Does"
+    },
+    {
+      "category": "World",
+      "contentType": "brief",
+      "generatedAt": "2026-07-11T08:42:42.293Z",
+      "imagePath": "/live/media/patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the.webp",
+      "claims": [
+        {
+          "claim": "Trump says he will license Ukraine to make Patriot interceptors as Russian missile attacks strain air defense.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Kyiv wants production at home because imported Patriot rounds are limited and replacement lines cannot move instantly.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The license opens a legal path, but factories, testing, and supply chains still have to follow.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "France 24 says experts see a long-term investment, not an immediate shield for tonight's air raids.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Zelensky has warned for weeks that interceptor stocks are running low against near-constant ballistic attacks.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The practical question is timing: can licensed production arrive before Ukraine loses more air-defense capacity?",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Trump says he will license Ukraine to make Patriot interceptors as Russian missile attacks strain air defense.",
+        "Kyiv wants production at home because imported Patriot rounds are limited and replacement lines cannot move instantly.",
+        "The license opens a legal path, but factories, testing, and supply chains still have to follow.",
+        "France 24 says experts see a long-term investment, not an immediate shield for tonight's air raids.",
+        "Zelensky has warned for weeks that interceptor stocks are running low against near-constant ballistic attacks.",
+        "The practical question is timing: can licensed production arrive before Ukraine loses more air-defense capacity?"
+      ],
+      "shortTitle": "Trump approves Patriot license as Ukraine air defenses run low",
+      "slug": "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the",
+      "sourceCount": 4,
+      "sources": [
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20260711-patriot-missile-license-ukraine-can-it-afford-the-wait-trump"
+        },
+        {
+          "name": "The New York Times World",
+          "url": "https://www.nytimes.com/2026/07/09/world/europe/ukraine-patriots-trump-russia.html"
+        },
+        {
+          "name": "ABC News",
+          "url": "https://abcnews.com/Politics/experts-trumps-plan-license-patriot-missiles-ukraine-years/story?id=134623702"
+        },
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/trump-signals-support-for-patriot-production-in-ukraine/a-77909681?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "storylineKey": "war-security-order",
+      "storylineTitle": "The War and Security Order",
+      "summary": "President Donald Trump says he will approve a license for Ukraine to produce Patriot missile interceptors, a potential long-term help for Kyiv as officials warn current air-defense stocks are running low against Russian ballistic attacks.",
+      "title": "Trump approves Patriot license as Ukraine air defenses run low"
+    },
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-11T06:30:12.178Z",
+      "imagePath": "/live/media/maine-democrats-announce-july-25-convention-to-pick-platner-replacement.webp",
+      "claims": [
+        {
+          "claim": "Maine Democrats open a July 25 Bangor convention fight, with voters facing a reopened Senate race.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Platner filed withdrawal paperwork with Maine's secretary of state, ending the primary winner's campaign.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The open nomination matters because Democrats see Maine as central to Senate control.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Susan Collins remains the Republican target as Democrats scramble to choose a replacement nominee.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Several hopefuls have begun jockeying for position before party delegates gather in Bangor.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The next deadline is the July 25 convention, when Democrats must settle on one challenger.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Maine Democrats open a July 25 Bangor convention fight, with voters facing a reopened Senate race.",
+        "Platner filed withdrawal paperwork with Maine's secretary of state, ending the primary winner's campaign.",
+        "The open nomination matters because Democrats see Maine as central to Senate control.",
+        "Susan Collins remains the Republican target as Democrats scramble to choose a replacement nominee.",
+        "Several hopefuls have begun jockeying for position before party delegates gather in Bangor.",
+        "The next deadline is the July 25 convention, when Democrats must settle on one challenger."
+      ],
+      "shortTitle": "Maine Democrats Plan Senate Replacement Vote",
+      "slug": "maine-democrats-announce-july-25-convention-to-pick-platner-replacement",
+      "sourceCount": 6,
+      "sources": [
+        {
+          "name": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/politics/graham-platner-submits-notice-to-formally-withdraw-from-maine-senate-race"
+        },
+        {
+          "name": "ABC News Top Stories",
+          "url": "https://abcnews.com/Politics/graham-platner-officially-withdraws-maine-senate-race/story?id=134663041"
+        },
+        {
+          "name": "CBS News Politics",
+          "url": "https://www.cbsnews.com/video/071026-the-takeout-with-major-garrett"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/politics/2026-election/graham-platner-officially-drops-maine-senate-race-rcna385842"
+        },
+        {
+          "name": "Politico",
+          "url": "https://www.politico.com/news/2026/07/09/graham-platner-maine-democrats-replacement-process-00991464"
+        },
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/10/us/maine-democrats-platner-replacement-convention.html"
+        }
+      ],
+      "storylineKey": "governing-crisis",
+      "storylineTitle": "U.S. Elections",
+      "summary": "After Graham Platner formally withdrew from Maine's Senate race, state Democrats set a July 25 Bangor convention to choose a replacement for a contest tied to Senate control.",
+      "title": "Maine Democrats Plan July 25 Vote to Replace Platner in Senate Race"
+    },
+    {
+      "category": "Guide",
+      "contentType": "guide",
+      "generatedAt": "2026-07-11T00:16:23.728Z",
+      "imagePath": "/live/media/how-bills-become-law-without-a-signature.webp",
+      "claims": [
+        {
+          "claim": "Presentment gate: Congress turns a bill into federal law only after the enrolled document reaches the White House, starting the public deadline.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Choice diagram: the president can sign, return a veto, or let the 10-day clock keep running while Congress can receive objections.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Timeline rule: 10 days, Sundays excepted, converts silence into law unless adjournment blocks a return message.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Override path: two-thirds votes in both chambers route a vetoed bill through a vote board and back into law.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Failure mode: adjournment can create a pocket-veto stop, preventing return and leaving the unsigned document outside the law.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Watch ledger: receipt date, adjournment status, veto message and public-law publication reveal which path happened.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Presentment gate: Congress turns a bill into federal law only after the enrolled document reaches the White House, starting the public deadline.",
+        "Choice diagram: the president can sign, return a veto, or let the 10-day clock keep running while Congress can receive objections.",
+        "Timeline rule: 10 days, Sundays excepted, converts silence into law unless adjournment blocks a return message.",
+        "Override path: two-thirds votes in both chambers route a vetoed bill through a vote board and back into law.",
+        "Failure mode: adjournment can create a pocket-veto stop, preventing return and leaving the unsigned document outside the law.",
+        "Watch ledger: receipt date, adjournment status, veto message and public-law publication reveal which path happened."
+      ],
+      "shortTitle": "Bills Without a Signature",
+      "slug": "how-bills-become-law-without-a-signature",
+      "sourceCount": 3,
+      "sources": [
+        {
+          "name": "National Archives: Constitution transcript",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript"
+        },
+        {
+          "name": "U.S. House: The Legislative Process",
+          "url": "https://www.house.gov/the-house-explained/the-legislative-process"
+        },
+        {
+          "name": "U.S. Senate: About Voting",
+          "url": "https://www.senate.gov/about/powers-procedures/voting.htm"
+        }
+      ],
+      "storylineKey": "",
+      "storylineTitle": "",
+      "summary": "A U.S. bill can become law after House and Senate passage when the enrolled bill reaches the president, the 10-day clock runs without a signed approval or returned veto, and Congress remains able to receive a return message.",
+      "title": "How Bills Become Law Without a Signature"
+    },
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-10T19:23:43.222Z",
+      "imagePath": "/live/media/trump-leaves-election-assistance-commission-without-members.webp",
+      "claims": [
+        {
+          "claim": "Trump put a federal election-support agency in limbo by forcing out its final commissioners months from midterms.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Two Democratic commissioners were fired by email; Republican Christy McCormick was allowed to resign.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The agency helps state and local election officials administer funds and voting-system standards.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The White House cited a Supreme Court ruling expanding presidential removal power over independent agencies.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "New commissioners require Senate confirmation, leaving no quick replacement path for the vacant agency.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "States now face the midterm calendar with federal election support and standards work in limbo.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Trump put a federal election-support agency in limbo by forcing out its final commissioners months from midterms.",
+        "Two Democratic commissioners were fired by email; Republican Christy McCormick was allowed to resign.",
+        "The agency helps state and local election officials administer funds and voting-system standards.",
+        "The White House cited a Supreme Court ruling expanding presidential removal power over independent agencies.",
+        "New commissioners require Senate confirmation, leaving no quick replacement path for the vacant agency.",
+        "States now face the midterm calendar with federal election support and standards work in limbo."
+      ],
+      "shortTitle": "Trump leaves election agency without members",
+      "slug": "trump-leaves-election-assistance-commission-without-members",
+      "sourceCount": 3,
+      "sources": [
+        {
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/politics/2026-election/trump-fires-election-assistance-commission-members-ahead-midterms-rcna353781"
+        },
+        {
+          "name": "CNBC Top News",
+          "url": "https://www.cnbc.com/2026/07/10/trump-purges-election-assistance-commission.html"
+        },
+        {
+          "name": "ProPublica",
+          "url": "https://www.propublica.org/article/federal-election-assistance-commission-trump-dismantled"
+        }
+      ],
+      "storylineKey": "governing-crisis",
+      "storylineTitle": "U.S. Elections",
+      "summary": "Trump removed the remaining Election Assistance Commission members, leaving the federal election-administration agency without commissioners months before the midterms.",
+      "title": "Trump leaves Election Assistance Commission without members"
+    },
+    {
+      "category": "World",
+      "contentType": "brief",
+      "generatedAt": "2026-07-10T18:51:51.342Z",
+      "imagePath": "/live/media/one-of-spain-s-deadliest-wildfires-kills-at-least-12-people-with-23-others-missi.webp",
+      "claims": [
+        {
+          "claim": "Almeria wildfire puts public evacuation safety in focus: 12 dead, 23 missing, victims found in fleeing vehicles.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The reported danger point was the road: several victims were found inside burnt-out vehicles while fleeing.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Andalusia's tourist geography matters because many victims were foreign tourists, Spanish authorities said.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The count still has two layers: confirmed deaths and people still missing after the blaze.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The practical tradeoff is visible: leaving late can put evacuees in traffic beside the fire.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Watch the missing-person count and the route timeline; those show how the escape chain failed.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Almeria wildfire puts public evacuation safety in focus: 12 dead, 23 missing, victims found in fleeing vehicles.",
+        "The reported danger point was the road: several victims were found inside burnt-out vehicles while fleeing.",
+        "Andalusia's tourist geography matters because many victims were foreign tourists, Spanish authorities said.",
+        "The count still has two layers: confirmed deaths and people still missing after the blaze.",
+        "The practical tradeoff is visible: leaving late can put evacuees in traffic beside the fire.",
+        "Watch the missing-person count and the route timeline; those show how the escape chain failed."
+      ],
+      "shortTitle": "Spain wildfire escape risk",
+      "slug": "one-of-spain-s-deadliest-wildfires-kills-at-least-12-people-with-23-others-missi",
+      "sourceCount": 3,
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/jul/10/wildfire-southern-spain-temperatures-almeria-los-gallardos-bedar"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/spain-wildfires-deadliest-blaze-in-20-years"
+        },
+        {
+          "name": "The New York Times World",
+          "url": "https://www.nytimes.com/2026/07/10/world/europe/spain-wildfire-deaths.html"
+        }
+      ],
+      "storylineKey": "",
+      "storylineTitle": "",
+      "summary": "At least 12 people died and 23 were missing after a wildfire in Almeria, Andalusia; several victims were found in burnt-out vehicles after trying to flee.",
+      "title": "Spain Wildfire Deaths Show the Escape-Route Risk"
+    },
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-10T18:23:11.083Z",
+      "imagePath": "/live/media/trump-lets-housing-bill-become-law-without-signing.webp",
+      "claims": [
+        {
+          "claim": "Trump refuses to sign a bipartisan housing bill affecting buyers, renters, and homebuilders unless Congress advances voter ID rules.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The 10-day clock gives three choices: sign the bill, veto it, or let it take effect without a signature.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Because Trump is not vetoing it, the housing package still becomes law after the countdown expires.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The dispute shifts attention to the Save America Act, the voter ID bill named in Trump's demand to Congress.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The dispute complicates a housing-affordability message for buyers, renters, and builders across the housing market.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Congress faces Trump's voter ID demand while the unsigned housing law moves into effect.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Trump refuses to sign a bipartisan housing bill affecting buyers, renters, and homebuilders unless Congress advances voter ID rules.",
+        "The 10-day clock gives three choices: sign the bill, veto it, or let it take effect without a signature.",
+        "Because Trump is not vetoing it, the housing package still becomes law after the countdown expires.",
+        "The dispute shifts attention to the Save America Act, the voter ID bill named in Trump's demand to Congress.",
+        "The dispute complicates a housing-affordability message for buyers, renters, and builders across the housing market.",
+        "Congress faces Trump's voter ID demand while the unsigned housing law moves into effect."
+      ],
+      "shortTitle": "Trump Lets Housing Bill Become Law Without Signing",
+      "slug": "trump-lets-housing-bill-become-law-without-signing",
+      "sourceCount": 8,
+      "sources": [
+        {
+          "name": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/politics/trump-will-let-bipartisan-housing-bill-become-law-without-signing-in-protest-over-gop-voter-id-law"
+        },
+        {
+          "name": "The Guardian US",
+          "url": "https://www.theguardian.com/us-news/2026/jul/10/housing-bill-becomes-law-without-trump-veto"
+        },
+        {
+          "name": "Axios",
+          "url": "https://www.axios.com/2026/07/10/trump-housing-bill-senate-save-act"
+        },
+        {
+          "name": "CBS News Latest",
+          "url": "https://www.cbsnews.com/news/trump-wont-sign-housing-bill-will-become-law-soon-without-veto"
+        },
+        {
+          "name": "CNBC Top News",
+          "url": "https://www.cnbc.com/2026/07/10/trump-housing-bill-save-act-law.html"
+        },
+        {
+          "name": "Politico Congress",
+          "url": "https://www.politico.com/live-updates/2026/07/10/congress/trump-refuses-sign-housing-bill-00993024"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/7/10/trump-refuses-to-sign-us-housing-bill-over-voting-act-standoff?traffic_source=rss"
+        },
+        {
+          "name": "The New York Times U.S.",
+          "url": "https://www.nytimes.com/2026/07/10/us/politics/trump-housing-bill.html"
+        }
+      ],
+      "storylineKey": "governing-crisis",
+      "storylineTitle": "U.S. Elections",
+      "summary": "The bipartisan housing bill takes effect without Trump's signature because he chose not to sign or veto it while demanding action on voter ID legislation.",
+      "title": "Trump Lets Housing Bill Become Law as Voter ID Demand Stalls Signing"
+    },
+    {
+      "category": "Guide",
+      "contentType": "guide",
+      "generatedAt": "2026-07-10T17:40:44.059Z",
+      "imagePath": "/live/media/how-the-digital-services-act-works.webp",
+      "claims": [
+        {
+          "claim": "Digital Services Act map: EU rules turn platform risks into user rights, service duties and a public enforcement path.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Threshold gate: 45 million EU monthly users moves a service into VLOP or VLOSE supervision and stricter duties.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Risk dossier: operators assess algorithm design, ads, moderation, terms, data practices, rights effects and child safety.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Mitigation ledger: platforms adjust interfaces, recommender systems, ad rules, moderation resources, audits and child-safety controls.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Compliance path: Commission staff and national coordinators use requests, interviews, inspections and data access to check the record.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Failure meter: preliminary findings, audit reports, redesign deadlines, data-access disputes and 6% global-turnover fines show movement.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Digital Services Act map: EU rules turn platform risks into user rights, service duties and a public enforcement path.",
+        "Threshold gate: 45 million EU monthly users moves a service into VLOP or VLOSE supervision and stricter duties.",
+        "Risk dossier: operators assess algorithm design, ads, moderation, terms, data practices, rights effects and child safety.",
+        "Mitigation ledger: platforms adjust interfaces, recommender systems, ad rules, moderation resources, audits and child-safety controls.",
+        "Compliance path: Commission staff and national coordinators use requests, interviews, inspections and data access to check the record.",
+        "Failure meter: preliminary findings, audit reports, redesign deadlines, data-access disputes and 6% global-turnover fines show movement."
+      ],
+      "shortTitle": "The Digital Services Act, Explained",
+      "slug": "how-the-digital-services-act-works",
+      "sourceCount": 4,
+      "sources": [
+        {
+          "name": "European Commission: Digital Services Act",
+          "url": "https://digital-strategy.ec.europa.eu/en/policies/digital-services-act"
+        },
+        {
+          "name": "European Commission: Very Large Online Platforms",
+          "url": "https://digital-strategy.ec.europa.eu/en/policies/dsa-vlops"
+        },
+        {
+          "name": "European Commission: DSA Enforcement",
+          "url": "https://digital-strategy.ec.europa.eu/en/policies/dsa-enforcement"
+        },
+        {
+          "name": "EUR-Lex: Regulation (EU) 2022/2065",
+          "url": "https://eur-lex.europa.eu/eli/reg/2022/2065/oj/eng"
+        }
+      ],
+      "storylineKey": "",
+      "storylineTitle": "",
+      "summary": "The Digital Services Act turns online-platform risks into EU duties: user rights, very-large-platform designation, systemic-risk assessments, mitigation measures, audits, data access and enforcement deadlines.",
+      "title": "How the Digital Services Act Works"
+    },
+    {
+      "category": "Money",
+      "contentType": "brief",
+      "generatedAt": "2026-07-10T13:11:51.454Z",
+      "imagePath": "/live/media/easyjet-agrees-to-apollo-7-7b-bid-sidelining-castlelake-offer.webp",
+      "claims": [
+        {
+          "claim": "EasyJet says Apollo's $7.7B deal beats Castlelake's weekend proposal, putting shareholder money behind a higher bid.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Apollo offers £7.15 a share, above Castlelake's £6.90, putting two U.S. investors over the same airline.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The board says Apollo delivers a superior outcome and is no longer minded to recommend Castlelake.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The airline employs more than 19,000 people and operates across 35 European countries.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "EasyJet shares rose 13.2% Friday after Apollo put a richer bid before owners.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Apollo has until Aug. 7 under U.K. rules to make a firm offer or walk away.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "EasyJet says Apollo's $7.7B deal beats Castlelake's weekend proposal, putting shareholder money behind a higher bid.",
+        "Apollo offers £7.15 a share, above Castlelake's £6.90, putting two U.S. investors over the same airline.",
+        "The board says Apollo delivers a superior outcome and is no longer minded to recommend Castlelake.",
+        "The airline employs more than 19,000 people and operates across 35 European countries.",
+        "EasyJet shares rose 13.2% Friday after Apollo put a richer bid before owners.",
+        "Apollo has until Aug. 7 under U.K. rules to make a firm offer or walk away."
+      ],
+      "shortTitle": "EasyJet agrees to Apollo's $7.7B bid, sidelining Castlelake offer",
+      "slug": "easyjet-agrees-to-apollo-7-7b-bid-sidelining-castlelake-offer",
+      "sourceCount": 4,
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian US",
+          "url": "https://www.theguardian.com/business/2026/jul/10/us-private-equity-firm-apollo-enters-bidding-war-for-easyjet"
+        },
+        {
+          "name": "CBS News Latest",
+          "url": "https://www.cbsnews.com/news/easyjet-takeover-offer-apollo-bidding-war-castlerock"
+        },
+        {
+          "name": "CNBC Top News",
+          "url": "https://www.cnbc.com/2026/07/10/easyjet-apollo-takeover-bid-castlelake-share-price.html"
+        }
+      ],
+      "storylineKey": "",
+      "storylineTitle": "",
+      "summary": "British budget airline EasyJet says it has reached an agreement in principle on Apollo's £5.7 billion ($7.7 billion) takeover offer, above Castlelake's rival proposal.",
+      "title": "EasyJet agrees to Apollo's $7.7B bid, sidelining Castlelake offer"
+    },
+    {
+      "category": "Money",
+      "contentType": "brief",
+      "generatedAt": "2026-07-10T02:57:55.080Z",
+      "imagePath": "/live/media/what-to-know-about-u-s-oil-production-and-consumption-in-6-charts.webp",
+      "claims": [
+        {
+          "claim": "U.S. oil dominance keeps gasoline prices exposed as global crude markets and reserve releases move money.",
+          "panel": 1,
+          "sourceIndexes": [
+            0
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "A production map shows fracking pushed U.S. crude output to No. 1 in 2018; it led in 2025.",
+          "panel": 2,
+          "sourceIndexes": [
+            0
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "A demand meter puts U.S. use at 20.6 million barrels a day in 2025, the top consumer load.",
+          "panel": 3,
+          "sourceIndexes": [
+            0
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "An OPEC+ supply ledger shows 35% from OPEC and 55% from OPEC+ in 2025.",
+          "panel": 4,
+          "sourceIndexes": [
+            0
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The import flow path still routes net inward: 2.2 million barrels a day in 2025, mostly Canada.",
+          "panel": 5,
+          "sourceIndexes": [
+            0
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "An emergency reserve meter fell to 319.5 million barrels by July 3 after market-shock releases.",
+          "panel": 6,
+          "sourceIndexes": [
+            0
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "U.S. oil dominance keeps gasoline prices exposed as global crude markets and reserve releases move money.",
+        "A production map shows fracking pushed U.S. crude output to No. 1 in 2018; it led in 2025.",
+        "A demand meter puts U.S. use at 20.6 million barrels a day in 2025, the top consumer load.",
+        "An OPEC+ supply ledger shows 35% from OPEC and 55% from OPEC+ in 2025.",
+        "The import flow path still routes net inward: 2.2 million barrels a day in 2025, mostly Canada.",
+        "An emergency reserve meter fell to 319.5 million barrels by July 3 after market-shock releases."
+      ],
+      "shortTitle": "U.S. Oil Dominance Leaves Drivers Exposed",
+      "slug": "what-to-know-about-u-s-oil-production-and-consumption-in-6-charts",
+      "sourceCount": 1,
+      "sources": [
+        {
+          "name": "Pew Research Center",
+          "url": "https://www.pewresearch.org/short-reads/2026/07/07/what-to-know-about-us-oil-production-and-consumption-in-6-charts"
+        }
+      ],
+      "storylineKey": "",
+      "storylineTitle": "",
+      "summary": "The U.S. leads the world in crude production and consumption, but import needs, OPEC+ supply power, gasoline-price shocks and a drawn-down emergency reserve still shape what drivers pay.",
+      "title": "U.S. Oil Dominance Still Leaves Drivers Exposed"
+    },
+    {
+      "category": "Guide",
+      "contentType": "guide",
+      "generatedAt": "2026-07-10T00:13:54.479Z",
+      "imagePath": "/live/media/how-mortgage-rates-move.webp",
+      "claims": [
+        {
+          "claim": "Mortgage-rate pipeline turns market benchmarks and lender rate boards into the monthly payment a buyer can carry.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "PMMS benchmark data samples lender applications each week, creating a market reference for 30-year and 15-year loans.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Loan Estimate document shows the gate: loan amount, interest rate, APR, points, fees and projected payment.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Borrower inputs such as credit score, down payment, loan type, term and rate lock adjust the offer.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Affordability bottleneck: a higher rate or fee raises principal-and-interest and can block the buyer's budget.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Watch meter: PMMS, quoted APR, points, fees and rate-lock terms show whether the headline rate hides costs.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Mortgage-rate pipeline turns market benchmarks and lender rate boards into the monthly payment a buyer can carry.",
+        "PMMS benchmark data samples lender applications each week, creating a market reference for 30-year and 15-year loans.",
+        "Loan Estimate document shows the gate: loan amount, interest rate, APR, points, fees and projected payment.",
+        "Borrower inputs such as credit score, down payment, loan type, term and rate lock adjust the offer.",
+        "Affordability bottleneck: a higher rate or fee raises principal-and-interest and can block the buyer's budget.",
+        "Watch meter: PMMS, quoted APR, points, fees and rate-lock terms show whether the headline rate hides costs."
+      ],
+      "shortTitle": "Mortgage Rates, Explained",
+      "slug": "how-mortgage-rates-move",
+      "sourceCount": 4,
+      "sources": [
+        {
+          "name": "Consumer Financial Protection Bureau",
+          "url": "https://www.consumerfinance.gov/owning-a-home/explore-rates/"
+        },
+        {
+          "name": "Freddie Mac",
+          "url": "https://www.consumerfinance.gov/owning-a-home/loan-estimate/"
+        },
+        {
+          "name": "Federal Reserve Bank of St. Louis",
+          "url": "https://www.freddiemac.com/pmms"
+        },
+        {
+          "name": "fred.stlouisfed.org",
+          "url": "https://fred.stlouisfed.org/series/MORTGAGE30US"
+        }
+      ],
+      "storylineKey": "",
+      "storylineTitle": "",
+      "summary": "Mortgage rates move as market benchmarks, investor demand, lender costs, borrower risk, loan terms, points and fees turn into the quoted rate and monthly payment a homebuyer sees.",
+      "title": "How Mortgage Rates Move"
+    },
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-09T22:24:59.635Z",
+      "imagePath": "/live/media/chatgpt-56-security-gate.webp",
+      "claims": [
+        {
+          "claim": "OpenAI moves ChatGPT 5.6 to wider release after a government-requested cybersecurity review limited early access to approved users.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The model passes through briefings, trusted partners, and additional testing before the wider rollout.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The capability gate checks whether stronger AI can help cybersecurity work or enable more dangerous attacks.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Release speed becomes the bottleneck: companies push customers forward while officials add review time.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Anthropic went through a similar restriction, making frontier AI access a repeat policy chokepoint.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The next advanced model may pass through the same voluntary review before reaching customers.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "OpenAI moves ChatGPT 5.6 to wider release after a government-requested cybersecurity review limited early access to approved users.",
+        "The model passes through briefings, trusted partners, and additional testing before the wider rollout.",
+        "The capability gate checks whether stronger AI can help cybersecurity work or enable more dangerous attacks.",
+        "Release speed becomes the bottleneck: companies push customers forward while officials add review time.",
+        "Anthropic went through a similar restriction, making frontier AI access a repeat policy chokepoint.",
+        "The next advanced model may pass through the same voluntary review before reaching customers."
+      ],
+      "shortTitle": "OpenAI ChatGPT 5.6 Security Gate",
+      "slug": "chatgpt-56-security-gate",
+      "sourceCount": 2,
+      "sources": [
+        {
+          "name": "The Guardian US",
+          "url": "https://www.theguardian.com/technology/2026/jul/09/trump-administration-openai-chatgpt-cybersecurity"
+        },
+        {
+          "name": "The New York Times Technology",
+          "url": "https://www.nytimes.com/2026/07/09/technology/openai-sol-ai.html"
+        }
+      ],
+      "storylineKey": "ai-buildout",
+      "storylineTitle": "The AI Buildout",
+      "summary": "OpenAI moved ChatGPT 5.6 from restricted early access to a wider release after a government-requested cybersecurity review and additional testing.",
+      "title": "OpenAI Released ChatGPT 5.6 Through a Security Gate"
+    },
+    {
+      "category": "Guide",
+      "contentType": "guide",
+      "generatedAt": "2026-07-09T21:59:53.425Z",
+      "imagePath": "/live/media/how-federal-race-and-ethnicity-data-works.webp",
+      "claims": [
+        {
+          "claim": "Federal race and ethnicity data turns self-identification into government rules for civil rights, redistricting, programs and policy decisions.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Input gate: OMB sets minimum category rules so agencies compare data across censuses, surveys and civil-rights reports.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Data path: the combined question allows multiple selections and adds the Middle Eastern or North African category in 2024.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Tabulation ledger: Census forms convert checkboxes and write-ins into grouped tables for policy decisions, redistricting and civil rights.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Failure mode: confusing categories, missing detail or small samples can hide communities or break comparisons over time.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Watch timeline: agency action plans, the 2027 American Community Survey and the 2030 Census show implementation.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Federal race and ethnicity data turns self-identification into government rules for civil rights, redistricting, programs and policy decisions.",
+        "Input gate: OMB sets minimum category rules so agencies compare data across censuses, surveys and civil-rights reports.",
+        "Data path: the combined question allows multiple selections and adds the Middle Eastern or North African category in 2024.",
+        "Tabulation ledger: Census forms convert checkboxes and write-ins into grouped tables for policy decisions, redistricting and civil rights.",
+        "Failure mode: confusing categories, missing detail or small samples can hide communities or break comparisons over time.",
+        "Watch timeline: agency action plans, the 2027 American Community Survey and the 2030 Census show implementation."
+      ],
+      "shortTitle": "Federal Race and Ethnicity Data, Explained",
+      "slug": "how-federal-race-and-ethnicity-data-works",
+      "sourceCount": 3,
+      "sources": [
+        {
+          "name": "U.S. Census Bureau: Race/Ethnicity Standards Update",
+          "url": "https://www.census.gov/about/our-research/race-ethnicity/standards-updates.html"
+        },
+        {
+          "name": "U.S. Census Bureau: Race",
+          "url": "https://www.census.gov/topics/population/race/about.html"
+        },
+        {
+          "name": "U.S. Census Bureau: Hispanic Origin",
+          "url": "https://www.census.gov/topics/population/hispanic-origin/about.html"
+        }
+      ],
+      "storylineKey": "governing-crisis",
+      "storylineTitle": "U.S. Elections",
+      "summary": "Federal race and ethnicity data turns self-identification, OMB standards, Census questions, detailed write-ins and agency tabulation rules into comparable statistics used for civil-rights enforcement, redistricting, program reporting and policy decisions.",
+      "title": "How Federal Race and Ethnicity Data Works"
+    },
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-09T21:20:55.997Z",
+      "imagePath": "/live/media/trump-returns-from-turkey-in-old-air-force-one-jet-due-to-security-concerns.webp",
+      "claims": [
+        {
+          "claim": "Trump left Turkey on the older Air Force One after U.S. strikes in Iran raised the security stakes.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The Secret Service advised using the older plane as a precaution, according to people briefed on the switch.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The older jet carried secure communications and military defenses officials wanted available during the Iran war.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "At RAF Mildenhall, the old jet met the new Qatari-gifted plane before the final leg home.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The U.S. spent $400 million retrofitting the new jet, which officials said still lacked some desired capabilities.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Officials cited no specific credible threat; readiness of the retrofitted jet remains the presidential-flight question.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Trump left Turkey on the older Air Force One after U.S. strikes in Iran raised the security stakes.",
+        "The Secret Service advised using the older plane as a precaution, according to people briefed on the switch.",
+        "The older jet carried secure communications and military defenses officials wanted available during the Iran war.",
+        "At RAF Mildenhall, the old jet met the new Qatari-gifted plane before the final leg home.",
+        "The U.S. spent $400 million retrofitting the new jet, which officials said still lacked some desired capabilities.",
+        "Officials cited no specific credible threat; readiness of the retrofitted jet remains the presidential-flight question."
+      ],
+      "shortTitle": "Trump takes old Air Force One for security",
+      "slug": "trump-returns-from-turkey-in-old-air-force-one-jet-due-to-security-concerns",
+      "sourceCount": 3,
+      "sources": [
+        {
+          "name": "ABC News U.S.",
+          "url": "https://abcnews.com/US/wireStory/surprise-swap-trump-flies-back-turkey-air-force-134596869"
+        },
+        {
+          "name": "CBS News Latest",
+          "url": "https://www.cbsnews.com/news/air-force-one-trump-turkey-secret-service"
+        },
+        {
+          "name": "NBC News Politics",
+          "url": "https://www.nbcnews.com/meet-the-press/video/trump-returns-from-turkey-in-old-air-force-one-jet-due-to-security-concerns-266454085809"
+        }
+      ],
+      "storylineKey": "war-security-order",
+      "storylineTitle": "The War and Security Order",
+      "summary": "After U.S. strikes in Iran, Trump left Turkey on the older Air Force One after Secret Service advice raised questions about the new Qatari-gifted jet's security readiness.",
+      "title": "Trump takes old Air Force One as Iran war raises security questions"
+    },
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-09T19:28:53.886Z",
+      "imagePath": "/live/media/us-and-iran-exchange-back-and-forth-strikes-for-second-day.webp",
+      "claims": [
+        {
+          "claim": "U.S. strikes Iran again after Hormuz ship attacks, putting the ceasefire, Gulf security, and oil prices at risk.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Iran says a U.S. strike landed near its nuclear power plant as blasts spread across the country.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Command screens track a second day of back-and-forth attacks while leaders weigh how far to escalate.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The Strait of Hormuz remains the map stake because ships, fuel markets, and mariners depend on passage.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Markets watch oil boards after the strikes jolt prices and raise costs beyond the Gulf.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The next move is whether mediators can save talks while Washington and Tehran trade warnings.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "U.S. strikes Iran again after Hormuz ship attacks, putting the ceasefire, Gulf security, and oil prices at risk.",
+        "Iran says a U.S. strike landed near its nuclear power plant as blasts spread across the country.",
+        "Command screens track a second day of back-and-forth attacks while leaders weigh how far to escalate.",
+        "The Strait of Hormuz remains the map stake because ships, fuel markets, and mariners depend on passage.",
+        "Markets watch oil boards after the strikes jolt prices and raise costs beyond the Gulf.",
+        "The next move is whether mediators can save talks while Washington and Tehran trade warnings."
+      ],
+      "shortTitle": "U.S. Strikes Iran Again, Testing Ceasefire and Hormuz Oil Route",
+      "slug": "us-and-iran-exchange-back-and-forth-strikes-for-second-day",
+      "sourceCount": 4,
+      "sources": [
+        {
+          "name": "ABC News U.S.",
+          "url": "https://abcnews.com/US/wireStory/iran-deal-war-back-timeline-conflict-talks-134583039"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://www.today.com/video/us-and-iran-exchange-back-and-forth-strikes-for-second-day-266418245880"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/iran-claims-us-strike-hit-near-nuclear-powerplant"
+        },
+        {
+          "name": "The New York Times U.S.",
+          "url": "https://www.nytimes.com/2026/07/08/us/politics/us-iran-strikes.html"
+        }
+      ],
+      "storylineKey": "war-security-order",
+      "storylineTitle": "The War and Security Order",
+      "summary": "The U.S. and Iran traded new strikes after Trump said the ceasefire was over; the fighting threatens Hormuz shipping, Gulf security, and oil-price stability.",
+      "title": "U.S. Strikes Iran Again, Testing Ceasefire and Hormuz Oil Route"
+    },
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-09T15:22:22.784Z",
+      "imagePath": "/live/media/olympian-david-hearn-pleads-not-guilty-to-charges-of-damaging-reflecting-pool.webp",
+      "claims": [
+        {
+          "claim": "D.C. court charges over National Mall pool damage follow a $16 million renovation and new liner repairs.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Prosecutors say he pulled up blue liner material from the Lincoln Memorial Reflecting Pool on June 19.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The three-time Olympic canoe racer was indicted July 2 on one felony property-destruction count.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "President Trump ordered the National Mall pool renovation ahead of the nation's 250th anniversary.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Workers have treated algae, and liner repairs could require draining the pool again.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Judge Carmen McLean let Hearn await trial without supervision; a status hearing is set for Aug. 5.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "D.C. court charges over National Mall pool damage follow a $16 million renovation and new liner repairs.",
+        "Prosecutors say he pulled up blue liner material from the Lincoln Memorial Reflecting Pool on June 19.",
+        "The three-time Olympic canoe racer was indicted July 2 on one felony property-destruction count.",
+        "President Trump ordered the National Mall pool renovation ahead of the nation's 250th anniversary.",
+        "Workers have treated algae, and liner repairs could require draining the pool again.",
+        "Judge Carmen McLean let Hearn await trial without supervision; a status hearing is set for Aug. 5."
+      ],
+      "shortTitle": "Hearn pleads not guilty in Reflecting Pool damage case",
+      "slug": "olympian-david-hearn-pleads-not-guilty-to-charges-of-damaging-reflecting-pool",
+      "sourceCount": 6,
+      "sources": [
+        {
+          "name": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/politics/former-olympic-canoe-racer-pleads-not-guilty-in-reflecting-pool-damage-case"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/jul/09/reflecting-pool-case-us-olympian-plea"
+        },
+        {
+          "name": "Axios",
+          "url": "https://www.axios.com/2026/07/02/olympian-indicted-for-allegedly-vandalizing-reflecting-pool"
+        },
+        {
+          "name": "ABC News U.S.",
+          "url": "https://abcnews.com/US/wireStory/former-olympian-pleads-guilty-reflecting-pool-damage-case-134616521"
+        },
+        {
+          "name": "CBS News Latest",
+          "url": "https://www.cbsnews.com/news/olympian-david-hearn-pleads-not-guilty-reflecting-pool-damage"
+        },
+        {
+          "name": "The New York Times U.S.",
+          "url": "https://www.nytimes.com/2026/07/09/us/david-hearn-olympian-reflecting-pool.html"
+        }
+      ],
+      "storylineKey": "",
+      "storylineTitle": "",
+      "summary": "Former Olympic canoe racer David Hearn pleaded not guilty in D.C. Superior Court after prosecutors accused him of damaging lining material at the recently renovated Lincoln Memorial Reflecting Pool; a status hearing is set for Aug. 5.",
+      "title": "David Hearn pleads not guilty in $16M Reflecting Pool damage case"
+    },
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-09T14:28:06.100Z",
+      "imagePath": "/live/media/latino-trump-voters-are-less-likely-than-harris-voters-to-say-being-latino-is-ce.webp",
+      "claims": [
+        {
+          "claim": "Survey gate: An October 2025 survey says validated Latino Trump and Harris voters split on identity measures after 2024.",
+          "panel": 1,
+          "sourceIndexes": [
+            0
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Benchmark: 69% of Harris voters call Latino identity extremely or very important, compared with 42% of Trump voters.",
+          "panel": 2,
+          "sourceIndexes": [
+            0
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Linked-fate meter: 75% of Harris voters feel affected by other U.S. Latinos; 57% of Trump voters say little.",
+          "panel": 3,
+          "sourceIndexes": [
+            0
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Responsibility threshold: 61% of Trump voters seldom feel responsible for other Latinos; 48% of Harris voters feel it very often.",
+          "panel": 4,
+          "sourceIndexes": [
+            0
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Experience ledger: 39% of Harris voters report recent discrimination, more than twice the 15% share among Trump voters.",
+          "panel": 5,
+          "sourceIndexes": [
+            0
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Causal guardrail: the survey cannot prove vote choice or party caused these identity differences.",
+          "panel": 6,
+          "sourceIndexes": [
+            0
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Survey gate: An October 2025 survey says validated Latino Trump and Harris voters split on identity measures after 2024.",
+        "Benchmark: 69% of Harris voters call Latino identity extremely or very important, compared with 42% of Trump voters.",
+        "Linked-fate meter: 75% of Harris voters feel affected by other U.S. Latinos; 57% of Trump voters say little.",
+        "Responsibility threshold: 61% of Trump voters seldom feel responsible for other Latinos; 48% of Harris voters feel it very often.",
+        "Experience ledger: 39% of Harris voters report recent discrimination, more than twice the 15% share among Trump voters.",
+        "Causal guardrail: the survey cannot prove vote choice or party caused these identity differences."
+      ],
+      "shortTitle": "Trump-Harris Survey Tests Latino Voters' Identity Split",
+      "slug": "latino-trump-voters-are-less-likely-than-harris-voters-to-say-being-latino-is-ce",
+      "sourceCount": 1,
+      "sources": [
+        {
+          "name": "Pew Research Center",
+          "url": "https://www.pewresearch.org/race-and-ethnicity/2026/07/09/latino-trump-voters-are-less-likely-than-harris-voters-to-say-being-latino-is-central-to-their-lives"
+        }
+      ],
+      "storylineKey": "governing-crisis",
+      "storylineTitle": "U.S. Elections",
+      "summary": "An October 2025 survey compared validated 2024 Latino Trump and Harris voters across identity centrality, linked fate, responsibility for other U.S. Latinos, reported discrimination, and the limits of what survey data can prove.",
+      "title": "Trump-Harris Survey Tests Latino Voters' Identity Split"
+    },
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-09T11:19:56.720Z",
+      "imagePath": "/live/media/maine-democrats-vote-to-replace-platner-before-july-13-senate-deadline.webp",
+      "claims": [
+        {
+          "claim": "A convention process turns a withdrawn nomination into a deadline for voters in the Collins Senate race.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Platner's exit followed a sexual-assault allegation he denies and a collapse in party and donor support.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "State law lets the party name a new nominee after Platner files withdrawal paperwork by July 13.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The contest against Sen. Susan Collins now restarts with less than four months before the midterms.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Potential contenders began signaling interest while party officials prepare a convention process under a tight calendar.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Next, Democrats need a nominee quickly enough to keep a pivotal Senate seat contest viable.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "A convention process turns a withdrawn nomination into a deadline for voters in the Collins Senate race.",
+        "Platner's exit followed a sexual-assault allegation he denies and a collapse in party and donor support.",
+        "State law lets the party name a new nominee after Platner files withdrawal paperwork by July 13.",
+        "The contest against Sen. Susan Collins now restarts with less than four months before the midterms.",
+        "Potential contenders began signaling interest while party officials prepare a convention process under a tight calendar.",
+        "Next, Democrats need a nominee quickly enough to keep a pivotal Senate seat contest viable."
+      ],
+      "shortTitle": "Maine Democrats Vote to Replace Platner Before Senate Race Deadline",
+      "slug": "maine-democrats-vote-to-replace-platner-before-july-13-senate-deadline",
+      "sourceCount": 5,
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/live/2026/jul/09/donald-trump-graham-platner-mitch-mcconnell-iran-midterms-latest-news-updates"
+        },
+        {
+          "name": "ABC News U.S.",
+          "url": "https://abcnews.com/US/wireStory/graham-platner-maine-us-senate-race-134591179"
+        },
+        {
+          "name": "CNBC Top News",
+          "url": "https://www.cnbc.com/2026/07/08/platner-quits-maine-senate-race-midterm-elections.html"
+        },
+        {
+          "name": "Politico",
+          "url": "https://www.politico.com/news/2026/07/09/graham-platner-maine-democrats-replacement-process-00991464"
+        },
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/08/us/politics/graham-platner-out-whats-next.html"
+        }
+      ],
+      "storylineKey": "governing-crisis",
+      "storylineTitle": "U.S. Elections",
+      "summary": "After Democratic Senate nominee Graham Platner said he would withdraw following a sexual-assault allegation he denies, Maine Democrats voted to hold a nominating convention. State law gives the party a narrow path to name a replacement for the contest against Republican Sen. Susan Collins.",
+      "title": "Maine Democrats Vote to Replace Platner Before July 13 Senate Deadline"
+    },
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-09T08:46:59.051Z",
+      "imagePath": "/live/media/u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over.webp",
+      "claims": [
+        {
+          "claim": "After Trump said the ceasefire was over, U.S. strikes returned to Iran as Hormuz shipping risk rose.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "U.S. commanders targeted radar, missiles and air defenses after attacks on ships moving through the strait.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Iranian media reported explosions near Bandar Abbas, Sirik and Bushehr along the Gulf corridor.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The military framed the strikes as protecting navigation through the Strait of Hormuz.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Trump signaled the action from Ankara after saying he did not want the war to restart.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "More ship attacks or counterstrikes could push the interim ceasefire farther out of reach.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "After Trump said the ceasefire was over, U.S. strikes returned to Iran as Hormuz shipping risk rose.",
+        "U.S. commanders targeted radar, missiles and air defenses after attacks on ships moving through the strait.",
+        "Iranian media reported explosions near Bandar Abbas, Sirik and Bushehr along the Gulf corridor.",
+        "The military framed the strikes as protecting navigation through the Strait of Hormuz.",
+        "Trump signaled the action from Ankara after saying he did not want the war to restart.",
+        "More ship attacks or counterstrikes could push the interim ceasefire farther out of reach."
+      ],
+      "shortTitle": "U.S. and Iran Trade Strikes, Raising Hormuz Shipping Risk",
+      "slug": "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
+      "sourceCount": 6,
+      "sources": [
+        {
+          "name": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/show/trump-says-ceasefire-is-over-as-u-s-launches-more-strikes-on-iran"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/jul/08/us-carries-out-another-wave-of-strikes-on-iran"
+        },
+        {
+          "name": "CBS News Latest",
+          "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-says-ceasefire-over"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/nightly-news/video/trump-declares-iran-ceasefire-over-as-u-s-launches-new-retaliatory-strikes-266399813652"
+        },
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/iran-war-trump-calls-second-set-of-us-strikes-retribution/live-77882459?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times World",
+          "url": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump"
+        }
+      ],
+      "storylineKey": "war-security-order",
+      "storylineTitle": "The War and Security Order",
+      "summary": "After President Trump said the ceasefire was over, U.S. forces launched more strikes on Iranian radar, missiles and air defenses while attacks on ships kept the Strait of Hormuz in the risk zone.",
+      "title": "U.S. and Iran Trade Strikes, Raising Hormuz Shipping Risk"
+    },
+    {
+      "category": "Money",
+      "contentType": "brief",
+      "generatedAt": "2026-07-09T05:46:23.451Z",
+      "imagePath": "/live/media/fed-minutes-officials-deeply-divided-over-future-path-of-us-inflation.webp",
+      "claims": [
+        {
+          "claim": "Federal Reserve minutes say officials keep rates unchanged as inflation risk still hits households, businesses, markets, and public budgets.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The June 16-17 meeting left policymakers split between lower rates later and a higher year-end path.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "One camp expects gas prices and tariff effects to cool; another worries inflation stays elevated.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "AI infrastructure demand adds price risk through chips, technology products, electricity, and data-center buildouts.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "A higher rate path would keep borrowing costs tighter for loans, firms, investors, and public budgets.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Watch inflation reports and the next Fed rate decision; incoming data decides whether the split turns into action.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Federal Reserve minutes say officials keep rates unchanged as inflation risk still hits households, businesses, markets, and public budgets.",
+        "The June 16-17 meeting left policymakers split between lower rates later and a higher year-end path.",
+        "One camp expects gas prices and tariff effects to cool; another worries inflation stays elevated.",
+        "AI infrastructure demand adds price risk through chips, technology products, electricity, and data-center buildouts.",
+        "A higher rate path would keep borrowing costs tighter for loans, firms, investors, and public budgets.",
+        "Watch inflation reports and the next Fed rate decision; incoming data decides whether the split turns into action."
+      ],
+      "shortTitle": "Fed split over inflation and rates",
+      "slug": "fed-minutes-officials-deeply-divided-over-future-path-of-us-inflation",
+      "sourceCount": 4,
+      "sources": [
+        {
+          "name": "Axios",
+          "url": "https://www.axios.com/2026/07/08/fed-warsh-minutes-inflation"
+        },
+        {
+          "name": "ABC News U.S.",
+          "url": "https://abcnews.com/US/wireStory/fed-minutes-officials-deeply-divided-future-path-us-134593000"
+        },
+        {
+          "name": "CNBC Top News",
+          "url": "https://www.cnbc.com/2026/07/08/fed-minutes-june-2026-.html"
+        },
+        {
+          "name": "The New York Times Business",
+          "url": "https://www.nytimes.com/2026/07/08/business/fed-meeting-minutes-warsh-interest-rates.html"
+        }
+      ],
+      "storylineKey": "",
+      "storylineTitle": "",
+      "summary": "Federal Reserve minutes from the June 16-17 meeting show officials held rates unchanged but split over whether inflation will cool or keep rates higher, with fuel, tariffs, and AI infrastructure demand shaping the stakes.",
+      "title": "Fed Minutes Show Officials Split Over Inflation and Rate Stakes"
+    },
+    {
+      "category": "Tech & Science",
+      "contentType": "brief",
+      "generatedAt": "2026-07-09T02:22:21.469Z",
+      "imagePath": "/live/media/how-to-prevent-meta-from-using-your-instagram-images-in-a-i.webp",
+      "claims": [
+        {
+          "claim": "Meta puts public Instagram accounts into Muse Image's AI data path, creating reuse risk unless users opt out.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "A Meta AI prompt connects a public account profile to published photos and a generated image request.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "A photo flow passes through the reuse setting, drawing part or all of an account's published photos.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The opt-out path runs through Instagram settings under Sharing and reuse, not a per-use alert.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Privacy advocates warn public-photo reuse can feed non-consensual AI-altered images.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The practical check is the opt-out control before public photos stay in the default path.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Meta puts public Instagram accounts into Muse Image's AI data path, creating reuse risk unless users opt out.",
+        "A Meta AI prompt connects a public account profile to published photos and a generated image request.",
+        "A photo flow passes through the reuse setting, drawing part or all of an account's published photos.",
+        "The opt-out path runs through Instagram settings under Sharing and reuse, not a per-use alert.",
+        "Privacy advocates warn public-photo reuse can feed non-consensual AI-altered images.",
+        "The practical check is the opt-out control before public photos stay in the default path."
+      ],
+      "shortTitle": "Meta Opens Photos to AI Reuse",
+      "slug": "how-to-prevent-meta-from-using-your-instagram-images-in-a-i",
+      "sourceCount": 3,
+      "sources": [
+        {
+          "name": "BBC Business",
+          "url": "https://www.bbc.co.uk/news/articles/cp9lee19y1yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "WIRED",
+          "url": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out"
+        },
+        {
+          "name": "The New York Times Technology",
+          "url": "https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html"
+        }
+      ],
+      "storylineKey": "ai-buildout",
+      "storylineTitle": "The AI Buildout",
+      "summary": "Meta's Muse Image lets people tag public Instagram account profiles and move published photos into AI images unless account owners opt out.",
+      "title": "Meta Opens Public Instagram Photos to AI Reuse"
+    },
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-09T01:20:44.068Z",
+      "imagePath": "/live/media/new-attacks-raise-questions-about-what-comes-next-in-the-iran-war.webp",
+      "claims": [
+        {
+          "claim": "Trump says the Iran truce is over as Hormuz strikes put oil routes, military security, and gas prices at risk.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "At the NATO summit in Turkey, the U.S. message shifts from ceasefire diplomacy to warnings of more attacks.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "U.S. strikes near the Strait of Hormuz target Iran's ability to threaten commercial shipping after new ship attacks.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Mediators try to preserve the interim deal while Washington and Tehran accuse each other of breaking it.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Oil and gas markets become the U.S. public cost if fighting keeps disrupting the shipping corridor.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Watch the next military order, talks signal, or tanker disruption to see whether escalation outruns diplomacy.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Trump says the Iran truce is over as Hormuz strikes put oil routes, military security, and gas prices at risk.",
+        "At the NATO summit in Turkey, the U.S. message shifts from ceasefire diplomacy to warnings of more attacks.",
+        "U.S. strikes near the Strait of Hormuz target Iran's ability to threaten commercial shipping after new ship attacks.",
+        "Mediators try to preserve the interim deal while Washington and Tehran accuse each other of breaking it.",
+        "Oil and gas markets become the U.S. public cost if fighting keeps disrupting the shipping corridor.",
+        "Watch the next military order, talks signal, or tanker disruption to see whether escalation outruns diplomacy."
+      ],
+      "shortTitle": "Trump Says Iran Truce Is Over as Hormuz Routes Face Strikes",
+      "slug": "new-attacks-raise-questions-about-what-comes-next-in-the-iran-war",
+      "sourceCount": 4,
+      "sources": [
+        {
+          "name": "AP News",
+          "url": "https://apnews.com/article/trump-iran-war-ceasefire-strikes-c45111ed270afa7dac285016ce07362f"
+        },
+        {
+          "name": "ABC News U.S.",
+          "url": "https://abcnews.com/US/wireStory/new-attacks-raise-questions-iran-war-134599224"
+        },
+        {
+          "name": "CBS News Politics",
+          "url": "https://www.cbsnews.com/video/trump-takes-questions-on-iran-war-at-nato-summit"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260708-iran-talks-in-doubts-as-trump-says-ceasefire-over"
+        }
+      ],
+      "storylineKey": "war-security-order",
+      "storylineTitle": "The War and Security Order",
+      "summary": "President Donald Trump says the Iran ceasefire is over after new fighting around the Strait of Hormuz, raising risks for shipping, oil prices, and diplomacy.",
+      "title": "Trump Says Iran Truce Is Over as Hormuz Strikes Threaten Oil Routes"
+    },
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-08T21:17:44.171Z",
+      "imagePath": "/live/media/trump-hails-unity-at-nato-summit-despite-recent-tensions.webp",
+      "claims": [
+        {
+          "claim": "Trump says NATO summit showed unity as Iran strikes, Greenland comments and defense demands keep allied security frictions visible.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "At the Turkey summit, allies heard warm praise after months of U.S. complaints that NATO does too little.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Iran questions followed recent U.S. strikes, with several allies described as staying on the sidelines.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Greenland returned to the agenda, turning a territorial demand into another alliance map problem.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Defense-spending projects worth billions became the alliance's proof point as leaders tried to show firepower.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Next, allies have to turn summit warmth into decisions on Iran, Greenland talk and defense spending.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Trump says NATO summit showed unity as Iran strikes, Greenland comments and defense demands keep allied security frictions visible.",
+        "At the Turkey summit, allies heard warm praise after months of U.S. complaints that NATO does too little.",
+        "Iran questions followed recent U.S. strikes, with several allies described as staying on the sidelines.",
+        "Greenland returned to the agenda, turning a territorial demand into another alliance map problem.",
+        "Defense-spending projects worth billions became the alliance's proof point as leaders tried to show firepower.",
+        "Next, allies have to turn summit warmth into decisions on Iran, Greenland talk and defense spending."
+      ],
+      "shortTitle": "Trump says NATO unity faces tests",
+      "slug": "trump-hails-unity-at-nato-summit-despite-recent-tensions",
+      "sourceCount": 6,
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/videos/cn75n0lyzedo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/world/watch-live-trump-holds-news-conference-at-nato-summit-in-turkey"
+        },
+        {
+          "name": "CBS News Latest",
+          "url": "https://www.cbsnews.com/news/trump-nato-leaders-news-conference-iran-strikes"
+        },
+        {
+          "name": "NBC News Politics",
+          "url": "https://www.nbcnews.com/now/video/trump-faces-questions-on-conflict-with-iran-during-nato-summit-press-conference-266378309632"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/americas/20260708-trump-says-he-will-allow-ukraine-to-make-its-own-patriot-missiles"
+        },
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/08/world/europe/nato-trump-europe.html"
+        }
+      ],
+      "storylineKey": "war-security-order",
+      "storylineTitle": "The War and Security Order",
+      "summary": "President Trump praised unity at the NATO summit in Turkey while Iran, Greenland and defense-spending disputes kept alliance strains visible.",
+      "title": "Trump says NATO unity faces Iran, Greenland and defense-spending tests"
+    },
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-08T19:23:11.033Z",
+      "imagePath": "/live/media/judge-orders-release-of-the-5-8-million-payment-that-trump-owed-e-jean-carroll.webp",
+      "claims": [
+        {
+          "claim": "Judge Kaplan orders court-held money released to E. Jean Carroll after Trump’s Supreme Court appeal was denied.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The $5.8 million account holds a 2023 jury award plus interest from the civil verdict.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Jurors found Trump liable for sexual abuse and defamation; he denies wrongdoing and keeps contesting the case.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The Supreme Court declined review on June 29, clearing the escrow account for release.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Trump’s lawyers sought more delay while asking the justices to reconsider, keeping payment timing contested.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The remaining steps are transfer timing, the rehearing request, and Trump’s new notice of appeal.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Judge Kaplan orders court-held money released to E. Jean Carroll after Trump’s Supreme Court appeal was denied.",
+        "The $5.8 million account holds a 2023 jury award plus interest from the civil verdict.",
+        "Jurors found Trump liable for sexual abuse and defamation; he denies wrongdoing and keeps contesting the case.",
+        "The Supreme Court declined review on June 29, clearing the escrow account for release.",
+        "Trump’s lawyers sought more delay while asking the justices to reconsider, keeping payment timing contested.",
+        "The remaining steps are transfer timing, the rehearing request, and Trump’s new notice of appeal."
+      ],
+      "shortTitle": "Judge orders Trump escrow released",
+      "slug": "judge-orders-release-of-the-5-8-million-payment-that-trump-owed-e-jean-carroll",
+      "sourceCount": 4,
+      "sources": [
+        {
+          "name": "The Guardian US",
+          "url": "https://www.theguardian.com/us-news/2026/jul/08/trump-e-jean-carroll-settlement"
+        },
+        {
+          "name": "CBS News Latest",
+          "url": "https://www.cbsnews.com/news/trump-seeking-delay-payment-e-jean-carroll-asks-supreme-court-to-reconsider"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/politics/donald-trump/judge-orders-release-58-million-payment-trump-owed-e-jean-carroll-rcna353512"
+        },
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/08/us/politics/trump-e-jean-carroll-5-million-payment.html"
+        }
+      ],
+      "storylineKey": "governing-crisis",
+      "storylineTitle": "U.S. Elections",
+      "summary": "A Manhattan federal judge ordered court-held funds released to E. Jean Carroll after the Supreme Court declined to hear Donald Trump’s appeal of her civil sexual abuse and defamation verdict.",
+      "title": "Judge orders $5.8 million in Trump escrow released to E. Jean Carroll"
+    },
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-08T18:35:02.788Z",
+      "imagePath": "/live/media/tensions-with-iran-add-fresh-uncertainty-to-an-already-shaky-global-economy.webp",
+      "claims": [
+        {
+          "claim": "Trump says the Iran ceasefire is over; oil prices move Strait of Hormuz risk into U.S. inflation forecasts.",
+          "panel": 1,
+          "sourceIndexes": [
+            0
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The chain starts with tanker attacks, U.S. strikes, and crude shipments through the Strait of Hormuz.",
+          "panel": 2,
+          "sourceIndexes": [
+            0
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Brent rose 6.3% to $78.80; WTI, the U.S. benchmark, climbed 6.4% to $75.",
+          "panel": 3,
+          "sourceIndexes": [
+            0
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Higher crude raises gasoline and transportation costs, while the Dow fell 623 points in the market selloff.",
+          "panel": 4,
+          "sourceIndexes": [
+            0
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Inflation risk can trigger a higher-rate path at the Federal Reserve, tightening conditions across the U.S. economy.",
+          "panel": 5,
+          "sourceIndexes": [
+            0
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Watch the revoked oil-sales waiver, Strait traffic, and benchmarks as the price shock moves through markets.",
+          "panel": 6,
+          "sourceIndexes": [
+            0
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Trump says the Iran ceasefire is over; oil prices move Strait of Hormuz risk into U.S. inflation forecasts.",
+        "The chain starts with tanker attacks, U.S. strikes, and crude shipments through the Strait of Hormuz.",
+        "Brent rose 6.3% to $78.80; WTI, the U.S. benchmark, climbed 6.4% to $75.",
+        "Higher crude raises gasoline and transportation costs, while the Dow fell 623 points in the market selloff.",
+        "Inflation risk can trigger a higher-rate path at the Federal Reserve, tightening conditions across the U.S. economy.",
+        "Watch the revoked oil-sales waiver, Strait traffic, and benchmarks as the price shock moves through markets."
+      ],
+      "shortTitle": "Iran Tensions Hit Oil and Rates",
+      "slug": "tensions-with-iran-add-fresh-uncertainty-to-an-already-shaky-global-economy",
+      "sourceCount": 1,
+      "sources": [
+        {
+          "name": "CBS News Latest",
+          "url": "https://www.cbsnews.com/news/dow-oil-prices-strait-of-hormuz-trump/"
+        }
+      ],
+      "storylineKey": "war-security-order",
+      "storylineTitle": "The War and Security Order",
+      "summary": "Trump says the Iran ceasefire is over; oil prices rose, stocks fell, and markets began pricing Strait of Hormuz risk into inflation and Federal Reserve rate expectations.",
+      "title": "Iran Tensions Raise Fed Rate Risk"
+    },
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-08T15:24:44.425Z",
+      "imagePath": "/live/media/sanders-warren-drop-endorsements-of-maine-s-graham-platner.webp",
+      "claims": [
+        {
+          "claim": "Warren and Sanders say Maine Democrats face a July 13 ballot deadline after they withdrew support from Platner.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "A new nonconsensual sexual conduct allegation triggered the calls; Platner denies the allegation.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Former allies are speaking up as the party weighs whether its nominee can stay in the race.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "If Platner steps aside by July 13, Maine Democrats can try to replace him on ballots.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Party officials accuse Platner’s team of trying to influence who would choose a replacement.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The next choice is exit before the deadline or a Senate race with Platner still nominated.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Warren and Sanders say Maine Democrats face a July 13 ballot deadline after they withdrew support from Platner.",
+        "A new nonconsensual sexual conduct allegation triggered the calls; Platner denies the allegation.",
+        "Former allies are speaking up as the party weighs whether its nominee can stay in the race.",
+        "If Platner steps aside by July 13, Maine Democrats can try to replace him on ballots.",
+        "Party officials accuse Platner’s team of trying to influence who would choose a replacement.",
+        "The next choice is exit before the deadline or a Senate race with Platner still nominated."
+      ],
+      "shortTitle": "Sanders, Warren Call for Platner to Quit Before Maine Ballot Deadline",
+      "slug": "sanders-warren-drop-endorsements-of-maine-s-graham-platner",
+      "sourceCount": 6,
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/live/2026/jul/08/graham-platner-democrats-senate-bernie-sanders-maine-donald-trump-us-politics-live"
+        },
+        {
+          "name": "CBS News Politics",
+          "url": "https://www.cbsnews.com/video/breaking-down-graham-platner-allegations-pressure-democrats"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://www.today.com/video/top-democrats-call-on-graham-platner-to-quit-maine-senate-race-266358341729"
+        },
+        {
+          "name": "NBC News Politics",
+          "url": "https://www.nbcnews.com/nightly-news/video/platner-faces-growing-calls-to-drop-out-after-rape-allegation-266333765969"
+        },
+        {
+          "name": "Politico",
+          "url": "https://www.politico.com/news/2026/07/07/maine-voters-graham-platner-biden-harris-fears-00989673"
+        },
+        {
+          "name": "The New York Times U.S.",
+          "url": "https://www.nytimes.com/2026/07/07/us/politics/graham-platner-maine-senate-democrats.html"
+        }
+      ],
+      "storylineKey": "governing-crisis",
+      "storylineTitle": "U.S. Elections",
+      "summary": "Sen. Bernie Sanders and Sen. Elizabeth Warren called for Maine Democratic Senate nominee Graham Platner to step aside after a new nonconsensual sexual conduct allegation, which Platner denies. July 13 is reported as the deadline for Maine Democrats to replace him on the ballot.",
+      "title": "Sanders, Warren Call for Platner to Quit Before Maine Ballot Deadline"
+    },
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-08T13:18:38.612Z",
+      "imagePath": "/live/media/at-nato-summit-in-turkey-trump-says-he-believes-ceasefire-with-iran-is-over.webp",
+      "claims": [
+        {
+          "claim": "Trump said the U.S.-Iran ceasefire is over after new strikes, putting diplomacy and regional security back at risk.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "At the NATO summit in Ankara, the statement turned an alliance podium into a Middle East crisis marker.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "U.S. and Iranian officials accused each other of violating last month's ceasefire as hostilities escalated overnight.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The dispute widens a security corridor from Washington's diplomacy to the Middle East battlefield.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Trump said he no longer wanted to negotiate with Iran, calling further talks a waste of time.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Further attacks now decide whether last month's interim deal can still stop the war.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Trump said the U.S.-Iran ceasefire is over after new strikes, putting diplomacy and regional security back at risk.",
+        "At the NATO summit in Ankara, the statement turned an alliance podium into a Middle East crisis marker.",
+        "U.S. and Iranian officials accused each other of violating last month's ceasefire as hostilities escalated overnight.",
+        "The dispute widens a security corridor from Washington's diplomacy to the Middle East battlefield.",
+        "Trump said he no longer wanted to negotiate with Iran, calling further talks a waste of time.",
+        "Further attacks now decide whether last month's interim deal can still stop the war."
+      ],
+      "shortTitle": "Trump says Iran ceasefire is over as attacks put diplomacy at risk",
+      "slug": "at-nato-summit-in-turkey-trump-says-he-believes-ceasefire-with-iran-is-over",
+      "sourceCount": 3,
+      "sources": [
+        {
+          "name": "CBS News Latest",
+          "url": "https://www.cbsnews.com/video/trump-says-ceasefire-with-iran-is-over-a-waste-of-time-dealing-with-them"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://www.today.com/video/us-and-iran-trade-new-attacks-trump-says-ceasefire-is-over-266357317832"
+        },
+        {
+          "name": "CNBC World News",
+          "url": "https://www.cnbc.com/2026/07/08/trump-says-iran-ceasefire-is-over-after-latest-round-of-strikes.html"
+        }
+      ],
+      "storylineKey": "war-security-order",
+      "storylineTitle": "The War and Security Order",
+      "summary": "President Trump said at the NATO summit in Ankara that the U.S.-Iran ceasefire is over after new attacks and mutual violation accusations, leaving diplomacy and regional security at risk.",
+      "title": "Trump says Iran ceasefire is over as attacks put diplomacy at risk"
+    },
+    {
+      "category": "World",
+      "contentType": "brief",
+      "generatedAt": "2026-07-08T11:13:42.621Z",
+      "imagePath": "/live/media/trump-says-iran-ceasefire-is-over-after-latest-round-of-strikes.webp",
+      "claims": [
+        {
+          "claim": "Trump says the Iran ceasefire is over after fresh strikes, putting U.S. military sites and oil markets back at risk.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "At a NATO summit in Ankara, he said talks could continue but called dealing with Tehran a waste of time.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The fighting followed last month's interim deal, which called for ending conflict and keeping vessels moving through Hormuz.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "U.S. and Iranian officials accused each other of breaking the ceasefire after overnight strikes reopened the military exchange.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Iran said it hit bases hosting U.S. forces in Kuwait and Bahrain after U.S. strikes.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Talks, Hormuz shipping, and U.S. force protection now show whether the ceasefire can be rebuilt.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Trump says the Iran ceasefire is over after fresh strikes, putting U.S. military sites and oil markets back at risk.",
+        "At a NATO summit in Ankara, he said talks could continue but called dealing with Tehran a waste of time.",
+        "The fighting followed last month's interim deal, which called for ending conflict and keeping vessels moving through Hormuz.",
+        "U.S. and Iranian officials accused each other of breaking the ceasefire after overnight strikes reopened the military exchange.",
+        "Iran said it hit bases hosting U.S. forces in Kuwait and Bahrain after U.S. strikes.",
+        "Talks, Hormuz shipping, and U.S. force protection now show whether the ceasefire can be rebuilt."
+      ],
+      "shortTitle": "Trump Says Iran Ceasefire Over as Strikes Threaten U.S. Forces",
+      "slug": "trump-says-iran-ceasefire-is-over-after-latest-round-of-strikes",
+      "sourceCount": 4,
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "CNBC Top News",
+          "url": "https://www.cnbc.com/2026/07/08/trump-says-iran-ceasefire-is-over-after-latest-round-of-strikes.html"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/8/trump-says-ceasefire-over-after-us-iran-trade-attacks?traffic_source=rss"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260708-trump-says-ceasefire-with-iran-is-over-after-us-strikes"
+        }
+      ],
+      "storylineKey": "war-security-order",
+      "storylineTitle": "The War and Security Order",
+      "summary": "Trump said the ceasefire with Iran was over after renewed strikes, leaving talks, U.S. forces, and Hormuz shipping in doubt.",
+      "title": "Trump Says Iran Ceasefire Over as Strikes Threaten U.S. Forces"
+    },
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-08T08:40:47.971Z",
+      "imagePath": "/live/media/republican-leaders-say-they-ve-spoken-with-mitch-mcconnell-since-hospitalization.webp",
+      "claims": [
+        {
+          "claim": "Senate GOP says McConnell remains hospitalized while the public lacks a diagnosis, discharge date, or return timeline.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Thune’s office said he spoke with McConnell Monday while the Kentucky senator remained in the hospital.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Barrasso’s office also reported recent contact, but McConnell’s condition and discharge timing were not detailed.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "McConnell was first reported hospitalized June 14 for an unknown condition, extending the absence beyond three weeks.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "His office says he is improving and working with staff on Kentucky and Senate matters.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Next public signal: a medical update, discharge plan, or timetable for returning to Senate work.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Senate GOP says McConnell remains hospitalized while the public lacks a diagnosis, discharge date, or return timeline.",
+        "Thune’s office said he spoke with McConnell Monday while the Kentucky senator remained in the hospital.",
+        "Barrasso’s office also reported recent contact, but McConnell’s condition and discharge timing were not detailed.",
+        "McConnell was first reported hospitalized June 14 for an unknown condition, extending the absence beyond three weeks.",
+        "His office says he is improving and working with staff on Kentucky and Senate matters.",
+        "Next public signal: a medical update, discharge plan, or timetable for returning to Senate work."
+      ],
+      "shortTitle": "GOP Leaders Give No Return Timeline for McConnell",
+      "slug": "republican-leaders-say-they-ve-spoken-with-mitch-mcconnell-since-hospitalization",
+      "sourceCount": 4,
+      "sources": [
+        {
+          "name": "ABC News Top Stories",
+          "url": "https://abcnews.com/Politics/senate-republican-leaders-spoken-mitch-mcconnell-remains-hospitalized/story?id=134561292"
+        },
+        {
+          "name": "CBS News Latest",
+          "url": "https://www.cbsnews.com/video/what-happens-when-lawmaker-takes-extended-absence"
+        },
+        {
+          "name": "Politico Congress",
+          "url": "https://www.politico.com/live-updates/2026/07/07/congress/mitch-mcconnell-health-thune-barrasso-00988874"
+        },
+        {
+          "name": "The New York Times U.S.",
+          "url": "https://www.nytimes.com/2026/07/07/us/politics/mitch-mcconnell-hospital-thune-barrasso.html"
+        }
+      ],
+      "storylineKey": "",
+      "storylineTitle": "",
+      "summary": "Spokespeople for Senate Republican leaders John Thune and John Barrasso said they have spoken with Mitch McConnell while he remains hospitalized after a June 14 admission, but his office has not provided a diagnosis, discharge date, or Senate return timeline.",
+      "title": "Senate GOP Says McConnell Remains Hospitalized With No Return Timeline"
+    },
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-08T05:49:16.576Z",
+      "imagePath": "/live/media/u-s-strikes-iran-and-reimposes-sanctions-after-tanker-attacks.webp",
+      "claims": [
+        {
+          "claim": "U.S. strikes hit Iranian military sites after tanker attacks, while Treasury froze new oil-sales waivers tied to Hormuz shipping.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "A Strait map shows commercial ships and oil tankers crossing the corridor Iran was accused of attacking.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "CENTCOM said precision strikes hit air-defense, radar, missile, drone and port targets near the strait.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Treasury replaced General License X with X1, ending new Iranian oil sales after Tuesday.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Transactions already underway get until July 17; proceeds move into blocked, interest-bearing accounts.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Brent reached $75 and WTI $71 as renewed Hormuz risk moved through oil markets.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "U.S. strikes hit Iranian military sites after tanker attacks, while Treasury froze new oil-sales waivers tied to Hormuz shipping.",
+        "A Strait map shows commercial ships and oil tankers crossing the corridor Iran was accused of attacking.",
+        "CENTCOM said precision strikes hit air-defense, radar, missile, drone and port targets near the strait.",
+        "Treasury replaced General License X with X1, ending new Iranian oil sales after Tuesday.",
+        "Transactions already underway get until July 17; proceeds move into blocked, interest-bearing accounts.",
+        "Brent reached $75 and WTI $71 as renewed Hormuz risk moved through oil markets."
+      ],
+      "shortTitle": "U.S. Strikes Iran and Reimposes Sanctions",
+      "slug": "u-s-strikes-iran-and-reimposes-sanctions-after-tanker-attacks",
+      "sourceCount": 4,
+      "sources": [
+        {
+          "name": "Axios",
+          "url": "https://www.axios.com/2026/07/07/us-revokes-iran-oil-waivers-hormuz-strait-attacks"
+        },
+        {
+          "name": "CBS News Politics",
+          "url": "https://www.axios.com/2026/07/07/us-strikes-iran-hormuz-ship-attacks"
+        },
+        {
+          "name": "The New York Times World",
+          "url": "https://www.cbsnews.com/news/us-rescinds-waiver-permitting-iranian-oil-sales-after-iranian-attacks-on-tankers"
+        },
+        {
+          "name": "nytimes.com",
+          "url": "https://www.nytimes.com/2026/07/07/us/politics/us-strikes-iran-tanker-attacks.html"
+        }
+      ],
+      "storylineKey": "war-security-order",
+      "storylineTitle": "The War and Security Order",
+      "summary": "The military operation came hours after the U.S. Treasury revoked a waiver allowing global sales of Iranian oil.",
+      "title": "U.S. Strikes Iran and Reimposes Sanctions After Tanker Attacks"
+    },
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-08T03:25:58.219Z",
+      "imagePath": "/live/media/judge-blocks-doj-bid-for-fulton-election-worker-data.webp",
+      "claims": [
+        {
+          "claim": "Atlanta judge blocks DOJ subpoena for Fulton County 2020 election worker data, putting privacy at the center.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The April demand sought names, home addresses, phone numbers and identifiers for thousands of 2020 workers.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The order called DOJ's need questionable and said the disclosure burden made the subpoena unreasonable.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Fulton County argued the demand would target and harass perceived political opponents tied to 2020 ballots.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Judge William Ray warned mass disclosure could chill future election participation by workers who run polls.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "For now, Fulton County keeps the worker list out of DOJ's 2020 election probe.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Atlanta judge blocks DOJ subpoena for Fulton County 2020 election worker data, putting privacy at the center.",
+        "The April demand sought names, home addresses, phone numbers and identifiers for thousands of 2020 workers.",
+        "The order called DOJ's need questionable and said the disclosure burden made the subpoena unreasonable.",
+        "Fulton County argued the demand would target and harass perceived political opponents tied to 2020 ballots.",
+        "Judge William Ray warned mass disclosure could chill future election participation by workers who run polls.",
+        "For now, Fulton County keeps the worker list out of DOJ's 2020 election probe."
+      ],
+      "shortTitle": "Court Ruling Blocks DOJ Data Subpoena for Election Workers",
+      "slug": "judge-blocks-doj-bid-for-fulton-election-worker-data",
+      "sourceCount": 3,
+      "sources": [
+        {
+          "name": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/show/news-wrap-judge-rejects-trumps-attempt-to-collect-georgia-election-worker-info"
+        },
+        {
+          "name": "ABC News Top Stories",
+          "url": "https://abcnews.com/US/judge-quashes-doj-subpoena-seeking-fulton-county-election/story?id=134562046"
+        },
+        {
+          "name": "CNBC Top News",
+          "url": "https://www.cnbc.com/2026/07/07/doj-subpoena-fulton-county-georgia-election-trump.html"
+        }
+      ],
+      "storylineKey": "governing-crisis",
+      "storylineTitle": "U.S. Elections",
+      "summary": "A federal judge quashed an April DOJ subpoena for Fulton County 2020 election workers' personal data, calling the request unreasonable and warning that mass disclosure could chill participation.",
+      "title": "Court Ruling Blocks DOJ Data Subpoena for Election Workers"
+    },
+    {
+      "category": "Sports & Culture",
+      "contentType": "brief",
+      "generatedAt": "2026-07-08T02:12:25.591Z",
+      "imagePath": "/live/media/after-trump-intervention-balogun-plays-vs-belgium.webp",
+      "claims": [
+        {
+          "claim": "FIFA changes Balogun's one-game red-card ban into probation, letting the U.S. striker face Belgium after appeal.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The red-card rule normally starts a one-match suspension path; the Bosnia challenge put Belgium on the board.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "A U.S. appeal file was already moving before Trump's call; FIFA's disciplinary body held the formal review.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Article 27 document let FIFA pause the punishment's implementation and attach a one-year probation tag.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Belgium's federation opened a challenge case, saying the ruling affected participating teams' legitimate rights.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "If Balogun commits a similar infringement during probation, FIFA says the suspended sanction can be enforced.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "FIFA changes Balogun's one-game red-card ban into probation, letting the U.S. striker face Belgium after appeal.",
+        "The red-card rule normally starts a one-match suspension path; the Bosnia challenge put Belgium on the board.",
+        "A U.S. appeal file was already moving before Trump's call; FIFA's disciplinary body held the formal review.",
+        "Article 27 document let FIFA pause the punishment's implementation and attach a one-year probation tag.",
+        "Belgium's federation opened a challenge case, saying the ruling affected participating teams' legitimate rights.",
+        "If Balogun commits a similar infringement during probation, FIFA says the suspended sanction can be enforced."
+      ],
+      "shortTitle": "FIFA's Balogun Reversal, Explained",
+      "slug": "after-trump-intervention-balogun-plays-vs-belgium",
+      "sourceCount": 4,
+      "sources": [
+        {
+          "name": "Axios",
+          "url": "https://www.axios.com/2026/07/05/folarin-balogun-cleared-usmnt-belgium-fifa-red-card"
+        },
+        {
+          "name": "Vox",
+          "url": "https://www.vox.com/culture/494449/balogun-red-card-world-cup-2026-us-belgium-trump-explained"
+        },
+        {
+          "name": "Politico",
+          "url": "https://www.politico.com/live-updates/2026/07/06/world-cup-2026/folarin-balogun-united-states-belgium-world-cup-00988380"
+        },
+        {
+          "name": "The New York Times World",
+          "url": "https://www.nytimes.com/2026/07/06/world/europe/fifa-trump-infantino-world-cup-red-card.html"
+        }
+      ],
+      "storylineKey": "",
+      "storylineTitle": "",
+      "summary": "FIFA suspended implementation of Folarin Balogun's one-game red-card ban for a one-year probation period, letting him play Belgium after U.S. appeal activity and drawing objections from Belgium's federation.",
+      "title": "FIFA's Balogun Reversal, Explained"
+    },
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-08T01:35:22.290Z",
+      "imagePath": "/live/media/judge-rejects-doj-s-attempt-to-get-names-of-2020-election-workers-in-fulton-coun.webp",
+      "claims": [
+        {
+          "claim": "Judge blocks a DOJ subpoena for Fulton County election worker names and contact information.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The April subpoena targeted employees and volunteer poll workers from the 2020 election.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Fulton County argued disclosure could expose election workers to harassment risks and retaliation claims.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Judge William Ray called the request low-need, highly burdensome and staggering in scope.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The ruling limits how prosecutors may use a grand jury to demand election-worker data.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Any renewed demand for worker data must satisfy the court's burden-and-need test.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Judge blocks a DOJ subpoena for Fulton County election worker names and contact information.",
+        "The April subpoena targeted employees and volunteer poll workers from the 2020 election.",
+        "Fulton County argued disclosure could expose election workers to harassment risks and retaliation claims.",
+        "Judge William Ray called the request low-need, highly burdensome and staggering in scope.",
+        "The ruling limits how prosecutors may use a grand jury to demand election-worker data.",
+        "Any renewed demand for worker data must satisfy the court's burden-and-need test."
+      ],
+      "shortTitle": "Court blocks DOJ worker-data subpoena",
+      "slug": "judge-rejects-doj-s-attempt-to-get-names-of-2020-election-workers-in-fulton-coun",
+      "sourceCount": 3,
+      "sources": [
+        {
+          "name": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/politics/judge-rejects-justice-departments-unreasonable-attempt-to-get-names-of-2020-election-workers-in-fulton-county"
+        },
+        {
+          "name": "ABC News Politics",
+          "url": "https://abcnews.com/Politics/wireStory/judge-rejects-justice-department-attempt-names-2020-election-134561868"
+        },
+        {
+          "name": "CBS News Latest",
+          "url": "https://www.cbsnews.com/news/judge-rejects-justice-department-attempt-to-get-names-of-2020-election-workers-in-fulton-county"
+        }
+      ],
+      "storylineKey": "governing-crisis",
+      "storylineTitle": "U.S. Elections",
+      "summary": "A federal judge quashed a Justice Department subpoena seeking Fulton County 2020 election worker names and contact information, calling the request too burdensome and unreasonable.",
+      "title": "Court Blocks DOJ Worker-Data Subpoena in Fulton"
+    },
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-07T23:16:40.839Z",
+      "imagePath": "/live/media/iran-s-strikes-on-ships-in-strait-of-hormuz-threaten-oil-flow.webp",
+      "claims": [
+        {
+          "claim": "Iranian attacks damaged three commercial vessels near Hormuz; U.S. strikes answered in a lane crews and energy markets watch.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "CENTCOM said the U.S. strikes were meant to impose heavy costs for attacks on commercial shipping crews.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Iran’s deputy foreign minister called the U.S. action a violation of last month’s memorandum and warned of measures.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "U.S. officials called the vessel attacks unacceptable and said Iran would face consequences for the Hormuz strikes.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The U.S. also revoked an Iranian oil-sale waiver, tying the military response to pressure on Tehran’s revenue.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Qatar said Iran bears legal responsibility after tankers, including a Qatari LNG vessel, were struck within hours.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Iranian attacks damaged three commercial vessels near Hormuz; U.S. strikes answered in a lane crews and energy markets watch.",
+        "CENTCOM said the U.S. strikes were meant to impose heavy costs for attacks on commercial shipping crews.",
+        "Iran’s deputy foreign minister called the U.S. action a violation of last month’s memorandum and warned of measures.",
+        "U.S. officials called the vessel attacks unacceptable and said Iran would face consequences for the Hormuz strikes.",
+        "The U.S. also revoked an Iranian oil-sale waiver, tying the military response to pressure on Tehran’s revenue.",
+        "Qatar said Iran bears legal responsibility after tankers, including a Qatari LNG vessel, were struck within hours."
+      ],
+      "shortTitle": "Iran Tanker Attacks Draw U.S. Strikes",
+      "slug": "iran-s-strikes-on-ships-in-strait-of-hormuz-threaten-oil-flow",
+      "sourceCount": 10,
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/show/u-s-launches-new-strikes-on-iran-after-attacks-on-tankers-in-strait-of-hormuz"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/jul/07/qatar-says-iran-fully-responsible-after-tankers-struck-in-strait-of-hormuz"
+        },
+        {
+          "name": "Axios",
+          "url": "https://www.axios.com/2026/07/07/us-strikes-iran-hormuz-ship-attacks"
+        },
+        {
+          "name": "CBS News Latest",
+          "url": "https://www.cbsnews.com/live-updates/iran-us-war-strait-of-hormuz-trump-nato"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/world/iran/us-launches-new-attacks-iran-retaliation-attacks-commercial-ships-us-m-rcna353411"
+        },
+        {
+          "name": "CNBC Top News",
+          "url": "https://www.cnbc.com/2026/07/07/us-strikes-iran-hormuz-ships.html"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/7/us-says-strikes-launched-as-explosions-heard-in-southern-iran?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/iran-war-us-launches-fresh-strikes-after-attacks-in-hormuz/live-77869350?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/07/world/middleeast/iran-war-oman-hormuz-tanker.html"
+        }
+      ],
+      "storylineKey": "war-security-order",
+      "storylineTitle": "The War and Security Order",
+      "summary": "U.S. forces struck Iran after Iranian attacks damaged three commercial vessels near the Strait of Hormuz, raising security and energy-market risks around a key oil and LNG route.",
+      "title": "Iran’s Strikes on Ships in Strait of Hormuz Threaten Oil Flow"
     }
-  ]
+  ],
+  "dailyPaper": {
+    "briefs": [
+      {
+        "category": "U.S. & Politics",
+        "shortTitle": "Trump Lets Housing Bill Become Law Without Signing",
+        "slug": "trump-lets-housing-bill-become-law-without-signing",
+        "summary": "The bipartisan housing bill takes effect without Trump's signature because he chose not to sign or veto it while demanding action on voter ID legislation.",
+        "title": "Trump Lets Housing Bill Become Law as Voter ID Demand Stalls Signing"
+      },
+      {
+        "category": "U.S. & Politics",
+        "shortTitle": "Trump leaves election agency without members",
+        "slug": "trump-leaves-election-assistance-commission-without-members",
+        "summary": "Trump removed the remaining Election Assistance Commission members, leaving the federal election-administration agency without commissioners months before the midterms.",
+        "title": "Trump leaves Election Assistance Commission without members"
+      },
+      {
+        "category": "Money",
+        "shortTitle": "EasyJet agrees to Apollo's $7.7B bid, sidelining Castlelake offer",
+        "slug": "easyjet-agrees-to-apollo-7-7b-bid-sidelining-castlelake-offer",
+        "summary": "British budget airline EasyJet says it has reached an agreement in principle on Apollo's £5.7 billion ($7.7 billion) takeover offer, above Castlelake's rival proposal.",
+        "title": "EasyJet agrees to Apollo's $7.7B bid, sidelining Castlelake offer"
+      },
+      {
+        "category": "Guide",
+        "shortTitle": "Bills Without a Signature",
+        "slug": "how-bills-become-law-without-a-signature",
+        "summary": "A U.S. bill can become law after House and Senate passage when the enrolled bill reaches the president, the 10-day clock runs without a signed approval or returned veto, and Congress remains able to receive a return message.",
+        "title": "How Bills Become Law Without a Signature"
+      },
+      {
+        "category": "Guide",
+        "shortTitle": "The Digital Services Act, Explained",
+        "slug": "how-the-digital-services-act-works",
+        "summary": "The Digital Services Act turns online-platform risks into EU duties: user rights, very-large-platform designation, systemic-risk assessments, mitigation measures, audits, data access and enforcement deadlines.",
+        "title": "How the Digital Services Act Works"
+      }
+    ],
+    "categories": [
+      "U.S. & Politics",
+      "Money",
+      "Guide"
+    ],
+    "date": "2026-07-10",
+    "imagePath": "/live/papers/2026-07-10.webp",
+    "leadTitle": "Trump Lets Housing Bill Become Law as Voter ID Demand Stalls Signing",
+    "shortHeadline": "Trump Lets Housing Bill Become Law as Voter ID Demand Stalls Signing leads the daily briefing.",
+    "sourceTotal": 22,
+    "summary": "Trump Lets Housing Bill Become Law as Voter ID Demand Stalls Signing leads a five-brief front page across 3 sections.",
+    "topStripCount": 5,
+    "updatedAt": "2026-07-11T03:57:11.476Z"
+  },
+  "feeds": {
+    "categories": {
+      "Guide": [
+        "how-us-senate-vacancies-are-filled",
+        "how-ev-battery-recycling-works",
+        "how-national-bank-charters-work",
+        "what-the-election-assistance-commission-does",
+        "how-bills-become-law-without-a-signature",
+        "how-the-digital-services-act-works",
+        "how-mortgage-rates-move",
+        "how-federal-race-and-ethnicity-data-works"
+      ],
+      "Money": [
+        "paramount-and-warner-bros-sued-to-block-110bn-mega-merger",
+        "easyjet-agrees-to-apollo-7-7b-bid-sidelining-castlelake-offer",
+        "what-to-know-about-u-s-oil-production-and-consumption-in-6-charts",
+        "fed-minutes-officials-deeply-divided-over-future-path-of-us-inflation"
+      ],
+      "World": [
+        "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
+        "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
+        "trump-says-iran-ceasefire-is-over",
+        "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the",
+        "one-of-spain-s-deadliest-wildfires-kills-at-least-12-people-with-23-others-missi",
+        "trump-says-iran-ceasefire-is-over-after-latest-round-of-strikes"
+      ],
+      "U.S. & Politics": [
+        "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa",
+        "grahams-death-opens-senate-seat-as-gop-guards-slim-majority",
+        "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
+        "200-young-campers-staff-rescued-amid-record-flooding-in-missouri",
+        "justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporti",
+        "apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secr",
+        "graham-platner-officially-withdraws-from-the-maine-senate-race",
+        "maine-democrats-announce-july-25-convention-to-pick-platner-replacement",
+        "trump-leaves-election-assistance-commission-without-members",
+        "trump-lets-housing-bill-become-law-without-signing",
+        "chatgpt-56-security-gate",
+        "trump-returns-from-turkey-in-old-air-force-one-jet-due-to-security-concerns",
+        "us-and-iran-exchange-back-and-forth-strikes-for-second-day",
+        "olympian-david-hearn-pleads-not-guilty-to-charges-of-damaging-reflecting-pool",
+        "latino-trump-voters-are-less-likely-than-harris-voters-to-say-being-latino-is-ce",
+        "maine-democrats-vote-to-replace-platner-before-july-13-senate-deadline",
+        "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
+        "new-attacks-raise-questions-about-what-comes-next-in-the-iran-war",
+        "trump-hails-unity-at-nato-summit-despite-recent-tensions",
+        "judge-orders-release-of-the-5-8-million-payment-that-trump-owed-e-jean-carroll",
+        "tensions-with-iran-add-fresh-uncertainty-to-an-already-shaky-global-economy",
+        "sanders-warren-drop-endorsements-of-maine-s-graham-platner",
+        "at-nato-summit-in-turkey-trump-says-he-believes-ceasefire-with-iran-is-over",
+        "republican-leaders-say-they-ve-spoken-with-mitch-mcconnell-since-hospitalization",
+        "u-s-strikes-iran-and-reimposes-sanctions-after-tanker-attacks",
+        "judge-blocks-doj-bid-for-fulton-election-worker-data",
+        "judge-rejects-doj-s-attempt-to-get-names-of-2020-election-workers-in-fulton-coun",
+        "iran-s-strikes-on-ships-in-strait-of-hormuz-threaten-oil-flow"
+      ],
+      "Tech & Science": [
+        "how-to-prevent-meta-from-using-your-instagram-images-in-a-i"
+      ],
+      "Sports & Culture": [
+        "after-trump-intervention-balogun-plays-vs-belgium"
+      ]
+    },
+    "guides": [
+      "how-us-senate-vacancies-are-filled",
+      "how-ev-battery-recycling-works",
+      "how-national-bank-charters-work",
+      "what-the-election-assistance-commission-does",
+      "how-bills-become-law-without-a-signature",
+      "how-the-digital-services-act-works",
+      "how-mortgage-rates-move",
+      "how-federal-race-and-ethnicity-data-works"
+    ],
+    "storylines": {
+      "governing-crisis": [
+        "how-us-senate-vacancies-are-filled",
+        "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa",
+        "grahams-death-opens-senate-seat-as-gop-guards-slim-majority",
+        "graham-platner-officially-withdraws-from-the-maine-senate-race",
+        "what-the-election-assistance-commission-does",
+        "maine-democrats-announce-july-25-convention-to-pick-platner-replacement",
+        "trump-leaves-election-assistance-commission-without-members",
+        "trump-lets-housing-bill-become-law-without-signing",
+        "how-federal-race-and-ethnicity-data-works",
+        "latino-trump-voters-are-less-likely-than-harris-voters-to-say-being-latino-is-ce",
+        "maine-democrats-vote-to-replace-platner-before-july-13-senate-deadline",
+        "judge-orders-release-of-the-5-8-million-payment-that-trump-owed-e-jean-carroll",
+        "sanders-warren-drop-endorsements-of-maine-s-graham-platner",
+        "judge-blocks-doj-bid-for-fulton-election-worker-data",
+        "judge-rejects-doj-s-attempt-to-get-names-of-2020-election-workers-in-fulton-coun"
+      ],
+      "new-energy-system": [
+        "how-ev-battery-recycling-works"
+      ],
+      "war-security-order": [
+        "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
+        "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
+        "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
+        "trump-says-iran-ceasefire-is-over",
+        "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the",
+        "trump-returns-from-turkey-in-old-air-force-one-jet-due-to-security-concerns",
+        "us-and-iran-exchange-back-and-forth-strikes-for-second-day",
+        "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
+        "new-attacks-raise-questions-about-what-comes-next-in-the-iran-war",
+        "trump-hails-unity-at-nato-summit-despite-recent-tensions",
+        "tensions-with-iran-add-fresh-uncertainty-to-an-already-shaky-global-economy",
+        "at-nato-summit-in-turkey-trump-says-he-believes-ceasefire-with-iran-is-over",
+        "trump-says-iran-ceasefire-is-over-after-latest-round-of-strikes",
+        "u-s-strikes-iran-and-reimposes-sanctions-after-tanker-attacks",
+        "iran-s-strikes-on-ships-in-strait-of-hormuz-threaten-oil-flow"
+      ],
+      "ai-buildout": [
+        "apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secr",
+        "chatgpt-56-security-gate",
+        "how-to-prevent-meta-from-using-your-instagram-images-in-a-i"
+      ]
+    }
+  }
 }
