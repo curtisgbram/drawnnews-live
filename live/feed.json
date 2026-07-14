@@ -1,8 +1,145 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-14T13:29:07.259Z",
-  "rolling24HourCount": 4,
+  "updatedAt": "2026-07-14T17:08:36.750Z",
+  "rolling24HourCount": 3,
   "comics": [
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-14T17:07:50.798Z",
+      "imagePath": "/live/media/justice-kagan-calls-for-additional-supreme-court-security-funding.webp",
+      "claims": [
+        {
+          "claim": "Supreme Court Justice Elena Kagan asks Congress for $14.6 million to expand security as threats against justices rise.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Kagan and Barrett made a rare appearance before a House panel to defend the court's budget request.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The court seeks more than $228 million, an increase of over $20 million from its current budget.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Each justice now has four to eight security officers, with larger details during specific threats or public events.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Recent budget growth has gone largely to security, including protection at justices' homes.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Congress must decide the next fiscal year's funding before it begins October 1.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Supreme Court Justice Elena Kagan asks Congress for $14.6 million to expand security as threats against justices rise.",
+        "Kagan and Barrett made a rare appearance before a House panel to defend the court's budget request.",
+        "The court seeks more than $228 million, an increase of over $20 million from its current budget.",
+        "Each justice now has four to eight security officers, with larger details during specific threats or public events.",
+        "Recent budget growth has gone largely to security, including protection at justices' homes.",
+        "Congress must decide the next fiscal year's funding before it begins October 1."
+      ],
+      "shortTitle": "Kagan Seeks $14.6M for Court Security",
+      "slug": "justice-kagan-calls-for-additional-supreme-court-security-funding",
+      "sourceCount": 7,
+      "sources": [
+        {
+          "name": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/politics/watch-live-justices-kagan-and-coney-barrett-testify-on-supreme-court-budget-in-house-hearing"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/jul/14/supreme-court-justices-security-budget"
+        },
+        {
+          "name": "ABC News U.S.",
+          "url": "https://abcnews.com/US/wireStory/supreme-court-justices-testify-congress-increasing-security-funding-134735468"
+        },
+        {
+          "name": "CBS News Latest",
+          "url": "https://www.cbsnews.com/news/supreme-court-justices-amy-coney-barrett-elena-kagan-congress-security-funding-threats"
+        },
+        {
+          "name": "NBC News Politics",
+          "url": "https://www.nbcnews.com/video/justice-kagan-calls-for-additional-supreme-court-security-funding-266643013982"
+        },
+        {
+          "name": "CNBC Top News",
+          "url": "https://www.cnbc.com/2026/07/14/supreme-court-budget-congress-kagan-barrett.html"
+        },
+        {
+          "name": "The New York Times U.S.",
+          "url": "https://www.nytimes.com/2026/07/14/us/politics/kagan-house-testimony-supreme-court.html"
+        }
+      ],
+      "storylineKey": "",
+      "storylineTitle": "",
+      "summary": "Supreme Court Justice Elena Kagan delivered her opening statement at a hearing over the court's budget, which includes an increase in security funding as the justices have faced growing threats in recent years.",
+      "title": "Kagan Seeks $14.6M to Bolster Court Security"
+    },
     {
       "category": "Guide",
       "contentType": "guide",
@@ -5041,173 +5178,6 @@
       "storylineTitle": "U.S. Elections",
       "summary": "A federal judge quashed a Justice Department subpoena seeking Fulton County 2020 election worker names and contact information, calling the request too burdensome and unreasonable.",
       "title": "Court Blocks DOJ Worker-Data Subpoena in Fulton"
-    },
-    {
-      "category": "U.S. & Politics",
-      "contentType": "brief",
-      "generatedAt": "2026-07-07T23:16:40.839Z",
-      "imagePath": "/live/media/iran-s-strikes-on-ships-in-strait-of-hormuz-threaten-oil-flow.webp",
-      "claims": [
-        {
-          "claim": "Iranian attacks damaged three commercial vessels near Hormuz; U.S. strikes answered in a lane crews and energy markets watch.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "CENTCOM said the U.S. strikes were meant to impose heavy costs for attacks on commercial shipping crews.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Iran’s deputy foreign minister called the U.S. action a violation of last month’s memorandum and warned of measures.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "U.S. officials called the vessel attacks unacceptable and said Iran would face consequences for the Hormuz strikes.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The U.S. also revoked an Iranian oil-sale waiver, tying the military response to pressure on Tehran’s revenue.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Qatar said Iran bears legal responsibility after tankers, including a Qatari LNG vessel, were struck within hours.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "Iranian attacks damaged three commercial vessels near Hormuz; U.S. strikes answered in a lane crews and energy markets watch.",
-        "CENTCOM said the U.S. strikes were meant to impose heavy costs for attacks on commercial shipping crews.",
-        "Iran’s deputy foreign minister called the U.S. action a violation of last month’s memorandum and warned of measures.",
-        "U.S. officials called the vessel attacks unacceptable and said Iran would face consequences for the Hormuz strikes.",
-        "The U.S. also revoked an Iranian oil-sale waiver, tying the military response to pressure on Tehran’s revenue.",
-        "Qatar said Iran bears legal responsibility after tankers, including a Qatari LNG vessel, were struck within hours."
-      ],
-      "shortTitle": "Iran Tanker Attacks Draw U.S. Strikes",
-      "slug": "iran-s-strikes-on-ships-in-strait-of-hormuz-threaten-oil-flow",
-      "sourceCount": 10,
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/show/u-s-launches-new-strikes-on-iran-after-attacks-on-tankers-in-strait-of-hormuz"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/jul/07/qatar-says-iran-fully-responsible-after-tankers-struck-in-strait-of-hormuz"
-        },
-        {
-          "name": "Axios",
-          "url": "https://www.axios.com/2026/07/07/us-strikes-iran-hormuz-ship-attacks"
-        },
-        {
-          "name": "CBS News Latest",
-          "url": "https://www.cbsnews.com/live-updates/iran-us-war-strait-of-hormuz-trump-nato"
-        },
-        {
-          "name": "NBC News",
-          "url": "https://www.nbcnews.com/world/iran/us-launches-new-attacks-iran-retaliation-attacks-commercial-ships-us-m-rcna353411"
-        },
-        {
-          "name": "CNBC Top News",
-          "url": "https://www.cnbc.com/2026/07/07/us-strikes-iran-hormuz-ships.html"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/7/us-says-strikes-launched-as-explosions-heard-in-southern-iran?traffic_source=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/iran-war-us-launches-fresh-strikes-after-attacks-in-hormuz/live-77869350?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/07/world/middleeast/iran-war-oman-hormuz-tanker.html"
-        }
-      ],
-      "storylineKey": "war-security-order",
-      "storylineTitle": "The War and Security Order",
-      "summary": "U.S. forces struck Iran after Iranian attacks damaged three commercial vessels near the Strait of Hormuz, raising security and energy-market risks around a key oil and LNG route.",
-      "title": "Iran’s Strikes on Ships in Strait of Hormuz Threaten Oil Flow"
     }
   ],
   "dailyPaper": {
@@ -5257,31 +5227,8 @@
   },
   "feeds": {
     "categories": {
-      "Guide": [
-        "how-us-senate-vacancies-are-filled",
-        "how-ev-battery-recycling-works",
-        "how-national-bank-charters-work",
-        "what-the-election-assistance-commission-does",
-        "how-bills-become-law-without-a-signature",
-        "how-the-digital-services-act-works",
-        "how-mortgage-rates-move",
-        "how-federal-race-and-ethnicity-data-works"
-      ],
-      "Money": [
-        "paramount-and-warner-bros-sued-to-block-110bn-mega-merger",
-        "easyjet-agrees-to-apollo-7-7b-bid-sidelining-castlelake-offer",
-        "what-to-know-about-u-s-oil-production-and-consumption-in-6-charts",
-        "fed-minutes-officials-deeply-divided-over-future-path-of-us-inflation"
-      ],
-      "World": [
-        "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
-        "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
-        "trump-says-iran-ceasefire-is-over",
-        "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the",
-        "one-of-spain-s-deadliest-wildfires-kills-at-least-12-people-with-23-others-missi",
-        "trump-says-iran-ceasefire-is-over-after-latest-round-of-strikes"
-      ],
       "U.S. & Politics": [
+        "justice-kagan-calls-for-additional-supreme-court-security-funding",
         "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa",
         "grahams-death-opens-senate-seat-as-gop-guards-slim-majority",
         "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
@@ -5308,8 +5255,31 @@
         "republican-leaders-say-they-ve-spoken-with-mitch-mcconnell-since-hospitalization",
         "u-s-strikes-iran-and-reimposes-sanctions-after-tanker-attacks",
         "judge-blocks-doj-bid-for-fulton-election-worker-data",
-        "judge-rejects-doj-s-attempt-to-get-names-of-2020-election-workers-in-fulton-coun",
-        "iran-s-strikes-on-ships-in-strait-of-hormuz-threaten-oil-flow"
+        "judge-rejects-doj-s-attempt-to-get-names-of-2020-election-workers-in-fulton-coun"
+      ],
+      "Guide": [
+        "how-us-senate-vacancies-are-filled",
+        "how-ev-battery-recycling-works",
+        "how-national-bank-charters-work",
+        "what-the-election-assistance-commission-does",
+        "how-bills-become-law-without-a-signature",
+        "how-the-digital-services-act-works",
+        "how-mortgage-rates-move",
+        "how-federal-race-and-ethnicity-data-works"
+      ],
+      "Money": [
+        "paramount-and-warner-bros-sued-to-block-110bn-mega-merger",
+        "easyjet-agrees-to-apollo-7-7b-bid-sidelining-castlelake-offer",
+        "what-to-know-about-u-s-oil-production-and-consumption-in-6-charts",
+        "fed-minutes-officials-deeply-divided-over-future-path-of-us-inflation"
+      ],
+      "World": [
+        "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
+        "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
+        "trump-says-iran-ceasefire-is-over",
+        "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the",
+        "one-of-spain-s-deadliest-wildfires-kills-at-least-12-people-with-23-others-missi",
+        "trump-says-iran-ceasefire-is-over-after-latest-round-of-strikes"
       ],
       "Tech & Science": [
         "how-to-prevent-meta-from-using-your-instagram-images-in-a-i"
@@ -5363,8 +5333,7 @@
         "tensions-with-iran-add-fresh-uncertainty-to-an-already-shaky-global-economy",
         "at-nato-summit-in-turkey-trump-says-he-believes-ceasefire-with-iran-is-over",
         "trump-says-iran-ceasefire-is-over-after-latest-round-of-strikes",
-        "u-s-strikes-iran-and-reimposes-sanctions-after-tanker-attacks",
-        "iran-s-strikes-on-ships-in-strait-of-hormuz-threaten-oil-flow"
+        "u-s-strikes-iran-and-reimposes-sanctions-after-tanker-attacks"
       ],
       "ai-buildout": [
         "apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secr",
