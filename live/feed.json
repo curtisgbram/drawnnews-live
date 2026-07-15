@@ -1,8 +1,163 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-15T11:48:36.633Z",
-  "rolling24HourCount": 6,
+  "updatedAt": "2026-07-15T12:09:32.904Z",
+  "rolling24HourCount": 7,
   "comics": [
+    {
+      "category": "Guide",
+      "contentType": "guide",
+      "generatedAt": "2026-07-15T12:08:44.796Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What it explains",
+            "panel": 1
+          },
+          {
+            "label": "How it works",
+            "panel": 2
+          },
+          {
+            "label": "Where it gets hard",
+            "panel": 4
+          }
+        ]
+      },
+      "imagePath": "/live/media/how-buy-now-pay-later-loans-work.webp",
+      "claims": [
+        {
+          "claim": "A consumer moves money through a Buy Now, Pay Later loan at checkout, while the merchant is paid and repayment risk falls on the borrower.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "At the approval gate, the lender checks identity, a linked payment method, and sometimes credit information before setting the loan terms.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The payment flow routes lender funds to the merchant; the merchant may pay a fee for financing that can help a customer complete a sale.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "A calendar timeline shows a common pay-in-four plan: one payment at checkout, followed by three equal installments, often every two weeks.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The repayment ledger is the bottleneck: a missed due date can add late fees, collection activity, or credit effects when a provider reports history.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Before accepting, use the loan document to check autopay, fees, the dispute path, credit-reporting terms, and every due date.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "A consumer moves money through a Buy Now, Pay Later loan at checkout, while the merchant is paid and repayment risk falls on the borrower.",
+        "At the approval gate, the lender checks identity, a linked payment method, and sometimes credit information before setting the loan terms.",
+        "The payment flow routes lender funds to the merchant; the merchant may pay a fee for financing that can help a customer complete a sale.",
+        "A calendar timeline shows a common pay-in-four plan: one payment at checkout, followed by three equal installments, often every two weeks.",
+        "The repayment ledger is the bottleneck: a missed due date can add late fees, collection activity, or credit effects when a provider reports history.",
+        "Before accepting, use the loan document to check autopay, fees, the dispute path, credit-reporting terms, and every due date."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          32.302,
+          50.545
+        ],
+        [
+          33.518,
+          0,
+          33.028,
+          50.545
+        ],
+        [
+          68.61,
+          0,
+          31.39,
+          50.545
+        ],
+        [
+          0,
+          51.798,
+          32.302,
+          48.202
+        ],
+        [
+          33.518,
+          51.798,
+          33.028,
+          48.202
+        ],
+        [
+          68.61,
+          51.798,
+          31.39,
+          48.202
+        ]
+      ],
+      "primaryGuide": null,
+      "relatedBriefSlugs": [],
+      "shortTitle": "Buy Now, Pay Later Loans",
+      "slug": "how-buy-now-pay-later-loans-work",
+      "sourceCount": 3,
+      "sources": [
+        {
+          "name": "Consumer Financial Protection Bureau",
+          "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-a-buy-now-pay-later-bnpl-loan-en-2119/"
+        },
+        {
+          "name": "Consumer Financial Protection Bureau",
+          "url": "https://www.consumerfinance.gov/data-research/research-reports/the-buy-now-pay-later-market/"
+        },
+        {
+          "name": "Consumer Financial Protection Bureau",
+          "url": "https://www.consumerfinance.gov/compliance/compliance-resources/consumer-cards-resources/buy-now-pay-later-bnpl-products/"
+        }
+      ],
+      "storylineKey": "",
+      "storylineNext": null,
+      "storylineTitle": "",
+      "summary": "A buy now, pay later loan turns a checkout purchase into a short repayment schedule: a lender pays the merchant, the shopper repays installments, and fees, data, credit reporting, and dispute rules shape the risk.",
+      "title": "How Buy Now, Pay Later Loans Work",
+      "verificationNote": "Cross-checked across 3 sources"
+    },
     {
       "category": "World",
       "contentType": "brief",
@@ -8077,184 +8232,12 @@
       "storylineNext": {
         "slug": "trump-says-iran-ceasefire-is-over-after-latest-round-of-strikes",
         "title": "Trump Says Iran Ceasefire Over as Strikes Threaten U.S. Forces",
-        "url": "/live/?slug=trump-says-iran-ceasefire-is-over-after-latest-round-of-strikes"
+        "url": "/briefs/trump-says-iran-ceasefire-is-over-after-latest-round-of-strikes/"
       },
       "storylineTitle": "The War and Security Order",
       "summary": "President Trump said at the NATO summit in Ankara that the U.S.-Iran ceasefire is over after new attacks and mutual violation accusations, leaving diplomacy and regional security at risk.",
       "title": "Trump says Iran ceasefire is over as attacks put diplomacy at risk",
       "verificationNote": "Cross-checked across 3 sources"
-    },
-    {
-      "category": "World",
-      "contentType": "brief",
-      "generatedAt": "2026-07-08T11:13:42.621Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What happened",
-            "panel": 1
-          },
-          {
-            "label": "Why it matters",
-            "panel": 4
-          },
-          {
-            "label": "What to watch",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/trump-says-iran-ceasefire-is-over-after-latest-round-of-strikes.webp",
-      "claims": [
-        {
-          "claim": "Trump says the Iran ceasefire is over after fresh strikes, putting U.S. military sites and oil markets back at risk.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "At a NATO summit in Ankara, he said talks could continue but called dealing with Tehran a waste of time.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The fighting followed last month's interim deal, which called for ending conflict and keeping vessels moving through Hormuz.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "U.S. and Iranian officials accused each other of breaking the ceasefire after overnight strikes reopened the military exchange.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Iran said it hit bases hosting U.S. forces in Kuwait and Bahrain after U.S. strikes.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Talks, Hormuz shipping, and U.S. force protection now show whether the ceasefire can be rebuilt.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "Trump says the Iran ceasefire is over after fresh strikes, putting U.S. military sites and oil markets back at risk.",
-        "At a NATO summit in Ankara, he said talks could continue but called dealing with Tehran a waste of time.",
-        "The fighting followed last month's interim deal, which called for ending conflict and keeping vessels moving through Hormuz.",
-        "U.S. and Iranian officials accused each other of breaking the ceasefire after overnight strikes reopened the military exchange.",
-        "Iran said it hit bases hosting U.S. forces in Kuwait and Bahrain after U.S. strikes.",
-        "Talks, Hormuz shipping, and U.S. force protection now show whether the ceasefire can be rebuilt."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          34.646,
-          50.155
-        ],
-        [
-          35.732,
-          0,
-          30.75,
-          50.155
-        ],
-        [
-          68.024,
-          0,
-          31.976,
-          50.155
-        ],
-        [
-          0,
-          50.236,
-          34.646,
-          49.764
-        ],
-        [
-          35.732,
-          50.236,
-          30.75,
-          49.764
-        ],
-        [
-          68.024,
-          50.236,
-          31.976,
-          49.764
-        ]
-      ],
-      "primaryGuide": null,
-      "relatedBriefSlugs": [
-        "iran-launches-drone-missile-attacks-targeting-bahrain-kuwait",
-        "bahrain-condemns-iranian-tit-for-tat-drone-attack-as-flagrant-threat"
-      ],
-      "shortTitle": "Trump Says Iran Ceasefire Over as Strikes Threaten U.S. Forces",
-      "slug": "trump-says-iran-ceasefire-is-over-after-latest-round-of-strikes",
-      "sourceCount": 4,
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "CNBC Top News",
-          "url": "https://www.cnbc.com/2026/07/08/trump-says-iran-ceasefire-is-over-after-latest-round-of-strikes.html"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/8/trump-says-ceasefire-over-after-us-iran-trade-attacks?traffic_source=rss"
-        },
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260708-trump-says-ceasefire-with-iran-is-over-after-us-strikes"
-        }
-      ],
-      "storylineKey": "war-security-order",
-      "storylineNext": {
-        "slug": "u-s-strikes-iran-and-reimposes-sanctions-after-tanker-attacks",
-        "title": "U.S. Strikes Iran and Reimposes Sanctions",
-        "url": "/briefs/u-s-strikes-iran-and-reimposes-sanctions-after-tanker-attacks/"
-      },
-      "storylineTitle": "The War and Security Order",
-      "summary": "Trump said the ceasefire with Iran was over after renewed strikes, leaving talks, U.S. forces, and Hormuz shipping in doubt.",
-      "title": "Trump Says Iran Ceasefire Over as Strikes Threaten U.S. Forces",
-      "verificationNote": "Cross-checked across 4 sources"
     }
   ],
   "dailyPaper": {
@@ -8311,6 +8294,17 @@
   },
   "feeds": {
     "categories": {
+      "Guide": [
+        "how-buy-now-pay-later-loans-work",
+        "how-us-senate-vacancies-are-filled",
+        "how-ev-battery-recycling-works",
+        "how-national-bank-charters-work",
+        "what-the-election-assistance-commission-does",
+        "how-bills-become-law-without-a-signature",
+        "how-the-digital-services-act-works",
+        "how-mortgage-rates-move",
+        "how-federal-race-and-ethnicity-data-works"
+      ],
       "World": [
         "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
         "inflation-slowed-during-pause-in-war-with-iran",
@@ -8318,8 +8312,7 @@
         "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
         "trump-says-iran-ceasefire-is-over",
         "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the",
-        "one-of-spain-s-deadliest-wildfires-kills-at-least-12-people-with-23-others-missi",
-        "trump-says-iran-ceasefire-is-over-after-latest-round-of-strikes"
+        "one-of-spain-s-deadliest-wildfires-kills-at-least-12-people-with-23-others-missi"
       ],
       "U.S. & Politics": [
         "house-votes-for-permanent-daylight-saving-time",
@@ -8353,16 +8346,6 @@
         "the-politics-of-new-york-s-data-center-construction-pause",
         "how-to-prevent-meta-from-using-your-instagram-images-in-a-i"
       ],
-      "Guide": [
-        "how-us-senate-vacancies-are-filled",
-        "how-ev-battery-recycling-works",
-        "how-national-bank-charters-work",
-        "what-the-election-assistance-commission-does",
-        "how-bills-become-law-without-a-signature",
-        "how-the-digital-services-act-works",
-        "how-mortgage-rates-move",
-        "how-federal-race-and-ethnicity-data-works"
-      ],
       "Money": [
         "paramount-and-warner-bros-sued-to-block-110bn-mega-merger",
         "easyjet-agrees-to-apollo-7-7b-bid-sidelining-castlelake-offer",
@@ -8371,6 +8354,7 @@
       ]
     },
     "guides": [
+      "how-buy-now-pay-later-loans-work",
       "how-us-senate-vacancies-are-filled",
       "how-ev-battery-recycling-works",
       "how-national-bank-charters-work",
@@ -8395,8 +8379,7 @@
         "new-attacks-raise-questions-about-what-comes-next-in-the-iran-war",
         "trump-hails-unity-at-nato-summit-despite-recent-tensions",
         "tensions-with-iran-add-fresh-uncertainty-to-an-already-shaky-global-economy",
-        "at-nato-summit-in-turkey-trump-says-he-believes-ceasefire-with-iran-is-over",
-        "trump-says-iran-ceasefire-is-over-after-latest-round-of-strikes"
+        "at-nato-summit-in-turkey-trump-says-he-believes-ceasefire-with-iran-is-over"
       ],
       "ai-buildout": [
         "the-politics-of-new-york-s-data-center-construction-pause",
