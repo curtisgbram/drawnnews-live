@@ -1,8 +1,193 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-15T19:53:30.928Z",
-  "rolling24HourCount": 4,
+  "updatedAt": "2026-07-15T21:09:41.433Z",
+  "rolling24HourCount": 5,
   "comics": [
+    {
+      "category": "Sports & Culture",
+      "contentType": "brief",
+      "generatedAt": "2026-07-15T21:08:52.141Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What happened",
+            "panel": 1
+          },
+          {
+            "label": "Why it matters",
+            "panel": 5
+          },
+          {
+            "label": "What to watch",
+            "panel": 6
+          }
+        ]
+      },
+      "imagePath": "/live/media/world-cup-favorites-france-unravel-as-spain-book-s.webp",
+      "claims": [
+        {
+          "claim": "Spain reaches the World Cup final after a 2-0 win over France, with the public tournament’s title at stake Sunday.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The semifinal put two European heavyweights on the same stage, with a World Cup final berth at stake.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Spain controlled most of the match, turning a tightly billed semifinal into a decisive win.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "France’s loss ends its tournament run before the final, despite entering the match among the favorites.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Spain now waits for the winner of England versus Argentina, the second semifinal.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Sunday’s final is next: Spain will play for the 2026 World Cup after its 2-0 semifinal win.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Spain reaches the World Cup final after a 2-0 win over France, with the public tournament’s title at stake Sunday.",
+        "The semifinal put two European heavyweights on the same stage, with a World Cup final berth at stake.",
+        "Spain controlled most of the match, turning a tightly billed semifinal into a decisive win.",
+        "France’s loss ends its tournament run before the final, despite entering the match among the favorites.",
+        "Spain now waits for the winner of England versus Argentina, the second semifinal.",
+        "Sunday’s final is next: Spain will play for the 2026 World Cup after its 2-0 semifinal win."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.148,
+          54.452
+        ],
+        [
+          33.388,
+          0,
+          33.158,
+          54.452
+        ],
+        [
+          66.787,
+          0,
+          33.213,
+          54.452
+        ],
+        [
+          0,
+          54.728,
+          33.148,
+          45.272
+        ],
+        [
+          33.388,
+          54.728,
+          33.158,
+          45.272
+        ],
+        [
+          66.787,
+          54.728,
+          33.213,
+          45.272
+        ]
+      ],
+      "primaryGuide": null,
+      "relatedBriefSlugs": [],
+      "shortTitle": "Spain Beats France 2-0",
+      "slug": "world-cup-favorites-france-unravel-as-spain-book-s",
+      "sourceCount": 6,
+      "sources": [
+        {
+          "name": "The Guardian US",
+          "url": "https://www.theguardian.com/football/live/2026/jul/15/world-cup-2026-spain-stun-listless-france-to-reach-final-england-v-argentina-buildup-live"
+        },
+        {
+          "name": "ESPN Top Headlines",
+          "url": "https://www.espn.com/soccer/story/_/id/49361910/world-cup-favorites-france-unravel-spain-book-spot-final-ease"
+        },
+        {
+          "name": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/attending-england-v-argentina-famous-202017197.html"
+        },
+        {
+          "name": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/attending-england-v-argentina-famous-202017522.html"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/argentina-fans-flood-atlanta-ahead-of-england-world-cup-match?traffic_source=rss"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/sport/20260715-england-argentina-live-kane-and-messi-battle-for-world-cup-final-spot"
+        }
+      ],
+      "storylineKey": "",
+      "storylineNext": null,
+      "storylineTitle": "",
+      "summary": "Spain defeated France 2-0 in Arlington, Texas, to reach Sunday’s 2026 World Cup final.",
+      "title": "Spain Beats France 2-0 to Reach the World Cup Final",
+      "verificationNote": "Cross-checked across 6 sources"
+    },
     {
       "category": "Guide",
       "contentType": "guide",
@@ -8156,7 +8341,7 @@
       "storylineNext": {
         "slug": "at-nato-summit-in-turkey-trump-says-he-believes-ceasefire-with-iran-is-over",
         "title": "Trump says Iran ceasefire is over as attacks put diplomacy at risk",
-        "url": "/live/?slug=at-nato-summit-in-turkey-trump-says-he-believes-ceasefire-with-iran-is-over"
+        "url": "/briefs/at-nato-summit-in-turkey-trump-says-he-believes-ceasefire-with-iran-is-over/"
       },
       "storylineTitle": "The War and Security Order",
       "summary": "Trump says the Iran ceasefire is over; oil prices rose, stocks fell, and markets began pricing Strait of Hormuz risk into inflation and Federal Reserve rate expectations.",
@@ -8361,179 +8546,6 @@
       "summary": "Sen. Bernie Sanders and Sen. Elizabeth Warren called for Maine Democratic Senate nominee Graham Platner to step aside after a new nonconsensual sexual conduct allegation, which Platner denies. July 13 is reported as the deadline for Maine Democrats to replace him on the ballot.",
       "title": "Sanders, Warren Call for Platner to Quit Before Maine Ballot Deadline",
       "verificationNote": "Cross-checked across 6 sources"
-    },
-    {
-      "category": "U.S. & Politics",
-      "contentType": "brief",
-      "generatedAt": "2026-07-08T13:18:38.612Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What happened",
-            "panel": 1
-          },
-          {
-            "label": "Why it matters",
-            "panel": 4
-          },
-          {
-            "label": "What to watch",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/at-nato-summit-in-turkey-trump-says-he-believes-ceasefire-with-iran-is-over.webp",
-      "claims": [
-        {
-          "claim": "Trump said the U.S.-Iran ceasefire is over after new strikes, putting diplomacy and regional security back at risk.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "At the NATO summit in Ankara, the statement turned an alliance podium into a Middle East crisis marker.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "U.S. and Iranian officials accused each other of violating last month's ceasefire as hostilities escalated overnight.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The dispute widens a security corridor from Washington's diplomacy to the Middle East battlefield.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Trump said he no longer wanted to negotiate with Iran, calling further talks a waste of time.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Further attacks now decide whether last month's interim deal can still stop the war.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "Trump said the U.S.-Iran ceasefire is over after new strikes, putting diplomacy and regional security back at risk.",
-        "At the NATO summit in Ankara, the statement turned an alliance podium into a Middle East crisis marker.",
-        "U.S. and Iranian officials accused each other of violating last month's ceasefire as hostilities escalated overnight.",
-        "The dispute widens a security corridor from Washington's diplomacy to the Middle East battlefield.",
-        "Trump said he no longer wanted to negotiate with Iran, calling further talks a waste of time.",
-        "Further attacks now decide whether last month's interim deal can still stop the war."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          33.018,
-          49.08
-        ],
-        [
-          34.104,
-          0,
-          30.945,
-          49.08
-        ],
-        [
-          66.005,
-          0,
-          33.995,
-          49.08
-        ],
-        [
-          0,
-          49.65,
-          33.018,
-          50.35
-        ],
-        [
-          34.104,
-          49.65,
-          30.945,
-          50.35
-        ],
-        [
-          66.005,
-          49.65,
-          33.995,
-          50.35
-        ]
-      ],
-      "primaryGuide": {
-        "slug": "what-nato-does",
-        "title": "What NATO Does",
-        "url": "/briefs/what-nato-does/"
-      },
-      "readerNext": {
-        "buttonLabel": "Earlier brief",
-        "kind": "earlier-brief",
-        "label": "Earlier in this story",
-        "slug": "trump-talks-ukraine-russia-and-f-35-jets-sale-in-meeting-with-turkey-s-erdo-an",
-        "title": "Trump weighs Turkey F-35 sale",
-        "url": "/briefs/trump-talks-ukraine-russia-and-f-35-jets-sale-in-meeting-with-turkey-s-erdo-an/"
-      },
-      "relatedBriefSlugs": [
-        "trump-talks-ukraine-russia-and-f-35-jets-sale-in-meeting-with-turkey-s-erdo-an"
-      ],
-      "shortTitle": "Trump says Iran ceasefire is over as attacks put diplomacy at risk",
-      "slug": "at-nato-summit-in-turkey-trump-says-he-believes-ceasefire-with-iran-is-over",
-      "sourceCount": 3,
-      "sources": [
-        {
-          "name": "CBS News Latest",
-          "url": "https://www.cbsnews.com/video/trump-says-ceasefire-with-iran-is-over-a-waste-of-time-dealing-with-them"
-        },
-        {
-          "name": "NBC News",
-          "url": "https://www.today.com/video/us-and-iran-trade-new-attacks-trump-says-ceasefire-is-over-266357317832"
-        },
-        {
-          "name": "CNBC World News",
-          "url": "https://www.cnbc.com/2026/07/08/trump-says-iran-ceasefire-is-over-after-latest-round-of-strikes.html"
-        }
-      ],
-      "storylineKey": "war-security-order",
-      "storylineNext": {
-        "slug": "trump-says-iran-ceasefire-is-over-after-latest-round-of-strikes",
-        "title": "Trump Says Iran Ceasefire Over as Strikes Threaten U.S. Forces",
-        "url": "/briefs/trump-says-iran-ceasefire-is-over-after-latest-round-of-strikes/"
-      },
-      "storylineTitle": "The War and Security Order",
-      "summary": "President Trump said at the NATO summit in Ankara that the U.S.-Iran ceasefire is over after new attacks and mutual violation accusations, leaving diplomacy and regional security at risk.",
-      "title": "Trump says Iran ceasefire is over as attacks put diplomacy at risk",
-      "verificationNote": "Cross-checked across 3 sources"
     }
   ],
   "dailyPaper": {
@@ -8590,6 +8602,9 @@
   },
   "feeds": {
     "categories": {
+      "Sports & Culture": [
+        "world-cup-favorites-france-unravel-as-spain-book-s"
+      ],
       "Guide": [
         "how-buy-now-pay-later-loans-work",
         "how-us-senate-vacancies-are-filled",
@@ -8635,8 +8650,7 @@
         "trump-hails-unity-at-nato-summit-despite-recent-tensions",
         "judge-orders-release-of-the-5-8-million-payment-that-trump-owed-e-jean-carroll",
         "tensions-with-iran-add-fresh-uncertainty-to-an-already-shaky-global-economy",
-        "sanders-warren-drop-endorsements-of-maine-s-graham-platner",
-        "at-nato-summit-in-turkey-trump-says-he-believes-ceasefire-with-iran-is-over"
+        "sanders-warren-drop-endorsements-of-maine-s-graham-platner"
       ],
       "Tech & Science": [
         "the-politics-of-new-york-s-data-center-construction-pause",
@@ -8674,8 +8688,7 @@
         "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
         "new-attacks-raise-questions-about-what-comes-next-in-the-iran-war",
         "trump-hails-unity-at-nato-summit-despite-recent-tensions",
-        "tensions-with-iran-add-fresh-uncertainty-to-an-already-shaky-global-economy",
-        "at-nato-summit-in-turkey-trump-says-he-believes-ceasefire-with-iran-is-over"
+        "tensions-with-iran-add-fresh-uncertainty-to-an-already-shaky-global-economy"
       ],
       "ai-buildout": [
         "the-politics-of-new-york-s-data-center-construction-pause",
