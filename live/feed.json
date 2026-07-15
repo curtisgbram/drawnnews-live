@@ -1,6 +1,6 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-15T11:18:19.782Z",
+  "updatedAt": "2026-07-15T11:48:36.633Z",
   "rolling24HourCount": 6,
   "comics": [
     {
@@ -139,7 +139,11 @@
         ]
       ],
       "primaryGuide": null,
-      "relatedBriefSlugs": [],
+      "relatedBriefSlugs": [
+        "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
+        "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
+        "middle-east-crisis-live-rubio-says-us-iran-agreement-pretty-solid-as-oil-price-f"
+      ],
       "shortTitle": "Iran Closes Hormuz",
       "slug": "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
       "sourceCount": 4,
@@ -714,7 +718,11 @@
         ]
       ],
       "primaryGuide": null,
-      "relatedBriefSlugs": [],
+      "relatedBriefSlugs": [
+        "iran-s-strikes-on-ships-in-strait-of-hormuz-threaten-oil-flow",
+        "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
+        "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f"
+      ],
       "shortTitle": "Trump Changes Hormuz Toll Plan, With Tankers Stalled",
       "slug": "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
       "sourceCount": 7,
@@ -1739,7 +1747,9 @@
       ],
       "primaryGuide": null,
       "relatedBriefSlugs": [
-        "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over"
+        "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
+        "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
+        "us-and-iran-exchange-back-and-forth-strikes-for-second-day"
       ],
       "shortTitle": "U.S.-Iran Strikes Deepen Hormuz Standoff",
       "slug": "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
@@ -2298,7 +2308,9 @@
       ],
       "primaryGuide": null,
       "relatedBriefSlugs": [
-        "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over"
+        "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
+        "un-agency-pauses-evacuation-of-ships-through-the-strait-of-hormuz-after-attack-o",
+        "iran-s-strikes-on-ships-in-strait-of-hormuz-threaten-oil-flow"
       ],
       "shortTitle": "U.S. Strikes Iran After Ship Attack Threatens Hormuz Shipping",
       "slug": "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
@@ -3136,7 +3148,11 @@
         ]
       ],
       "primaryGuide": null,
-      "relatedBriefSlugs": [],
+      "relatedBriefSlugs": [
+        "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
+        "us-and-iran-exchange-back-and-forth-strikes-for-second-day",
+        "bahrain-condemns-iranian-tit-for-tat-drone-attack-as-flagrant-threat"
+      ],
       "shortTitle": "Trump Says Iran Ceasefire Over; Strait Risk Rises",
       "slug": "trump-says-iran-ceasefire-is-over",
       "sourceCount": 2,
@@ -3496,7 +3512,11 @@
         ]
       ],
       "primaryGuide": null,
-      "relatedBriefSlugs": [],
+      "relatedBriefSlugs": [
+        "maine-democrats-announce-july-25-convention-to-pick-platner-replacement",
+        "sanders-warren-drop-endorsements-of-maine-s-graham-platner",
+        "democrats-have-abandoned-graham-platner"
+      ],
       "shortTitle": "Platner withdrawal opens July 27 Maine Senate race replacement deadline",
       "slug": "graham-platner-officially-withdraws-from-the-maine-senate-race",
       "sourceCount": 4,
@@ -4016,7 +4036,8 @@
       ],
       "primaryGuide": null,
       "relatedBriefSlugs": [
-        "maine-democrats-vote-to-replace-platner-before-july-13-senate-deadline"
+        "maine-democrats-vote-to-replace-platner-before-july-13-senate-deadline",
+        "how-dems-could-replace-platner-in-maine-senate-race-and-who-might-take-his-place"
       ],
       "shortTitle": "Maine Democrats Plan Senate Replacement Vote",
       "slug": "maine-democrats-announce-july-25-convention-to-pick-platner-replacement",
@@ -5979,7 +6000,9 @@
         ]
       ],
       "primaryGuide": null,
-      "relatedBriefSlugs": [],
+      "relatedBriefSlugs": [
+        "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over"
+      ],
       "shortTitle": "U.S. Strikes Iran Again, Testing Ceasefire and Hormuz Oil Route",
       "slug": "us-and-iran-exchange-back-and-forth-strikes-for-second-day",
       "sourceCount": 4,
@@ -6478,7 +6501,10 @@
         ]
       ],
       "primaryGuide": null,
-      "relatedBriefSlugs": [],
+      "relatedBriefSlugs": [
+        "sanders-warren-drop-endorsements-of-maine-s-graham-platner",
+        "how-dems-could-replace-platner-in-maine-senate-race-and-who-might-take-his-place"
+      ],
       "shortTitle": "Maine Democrats Vote to Replace Platner Before Senate Race Deadline",
       "slug": "maine-democrats-vote-to-replace-platner-before-july-13-senate-deadline",
       "sourceCount": 5,
@@ -7164,7 +7190,9 @@
         ]
       ],
       "primaryGuide": null,
-      "relatedBriefSlugs": [],
+      "relatedBriefSlugs": [
+        "iran-s-strikes-on-ships-in-strait-of-hormuz-threaten-oil-flow"
+      ],
       "shortTitle": "Trump Says Iran Truce Is Over as Hormuz Routes Face Strikes",
       "slug": "new-attacks-raise-questions-about-what-comes-next-in-the-iran-war",
       "sourceCount": 4,
@@ -7349,7 +7377,9 @@
         "title": "What NATO Does",
         "url": "/briefs/what-nato-does/"
       },
-      "relatedBriefSlugs": [],
+      "relatedBriefSlugs": [
+        "trump-talks-ukraine-russia-and-f-35-jets-sale-in-meeting-with-turkey-s-erdo-an"
+      ],
       "shortTitle": "Trump says NATO unity faces tests",
       "slug": "trump-hails-unity-at-nato-summit-despite-recent-tensions",
       "sourceCount": 6,
@@ -7846,7 +7876,9 @@
         ]
       ],
       "primaryGuide": null,
-      "relatedBriefSlugs": [],
+      "relatedBriefSlugs": [
+        "democrats-have-abandoned-graham-platner"
+      ],
       "shortTitle": "Sanders, Warren Call for Platner to Quit Before Maine Ballot Deadline",
       "slug": "sanders-warren-drop-endorsements-of-maine-s-graham-platner",
       "sourceCount": 6,
@@ -8021,7 +8053,9 @@
         "title": "What NATO Does",
         "url": "/briefs/what-nato-does/"
       },
-      "relatedBriefSlugs": [],
+      "relatedBriefSlugs": [
+        "trump-talks-ukraine-russia-and-f-35-jets-sale-in-meeting-with-turkey-s-erdo-an"
+      ],
       "shortTitle": "Trump says Iran ceasefire is over as attacks put diplomacy at risk",
       "slug": "at-nato-summit-in-turkey-trump-says-he-believes-ceasefire-with-iran-is-over",
       "sourceCount": 3,
@@ -8186,7 +8220,10 @@
         ]
       ],
       "primaryGuide": null,
-      "relatedBriefSlugs": [],
+      "relatedBriefSlugs": [
+        "iran-launches-drone-missile-attacks-targeting-bahrain-kuwait",
+        "bahrain-condemns-iranian-tit-for-tat-drone-attack-as-flagrant-threat"
+      ],
       "shortTitle": "Trump Says Iran Ceasefire Over as Strikes Threaten U.S. Forces",
       "slug": "trump-says-iran-ceasefire-is-over-after-latest-round-of-strikes",
       "sourceCount": 4,
