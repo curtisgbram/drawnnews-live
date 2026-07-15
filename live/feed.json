@@ -1,6 +1,6 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-15T01:52:58.197Z",
+  "updatedAt": "2026-07-15T02:53:05.677Z",
   "rolling24HourCount": 4,
   "comics": [
     {
@@ -96,6 +96,49 @@
         "The immediate tradeoff: developers face delays while the state tests safeguards before more capacity can be built.",
         "Regulators now must write rules that protect ratepayers while deciding how much new computing capacity New York can permit."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.148,
+          50.448
+        ],
+        [
+          35.016,
+          0,
+          35.372,
+          50.448
+        ],
+        [
+          71.344,
+          0,
+          28.656,
+          50.448
+        ],
+        [
+          0,
+          51.798,
+          33.148,
+          48.202
+        ],
+        [
+          35.016,
+          51.798,
+          35.372,
+          48.202
+        ],
+        [
+          71.344,
+          51.798,
+          28.656,
+          48.202
+        ]
+      ],
+      "primaryGuide": {
+        "slug": "how-ai-data-centers-work",
+        "title": "How AI Data Centers Work",
+        "url": "/briefs/how-ai-data-centers-work/"
+      },
       "shortTitle": "Hochul Pauses AI Data Center Permits",
       "slug": "the-politics-of-new-york-s-data-center-construction-pause",
       "sourceCount": 6,
@@ -229,6 +272,45 @@
         "Iran reported attacks in several cities; it said American facilities in Bahrain and Jordan came under attack.",
         "Shipping companies now watch whether vessels resume transits as conflict and blockade threats persist."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.213,
+          50.35
+        ],
+        [
+          33.453,
+          0,
+          33.028,
+          50.35
+        ],
+        [
+          66.722,
+          0,
+          33.278,
+          50.35
+        ],
+        [
+          0,
+          51.798,
+          33.213,
+          48.202
+        ],
+        [
+          33.453,
+          51.798,
+          33.028,
+          48.202
+        ],
+        [
+          66.722,
+          51.798,
+          33.278,
+          48.202
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "Trump Changes Hormuz Toll Plan, With Tankers Stalled",
       "slug": "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
       "sourceCount": 7,
@@ -342,6 +424,45 @@
         "Gas averaged $3.85 a gallon, down from $4.07 a month earlier, a direct household-facing part of the decline.",
         "The relief may prove temporary: fighting hit commercial tankers, and average gasoline prices rose from $3.79 last week."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.213,
+          50.448
+        ],
+        [
+          33.453,
+          0,
+          33.093,
+          50.448
+        ],
+        [
+          66.787,
+          0,
+          33.213,
+          50.448
+        ],
+        [
+          0,
+          51.798,
+          33.213,
+          48.202
+        ],
+        [
+          33.453,
+          51.798,
+          33.093,
+          48.202
+        ],
+        [
+          66.787,
+          51.798,
+          33.213,
+          48.202
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "U.S. Energy Price Drop Pulled CPI Inflation to 3.5%",
       "slug": "inflation-slowed-during-pause-in-war-with-iran",
       "sourceCount": 3,
@@ -463,6 +584,45 @@
         "Recent budget growth has gone largely to security, including protection at justices' homes.",
         "Congress must decide the next fiscal year's funding before it begins October 1."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.278,
+          50.35
+        ],
+        [
+          33.518,
+          0,
+          32.963,
+          50.35
+        ],
+        [
+          66.722,
+          0,
+          33.278,
+          50.35
+        ],
+        [
+          0,
+          51.798,
+          33.278,
+          48.202
+        ],
+        [
+          33.518,
+          51.798,
+          32.963,
+          48.202
+        ],
+        [
+          66.722,
+          51.798,
+          33.278,
+          48.202
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "Kagan Seeks $14.6M for Court Security",
       "slug": "justice-kagan-calls-for-additional-supreme-court-security-funding",
       "sourceCount": 7,
@@ -576,6 +736,45 @@
         "A replacement brings state credentials to the Senate, where an oath and seating complete the handoff of representation.",
         "Watch the vacancy statute and election calendar: they reveal the next legal threshold, deadline, and voter decision."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          35.948,
+          50.448
+        ],
+        [
+          38.141,
+          0,
+          26.974,
+          50.448
+        ],
+        [
+          66.787,
+          0,
+          33.213,
+          50.448
+        ],
+        [
+          0,
+          51.798,
+          35.948,
+          48.202
+        ],
+        [
+          38.141,
+          51.798,
+          26.974,
+          48.202
+        ],
+        [
+          66.787,
+          51.798,
+          33.213,
+          48.202
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "Filling a Senate Vacancy",
       "slug": "how-us-senate-vacancies-are-filled",
       "sourceCount": 3,
@@ -697,6 +896,45 @@
         "The combined company would control more than a quarter of major film releases, raising questions for creative workers and streaming households.",
         "Paramount calls the lawsuit flawed; the court fight now tests whether states can block the $110bn deal."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          32.888,
+          49.862
+        ],
+        [
+          33.779,
+          0,
+          32.507,
+          49.862
+        ],
+        [
+          66.526,
+          0,
+          33.474,
+          49.862
+        ],
+        [
+          0,
+          50.138,
+          32.888,
+          49.862
+        ],
+        [
+          33.779,
+          50.138,
+          32.507,
+          49.862
+        ],
+        [
+          66.526,
+          50.138,
+          33.474,
+          49.862
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "Twelve states sue to block Paramount's $110bn Warner Bros. merger",
       "slug": "paramount-and-warner-bros-sued-to-block-110bn-mega-merger",
       "sourceCount": 7,
@@ -804,6 +1042,45 @@
         "The recovery flow uses heat, chemical leaching, or direct cathode recycling, trading energy, cost, and material yield.",
         "Commercial recovery can stall when mixed chemistries, safe transport, and low material prices outweigh the value of recovered metals."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.278,
+          50.448
+        ],
+        [
+          35.016,
+          0,
+          30.099,
+          50.448
+        ],
+        [
+          66.787,
+          0,
+          33.213,
+          50.448
+        ],
+        [
+          0,
+          51.798,
+          33.278,
+          48.202
+        ],
+        [
+          35.016,
+          51.798,
+          30.099,
+          48.202
+        ],
+        [
+          66.787,
+          51.798,
+          33.213,
+          48.202
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "EV Battery Recycling, Explained",
       "slug": "how-ev-battery-recycling-works",
       "sourceCount": 2,
@@ -891,6 +1168,45 @@
         "Iran answered with attacks on U.S. military bases in several Gulf states, widening the conflict beyond Iranian territory.",
         "The immediate test is whether the standoff disrupts ships through Hormuz or collapses the interim peace agreement."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.278,
+          50.545
+        ],
+        [
+          33.518,
+          0,
+          33.093,
+          50.545
+        ],
+        [
+          66.852,
+          0,
+          33.148,
+          50.545
+        ],
+        [
+          0,
+          51.798,
+          33.278,
+          48.202
+        ],
+        [
+          33.518,
+          51.798,
+          33.093,
+          48.202
+        ],
+        [
+          66.852,
+          51.798,
+          33.148,
+          48.202
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "U.S.-Iran Strikes Deepen Hormuz Standoff",
       "slug": "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
       "sourceCount": 2,
@@ -978,6 +1294,45 @@
         "Kelly called the Capitol riot a perilous assault on the constitutional requirement for peaceful presidential transfers.",
         "Kelly said dismissal did not endorse the Justice Department's choice; the order closes the landmark prosecution."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.278,
+          50.448
+        ],
+        [
+          35.016,
+          0,
+          31.466,
+          50.448
+        ],
+        [
+          66.722,
+          0,
+          33.278,
+          50.448
+        ],
+        [
+          0,
+          51.798,
+          33.278,
+          48.202
+        ],
+        [
+          35.016,
+          51.798,
+          31.466,
+          48.202
+        ],
+        [
+          66.722,
+          51.798,
+          33.278,
+          48.202
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "Trump Clemency Ends Proud Boys Case",
       "slug": "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa",
       "sourceCount": 2,
@@ -1125,6 +1480,45 @@
         "That committee helped carry last year’s tax law without a filibuster, making the vacant seat consequential for close votes.",
         "Graham returned from Kyiv after advancing a Russia sanctions package; Senate leaders must now decide who carries that work."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.148,
+          50.448
+        ],
+        [
+          33.388,
+          0,
+          33.224,
+          50.448
+        ],
+        [
+          66.852,
+          0,
+          33.148,
+          50.448
+        ],
+        [
+          0,
+          51.798,
+          33.148,
+          48.202
+        ],
+        [
+          33.388,
+          51.798,
+          33.224,
+          48.202
+        ],
+        [
+          66.852,
+          51.798,
+          33.148,
+          48.202
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "Graham Dies, Opening Seat Before Close Senate Votes",
       "slug": "grahams-death-opens-senate-seat-as-gop-guards-slim-majority",
       "sourceCount": 12,
@@ -1258,6 +1652,45 @@
         "U.S. Central Command said its strikes aim to reduce Iran’s ability to attack civilian mariners and commercial ships.",
         "Iran declared the strait closed and warned retaliation would bring a severe response, raising the risk of further disruption."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.2133,
+          50.35
+        ],
+        [
+          33.4533,
+          0,
+          33.0933,
+          50.35
+        ],
+        [
+          66.7867,
+          0,
+          33.2133,
+          50.35
+        ],
+        [
+          0,
+          49.65,
+          33.2133,
+          50.35
+        ],
+        [
+          33.4533,
+          49.65,
+          33.0933,
+          50.35
+        ],
+        [
+          66.7867,
+          49.65,
+          33.2133,
+          50.35
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "U.S. Strikes Iran After Ship Attack Threatens Hormuz Shipping",
       "slug": "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
       "sourceCount": 3,
@@ -1361,6 +1794,45 @@
         "More than 90 water rescues followed across the region, while one person remained missing after Friday's storms.",
         "Additional storms threatened saturated areas from Missouri through Tennessee; officials urged low-lying communities to prepare for higher ground."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.213,
+          50.35
+        ],
+        [
+          33.453,
+          0,
+          33.028,
+          50.35
+        ],
+        [
+          66.722,
+          0,
+          33.278,
+          50.35
+        ],
+        [
+          0,
+          51.798,
+          33.213,
+          48.202
+        ],
+        [
+          33.453,
+          51.798,
+          33.028,
+          48.202
+        ],
+        [
+          66.722,
+          51.798,
+          33.278,
+          48.202
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "Missouri Guard Rescues 202 Campers as Floods Cut Off Roads",
       "slug": "200-young-campers-staff-rescued-amid-record-flooding-in-missouri",
       "sourceCount": 4,
@@ -1480,6 +1952,45 @@
         "Israel's military says troops dispersed the civilians and reopened the road, denying that soldiers helped block it.",
         "The military says the armed person's identity remains under review as Khanna's account and its response diverge."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.148,
+          50.35
+        ],
+        [
+          35.276,
+          0,
+          31.27,
+          50.35
+        ],
+        [
+          66.787,
+          0,
+          33.213,
+          50.35
+        ],
+        [
+          0,
+          51.798,
+          33.148,
+          48.202
+        ],
+        [
+          35.276,
+          51.798,
+          31.27,
+          48.202
+        ],
+        [
+          66.787,
+          51.798,
+          33.213,
+          48.202
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "Armed Settlers Block Khanna's West Bank Delegation",
       "slug": "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
       "sourceCount": 6,
@@ -1589,6 +2100,45 @@
         "Preliminary approval triggers a buildout sequence: raise capital, hire staff, install systems, and clear every preopening gate.",
         "Final approval clears the opening gate, but recurring OCC examinations create a feedback loop that can require corrections."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          32.302,
+          50.545
+        ],
+        [
+          33.518,
+          0,
+          33.028,
+          50.545
+        ],
+        [
+          68.61,
+          0,
+          31.39,
+          50.545
+        ],
+        [
+          0,
+          51.798,
+          32.302,
+          48.202
+        ],
+        [
+          33.518,
+          51.798,
+          33.028,
+          48.202
+        ],
+        [
+          68.61,
+          51.798,
+          31.39,
+          48.202
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "National Bank Charters",
       "slug": "how-national-bank-charters-work",
       "sourceCount": 3,
@@ -1698,6 +2248,45 @@
         "The Times says the reporters must appear before the grand jury on Wednesday.",
         "DOJ says reporters are not targets; the Times' lawyer calls the doorstep visits intimidation."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.213,
+          50.35
+        ],
+        [
+          33.453,
+          0,
+          33.093,
+          50.35
+        ],
+        [
+          66.787,
+          0,
+          33.213,
+          50.35
+        ],
+        [
+          0,
+          49.65,
+          33.213,
+          50.35
+        ],
+        [
+          33.453,
+          49.65,
+          33.093,
+          50.35
+        ],
+        [
+          66.787,
+          49.65,
+          33.213,
+          50.35
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "DOJ subpoenas Times reporters for court testimony in leak fight",
       "slug": "justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporti",
       "sourceCount": 5,
@@ -1797,6 +2386,45 @@
         "Higher fuel prices could become a domestic midterm problem if the conflict keeps disrupting energy markets.",
         "Watch whether Washington orders more strikes, mediators restore talks, or the fight spreads across the region."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.018,
+          50.057
+        ],
+        [
+          33.649,
+          0,
+          32.703,
+          50.057
+        ],
+        [
+          66.982,
+          0,
+          33.018,
+          50.057
+        ],
+        [
+          0,
+          49.943,
+          33.018,
+          50.057
+        ],
+        [
+          33.649,
+          49.943,
+          32.703,
+          50.057
+        ],
+        [
+          66.982,
+          49.943,
+          33.018,
+          50.057
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "Trump Says Iran Ceasefire Over; Strait Risk Rises",
       "slug": "trump-says-iran-ceasefire-is-over",
       "sourceCount": 2,
@@ -1914,6 +2542,45 @@
         "OpenAI says it has no interest in other companies' trade secrets and is reviewing the complaint.",
         "Next signal: court filings may show whether Apple's claim blocks, settles, or forces hardware-plan disclosures."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.278,
+          49.959
+        ],
+        [
+          33.518,
+          0,
+          32.898,
+          49.959
+        ],
+        [
+          66.656,
+          0,
+          33.344,
+          49.959
+        ],
+        [
+          0,
+          49.259,
+          33.278,
+          50.741
+        ],
+        [
+          33.518,
+          49.259,
+          32.898,
+          50.741
+        ],
+        [
+          66.656,
+          49.259,
+          33.344,
+          50.741
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "Apple Sues OpenAI over Hardware Secrets",
       "slug": "apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secr",
       "sourceCount": 7,
@@ -2033,6 +2700,45 @@
         "The choice determines who challenges Republican Sen. Susan Collins in November.",
         "The next public checkpoint is the replacement filing, not Platner's suspended campaign or the withdrawn letter."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          36.989,
+          49.959
+        ],
+        [
+          37.229,
+          0,
+          29.057,
+          49.959
+        ],
+        [
+          66.526,
+          0,
+          33.474,
+          49.959
+        ],
+        [
+          0,
+          49.259,
+          36.989,
+          50.741
+        ],
+        [
+          37.229,
+          49.259,
+          29.057,
+          50.741
+        ],
+        [
+          66.526,
+          49.259,
+          33.474,
+          50.741
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "Platner withdrawal opens July 27 Maine Senate race replacement deadline",
       "slug": "graham-platner-officially-withdraws-from-the-maine-senate-race",
       "sourceCount": 4,
@@ -2140,6 +2846,45 @@
         "State handoff ledger shows certification is voluntary nationally, while some state rules require participation.",
         "Watch board: vacancies, lab accreditation, VVSG migration, certified-system lists and state deadlines expose strain."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.278,
+          49.471
+        ],
+        [
+          33.518,
+          0,
+          31.336,
+          49.471
+        ],
+        [
+          66.591,
+          0,
+          33.409,
+          49.471
+        ],
+        [
+          0,
+          49.65,
+          33.278,
+          50.35
+        ],
+        [
+          33.518,
+          49.65,
+          31.336,
+          50.35
+        ],
+        [
+          66.591,
+          49.65,
+          33.409,
+          50.35
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "What the Election Assistance Commission Does",
       "slug": "what-the-election-assistance-commission-does",
       "sourceCount": 4,
@@ -2247,6 +2992,45 @@
         "Zelensky has warned for weeks that interceptor stocks are running low against near-constant ballistic attacks.",
         "The practical question is timing: can licensed production arrive before Ukraine loses more air-defense capacity?"
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          32.758,
+          49.666
+        ],
+        [
+          33.779,
+          0,
+          32.507,
+          49.666
+        ],
+        [
+          66.526,
+          0,
+          33.474,
+          49.666
+        ],
+        [
+          0,
+          50.236,
+          32.758,
+          49.764
+        ],
+        [
+          33.779,
+          50.236,
+          32.507,
+          49.764
+        ],
+        [
+          66.526,
+          50.236,
+          33.474,
+          49.764
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "Trump approves Patriot license as Ukraine air defenses run low",
       "slug": "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the",
       "sourceCount": 4,
@@ -2366,6 +3150,45 @@
         "Several hopefuls have begun jockeying for position before party delegates gather in Bangor.",
         "The next deadline is the July 25 convention, when Democrats must settle on one challenger."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.148,
+          50.057
+        ],
+        [
+          33.388,
+          0,
+          33.093,
+          50.057
+        ],
+        [
+          66.722,
+          0,
+          33.278,
+          50.057
+        ],
+        [
+          0,
+          49.943,
+          33.148,
+          50.057
+        ],
+        [
+          33.388,
+          49.943,
+          33.093,
+          50.057
+        ],
+        [
+          66.722,
+          49.943,
+          33.278,
+          50.057
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "Maine Democrats Plan Senate Replacement Vote",
       "slug": "maine-democrats-announce-july-25-convention-to-pick-platner-replacement",
       "sourceCount": 6,
@@ -2475,6 +3298,45 @@
         "Failure mode: adjournment can create a pocket-veto stop, preventing return and leaving the unsigned document outside the law.",
         "Watch ledger: receipt date, adjournment status, veto message and public-law publication reveal which path happened."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.278,
+          50.252
+        ],
+        [
+          34.169,
+          0,
+          30.815,
+          50.252
+        ],
+        [
+          65.94,
+          0,
+          34.06,
+          50.252
+        ],
+        [
+          0,
+          50.724,
+          33.278,
+          49.276
+        ],
+        [
+          34.169,
+          50.724,
+          30.815,
+          49.276
+        ],
+        [
+          65.94,
+          50.724,
+          34.06,
+          49.276
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "Bills Without a Signature",
       "slug": "how-bills-become-law-without-a-signature",
       "sourceCount": 3,
@@ -2572,6 +3434,45 @@
         "New commissioners require Senate confirmation, leaving no quick replacement path for the vacant agency.",
         "States now face the midterm calendar with federal election support and standards work in limbo."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.213,
+          50.057
+        ],
+        [
+          33.453,
+          0,
+          32.898,
+          50.057
+        ],
+        [
+          66.591,
+          0,
+          33.409,
+          50.057
+        ],
+        [
+          0,
+          51.017,
+          33.213,
+          48.983
+        ],
+        [
+          33.453,
+          51.017,
+          32.898,
+          48.983
+        ],
+        [
+          66.591,
+          51.017,
+          33.409,
+          48.983
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "Trump leaves election agency without members",
       "slug": "trump-leaves-election-assistance-commission-without-members",
       "sourceCount": 3,
@@ -2669,6 +3570,45 @@
         "The practical tradeoff is visible: leaving late can put evacuees in traffic beside the fire.",
         "Watch the missing-person count and the route timeline; those show how the escape chain failed."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.213,
+          49.569
+        ],
+        [
+          34.3,
+          0,
+          30.815,
+          49.569
+        ],
+        [
+          66.396,
+          0,
+          33.604,
+          49.569
+        ],
+        [
+          0,
+          50.041,
+          33.213,
+          49.959
+        ],
+        [
+          34.3,
+          50.041,
+          30.815,
+          49.959
+        ],
+        [
+          66.396,
+          50.041,
+          33.604,
+          49.959
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "Spain wildfire escape risk",
       "slug": "one-of-spain-s-deadliest-wildfires-kills-at-least-12-people-with-23-others-missi",
       "sourceCount": 3,
@@ -2796,6 +3736,45 @@
         "The dispute complicates a housing-affordability message for buyers, renters, and builders across the housing market.",
         "Congress faces Trump's voter ID demand while the unsigned housing law moves into effect."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.2133,
+          50.35
+        ],
+        [
+          33.4533,
+          0,
+          33.0933,
+          50.35
+        ],
+        [
+          66.7867,
+          0,
+          33.2133,
+          50.35
+        ],
+        [
+          0,
+          49.65,
+          33.2133,
+          50.35
+        ],
+        [
+          33.4533,
+          49.65,
+          33.0933,
+          50.35
+        ],
+        [
+          66.7867,
+          49.65,
+          33.2133,
+          50.35
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "Trump Lets Housing Bill Become Law Without Signing",
       "slug": "trump-lets-housing-bill-become-law-without-signing",
       "sourceCount": 8,
@@ -2919,6 +3898,45 @@
         "Compliance path: Commission staff and national coordinators use requests, interviews, inspections and data access to check the record.",
         "Failure meter: preliminary findings, audit reports, redesign deadlines, data-access disputes and 6% global-turnover fines show movement."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          30.935,
+          50.838
+        ],
+        [
+          33.518,
+          0,
+          30.88,
+          50.838
+        ],
+        [
+          67.112,
+          0,
+          32.888,
+          50.838
+        ],
+        [
+          0,
+          52.482,
+          30.935,
+          47.518
+        ],
+        [
+          33.518,
+          52.482,
+          30.88,
+          47.518
+        ],
+        [
+          67.112,
+          52.482,
+          32.888,
+          47.518
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "The Digital Services Act, Explained",
       "slug": "how-the-digital-services-act-works",
       "sourceCount": 4,
@@ -3026,6 +4044,45 @@
         "EasyJet shares rose 13.2% Friday after Apollo put a richer bid before owners.",
         "Apollo has until Aug. 7 under U.K. rules to make a firm offer or walk away."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.278,
+          50.35
+        ],
+        [
+          35.016,
+          0,
+          31.987,
+          50.35
+        ],
+        [
+          67.242,
+          0,
+          32.758,
+          50.35
+        ],
+        [
+          0,
+          50.236,
+          33.278,
+          49.764
+        ],
+        [
+          35.016,
+          50.236,
+          31.987,
+          49.764
+        ],
+        [
+          67.242,
+          50.236,
+          32.758,
+          49.764
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "EasyJet agrees to Apollo's $7.7B bid, sidelining Castlelake offer",
       "slug": "easyjet-agrees-to-apollo-7-7b-bid-sidelining-castlelake-offer",
       "sourceCount": 4,
@@ -3115,6 +4172,45 @@
         "The import flow path still routes net inward: 2.2 million barrels a day in 2025, mostly Canada.",
         "An emergency reserve meter fell to 319.5 million barrels by July 3 after market-shock releases."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          34.906,
+          48.495
+        ],
+        [
+          35.146,
+          0,
+          29.317,
+          48.495
+        ],
+        [
+          65.81,
+          0,
+          34.19,
+          48.495
+        ],
+        [
+          0,
+          48.576,
+          34.906,
+          51.424
+        ],
+        [
+          35.146,
+          48.576,
+          29.317,
+          51.424
+        ],
+        [
+          65.81,
+          48.576,
+          34.19,
+          51.424
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "U.S. Oil Dominance Leaves Drivers Exposed",
       "slug": "what-to-know-about-u-s-oil-production-and-consumption-in-6-charts",
       "sourceCount": 1,
@@ -3210,6 +4306,45 @@
         "Affordability bottleneck: a higher rate or fee raises principal-and-interest and can block the buyer's budget.",
         "Watch meter: PMMS, quoted APR, points, fees and rate-lock terms show whether the headline rate hides costs."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          32.953,
+          48.006
+        ],
+        [
+          33.779,
+          0,
+          31.466,
+          48.006
+        ],
+        [
+          66.136,
+          0,
+          33.864,
+          48.006
+        ],
+        [
+          0,
+          48.283,
+          32.953,
+          51.717
+        ],
+        [
+          33.779,
+          48.283,
+          31.466,
+          51.717
+        ],
+        [
+          66.136,
+          48.283,
+          33.864,
+          51.717
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "Mortgage Rates, Explained",
       "slug": "how-mortgage-rates-move",
       "sourceCount": 4,
@@ -3305,6 +4440,45 @@
         "Anthropic went through a similar restriction, making frontier AI access a repeat policy chokepoint.",
         "The next advanced model may pass through the same voluntary review before reaching customers."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          32.627,
+          49.862
+        ],
+        [
+          33.584,
+          0,
+          32.507,
+          49.862
+        ],
+        [
+          66.982,
+          0,
+          33.018,
+          49.862
+        ],
+        [
+          0,
+          50.236,
+          32.627,
+          49.764
+        ],
+        [
+          33.584,
+          50.236,
+          32.507,
+          49.764
+        ],
+        [
+          66.982,
+          50.236,
+          33.018,
+          49.764
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "OpenAI ChatGPT 5.6 Security Gate",
       "slug": "chatgpt-56-security-gate",
       "sourceCount": 2,
@@ -3398,6 +4572,49 @@
         "Failure mode: confusing categories, missing detail or small samples can hide communities or break comparisons over time.",
         "Watch timeline: agency action plans, the 2027 American Community Survey and the 2030 Census show implementation."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          32.823,
+          49.08
+        ],
+        [
+          33.649,
+          0,
+          30.294,
+          49.08
+        ],
+        [
+          64.768,
+          0,
+          35.232,
+          49.08
+        ],
+        [
+          0,
+          49.162,
+          32.823,
+          50.838
+        ],
+        [
+          33.649,
+          49.162,
+          30.294,
+          50.838
+        ],
+        [
+          64.768,
+          49.162,
+          35.232,
+          50.838
+        ]
+      ],
+      "primaryGuide": {
+        "slug": "how-redistricting-works",
+        "title": "Redistricting, explained",
+        "url": "/briefs/how-redistricting-works/"
+      },
       "shortTitle": "Federal Race and Ethnicity Data, Explained",
       "slug": "how-federal-race-and-ethnicity-data-works",
       "sourceCount": 3,
@@ -3495,6 +4712,45 @@
         "The U.S. spent $400 million retrofitting the new jet, which officials said still lacked some desired capabilities.",
         "Officials cited no specific credible threat; readiness of the retrofitted jet remains the presidential-flight question."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.213,
+          49.959
+        ],
+        [
+          34.365,
+          0,
+          31.987,
+          49.959
+        ],
+        [
+          66.982,
+          0,
+          33.018,
+          49.959
+        ],
+        [
+          0,
+          49.943,
+          33.213,
+          50.057
+        ],
+        [
+          34.365,
+          49.943,
+          31.987,
+          50.057
+        ],
+        [
+          66.982,
+          49.943,
+          33.018,
+          50.057
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "Trump takes old Air Force One for security",
       "slug": "trump-returns-from-turkey-in-old-air-force-one-jet-due-to-security-concerns",
       "sourceCount": 3,
@@ -3598,6 +4854,45 @@
         "Markets watch oil boards after the strikes jolt prices and raise costs beyond the Gulf.",
         "The next move is whether mediators can save talks while Washington and Tehran trade warnings."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.213,
+          50.35
+        ],
+        [
+          33.453,
+          0,
+          33.093,
+          50.35
+        ],
+        [
+          66.787,
+          0,
+          33.213,
+          50.35
+        ],
+        [
+          0,
+          49.65,
+          33.213,
+          50.35
+        ],
+        [
+          33.453,
+          49.65,
+          33.093,
+          50.35
+        ],
+        [
+          66.787,
+          49.65,
+          33.213,
+          50.35
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "U.S. Strikes Iran Again, Testing Ceasefire and Hormuz Oil Route",
       "slug": "us-and-iran-exchange-back-and-forth-strikes-for-second-day",
       "sourceCount": 4,
@@ -3717,6 +5012,45 @@
         "Workers have treated algae, and liner repairs could require draining the pool again.",
         "Judge Carmen McLean let Hearn await trial without supervision; a status hearing is set for Aug. 5."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.604,
+          50.35
+        ],
+        [
+          34.821,
+          0,
+          31.14,
+          50.35
+        ],
+        [
+          66.201,
+          0,
+          33.799,
+          50.35
+        ],
+        [
+          0,
+          49.65,
+          33.604,
+          50.35
+        ],
+        [
+          34.821,
+          49.65,
+          31.14,
+          50.35
+        ],
+        [
+          66.201,
+          49.65,
+          33.799,
+          50.35
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "Hearn pleads not guilty in Reflecting Pool damage case",
       "slug": "olympian-david-hearn-pleads-not-guilty-to-charges-of-damaging-reflecting-pool",
       "sourceCount": 6,
@@ -3814,6 +5148,45 @@
         "Experience ledger: 39% of Harris voters report recent discrimination, more than twice the 15% share among Trump voters.",
         "Causal guardrail: the survey cannot prove vote choice or party caused these identity differences."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.734,
+          49.764
+        ],
+        [
+          34.625,
+          0,
+          28.211,
+          49.764
+        ],
+        [
+          63.792,
+          0,
+          36.208,
+          49.764
+        ],
+        [
+          0,
+          50.138,
+          33.734,
+          49.862
+        ],
+        [
+          34.625,
+          50.138,
+          28.211,
+          49.862
+        ],
+        [
+          63.792,
+          50.138,
+          36.208,
+          49.862
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "Trump-Harris Survey Tests Latino Voters' Identity Split",
       "slug": "latino-trump-voters-are-less-likely-than-harris-voters-to-say-being-latino-is-ce",
       "sourceCount": 1,
@@ -3915,6 +5288,45 @@
         "Potential contenders began signaling interest while party officials prepare a convention process under a tight calendar.",
         "Next, Democrats need a nominee quickly enough to keep a pivotal Senate seat contest viable."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          32.953,
+          50.545
+        ],
+        [
+          33.974,
+          0,
+          32.573,
+          50.545
+        ],
+        [
+          67.373,
+          0,
+          32.627,
+          50.545
+        ],
+        [
+          0,
+          50.627,
+          32.953,
+          49.373
+        ],
+        [
+          33.974,
+          50.627,
+          32.573,
+          49.373
+        ],
+        [
+          67.373,
+          50.627,
+          32.627,
+          49.373
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "Maine Democrats Vote to Replace Platner Before Senate Race Deadline",
       "slug": "maine-democrats-vote-to-replace-platner-before-july-13-senate-deadline",
       "sourceCount": 5,
@@ -4038,6 +5450,45 @@
         "Trump signaled the action from Ankara after saying he did not want the war to restart.",
         "More ship attacks or counterstrikes could push the interim ceasefire farther out of reach."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          34.385,
+          49.764
+        ],
+        [
+          35.472,
+          0,
+          30.489,
+          49.764
+        ],
+        [
+          66.982,
+          0,
+          33.018,
+          49.764
+        ],
+        [
+          0,
+          50.334,
+          34.385,
+          49.666
+        ],
+        [
+          35.472,
+          50.334,
+          30.489,
+          49.666
+        ],
+        [
+          66.982,
+          50.334,
+          33.018,
+          49.666
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "U.S. and Iran Trade Strikes, Raising Hormuz Shipping Risk",
       "slug": "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
       "sourceCount": 6,
@@ -4153,6 +5604,45 @@
         "A higher rate path would keep borrowing costs tighter for loans, firms, investors, and public budgets.",
         "Watch inflation reports and the next Fed rate decision; incoming data decides whether the split turns into action."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.278,
+          50.252
+        ],
+        [
+          34.951,
+          0,
+          31.531,
+          50.252
+        ],
+        [
+          66.722,
+          0,
+          33.278,
+          50.252
+        ],
+        [
+          0,
+          51.896,
+          33.278,
+          48.104
+        ],
+        [
+          34.951,
+          51.896,
+          31.531,
+          48.104
+        ],
+        [
+          66.722,
+          51.896,
+          33.278,
+          48.104
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "Fed split over inflation and rates",
       "slug": "fed-minutes-officials-deeply-divided-over-future-path-of-us-inflation",
       "sourceCount": 4,
@@ -4254,6 +5744,45 @@
         "Privacy advocates warn public-photo reuse can feed non-consensual AI-altered images.",
         "The practical check is the opt-out control before public photos stay in the default path."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.474,
+          50.35
+        ],
+        [
+          33.714,
+          0,
+          32.052,
+          50.35
+        ],
+        [
+          67.763,
+          0,
+          32.237,
+          50.35
+        ],
+        [
+          0,
+          49.65,
+          33.474,
+          50.35
+        ],
+        [
+          33.714,
+          49.65,
+          32.052,
+          50.35
+        ],
+        [
+          67.763,
+          49.65,
+          32.237,
+          50.35
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "Meta Opens Photos to AI Reuse",
       "slug": "how-to-prevent-meta-from-using-your-instagram-images-in-a-i",
       "sourceCount": 3,
@@ -4357,6 +5886,45 @@
         "Oil and gas markets become the U.S. public cost if fighting keeps disrupting the shipping corridor.",
         "Watch the next military order, talks signal, or tanker disruption to see whether escalation outruns diplomacy."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.083,
+          47.616
+        ],
+        [
+          33.779,
+          0,
+          31.726,
+          47.616
+        ],
+        [
+          66.266,
+          0,
+          33.734,
+          47.616
+        ],
+        [
+          0,
+          47.697,
+          33.083,
+          52.303
+        ],
+        [
+          33.779,
+          47.697,
+          31.726,
+          52.303
+        ],
+        [
+          66.266,
+          47.697,
+          33.734,
+          52.303
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "Trump Says Iran Truce Is Over as Hormuz Routes Face Strikes",
       "slug": "new-attacks-raise-questions-about-what-comes-next-in-the-iran-war",
       "sourceCount": 4,
@@ -4476,6 +6044,49 @@
         "Defense-spending projects worth billions became the alliance's proof point as leaders tried to show firepower.",
         "Next, allies have to turn summit warmth into decisions on Iran, Greenland talk and defense spending."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          32.953,
+          49.959
+        ],
+        [
+          33.779,
+          0,
+          32.312,
+          49.959
+        ],
+        [
+          66.917,
+          0,
+          33.083,
+          49.959
+        ],
+        [
+          0,
+          50.138,
+          32.953,
+          49.862
+        ],
+        [
+          33.779,
+          50.138,
+          32.312,
+          49.862
+        ],
+        [
+          66.917,
+          50.138,
+          33.083,
+          49.862
+        ]
+      ],
+      "primaryGuide": {
+        "slug": "what-nato-does",
+        "title": "What NATO Does",
+        "url": "/briefs/what-nato-does/"
+      },
       "shortTitle": "Trump says NATO unity faces tests",
       "slug": "trump-hails-unity-at-nato-summit-despite-recent-tensions",
       "sourceCount": 6,
@@ -4591,6 +6202,45 @@
         "Trump’s lawyers sought more delay while asking the justices to reconsider, keeping payment timing contested.",
         "The remaining steps are transfer timing, the rehearing request, and Trump’s new notice of appeal."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.213,
+          50.35
+        ],
+        [
+          33.453,
+          0,
+          32.312,
+          50.35
+        ],
+        [
+          66.787,
+          0,
+          33.213,
+          50.35
+        ],
+        [
+          0,
+          51.31,
+          33.213,
+          48.69
+        ],
+        [
+          33.453,
+          51.31,
+          32.312,
+          48.69
+        ],
+        [
+          66.787,
+          51.31,
+          33.213,
+          48.69
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "Judge orders Trump escrow released",
       "slug": "judge-orders-release-of-the-5-8-million-payment-that-trump-owed-e-jean-carroll",
       "sourceCount": 4,
@@ -4680,6 +6330,45 @@
         "Inflation risk can trigger a higher-rate path at the Federal Reserve, tightening conditions across the U.S. economy.",
         "Watch the revoked oil-sales waiver, Strait traffic, and benchmarks as the price shock moves through markets."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          32.953,
+          48.495
+        ],
+        [
+          34.104,
+          0,
+          30.619,
+          48.495
+        ],
+        [
+          65.94,
+          0,
+          34.06,
+          48.495
+        ],
+        [
+          0,
+          49.162,
+          32.953,
+          50.838
+        ],
+        [
+          34.104,
+          49.162,
+          30.619,
+          50.838
+        ],
+        [
+          65.94,
+          49.162,
+          34.06,
+          50.838
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "Iran Tensions Hit Oil and Rates",
       "slug": "tensions-with-iran-add-fresh-uncertainty-to-an-already-shaky-global-economy",
       "sourceCount": 1,
@@ -4787,6 +6476,45 @@
         "Party officials accuse Platner’s team of trying to influence who would choose a replacement.",
         "The next choice is exit before the deadline or a Senate race with Platner still nominated."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          32.953,
+          48.885
+        ],
+        [
+          34.235,
+          0,
+          32.247,
+          48.885
+        ],
+        [
+          66.722,
+          0,
+          33.278,
+          48.885
+        ],
+        [
+          0,
+          49.748,
+          32.953,
+          50.252
+        ],
+        [
+          34.235,
+          49.748,
+          32.247,
+          50.252
+        ],
+        [
+          66.722,
+          49.748,
+          33.278,
+          50.252
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "Sanders, Warren Call for Platner to Quit Before Maine Ballot Deadline",
       "slug": "sanders-warren-drop-endorsements-of-maine-s-graham-platner",
       "sourceCount": 6,
@@ -4896,6 +6624,49 @@
         "Trump said he no longer wanted to negotiate with Iran, calling further talks a waste of time.",
         "Further attacks now decide whether last month's interim deal can still stop the war."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.018,
+          49.08
+        ],
+        [
+          34.104,
+          0,
+          30.945,
+          49.08
+        ],
+        [
+          66.005,
+          0,
+          33.995,
+          49.08
+        ],
+        [
+          0,
+          49.65,
+          33.018,
+          50.35
+        ],
+        [
+          34.104,
+          49.65,
+          30.945,
+          50.35
+        ],
+        [
+          66.005,
+          49.65,
+          33.995,
+          50.35
+        ]
+      ],
+      "primaryGuide": {
+        "slug": "what-nato-does",
+        "title": "What NATO Does",
+        "url": "/briefs/what-nato-does/"
+      },
       "shortTitle": "Trump says Iran ceasefire is over as attacks put diplomacy at risk",
       "slug": "at-nato-summit-in-turkey-trump-says-he-believes-ceasefire-with-iran-is-over",
       "sourceCount": 3,
@@ -4999,6 +6770,45 @@
         "Iran said it hit bases hosting U.S. forces in Kuwait and Bahrain after U.S. strikes.",
         "Talks, Hormuz shipping, and U.S. force protection now show whether the ceasefire can be rebuilt."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          34.646,
+          50.155
+        ],
+        [
+          35.732,
+          0,
+          30.75,
+          50.155
+        ],
+        [
+          68.024,
+          0,
+          31.976,
+          50.155
+        ],
+        [
+          0,
+          50.236,
+          34.646,
+          49.764
+        ],
+        [
+          35.732,
+          50.236,
+          30.75,
+          49.764
+        ],
+        [
+          68.024,
+          50.236,
+          31.976,
+          49.764
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "Trump Says Iran Ceasefire Over as Strikes Threaten U.S. Forces",
       "slug": "trump-says-iran-ceasefire-is-over-after-latest-round-of-strikes",
       "sourceCount": 4,
@@ -5106,6 +6916,45 @@
         "His office says he is improving and working with staff on Kentucky and Senate matters.",
         "Next public signal: a medical update, discharge plan, or timetable for returning to Senate work."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          32.888,
+          49.959
+        ],
+        [
+          33.584,
+          0,
+          30.75,
+          49.959
+        ],
+        [
+          65.094,
+          0,
+          34.906,
+          49.959
+        ],
+        [
+          0,
+          50.041,
+          32.888,
+          49.959
+        ],
+        [
+          33.584,
+          50.041,
+          30.75,
+          49.959
+        ],
+        [
+          65.094,
+          50.041,
+          34.906,
+          49.959
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "GOP Leaders Give No Return Timeline for McConnell",
       "slug": "republican-leaders-say-they-ve-spoken-with-mitch-mcconnell-since-hospitalization",
       "sourceCount": 4,
@@ -5213,6 +7062,45 @@
         "Transactions already underway get until July 17; proceeds move into blocked, interest-bearing accounts.",
         "Brent reached $75 and WTI $71 as renewed Hormuz risk moved through oil markets."
       ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.083,
+          49.764
+        ],
+        [
+          34.104,
+          0,
+          30.554,
+          49.764
+        ],
+        [
+          65.419,
+          0,
+          34.581,
+          49.764
+        ],
+        [
+          0,
+          50.041,
+          33.083,
+          49.959
+        ],
+        [
+          34.104,
+          50.041,
+          30.554,
+          49.959
+        ],
+        [
+          65.419,
+          50.041,
+          34.581,
+          49.959
+        ]
+      ],
+      "primaryGuide": null,
       "shortTitle": "U.S. Strikes Iran and Reimposes Sanctions",
       "slug": "u-s-strikes-iran-and-reimposes-sanctions-after-tanker-attacks",
       "sourceCount": 4,
