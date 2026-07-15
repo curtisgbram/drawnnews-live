@@ -1,7 +1,7 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-15T17:10:18.169Z",
-  "rolling24HourCount": 6,
+  "updatedAt": "2026-07-15T19:53:30.928Z",
+  "rolling24HourCount": 4,
   "comics": [
     {
       "category": "Guide",
@@ -295,8 +295,16 @@
       ],
       "primaryGuide": {
         "slug": "how-oil-prices-move",
-        "title": "Oil Prices, Explained",
+        "title": "How Oil Prices Move",
         "url": "/briefs/how-oil-prices-move/"
+      },
+      "readerNext": {
+        "buttonLabel": "Earlier brief",
+        "kind": "earlier-brief",
+        "label": "Earlier in this story",
+        "slug": "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
+        "title": "U.S. Strikes Iran After Ship Attack Threatens Hormuz Shipping",
+        "url": "/live/?slug=u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz"
       },
       "relatedBriefSlugs": [
         "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
@@ -682,6 +690,14 @@
         "title": "How AI Data Centers Work",
         "url": "/briefs/how-ai-data-centers-work/"
       },
+      "readerNext": {
+        "buttonLabel": "Guide",
+        "kind": "background-guide",
+        "label": "Background guide",
+        "slug": "how-ai-data-centers-work",
+        "title": "How AI Data Centers Work",
+        "url": "/briefs/how-ai-data-centers-work/"
+      },
       "relatedBriefSlugs": [],
       "shortTitle": "Hochul Pauses AI Data Center Permits",
       "slug": "the-politics-of-new-york-s-data-center-construction-pause",
@@ -877,6 +893,14 @@
         ]
       ],
       "primaryGuide": null,
+      "readerNext": {
+        "buttonLabel": "Earlier brief",
+        "kind": "earlier-brief",
+        "label": "Earlier in this story",
+        "slug": "iran-s-strikes-on-ships-in-strait-of-hormuz-threaten-oil-flow",
+        "title": "Iran Tanker Attacks Draw U.S. Strikes",
+        "url": "/briefs/iran-s-strikes-on-ships-in-strait-of-hormuz-threaten-oil-flow/"
+      },
       "relatedBriefSlugs": [
         "iran-s-strikes-on-ships-in-strait-of-hormuz-threaten-oil-flow",
         "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
@@ -1057,7 +1081,15 @@
       ],
       "primaryGuide": {
         "slug": "how-inflation-reports-work",
-        "title": "Inflation reports turn sampled prices",
+        "title": "How Inflation Reports Work",
+        "url": "/briefs/how-inflation-reports-work/"
+      },
+      "readerNext": {
+        "buttonLabel": "Guide",
+        "kind": "background-guide",
+        "label": "Background guide",
+        "slug": "how-inflation-reports-work",
+        "title": "How Inflation Reports Work",
         "url": "/briefs/how-inflation-reports-work/"
       },
       "relatedBriefSlugs": [],
@@ -1593,6 +1625,14 @@
         ]
       ],
       "primaryGuide": null,
+      "readerNext": {
+        "buttonLabel": "Earlier brief",
+        "kind": "earlier-brief",
+        "label": "Earlier in this story",
+        "slug": "doj-approves-paramount-skydance-s-acquisition-of-warner-bros-discovery",
+        "title": "DOJ approves Paramount Skydance’s acquisition",
+        "url": "/briefs/doj-approves-paramount-skydance-s-acquisition-of-warner-bros-discovery/"
+      },
       "relatedBriefSlugs": [
         "doj-approves-paramount-skydance-s-acquisition-of-warner-bros-discovery"
       ],
@@ -1909,6 +1949,14 @@
         ]
       ],
       "primaryGuide": null,
+      "readerNext": {
+        "buttonLabel": "Earlier brief",
+        "kind": "earlier-brief",
+        "label": "Earlier in this story",
+        "slug": "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
+        "title": "U.S. and Iran Trade Strikes, Raising Hormuz Shipping Risk",
+        "url": "/live/?slug=u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over"
+      },
       "relatedBriefSlugs": [
         "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
         "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
@@ -2062,6 +2110,14 @@
         ]
       ],
       "primaryGuide": null,
+      "readerNext": {
+        "buttonLabel": "Storyline",
+        "kind": "storyline",
+        "label": "Storyline",
+        "slug": "governing-crisis",
+        "title": "U.S. Elections",
+        "url": "/storylines/governing-crisis/"
+      },
       "relatedBriefSlugs": [],
       "shortTitle": "Trump Clemency Ends Proud Boys Case",
       "slug": "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa",
@@ -2272,7 +2328,15 @@
       ],
       "primaryGuide": {
         "slug": "how-us-senate-vacancies-are-filled",
-        "title": "Filling a Senate Vacancy",
+        "title": "How U.S. Senate Vacancies Are Filled",
+        "url": "/live/?slug=how-us-senate-vacancies-are-filled"
+      },
+      "readerNext": {
+        "buttonLabel": "Guide",
+        "kind": "background-guide",
+        "label": "Background guide",
+        "slug": "how-us-senate-vacancies-are-filled",
+        "title": "How U.S. Senate Vacancies Are Filled",
         "url": "/live/?slug=how-us-senate-vacancies-are-filled"
       },
       "relatedBriefSlugs": [],
@@ -2470,6 +2534,14 @@
         ]
       ],
       "primaryGuide": null,
+      "readerNext": {
+        "buttonLabel": "Earlier brief",
+        "kind": "earlier-brief",
+        "label": "Earlier in this story",
+        "slug": "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
+        "title": "U.S. and Iran Trade Strikes, Raising Hormuz Shipping Risk",
+        "url": "/live/?slug=u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over"
+      },
       "relatedBriefSlugs": [
         "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
         "un-agency-pauses-evacuation-of-ships-through-the-strait-of-hormuz-after-attack-o",
@@ -2640,7 +2712,15 @@
       ],
       "primaryGuide": {
         "slug": "how-storm-warnings-work",
-        "title": "Storm Warnings, Explained",
+        "title": "How Storm Warnings Work",
+        "url": "/briefs/how-storm-warnings-work/"
+      },
+      "readerNext": {
+        "buttonLabel": "Guide",
+        "kind": "background-guide",
+        "label": "Background guide",
+        "slug": "how-storm-warnings-work",
+        "title": "How Storm Warnings Work",
         "url": "/briefs/how-storm-warnings-work/"
       },
       "relatedBriefSlugs": [],
@@ -2820,6 +2900,14 @@
         ]
       ],
       "primaryGuide": null,
+      "readerNext": {
+        "buttonLabel": "Storyline",
+        "kind": "storyline",
+        "label": "Storyline",
+        "slug": "war-security-order",
+        "title": "The War and Security Order",
+        "url": "/storylines/war-security-order/"
+      },
       "relatedBriefSlugs": [],
       "shortTitle": "Armed Settlers Block Khanna's West Bank Delegation",
       "slug": "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
@@ -3319,6 +3407,14 @@
         "title": "How Ceasefires Are Monitored",
         "url": "/briefs/how-ceasefires-are-monitored/"
       },
+      "readerNext": {
+        "buttonLabel": "Earlier brief",
+        "kind": "earlier-brief",
+        "label": "Earlier in this story",
+        "slug": "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
+        "title": "U.S. and Iran Trade Strikes, Raising Hormuz Shipping Risk",
+        "url": "/live/?slug=u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over"
+      },
       "relatedBriefSlugs": [
         "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
         "us-and-iran-exchange-back-and-forth-strikes-for-second-day",
@@ -3502,6 +3598,14 @@
         ]
       ],
       "primaryGuide": null,
+      "readerNext": {
+        "buttonLabel": "Storyline",
+        "kind": "storyline",
+        "label": "Storyline",
+        "slug": "ai-buildout",
+        "title": "The AI Buildout",
+        "url": "/storylines/ai-buildout/"
+      },
       "relatedBriefSlugs": [],
       "shortTitle": "Apple Sues OpenAI over Hardware Secrets",
       "slug": "apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secr",
@@ -3683,6 +3787,14 @@
         ]
       ],
       "primaryGuide": null,
+      "readerNext": {
+        "buttonLabel": "Earlier brief",
+        "kind": "earlier-brief",
+        "label": "Earlier in this story",
+        "slug": "maine-democrats-announce-july-25-convention-to-pick-platner-replacement",
+        "title": "Maine Democrats Plan Senate Replacement Vote",
+        "url": "/live/?slug=maine-democrats-announce-july-25-convention-to-pick-platner-replacement"
+      },
       "relatedBriefSlugs": [
         "maine-democrats-announce-july-25-convention-to-pick-platner-replacement",
         "sanders-warren-drop-endorsements-of-maine-s-graham-platner",
@@ -4026,7 +4138,15 @@
       ],
       "primaryGuide": {
         "slug": "how-missile-defense-works",
-        "title": "Missile Defense, Explained",
+        "title": "How Missile Defense Works",
+        "url": "/briefs/how-missile-defense-works/"
+      },
+      "readerNext": {
+        "buttonLabel": "Guide",
+        "kind": "background-guide",
+        "label": "Background guide",
+        "slug": "how-missile-defense-works",
+        "title": "How Missile Defense Works",
         "url": "/briefs/how-missile-defense-works/"
       },
       "relatedBriefSlugs": [],
@@ -4210,6 +4330,14 @@
         ]
       ],
       "primaryGuide": null,
+      "readerNext": {
+        "buttonLabel": "Read update",
+        "kind": "latest-development",
+        "label": "Latest development",
+        "slug": "graham-platner-officially-withdraws-from-the-maine-senate-race",
+        "title": "Platner withdrawal opens July 27 Maine Senate race replacement deadline",
+        "url": "/live/?slug=graham-platner-officially-withdraws-from-the-maine-senate-race"
+      },
       "relatedBriefSlugs": [
         "maine-democrats-vote-to-replace-platner-before-july-13-senate-deadline",
         "how-dems-could-replace-platner-in-maine-senate-race-and-who-might-take-his-place"
@@ -4539,6 +4667,14 @@
         ]
       ],
       "primaryGuide": {
+        "slug": "what-the-election-assistance-commission-does",
+        "title": "What the Election Assistance Commission Does",
+        "url": "/live/?slug=what-the-election-assistance-commission-does"
+      },
+      "readerNext": {
+        "buttonLabel": "Guide",
+        "kind": "background-guide",
+        "label": "Background guide",
         "slug": "what-the-election-assistance-commission-does",
         "title": "What the Election Assistance Commission Does",
         "url": "/live/?slug=what-the-election-assistance-commission-does"
@@ -4888,8 +5024,16 @@
       ],
       "primaryGuide": {
         "slug": "how-bills-become-law-without-a-signature",
-        "title": "Bills Without a Signature",
+        "title": "How Bills Become Law Without a Signature",
         "url": "/live/?slug=how-bills-become-law-without-a-signature"
+      },
+      "readerNext": {
+        "buttonLabel": "Earlier brief",
+        "kind": "earlier-brief",
+        "label": "Earlier in this story",
+        "slug": "trump-refuses-to-sign-housing-bill-until-divisive-save-voting-act-passes-congres",
+        "title": "Trump Stalls Housing Bill Over SAVE Act",
+        "url": "/briefs/trump-refuses-to-sign-housing-bill-until-divisive-save-voting-act-passes-congres/"
       },
       "relatedBriefSlugs": [
         "trump-refuses-to-sign-housing-bill-until-divisive-save-voting-act-passes-congres"
@@ -5391,7 +5535,15 @@
       ],
       "primaryGuide": {
         "slug": "how-oil-prices-move",
-        "title": "Oil Prices, Explained",
+        "title": "How Oil Prices Move",
+        "url": "/briefs/how-oil-prices-move/"
+      },
+      "readerNext": {
+        "buttonLabel": "Guide",
+        "kind": "background-guide",
+        "label": "Background guide",
+        "slug": "how-oil-prices-move",
+        "title": "How Oil Prices Move",
         "url": "/briefs/how-oil-prices-move/"
       },
       "relatedBriefSlugs": [],
@@ -5700,6 +5852,14 @@
         ]
       ],
       "primaryGuide": null,
+      "readerNext": {
+        "buttonLabel": "Storyline",
+        "kind": "storyline",
+        "label": "Storyline",
+        "slug": "ai-buildout",
+        "title": "The AI Buildout",
+        "url": "/storylines/ai-buildout/"
+      },
       "relatedBriefSlugs": [],
       "shortTitle": "OpenAI ChatGPT 5.6 Security Gate",
       "slug": "chatgpt-56-security-gate",
@@ -6014,6 +6174,14 @@
         ]
       ],
       "primaryGuide": null,
+      "readerNext": {
+        "buttonLabel": "Storyline",
+        "kind": "storyline",
+        "label": "Storyline",
+        "slug": "war-security-order",
+        "title": "The War and Security Order",
+        "url": "/storylines/war-security-order/"
+      },
       "relatedBriefSlugs": [],
       "shortTitle": "Trump takes old Air Force One for security",
       "slug": "trump-returns-from-turkey-in-old-air-force-one-jet-due-to-security-concerns",
@@ -6180,8 +6348,16 @@
       ],
       "primaryGuide": {
         "slug": "how-oil-prices-move",
-        "title": "Oil Prices, Explained",
+        "title": "How Oil Prices Move",
         "url": "/briefs/how-oil-prices-move/"
+      },
+      "readerNext": {
+        "buttonLabel": "Read update",
+        "kind": "latest-development",
+        "label": "Latest development",
+        "slug": "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
+        "title": "Trump Changes Hormuz Toll Plan, With Tankers Stalled",
+        "url": "/live/?slug=trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz"
       },
       "relatedBriefSlugs": [
         "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over"
@@ -6521,6 +6697,14 @@
         ]
       ],
       "primaryGuide": null,
+      "readerNext": {
+        "buttonLabel": "Storyline",
+        "kind": "storyline",
+        "label": "Storyline",
+        "slug": "governing-crisis",
+        "title": "U.S. Elections",
+        "url": "/storylines/governing-crisis/"
+      },
       "relatedBriefSlugs": [],
       "shortTitle": "Trump-Harris Survey Tests Latino Voters' Identity Split",
       "slug": "latino-trump-voters-are-less-likely-than-harris-voters-to-say-being-latino-is-ce",
@@ -6684,6 +6868,14 @@
         ]
       ],
       "primaryGuide": null,
+      "readerNext": {
+        "buttonLabel": "Read update",
+        "kind": "latest-development",
+        "label": "Latest development",
+        "slug": "maine-democrats-announce-july-25-convention-to-pick-platner-replacement",
+        "title": "Maine Democrats Plan Senate Replacement Vote",
+        "url": "/live/?slug=maine-democrats-announce-july-25-convention-to-pick-platner-replacement"
+      },
       "relatedBriefSlugs": [
         "sanders-warren-drop-endorsements-of-maine-s-graham-platner",
         "how-dems-could-replace-platner-in-maine-senate-race-and-who-might-take-his-place"
@@ -6876,6 +7068,14 @@
         "title": "How Ceasefires Are Monitored",
         "url": "/briefs/how-ceasefires-are-monitored/"
       },
+      "readerNext": {
+        "buttonLabel": "Read update",
+        "kind": "latest-development",
+        "label": "Latest development",
+        "slug": "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
+        "title": "U.S.-Iran Strikes Deepen Hormuz Standoff",
+        "url": "/live/?slug=us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f"
+      },
       "relatedBriefSlugs": [],
       "shortTitle": "U.S. and Iran Trade Strikes, Raising Hormuz Shipping Risk",
       "slug": "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
@@ -7054,7 +7254,15 @@
       ],
       "primaryGuide": {
         "slug": "how-the-fed-sets-interest-rates",
-        "title": "The Fed Sets Interest Rates",
+        "title": "How the Fed Sets Interest Rates",
+        "url": "/briefs/how-the-fed-sets-interest-rates/"
+      },
+      "readerNext": {
+        "buttonLabel": "Guide",
+        "kind": "background-guide",
+        "label": "Background guide",
+        "slug": "how-the-fed-sets-interest-rates",
+        "title": "How the Fed Sets Interest Rates",
         "url": "/briefs/how-the-fed-sets-interest-rates/"
       },
       "relatedBriefSlugs": [],
@@ -7216,6 +7424,14 @@
         ]
       ],
       "primaryGuide": null,
+      "readerNext": {
+        "buttonLabel": "Storyline",
+        "kind": "storyline",
+        "label": "Storyline",
+        "slug": "ai-buildout",
+        "title": "The AI Buildout",
+        "url": "/storylines/ai-buildout/"
+      },
       "relatedBriefSlugs": [],
       "shortTitle": "Meta Opens Photos to AI Reuse",
       "slug": "how-to-prevent-meta-from-using-your-instagram-images-in-a-i",
@@ -7382,8 +7598,16 @@
       ],
       "primaryGuide": {
         "slug": "how-oil-prices-move",
-        "title": "Oil Prices, Explained",
+        "title": "How Oil Prices Move",
         "url": "/briefs/how-oil-prices-move/"
+      },
+      "readerNext": {
+        "buttonLabel": "Read update",
+        "kind": "latest-development",
+        "label": "Latest development",
+        "slug": "us-and-iran-exchange-back-and-forth-strikes-for-second-day",
+        "title": "U.S. Strikes Iran Again, Testing Ceasefire and Hormuz Oil Route",
+        "url": "/live/?slug=us-and-iran-exchange-back-and-forth-strikes-for-second-day"
       },
       "relatedBriefSlugs": [
         "iran-s-strikes-on-ships-in-strait-of-hormuz-threaten-oil-flow"
@@ -7571,6 +7795,14 @@
         "slug": "what-nato-does",
         "title": "What NATO Does",
         "url": "/briefs/what-nato-does/"
+      },
+      "readerNext": {
+        "buttonLabel": "Earlier brief",
+        "kind": "earlier-brief",
+        "label": "Earlier in this story",
+        "slug": "trump-talks-ukraine-russia-and-f-35-jets-sale-in-meeting-with-turkey-s-erdo-an",
+        "title": "Trump weighs Turkey F-35 sale",
+        "url": "/briefs/trump-talks-ukraine-russia-and-f-35-jets-sale-in-meeting-with-turkey-s-erdo-an/"
       },
       "relatedBriefSlugs": [
         "trump-talks-ukraine-russia-and-f-35-jets-sale-in-meeting-with-turkey-s-erdo-an"
@@ -7899,7 +8131,15 @@
       ],
       "primaryGuide": {
         "slug": "how-the-fed-sets-interest-rates",
-        "title": "The Fed Sets Interest Rates",
+        "title": "How the Fed Sets Interest Rates",
+        "url": "/briefs/how-the-fed-sets-interest-rates/"
+      },
+      "readerNext": {
+        "buttonLabel": "Guide",
+        "kind": "background-guide",
+        "label": "Background guide",
+        "slug": "how-the-fed-sets-interest-rates",
+        "title": "How the Fed Sets Interest Rates",
         "url": "/briefs/how-the-fed-sets-interest-rates/"
       },
       "relatedBriefSlugs": [],
@@ -8071,6 +8311,14 @@
         ]
       ],
       "primaryGuide": null,
+      "readerNext": {
+        "buttonLabel": "Read update",
+        "kind": "latest-development",
+        "label": "Latest development",
+        "slug": "graham-platner-officially-withdraws-from-the-maine-senate-race",
+        "title": "Platner withdrawal opens July 27 Maine Senate race replacement deadline",
+        "url": "/live/?slug=graham-platner-officially-withdraws-from-the-maine-senate-race"
+      },
       "relatedBriefSlugs": [
         "democrats-have-abandoned-graham-platner"
       ],
@@ -8247,6 +8495,14 @@
         "slug": "what-nato-does",
         "title": "What NATO Does",
         "url": "/briefs/what-nato-does/"
+      },
+      "readerNext": {
+        "buttonLabel": "Earlier brief",
+        "kind": "earlier-brief",
+        "label": "Earlier in this story",
+        "slug": "trump-talks-ukraine-russia-and-f-35-jets-sale-in-meeting-with-turkey-s-erdo-an",
+        "title": "Trump weighs Turkey F-35 sale",
+        "url": "/briefs/trump-talks-ukraine-russia-and-f-35-jets-sale-in-meeting-with-turkey-s-erdo-an/"
       },
       "relatedBriefSlugs": [
         "trump-talks-ukraine-russia-and-f-35-jets-sale-in-meeting-with-turkey-s-erdo-an"
