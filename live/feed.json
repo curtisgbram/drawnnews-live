@@ -1,6 +1,6 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-15T03:11:22.382Z",
+  "updatedAt": "2026-07-15T03:59:23.423Z",
   "rolling24HourCount": 5,
   "comics": [
     {
@@ -7161,47 +7161,54 @@
   "dailyPaper": {
     "briefs": [
       {
-        "category": "Money",
-        "shortTitle": "Twelve states sue to block Paramount's $110bn Warner Bros. merger",
-        "slug": "paramount-and-warner-bros-sued-to-block-110bn-mega-merger",
-        "summary": "A dozen US states are taking legal action to halt the largest media consolidation in Hollywood history.",
-        "title": "Twelve states sue to block Paramount's $110bn Warner Bros. merger"
+        "category": "U.S. & Politics",
+        "shortTitle": "Trump Changes Hormuz Toll Plan, With Tankers Stalled",
+        "slug": "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
+        "summary": "President Trump reversed a planned 20% toll on cargo ships using the Strait of Hormuz as tanker traffic slowed amid U.S.-Iran fighting. The shift leaves shipping companies and officials watching whether transit through the waterway resumes safely.",
+        "title": "Trump Changes Hormuz Toll Plan, With Tankers Stalled"
       },
       {
-        "category": "Guide",
-        "shortTitle": "Filling a Senate Vacancy",
-        "slug": "how-us-senate-vacancies-are-filled",
-        "summary": "A U.S. Senate vacancy moves through the Seventeenth Amendment, state law, an interim appointment or special election, and the Senate’s seating process. The key constraint is that states set the replacement rules.",
-        "title": "How U.S. Senate Vacancies Are Filled"
+        "category": "U.S. & Politics",
+        "shortTitle": "House Votes for Permanent Daylight Saving",
+        "slug": "house-votes-for-permanent-daylight-saving-time",
+        "summary": "House Republicans and Democrats united in favor of a bill to eliminate semiannual clock-changing, but it faces an uncertain fate in the Senate.",
+        "title": "House Votes for Permanent Daylight Saving Time"
+      },
+      {
+        "category": "U.S. & Politics",
+        "shortTitle": "Kagan Seeks $14.6M for Court Security",
+        "slug": "justice-kagan-calls-for-additional-supreme-court-security-funding",
+        "summary": "Supreme Court Justice Elena Kagan delivered her opening statement at a hearing over the court's budget, which includes an increase in security funding as the justices have faced growing threats in recent years.",
+        "title": "Kagan Seeks $14.6M to Bolster Court Security"
+      },
+      {
+        "category": "Tech & Science",
+        "shortTitle": "Hochul Pauses AI Data Center Permits",
+        "slug": "the-politics-of-new-york-s-data-center-construction-pause",
+        "summary": "Gov. Kathy Hochul paused permits for new hyperscale AI data centers for up to a year while New York sets rules on power, water and ratepayer impacts.",
+        "title": "Hochul Pauses New AI Data Center Permits Over Grid Costs"
       },
       {
         "category": "World",
-        "shortTitle": "U.S.-Iran Strikes Deepen Hormuz Standoff",
-        "slug": "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
-        "summary": "U.S. forces struck Iranian military targets; Iran answered with attacks on U.S. bases in Gulf states, escalating a standoff over the Strait of Hormuz and the shipping route it controls.",
-        "title": "U.S. and Iran Trade Strikes, Deepening the Strait of Hormuz Standoff"
-      },
-      {
-        "category": "Guide",
-        "shortTitle": "EV Battery Recycling, Explained",
-        "slug": "how-ev-battery-recycling-works",
-        "summary": "An electric-vehicle battery moves from collection and safety handling through diagnosis, reuse or disassembly, material recovery, and refining. Economics, chemistry, transport rules, and design for disassembly determine whether its critical materials return...",
-        "title": "How EV Battery Recycling Works"
+        "shortTitle": "U.S. Energy Price Drop Pulled CPI Inflation to 3.5%",
+        "slug": "inflation-slowed-during-pause-in-war-with-iran",
+        "summary": "The Consumer Price Index fell to a 3.5 percent annual increase in June, and prices marked their biggest drop from a month earlier since 2020.",
+        "title": "U.S. Energy Price Drop Pulled CPI Inflation to 3.5%"
       }
     ],
     "categories": [
-      "Money",
-      "Guide",
+      "U.S. & Politics",
+      "Tech & Science",
       "World"
     ],
-    "date": "2026-07-13",
-    "imagePath": "/live/papers/2026-07-13.webp",
-    "leadTitle": "Twelve states sue to block Paramount's $110bn Warner Bros. merger",
-    "shortHeadline": "Twelve states sue to block Paramount's $110bn Warner Bros. merger leads the daily briefing.",
-    "sourceTotal": 14,
-    "summary": "Twelve states sue to block Paramount's $110bn Warner Bros. merger leads a 4-brief front page across 3 sections.",
-    "topStripCount": 4,
-    "updatedAt": "2026-07-14T13:29:07.255Z"
+    "date": "2026-07-14",
+    "imagePath": "/live/papers/2026-07-14.webp",
+    "leadTitle": "Trump Changes Hormuz Toll Plan, With Tankers Stalled",
+    "shortHeadline": "Trump Changes Hormuz Toll Plan, With Tankers Stalled leads the daily briefing.",
+    "sourceTotal": 30,
+    "summary": "Trump Changes Hormuz Toll Plan, With Tankers Stalled leads a 5-brief front page across 3 sections.",
+    "topStripCount": 5,
+    "updatedAt": "2026-07-15T03:59:23.419Z"
   },
   "feeds": {
     "categories": {
