@@ -1,8 +1,184 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-15T02:53:05.677Z",
-  "rolling24HourCount": 4,
+  "updatedAt": "2026-07-15T03:11:22.382Z",
+  "rolling24HourCount": 5,
   "comics": [
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-15T03:10:33.314Z",
+      "imagePath": "/live/media/house-votes-for-permanent-daylight-saving-time.webp",
+      "claims": [
+        {
+          "claim": "The House voted 308 to 117 to halt clock changes, leaving the Senate to weigh darker winter school commutes against longer evenings.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The Sunshine Protection Act would keep clocks one hour ahead year-round, replacing the current pair of seasonal clock shifts.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The bipartisan House vote puts the bill past one chamber, but it cannot change national timekeeping without Senate approval.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "States could remain on permanent standard time under the proposal, as Hawaii and most of Arizona already avoid clock changes.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Permanent daylight saving would mean later winter sunrises and later sunsets, changing daily travel, school, and home routines.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The Senate now decides whether a House vote becomes a federal timekeeping change or another stalled effort to end clock switching.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "The House voted 308 to 117 to halt clock changes, leaving the Senate to weigh darker winter school commutes against longer evenings.",
+        "The Sunshine Protection Act would keep clocks one hour ahead year-round, replacing the current pair of seasonal clock shifts.",
+        "The bipartisan House vote puts the bill past one chamber, but it cannot change national timekeeping without Senate approval.",
+        "States could remain on permanent standard time under the proposal, as Hawaii and most of Arizona already avoid clock changes.",
+        "Permanent daylight saving would mean later winter sunrises and later sunsets, changing daily travel, school, and home routines.",
+        "The Senate now decides whether a House vote becomes a federal timekeeping change or another stalled effort to end clock switching."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          32.888,
+          50.545
+        ],
+        [
+          33.649,
+          0,
+          32.507,
+          50.545
+        ],
+        [
+          67.112,
+          0,
+          32.888,
+          50.545
+        ],
+        [
+          0,
+          51.115,
+          32.888,
+          48.885
+        ],
+        [
+          33.649,
+          51.115,
+          32.507,
+          48.885
+        ],
+        [
+          67.112,
+          51.115,
+          32.888,
+          48.885
+        ]
+      ],
+      "primaryGuide": null,
+      "shortTitle": "House Votes for Permanent Daylight Saving",
+      "slug": "house-votes-for-permanent-daylight-saving-time",
+      "sourceCount": 7,
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cz9l9venjd8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/politics/watch-house-passes-bill-to-make-daylight-saving-time-permanent"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/jul/14/house-committee-advances-daylight-saving-time-bill"
+        },
+        {
+          "name": "CBS News Latest",
+          "url": "https://www.cbsnews.com/news/daylight-saving-time-permanent-house-vote"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/politics/congress/house-passes-bill-daylight-saving-time-permanent-sunshine-protection-rcna587531"
+        },
+        {
+          "name": "Politico Congress",
+          "url": "https://www.politico.com/live-updates/2026/07/14/congress/house-votes-for-daylight-saving-time-00997817"
+        },
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/14/us/politics/house-daylight-savings-time-sunshine-protection-act.html"
+        }
+      ],
+      "storylineKey": "",
+      "storylineTitle": "",
+      "summary": "House Republicans and Democrats united in favor of a bill to eliminate semiannual clock-changing, but it faces an uncertain fate in the Senate.",
+      "title": "House Votes for Permanent Daylight Saving Time"
+    },
     {
       "category": "Tech & Science",
       "contentType": "brief",
@@ -6980,152 +7156,6 @@
       "storylineTitle": "",
       "summary": "Spokespeople for Senate Republican leaders John Thune and John Barrasso said they have spoken with Mitch McConnell while he remains hospitalized after a June 14 admission, but his office has not provided a diagnosis, discharge date, or Senate return timeline.",
       "title": "Senate GOP Says McConnell Remains Hospitalized With No Return Timeline"
-    },
-    {
-      "category": "U.S. & Politics",
-      "contentType": "brief",
-      "generatedAt": "2026-07-08T05:49:16.576Z",
-      "imagePath": "/live/media/u-s-strikes-iran-and-reimposes-sanctions-after-tanker-attacks.webp",
-      "claims": [
-        {
-          "claim": "U.S. strikes hit Iranian military sites after tanker attacks, while Treasury froze new oil-sales waivers tied to Hormuz shipping.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "A Strait map shows commercial ships and oil tankers crossing the corridor Iran was accused of attacking.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "CENTCOM said precision strikes hit air-defense, radar, missile, drone and port targets near the strait.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Treasury replaced General License X with X1, ending new Iranian oil sales after Tuesday.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Transactions already underway get until July 17; proceeds move into blocked, interest-bearing accounts.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Brent reached $75 and WTI $71 as renewed Hormuz risk moved through oil markets.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "U.S. strikes hit Iranian military sites after tanker attacks, while Treasury froze new oil-sales waivers tied to Hormuz shipping.",
-        "A Strait map shows commercial ships and oil tankers crossing the corridor Iran was accused of attacking.",
-        "CENTCOM said precision strikes hit air-defense, radar, missile, drone and port targets near the strait.",
-        "Treasury replaced General License X with X1, ending new Iranian oil sales after Tuesday.",
-        "Transactions already underway get until July 17; proceeds move into blocked, interest-bearing accounts.",
-        "Brent reached $75 and WTI $71 as renewed Hormuz risk moved through oil markets."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          33.083,
-          49.764
-        ],
-        [
-          34.104,
-          0,
-          30.554,
-          49.764
-        ],
-        [
-          65.419,
-          0,
-          34.581,
-          49.764
-        ],
-        [
-          0,
-          50.041,
-          33.083,
-          49.959
-        ],
-        [
-          34.104,
-          50.041,
-          30.554,
-          49.959
-        ],
-        [
-          65.419,
-          50.041,
-          34.581,
-          49.959
-        ]
-      ],
-      "primaryGuide": null,
-      "shortTitle": "U.S. Strikes Iran and Reimposes Sanctions",
-      "slug": "u-s-strikes-iran-and-reimposes-sanctions-after-tanker-attacks",
-      "sourceCount": 4,
-      "sources": [
-        {
-          "name": "Axios",
-          "url": "https://www.axios.com/2026/07/07/us-revokes-iran-oil-waivers-hormuz-strait-attacks"
-        },
-        {
-          "name": "CBS News Politics",
-          "url": "https://www.axios.com/2026/07/07/us-strikes-iran-hormuz-ship-attacks"
-        },
-        {
-          "name": "The New York Times World",
-          "url": "https://www.cbsnews.com/news/us-rescinds-waiver-permitting-iranian-oil-sales-after-iranian-attacks-on-tankers"
-        },
-        {
-          "name": "nytimes.com",
-          "url": "https://www.nytimes.com/2026/07/07/us/politics/us-strikes-iran-tanker-attacks.html"
-        }
-      ],
-      "storylineKey": "war-security-order",
-      "storylineTitle": "The War and Security Order",
-      "summary": "The military operation came hours after the U.S. Treasury revoked a waiver allowing global sales of Iranian oil.",
-      "title": "U.S. Strikes Iran and Reimposes Sanctions After Tanker Attacks"
     }
   ],
   "dailyPaper": {
@@ -7175,11 +7205,8 @@
   },
   "feeds": {
     "categories": {
-      "Tech & Science": [
-        "the-politics-of-new-york-s-data-center-construction-pause",
-        "how-to-prevent-meta-from-using-your-instagram-images-in-a-i"
-      ],
       "U.S. & Politics": [
+        "house-votes-for-permanent-daylight-saving-time",
         "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
         "justice-kagan-calls-for-additional-supreme-court-security-funding",
         "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa",
@@ -7205,8 +7232,11 @@
         "tensions-with-iran-add-fresh-uncertainty-to-an-already-shaky-global-economy",
         "sanders-warren-drop-endorsements-of-maine-s-graham-platner",
         "at-nato-summit-in-turkey-trump-says-he-believes-ceasefire-with-iran-is-over",
-        "republican-leaders-say-they-ve-spoken-with-mitch-mcconnell-since-hospitalization",
-        "u-s-strikes-iran-and-reimposes-sanctions-after-tanker-attacks"
+        "republican-leaders-say-they-ve-spoken-with-mitch-mcconnell-since-hospitalization"
+      ],
+      "Tech & Science": [
+        "the-politics-of-new-york-s-data-center-construction-pause",
+        "how-to-prevent-meta-from-using-your-instagram-images-in-a-i"
       ],
       "World": [
         "inflation-slowed-during-pause-in-war-with-iran",
@@ -7265,8 +7295,7 @@
         "trump-hails-unity-at-nato-summit-despite-recent-tensions",
         "tensions-with-iran-add-fresh-uncertainty-to-an-already-shaky-global-economy",
         "at-nato-summit-in-turkey-trump-says-he-believes-ceasefire-with-iran-is-over",
-        "trump-says-iran-ceasefire-is-over-after-latest-round-of-strikes",
-        "u-s-strikes-iran-and-reimposes-sanctions-after-tanker-attacks"
+        "trump-says-iran-ceasefire-is-over-after-latest-round-of-strikes"
       ],
       "governing-crisis": [
         "how-us-senate-vacancies-are-filled",
