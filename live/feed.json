@@ -1,6 +1,6 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-15T10:13:01.964Z",
+  "updatedAt": "2026-07-15T10:38:27.359Z",
   "rolling24HourCount": 5,
   "comics": [
     {
@@ -195,7 +195,8 @@
       "storylineNext": null,
       "storylineTitle": "",
       "summary": "House Republicans and Democrats united in favor of a bill to eliminate semiannual clock-changing, but it faces an uncertain fate in the Senate.",
-      "title": "House Votes for Permanent Daylight Saving Time"
+      "title": "House Votes for Permanent Daylight Saving Time",
+      "verificationNote": "Cross-checked across 7 sources"
     },
     {
       "category": "Tech & Science",
@@ -387,7 +388,8 @@
       },
       "storylineTitle": "The AI Buildout",
       "summary": "Gov. Kathy Hochul paused permits for new hyperscale AI data centers for up to a year while New York sets rules on power, water and ratepayer impacts.",
-      "title": "Hochul Pauses New AI Data Center Permits Over Grid Costs"
+      "title": "Hochul Pauses New AI Data Center Permits Over Grid Costs",
+      "verificationNote": "Cross-checked across 6 sources"
     },
     {
       "category": "U.S. & Politics",
@@ -585,7 +587,8 @@
       },
       "storylineTitle": "The War and Security Order",
       "summary": "President Trump reversed a planned 20% toll on cargo ships using the Strait of Hormuz as tanker traffic slowed amid U.S.-Iran fighting. The shift leaves shipping companies and officials watching whether transit through the waterway resumes safely.",
-      "title": "Trump Changes Hormuz Toll Plan, With Tankers Stalled"
+      "title": "Trump Changes Hormuz Toll Plan, With Tankers Stalled",
+      "verificationNote": "Cross-checked across 7 sources"
     },
     {
       "category": "World",
@@ -739,7 +742,8 @@
       "storylineNext": null,
       "storylineTitle": "",
       "summary": "The Consumer Price Index fell to a 3.5 percent annual increase in June, and prices marked their biggest drop from a month earlier since 2020.",
-      "title": "U.S. Energy Price Drop Pulled CPI Inflation to 3.5%"
+      "title": "U.S. Energy Price Drop Pulled CPI Inflation to 3.5%",
+      "verificationNote": "Cross-checked across 3 sources"
     },
     {
       "category": "U.S. & Politics",
@@ -933,7 +937,8 @@
       "storylineNext": null,
       "storylineTitle": "",
       "summary": "Supreme Court Justice Elena Kagan delivered her opening statement at a hearing over the court's budget, which includes an increase in security funding as the justices have faced growing threats in recent years.",
-      "title": "Kagan Seeks $14.6M to Bolster Court Security"
+      "title": "Kagan Seeks $14.6M to Bolster Court Security",
+      "verificationNote": "Cross-checked across 7 sources"
     },
     {
       "category": "Guide",
@@ -1091,7 +1096,8 @@
       },
       "storylineTitle": "U.S. Elections",
       "summary": "A U.S. Senate vacancy moves through the Seventeenth Amendment, state law, an interim appointment or special election, and the Senate’s seating process. The key constraint is that states set the replacement rules.",
-      "title": "How U.S. Senate Vacancies Are Filled"
+      "title": "How U.S. Senate Vacancies Are Filled",
+      "verificationNote": "Checked against 3 official sources"
     },
     {
       "category": "Money",
@@ -1287,7 +1293,8 @@
       "storylineNext": null,
       "storylineTitle": "",
       "summary": "A dozen US states are taking legal action to halt the largest media consolidation in Hollywood history.",
-      "title": "Twelve states sue to block Paramount's $110bn Warner Bros. merger"
+      "title": "Twelve states sue to block Paramount's $110bn Warner Bros. merger",
+      "verificationNote": "Cross-checked across 7 sources"
     },
     {
       "category": "Guide",
@@ -1435,7 +1442,8 @@
       },
       "storylineTitle": "The New Energy System",
       "summary": "An electric-vehicle battery moves from collection and safety handling through diagnosis, reuse or disassembly, material recovery, and refining. Economics, chemistry, transport rules, and design for disassembly determine whether its critical materials return to the supply chain.",
-      "title": "How EV Battery Recycling Works"
+      "title": "How EV Battery Recycling Works",
+      "verificationNote": "Cross-checked across 2 sources"
     },
     {
       "category": "World",
@@ -1585,7 +1593,8 @@
       },
       "storylineTitle": "The War and Security Order",
       "summary": "U.S. forces struck Iranian military targets; Iran answered with attacks on U.S. bases in Gulf states, escalating a standoff over the Strait of Hormuz and the shipping route it controls.",
-      "title": "U.S. and Iran Trade Strikes, Deepening the Strait of Hormuz Standoff"
+      "title": "U.S. and Iran Trade Strikes, Deepening the Strait of Hormuz Standoff",
+      "verificationNote": "Cross-checked across 2 sources"
     },
     {
       "category": "U.S. & Politics",
@@ -1733,7 +1742,8 @@
       },
       "storylineTitle": "U.S. Elections",
       "summary": "A federal judge dismissed the remaining Proud Boys convictions after President Trump's clemency erased every federal Jan. 6 prosecution.",
-      "title": "Judge Ends Proud Boys Case After Trump Erases Jan. 6 Convictions"
+      "title": "Judge Ends Proud Boys Case After Trump Erases Jan. 6 Convictions",
+      "verificationNote": "Cross-checked across 2 sources"
     },
     {
       "category": "U.S. & Politics",
@@ -1985,7 +1995,8 @@
       },
       "storylineTitle": "U.S. Elections",
       "summary": "Sen. Lindsey Graham died at 71, creating a South Carolina vacancy while the Senate GOP holds a slim majority and an unfinished Russia sanctions push awaits new ownership.",
-      "title": "Graham Dies, Opening Seat Before Close Senate Votes"
+      "title": "Graham Dies, Opening Seat Before Close Senate Votes",
+      "verificationNote": "Cross-checked across 12 sources"
     },
     {
       "category": "U.S. & Politics",
@@ -2145,7 +2156,8 @@
       },
       "storylineTitle": "The War and Security Order",
       "summary": "Iranian forces struck a Cyprus-flagged container ship in the Strait of Hormuz. The U.S. answered with a third round of strikes against Iran as the ship’s crew abandoned the damaged vessel.",
-      "title": "U.S. Strikes Iran After Ship Attack Threatens Hormuz Shipping"
+      "title": "U.S. Strikes Iran After Ship Attack Threatens Hormuz Shipping",
+      "verificationNote": "Cross-checked across 3 sources"
     },
     {
       "category": "U.S. & Politics",
@@ -2309,7 +2321,8 @@
       "storylineNext": null,
       "storylineTitle": "",
       "summary": "Eight Missouri National Guard helicopters airlifted 202 campers and counselors after 6 to 12 inches of rain cut every road into Camp Taum Sauk, while more storms threatened saturated communities.",
-      "title": "Missouri Guard Rescues 202 Campers as Floods Cut Off Roads"
+      "title": "Missouri Guard Rescues 202 Campers as Floods Cut Off Roads",
+      "verificationNote": "Cross-checked across 4 sources"
     },
     {
       "category": "World",
@@ -2497,7 +2510,8 @@
       },
       "storylineTitle": "The War and Security Order",
       "summary": "Rep. Ro Khanna says armed Israeli settlers blocked his delegation for 90 minutes; Israel's military says troops dispersed the civilians and reopened the road.",
-      "title": "Armed Settlers Block Khanna's West Bank Delegation"
+      "title": "Armed Settlers Block Khanna's West Bank Delegation",
+      "verificationNote": "Cross-checked across 6 sources"
     },
     {
       "category": "Guide",
@@ -2639,11 +2653,11 @@
           "url": "https://www.occ.treas.gov/publications-and-resources/publications/comptrollers-licensing-manual/files/licensing-booklet-charters.html"
         },
         {
-          "name": "occ.treas.gov",
+          "name": "Office of the Comptroller of the Currency",
           "url": "https://occ.treas.gov/topics/charters-and-licensing/index-charters-licensing.html"
         },
         {
-          "name": "occ.treas.gov",
+          "name": "Office of the Comptroller of the Currency",
           "url": "https://www.occ.treas.gov/topics/charters-and-licensing/public-comment/index-public-comments-on-applications.html"
         }
       ],
@@ -2651,7 +2665,8 @@
       "storylineNext": null,
       "storylineTitle": "",
       "summary": "A national bank charter turns an organizing group, business plan, managers, capital, risk controls, public review, and OCC decisions into conditional and then final permission to operate under a defined banking scope.",
-      "title": "How National Bank Charters Work"
+      "title": "How National Bank Charters Work",
+      "verificationNote": "Cross-checked across 3 sources"
     },
     {
       "category": "U.S. & Politics",
@@ -2825,7 +2840,8 @@
       "storylineNext": null,
       "storylineTitle": "",
       "summary": "The Justice Department subpoenaed New York Times reporters for grand jury testimony after Air Force One security reporting, putting a leak inquiry against press-freedom concerns.",
-      "title": "DOJ subpoenas Times reporters for court testimony in leak fight"
+      "title": "DOJ subpoenas Times reporters for court testimony in leak fight",
+      "verificationNote": "Cross-checked across 5 sources"
     },
     {
       "category": "World",
@@ -2973,7 +2989,8 @@
       },
       "storylineTitle": "The War and Security Order",
       "summary": "After new U.S. attacks, Trump says the Iran ceasefire is over, Iranian leaders say they will not surrender, and mediators are trying to stop a wider fight.",
-      "title": "Trump Says Iran Ceasefire Over; Strait Risk Rises"
+      "title": "Trump Says Iran Ceasefire Over; Strait Risk Rises",
+      "verificationNote": "Cross-checked across 2 sources"
     },
     {
       "category": "U.S. & Politics",
@@ -3171,7 +3188,8 @@
       },
       "storylineTitle": "The AI Buildout",
       "summary": "Apple's lawsuit turns OpenAI's device ambitions into a court test over alleged hardware trade-secret theft.",
-      "title": "Apple Sues OpenAI over Alleged Hardware Trade-Secret Theft"
+      "title": "Apple Sues OpenAI over Alleged Hardware Trade-Secret Theft",
+      "verificationNote": "Cross-checked across 7 sources"
     },
     {
       "category": "U.S. & Politics",
@@ -3339,7 +3357,8 @@
       },
       "storylineTitle": "U.S. Elections",
       "summary": "Graham Platner's formal withdrawal before Maine's July 13 ballot cutoff removes his name from the November ballot and gives Democrats until July 27 to submit a replacement nominee.",
-      "title": "Platner withdrawal opens July 27 Maine Senate race replacement deadline"
+      "title": "Platner withdrawal opens July 27 Maine Senate race replacement deadline",
+      "verificationNote": "Cross-checked across 4 sources"
     },
     {
       "category": "Guide",
@@ -3507,7 +3526,8 @@
       },
       "storylineTitle": "U.S. Elections",
       "summary": "The Election Assistance Commission helps state and local officials administer voting for voters by setting voluntary voting-system guidelines, accrediting test labs, certifying voting systems and sharing election-administration support without running elections itself.",
-      "title": "What the Election Assistance Commission Does"
+      "title": "What the Election Assistance Commission Does",
+      "verificationNote": "Checked against 4 primary sources"
     },
     {
       "category": "World",
@@ -3675,7 +3695,8 @@
       },
       "storylineTitle": "The War and Security Order",
       "summary": "President Donald Trump says he will approve a license for Ukraine to produce Patriot missile interceptors, a potential long-term help for Kyiv as officials warn current air-defense stocks are running low against Russian ballistic attacks.",
-      "title": "Trump approves Patriot license as Ukraine air defenses run low"
+      "title": "Trump approves Patriot license as Ukraine air defenses run low",
+      "verificationNote": "Cross-checked across 4 sources"
     },
     {
       "category": "U.S. & Politics",
@@ -3865,7 +3886,8 @@
       },
       "storylineTitle": "U.S. Elections",
       "summary": "After Graham Platner formally withdrew from Maine's Senate race, state Democrats set a July 25 Bangor convention to choose a replacement for a contest tied to Senate control.",
-      "title": "Maine Democrats Plan July 25 Vote to Replace Platner in Senate Race"
+      "title": "Maine Democrats Plan July 25 Vote to Replace Platner in Senate Race",
+      "verificationNote": "Cross-checked across 6 sources"
     },
     {
       "category": "Guide",
@@ -4019,7 +4041,8 @@
       "storylineNext": null,
       "storylineTitle": "",
       "summary": "A U.S. bill can become law after House and Senate passage when the enrolled bill reaches the president, the 10-day clock runs without a signed approval or returned veto, and Congress remains able to receive a return message.",
-      "title": "How Bills Become Law Without a Signature"
+      "title": "How Bills Become Law Without a Signature",
+      "verificationNote": "Cross-checked across 3 sources"
     },
     {
       "category": "U.S. & Politics",
@@ -4181,7 +4204,8 @@
       },
       "storylineTitle": "U.S. Elections",
       "summary": "Trump removed the remaining Election Assistance Commission members, leaving the federal election-administration agency without commissioners months before the midterms.",
-      "title": "Trump leaves Election Assistance Commission without members"
+      "title": "Trump leaves Election Assistance Commission without members",
+      "verificationNote": "Cross-checked across 3 sources"
     },
     {
       "category": "World",
@@ -4335,7 +4359,8 @@
       "storylineNext": null,
       "storylineTitle": "",
       "summary": "At least 12 people died and 23 were missing after a wildfire in Almeria, Andalusia; several victims were found in burnt-out vehicles after trying to flee.",
-      "title": "Spain Wildfire Deaths Show the Escape-Route Risk"
+      "title": "Spain Wildfire Deaths Show the Escape-Route Risk",
+      "verificationNote": "Cross-checked across 3 sources"
     },
     {
       "category": "U.S. & Politics",
@@ -4549,7 +4574,8 @@
       },
       "storylineTitle": "U.S. Elections",
       "summary": "The bipartisan housing bill takes effect without Trump's signature because he chose not to sign or veto it while demanding action on voter ID legislation.",
-      "title": "Trump Lets Housing Bill Become Law as Voter ID Demand Stalls Signing"
+      "title": "Trump Lets Housing Bill Become Law as Voter ID Demand Stalls Signing",
+      "verificationNote": "Cross-checked across 8 sources"
     },
     {
       "category": "Guide",
@@ -4713,7 +4739,8 @@
       "storylineNext": null,
       "storylineTitle": "",
       "summary": "The Digital Services Act turns online-platform risks into EU duties: user rights, very-large-platform designation, systemic-risk assessments, mitigation measures, audits, data access and enforcement deadlines.",
-      "title": "How the Digital Services Act Works"
+      "title": "How the Digital Services Act Works",
+      "verificationNote": "Cross-checked across 4 sources"
     },
     {
       "category": "Money",
@@ -4877,7 +4904,8 @@
       "storylineNext": null,
       "storylineTitle": "",
       "summary": "British budget airline EasyJet says it has reached an agreement in principle on Apollo's £5.7 billion ($7.7 billion) takeover offer, above Castlelake's rival proposal.",
-      "title": "EasyJet agrees to Apollo's $7.7B bid, sidelining Castlelake offer"
+      "title": "EasyJet agrees to Apollo's $7.7B bid, sidelining Castlelake offer",
+      "verificationNote": "Cross-checked across 4 sources"
     },
     {
       "category": "Money",
@@ -5011,7 +5039,8 @@
       "storylineNext": null,
       "storylineTitle": "",
       "summary": "The U.S. leads the world in crude production and consumption, but import needs, OPEC+ supply power, gasoline-price shocks and a drawn-down emergency reserve still shape what drivers pay.",
-      "title": "U.S. Oil Dominance Still Leaves Drivers Exposed"
+      "title": "U.S. Oil Dominance Still Leaves Drivers Exposed",
+      "verificationNote": "Checked against the primary source"
     },
     {
       "category": "Guide",
@@ -5159,15 +5188,15 @@
           "url": "https://www.consumerfinance.gov/owning-a-home/explore-rates/"
         },
         {
-          "name": "Freddie Mac",
+          "name": "Consumer Financial Protection Bureau",
           "url": "https://www.consumerfinance.gov/owning-a-home/loan-estimate/"
         },
         {
-          "name": "Federal Reserve Bank of St. Louis",
+          "name": "Freddie Mac",
           "url": "https://www.freddiemac.com/pmms"
         },
         {
-          "name": "fred.stlouisfed.org",
+          "name": "Federal Reserve Bank of St. Louis",
           "url": "https://fred.stlouisfed.org/series/MORTGAGE30US"
         }
       ],
@@ -5175,7 +5204,8 @@
       "storylineNext": null,
       "storylineTitle": "",
       "summary": "Mortgage rates move as market benchmarks, investor demand, lender costs, borrower risk, loan terms, points and fees turn into the quoted rate and monthly payment a homebuyer sees.",
-      "title": "How Mortgage Rates Move"
+      "title": "How Mortgage Rates Move",
+      "verificationNote": "Cross-checked across 4 sources"
     },
     {
       "category": "U.S. & Politics",
@@ -5323,7 +5353,8 @@
       },
       "storylineTitle": "The AI Buildout",
       "summary": "OpenAI moved ChatGPT 5.6 from restricted early access to a wider release after a government-requested cybersecurity review and additional testing.",
-      "title": "OpenAI Released ChatGPT 5.6 Through a Security Gate"
+      "title": "OpenAI Released ChatGPT 5.6 Through a Security Gate",
+      "verificationNote": "Cross-checked across 2 sources"
     },
     {
       "category": "Guide",
@@ -5481,7 +5512,8 @@
       },
       "storylineTitle": "U.S. Elections",
       "summary": "Federal race and ethnicity data turns self-identification, OMB standards, Census questions, detailed write-ins and agency tabulation rules into comparable statistics used for civil-rights enforcement, redistricting, program reporting and policy decisions.",
-      "title": "How Federal Race and Ethnicity Data Works"
+      "title": "How Federal Race and Ethnicity Data Works",
+      "verificationNote": "Cross-checked across 3 sources"
     },
     {
       "category": "U.S. & Politics",
@@ -5639,7 +5671,8 @@
       },
       "storylineTitle": "The War and Security Order",
       "summary": "After U.S. strikes in Iran, Trump left Turkey on the older Air Force One after Secret Service advice raised questions about the new Qatari-gifted jet's security readiness.",
-      "title": "Trump takes old Air Force One as Iran war raises security questions"
+      "title": "Trump takes old Air Force One as Iran war raises security questions",
+      "verificationNote": "Cross-checked across 3 sources"
     },
     {
       "category": "U.S. & Politics",
@@ -5807,7 +5840,8 @@
       },
       "storylineTitle": "The War and Security Order",
       "summary": "The U.S. and Iran traded new strikes after Trump said the ceasefire was over; the fighting threatens Hormuz shipping, Gulf security, and oil-price stability.",
-      "title": "U.S. Strikes Iran Again, Testing Ceasefire and Hormuz Oil Route"
+      "title": "U.S. Strikes Iran Again, Testing Ceasefire and Hormuz Oil Route",
+      "verificationNote": "Cross-checked across 4 sources"
     },
     {
       "category": "U.S. & Politics",
@@ -5991,7 +6025,8 @@
       "storylineNext": null,
       "storylineTitle": "",
       "summary": "Former Olympic canoe racer David Hearn pleaded not guilty in D.C. Superior Court after prosecutors accused him of damaging lining material at the recently renovated Lincoln Memorial Reflecting Pool; a status hearing is set for Aug. 5.",
-      "title": "David Hearn pleads not guilty in $16M Reflecting Pool damage case"
+      "title": "David Hearn pleads not guilty in $16M Reflecting Pool damage case",
+      "verificationNote": "Cross-checked across 6 sources"
     },
     {
       "category": "U.S. & Politics",
@@ -6129,7 +6164,8 @@
       },
       "storylineTitle": "U.S. Elections",
       "summary": "An October 2025 survey compared validated 2024 Latino Trump and Harris voters across identity centrality, linked fate, responsibility for other U.S. Latinos, reported discrimination, and the limits of what survey data can prove.",
-      "title": "Trump-Harris Survey Tests Latino Voters' Identity Split"
+      "title": "Trump-Harris Survey Tests Latino Voters' Identity Split",
+      "verificationNote": "Checked against the primary source"
     },
     {
       "category": "U.S. & Politics",
@@ -6307,7 +6343,8 @@
       },
       "storylineTitle": "U.S. Elections",
       "summary": "After Democratic Senate nominee Graham Platner said he would withdraw following a sexual-assault allegation he denies, Maine Democrats voted to hold a nominating convention. State law gives the party a narrow path to name a replacement for the contest against Republican Sen. Susan Collins.",
-      "title": "Maine Democrats Vote to Replace Platner Before July 13 Senate Deadline"
+      "title": "Maine Democrats Vote to Replace Platner Before July 13 Senate Deadline",
+      "verificationNote": "Cross-checked across 5 sources"
     },
     {
       "category": "U.S. & Politics",
@@ -6495,7 +6532,8 @@
       },
       "storylineTitle": "The War and Security Order",
       "summary": "After President Trump said the ceasefire was over, U.S. forces launched more strikes on Iranian radar, missiles and air defenses while attacks on ships kept the Strait of Hormuz in the risk zone.",
-      "title": "U.S. and Iran Trade Strikes, Raising Hormuz Shipping Risk"
+      "title": "U.S. and Iran Trade Strikes, Raising Hormuz Shipping Risk",
+      "verificationNote": "Cross-checked across 6 sources"
     },
     {
       "category": "Money",
@@ -6659,7 +6697,8 @@
       "storylineNext": null,
       "storylineTitle": "",
       "summary": "Federal Reserve minutes from the June 16-17 meeting show officials held rates unchanged but split over whether inflation will cool or keep rates higher, with fuel, tariffs, and AI infrastructure demand shaping the stakes.",
-      "title": "Fed Minutes Show Officials Split Over Inflation and Rate Stakes"
+      "title": "Fed Minutes Show Officials Split Over Inflation and Rate Stakes",
+      "verificationNote": "Cross-checked across 4 sources"
     },
     {
       "category": "Tech & Science",
@@ -6817,7 +6856,8 @@
       },
       "storylineTitle": "The AI Buildout",
       "summary": "Meta's Muse Image lets people tag public Instagram account profiles and move published photos into AI images unless account owners opt out.",
-      "title": "Meta Opens Public Instagram Photos to AI Reuse"
+      "title": "Meta Opens Public Instagram Photos to AI Reuse",
+      "verificationNote": "Cross-checked across 3 sources"
     },
     {
       "category": "U.S. & Politics",
@@ -6985,7 +7025,8 @@
       },
       "storylineTitle": "The War and Security Order",
       "summary": "President Donald Trump says the Iran ceasefire is over after new fighting around the Strait of Hormuz, raising risks for shipping, oil prices, and diplomacy.",
-      "title": "Trump Says Iran Truce Is Over as Hormuz Strikes Threaten Oil Routes"
+      "title": "Trump Says Iran Truce Is Over as Hormuz Strikes Threaten Oil Routes",
+      "verificationNote": "Cross-checked across 4 sources"
     },
     {
       "category": "U.S. & Politics",
@@ -7177,7 +7218,8 @@
       },
       "storylineTitle": "The War and Security Order",
       "summary": "President Trump praised unity at the NATO summit in Turkey while Iran, Greenland and defense-spending disputes kept alliance strains visible.",
-      "title": "Trump says NATO unity faces Iran, Greenland and defense-spending tests"
+      "title": "Trump says NATO unity faces Iran, Greenland and defense-spending tests",
+      "verificationNote": "Cross-checked across 6 sources"
     },
     {
       "category": "U.S. & Politics",
@@ -7345,7 +7387,8 @@
       },
       "storylineTitle": "U.S. Elections",
       "summary": "A Manhattan federal judge ordered court-held funds released to E. Jean Carroll after the Supreme Court declined to hear Donald Trump’s appeal of her civil sexual abuse and defamation verdict.",
-      "title": "Judge orders $5.8 million in Trump escrow released to E. Jean Carroll"
+      "title": "Judge orders $5.8 million in Trump escrow released to E. Jean Carroll",
+      "verificationNote": "Cross-checked across 4 sources"
     },
     {
       "category": "U.S. & Politics",
@@ -7483,7 +7526,8 @@
       },
       "storylineTitle": "The War and Security Order",
       "summary": "Trump says the Iran ceasefire is over; oil prices rose, stocks fell, and markets began pricing Strait of Hormuz risk into inflation and Federal Reserve rate expectations.",
-      "title": "Iran Tensions Raise Fed Rate Risk"
+      "title": "Iran Tensions Raise Fed Rate Risk",
+      "verificationNote": "Checked against live reporting"
     },
     {
       "category": "U.S. & Politics",
@@ -7671,7 +7715,8 @@
       },
       "storylineTitle": "U.S. Elections",
       "summary": "Sen. Bernie Sanders and Sen. Elizabeth Warren called for Maine Democratic Senate nominee Graham Platner to step aside after a new nonconsensual sexual conduct allegation, which Platner denies. July 13 is reported as the deadline for Maine Democrats to replace him on the ballot.",
-      "title": "Sanders, Warren Call for Platner to Quit Before Maine Ballot Deadline"
+      "title": "Sanders, Warren Call for Platner to Quit Before Maine Ballot Deadline",
+      "verificationNote": "Cross-checked across 6 sources"
     },
     {
       "category": "U.S. & Politics",
@@ -7833,7 +7878,8 @@
       },
       "storylineTitle": "The War and Security Order",
       "summary": "President Trump said at the NATO summit in Ankara that the U.S.-Iran ceasefire is over after new attacks and mutual violation accusations, leaving diplomacy and regional security at risk.",
-      "title": "Trump says Iran ceasefire is over as attacks put diplomacy at risk"
+      "title": "Trump says Iran ceasefire is over as attacks put diplomacy at risk",
+      "verificationNote": "Cross-checked across 3 sources"
     },
     {
       "category": "World",
@@ -8001,7 +8047,8 @@
       },
       "storylineTitle": "The War and Security Order",
       "summary": "Trump said the ceasefire with Iran was over after renewed strikes, leaving talks, U.S. forces, and Hormuz shipping in doubt.",
-      "title": "Trump Says Iran Ceasefire Over as Strikes Threaten U.S. Forces"
+      "title": "Trump Says Iran Ceasefire Over as Strikes Threaten U.S. Forces",
+      "verificationNote": "Cross-checked across 4 sources"
     },
     {
       "category": "U.S. & Politics",
@@ -8165,7 +8212,8 @@
       "storylineNext": null,
       "storylineTitle": "",
       "summary": "Spokespeople for Senate Republican leaders John Thune and John Barrasso said they have spoken with Mitch McConnell while he remains hospitalized after a June 14 admission, but his office has not provided a diagnosis, discharge date, or Senate return timeline.",
-      "title": "Senate GOP Says McConnell Remains Hospitalized With No Return Timeline"
+      "title": "Senate GOP Says McConnell Remains Hospitalized With No Return Timeline",
+      "verificationNote": "Cross-checked across 4 sources"
     }
   ],
   "dailyPaper": {
