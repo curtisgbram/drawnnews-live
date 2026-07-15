@@ -1,6 +1,6 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-15T01:22:39.372Z",
+  "updatedAt": "2026-07-15T01:52:58.197Z",
   "rolling24HourCount": 4,
   "comics": [
     {
@@ -96,7 +96,7 @@
         "The immediate tradeoff: developers face delays while the state tests safeguards before more capacity can be built.",
         "Regulators now must write rules that protect ratepayers while deciding how much new computing capacity New York can permit."
       ],
-      "shortTitle": "Hochul Halts New York AI Data Centers Over Grid Costs",
+      "shortTitle": "Hochul Pauses AI Data Center Permits",
       "slug": "the-politics-of-new-york-s-data-center-construction-pause",
       "sourceCount": 6,
       "sources": [
@@ -128,7 +128,7 @@
       "storylineKey": "ai-buildout",
       "storylineTitle": "The AI Buildout",
       "summary": "Gov. Kathy Hochul paused permits for new hyperscale AI data centers for up to a year while New York sets rules on power, water and ratepayer impacts.",
-      "title": "Hochul Halts New York AI Data Centers Over Grid Costs"
+      "title": "Hochul Pauses New AI Data Center Permits Over Grid Costs"
     },
     {
       "category": "U.S. & Politics",
