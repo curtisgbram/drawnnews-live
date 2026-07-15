@@ -1,8 +1,135 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-14T20:26:56.194Z",
-  "rolling24HourCount": 5,
+  "updatedAt": "2026-07-15T01:22:39.372Z",
+  "rolling24HourCount": 4,
   "comics": [
+    {
+      "category": "Tech & Science",
+      "contentType": "brief",
+      "generatedAt": "2026-07-15T01:21:50.697Z",
+      "imagePath": "/live/media/the-politics-of-new-york-s-data-center-construction-pause.webp",
+      "claims": [
+        {
+          "claim": "Gov. Kathy Hochul pauses new AI data-center permits while New York weighs higher electricity costs, water use and grid strain.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The order targets “hyperscale” facilities: proposed data centers with more than 50 megawatts of electrical capacity.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "For up to one year, state permitting for those projects stops while regulators draft new statewide standards.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The review will weigh energy demand, water consumption, environmental effects, land disruption and noise near communities.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The immediate tradeoff: developers face delays while the state tests safeguards before more capacity can be built.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Regulators now must write rules that protect ratepayers while deciding how much new computing capacity New York can permit.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Gov. Kathy Hochul pauses new AI data-center permits while New York weighs higher electricity costs, water use and grid strain.",
+        "The order targets “hyperscale” facilities: proposed data centers with more than 50 megawatts of electrical capacity.",
+        "For up to one year, state permitting for those projects stops while regulators draft new statewide standards.",
+        "The review will weigh energy demand, water consumption, environmental effects, land disruption and noise near communities.",
+        "The immediate tradeoff: developers face delays while the state tests safeguards before more capacity can be built.",
+        "Regulators now must write rules that protect ratepayers while deciding how much new computing capacity New York can permit."
+      ],
+      "shortTitle": "Hochul Halts New York AI Data Centers Over Grid Costs",
+      "slug": "the-politics-of-new-york-s-data-center-construction-pause",
+      "sourceCount": 6,
+      "sources": [
+        {
+          "name": "The Guardian Technology",
+          "url": "https://www.theguardian.com/us-news/2026/jul/14/new-york-moratorium-ai-datacenters"
+        },
+        {
+          "name": "ABC News Top Stories",
+          "url": "https://abcnews.com/GMA/News/new-york-gov-kathy-hochul-sign-moratorium-data/story?id=134741027"
+        },
+        {
+          "name": "CBS News Latest",
+          "url": "https://www.cbsnews.com/video/the-politics-of-new-yorks-data-center-construction-pause"
+        },
+        {
+          "name": "CNBC Top News",
+          "url": "https://www.cnbc.com/2026/07/14/new-york-ai-data-center-ban.html"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers"
+        },
+        {
+          "name": "WIRED",
+          "url": "https://www.wired.com/story/new-york-governor-signs-first-statewide-data-center-moratorium"
+        }
+      ],
+      "storylineKey": "ai-buildout",
+      "storylineTitle": "The AI Buildout",
+      "summary": "Gov. Kathy Hochul paused permits for new hyperscale AI data centers for up to a year while New York sets rules on power, water and ratepayer impacts.",
+      "title": "Hochul Halts New York AI Data Centers Over Grid Costs"
+    },
     {
       "category": "U.S. & Politics",
       "contentType": "brief",
@@ -5111,103 +5238,6 @@
       "storylineTitle": "The War and Security Order",
       "summary": "The military operation came hours after the U.S. Treasury revoked a waiver allowing global sales of Iranian oil.",
       "title": "U.S. Strikes Iran and Reimposes Sanctions After Tanker Attacks"
-    },
-    {
-      "category": "U.S. & Politics",
-      "contentType": "brief",
-      "generatedAt": "2026-07-08T03:25:58.219Z",
-      "imagePath": "/live/media/judge-blocks-doj-bid-for-fulton-election-worker-data.webp",
-      "claims": [
-        {
-          "claim": "Atlanta judge blocks DOJ subpoena for Fulton County 2020 election worker data, putting privacy at the center.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The April demand sought names, home addresses, phone numbers and identifiers for thousands of 2020 workers.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The order called DOJ's need questionable and said the disclosure burden made the subpoena unreasonable.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Fulton County argued the demand would target and harass perceived political opponents tied to 2020 ballots.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Judge William Ray warned mass disclosure could chill future election participation by workers who run polls.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "For now, Fulton County keeps the worker list out of DOJ's 2020 election probe.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "Atlanta judge blocks DOJ subpoena for Fulton County 2020 election worker data, putting privacy at the center.",
-        "The April demand sought names, home addresses, phone numbers and identifiers for thousands of 2020 workers.",
-        "The order called DOJ's need questionable and said the disclosure burden made the subpoena unreasonable.",
-        "Fulton County argued the demand would target and harass perceived political opponents tied to 2020 ballots.",
-        "Judge William Ray warned mass disclosure could chill future election participation by workers who run polls.",
-        "For now, Fulton County keeps the worker list out of DOJ's 2020 election probe."
-      ],
-      "shortTitle": "Court Ruling Blocks DOJ Data Subpoena for Election Workers",
-      "slug": "judge-blocks-doj-bid-for-fulton-election-worker-data",
-      "sourceCount": 3,
-      "sources": [
-        {
-          "name": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/show/news-wrap-judge-rejects-trumps-attempt-to-collect-georgia-election-worker-info"
-        },
-        {
-          "name": "ABC News Top Stories",
-          "url": "https://abcnews.com/US/judge-quashes-doj-subpoena-seeking-fulton-county-election/story?id=134562046"
-        },
-        {
-          "name": "CNBC Top News",
-          "url": "https://www.cnbc.com/2026/07/07/doj-subpoena-fulton-county-georgia-election-trump.html"
-        }
-      ],
-      "storylineKey": "governing-crisis",
-      "storylineTitle": "U.S. Elections",
-      "summary": "A federal judge quashed an April DOJ subpoena for Fulton County 2020 election workers' personal data, calling the request unreasonable and warning that mass disclosure could chill participation.",
-      "title": "Court Ruling Blocks DOJ Data Subpoena for Election Workers"
     }
   ],
   "dailyPaper": {
@@ -5257,6 +5287,10 @@
   },
   "feeds": {
     "categories": {
+      "Tech & Science": [
+        "the-politics-of-new-york-s-data-center-construction-pause",
+        "how-to-prevent-meta-from-using-your-instagram-images-in-a-i"
+      ],
       "U.S. & Politics": [
         "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
         "justice-kagan-calls-for-additional-supreme-court-security-funding",
@@ -5284,8 +5318,7 @@
         "sanders-warren-drop-endorsements-of-maine-s-graham-platner",
         "at-nato-summit-in-turkey-trump-says-he-believes-ceasefire-with-iran-is-over",
         "republican-leaders-say-they-ve-spoken-with-mitch-mcconnell-since-hospitalization",
-        "u-s-strikes-iran-and-reimposes-sanctions-after-tanker-attacks",
-        "judge-blocks-doj-bid-for-fulton-election-worker-data"
+        "u-s-strikes-iran-and-reimposes-sanctions-after-tanker-attacks"
       ],
       "World": [
         "inflation-slowed-during-pause-in-war-with-iran",
@@ -5311,9 +5344,6 @@
         "easyjet-agrees-to-apollo-7-7b-bid-sidelining-castlelake-offer",
         "what-to-know-about-u-s-oil-production-and-consumption-in-6-charts",
         "fed-minutes-officials-deeply-divided-over-future-path-of-us-inflation"
-      ],
-      "Tech & Science": [
-        "how-to-prevent-meta-from-using-your-instagram-images-in-a-i"
       ]
     },
     "guides": [
@@ -5327,6 +5357,12 @@
       "how-federal-race-and-ethnicity-data-works"
     ],
     "storylines": {
+      "ai-buildout": [
+        "the-politics-of-new-york-s-data-center-construction-pause",
+        "apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secr",
+        "chatgpt-56-security-gate",
+        "how-to-prevent-meta-from-using-your-instagram-images-in-a-i"
+      ],
       "war-security-order": [
         "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
         "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
@@ -5357,16 +5393,10 @@
         "latino-trump-voters-are-less-likely-than-harris-voters-to-say-being-latino-is-ce",
         "maine-democrats-vote-to-replace-platner-before-july-13-senate-deadline",
         "judge-orders-release-of-the-5-8-million-payment-that-trump-owed-e-jean-carroll",
-        "sanders-warren-drop-endorsements-of-maine-s-graham-platner",
-        "judge-blocks-doj-bid-for-fulton-election-worker-data"
+        "sanders-warren-drop-endorsements-of-maine-s-graham-platner"
       ],
       "new-energy-system": [
         "how-ev-battery-recycling-works"
-      ],
-      "ai-buildout": [
-        "apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secr",
-        "chatgpt-56-security-gate",
-        "how-to-prevent-meta-from-using-your-instagram-images-in-a-i"
       ]
     }
   }
