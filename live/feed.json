@@ -1,7 +1,7 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-15T12:09:32.904Z",
-  "rolling24HourCount": 7,
+  "updatedAt": "2026-07-15T17:10:18.169Z",
+  "rolling24HourCount": 6,
   "comics": [
     {
       "category": "Guide",
@@ -293,7 +293,11 @@
           48.202
         ]
       ],
-      "primaryGuide": null,
+      "primaryGuide": {
+        "slug": "how-oil-prices-move",
+        "title": "Oil Prices, Explained",
+        "url": "/briefs/how-oil-prices-move/"
+      },
       "relatedBriefSlugs": [
         "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
         "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
@@ -1051,7 +1055,11 @@
           48.202
         ]
       ],
-      "primaryGuide": null,
+      "primaryGuide": {
+        "slug": "how-inflation-reports-work",
+        "title": "Inflation reports turn sampled prices",
+        "url": "/briefs/how-inflation-reports-work/"
+      },
       "relatedBriefSlugs": [],
       "shortTitle": "U.S. Energy Price Drop Pulled CPI Inflation to 3.5%",
       "slug": "inflation-slowed-during-pause-in-war-with-iran",
@@ -2630,7 +2638,11 @@
           48.202
         ]
       ],
-      "primaryGuide": null,
+      "primaryGuide": {
+        "slug": "how-storm-warnings-work",
+        "title": "Storm Warnings, Explained",
+        "url": "/briefs/how-storm-warnings-work/"
+      },
       "relatedBriefSlugs": [],
       "shortTitle": "Missouri Guard Rescues 202 Campers as Floods Cut Off Roads",
       "slug": "200-young-campers-staff-rescued-amid-record-flooding-in-missouri",
@@ -3302,7 +3314,11 @@
           50.057
         ]
       ],
-      "primaryGuide": null,
+      "primaryGuide": {
+        "slug": "how-ceasefires-are-monitored",
+        "title": "How Ceasefires Are Monitored",
+        "url": "/briefs/how-ceasefires-are-monitored/"
+      },
       "relatedBriefSlugs": [
         "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
         "us-and-iran-exchange-back-and-forth-strikes-for-second-day",
@@ -4008,7 +4024,11 @@
           49.764
         ]
       ],
-      "primaryGuide": null,
+      "primaryGuide": {
+        "slug": "how-missile-defense-works",
+        "title": "Missile Defense, Explained",
+        "url": "/briefs/how-missile-defense-works/"
+      },
       "relatedBriefSlugs": [],
       "shortTitle": "Trump approves Patriot license as Ukraine air defenses run low",
       "slug": "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the",
@@ -5369,7 +5389,11 @@
           51.424
         ]
       ],
-      "primaryGuide": null,
+      "primaryGuide": {
+        "slug": "how-oil-prices-move",
+        "title": "Oil Prices, Explained",
+        "url": "/briefs/how-oil-prices-move/"
+      },
       "relatedBriefSlugs": [],
       "shortTitle": "U.S. Oil Dominance Leaves Drivers Exposed",
       "slug": "what-to-know-about-u-s-oil-production-and-consumption-in-6-charts",
@@ -6154,7 +6178,11 @@
           50.35
         ]
       ],
-      "primaryGuide": null,
+      "primaryGuide": {
+        "slug": "how-oil-prices-move",
+        "title": "Oil Prices, Explained",
+        "url": "/briefs/how-oil-prices-move/"
+      },
       "relatedBriefSlugs": [
         "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over"
       ],
@@ -6687,9 +6715,9 @@
       ],
       "storylineKey": "governing-crisis",
       "storylineNext": {
-        "slug": "judge-orders-release-of-the-5-8-million-payment-that-trump-owed-e-jean-carroll",
-        "title": "Judge orders Trump escrow released",
-        "url": "/live/?slug=judge-orders-release-of-the-5-8-million-payment-that-trump-owed-e-jean-carroll"
+        "slug": "sanders-warren-drop-endorsements-of-maine-s-graham-platner",
+        "title": "Sanders, Warren Call for Platner to Quit Before Maine Ballot Deadline",
+        "url": "/live/?slug=sanders-warren-drop-endorsements-of-maine-s-graham-platner"
       },
       "storylineTitle": "U.S. Elections",
       "summary": "After Democratic Senate nominee Graham Platner said he would withdraw following a sexual-assault allegation he denies, Maine Democrats voted to hold a nominating convention. State law gives the party a narrow path to name a replacement for the contest against Republican Sen. Susan Collins.",
@@ -6843,7 +6871,11 @@
           49.666
         ]
       ],
-      "primaryGuide": null,
+      "primaryGuide": {
+        "slug": "how-ceasefires-are-monitored",
+        "title": "How Ceasefires Are Monitored",
+        "url": "/briefs/how-ceasefires-are-monitored/"
+      },
       "relatedBriefSlugs": [],
       "shortTitle": "U.S. and Iran Trade Strikes, Raising Hormuz Shipping Risk",
       "slug": "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
@@ -7020,7 +7052,11 @@
           48.104
         ]
       ],
-      "primaryGuide": null,
+      "primaryGuide": {
+        "slug": "how-the-fed-sets-interest-rates",
+        "title": "The Fed Sets Interest Rates",
+        "url": "/briefs/how-the-fed-sets-interest-rates/"
+      },
       "relatedBriefSlugs": [],
       "shortTitle": "Fed split over inflation and rates",
       "slug": "fed-minutes-officials-deeply-divided-over-future-path-of-us-inflation",
@@ -7344,7 +7380,11 @@
           52.303
         ]
       ],
-      "primaryGuide": null,
+      "primaryGuide": {
+        "slug": "how-oil-prices-move",
+        "title": "Oil Prices, Explained",
+        "url": "/briefs/how-oil-prices-move/"
+      },
       "relatedBriefSlugs": [
         "iran-s-strikes-on-ships-in-strait-of-hormuz-threaten-oil-flow"
       ],
@@ -7733,13 +7773,9 @@
           "url": "https://www.nytimes.com/2026/07/08/us/politics/trump-e-jean-carroll-5-million-payment.html"
         }
       ],
-      "storylineKey": "governing-crisis",
-      "storylineNext": {
-        "slug": "sanders-warren-drop-endorsements-of-maine-s-graham-platner",
-        "title": "Sanders, Warren Call for Platner to Quit Before Maine Ballot Deadline",
-        "url": "/live/?slug=sanders-warren-drop-endorsements-of-maine-s-graham-platner"
-      },
-      "storylineTitle": "U.S. Elections",
+      "storylineKey": "",
+      "storylineNext": null,
+      "storylineTitle": "",
       "summary": "A Manhattan federal judge ordered court-held funds released to E. Jean Carroll after the Supreme Court declined to hear Donald Trump’s appeal of her civil sexual abuse and defamation verdict.",
       "title": "Judge orders $5.8 million in Trump escrow released to E. Jean Carroll",
       "verificationNote": "Cross-checked across 4 sources"
@@ -7861,7 +7897,11 @@
           50.838
         ]
       ],
-      "primaryGuide": null,
+      "primaryGuide": {
+        "slug": "how-the-fed-sets-interest-rates",
+        "title": "The Fed Sets Interest Rates",
+        "url": "/briefs/how-the-fed-sets-interest-rates/"
+      },
       "relatedBriefSlugs": [],
       "shortTitle": "Iran Tensions Hit Oil and Rates",
       "slug": "tensions-with-iran-add-fresh-uncertainty-to-an-already-shaky-global-economy",
@@ -8399,7 +8439,6 @@
         "how-federal-race-and-ethnicity-data-works",
         "latino-trump-voters-are-less-likely-than-harris-voters-to-say-being-latino-is-ce",
         "maine-democrats-vote-to-replace-platner-before-july-13-senate-deadline",
-        "judge-orders-release-of-the-5-8-million-payment-that-trump-owed-e-jean-carroll",
         "sanders-warren-drop-endorsements-of-maine-s-graham-platner"
       ],
       "new-energy-system": [
