@@ -1,8 +1,177 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-15T10:38:27.359Z",
-  "rolling24HourCount": 5,
+  "updatedAt": "2026-07-15T11:18:19.782Z",
+  "rolling24HourCount": 6,
   "comics": [
+    {
+      "category": "World",
+      "contentType": "brief",
+      "generatedAt": "2026-07-15T11:17:32.277Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What happened",
+            "panel": 1
+          },
+          {
+            "label": "Why it matters",
+            "panel": 2
+          },
+          {
+            "label": "What to watch",
+            "panel": 6
+          }
+        ]
+      },
+      "imagePath": "/live/media/iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade.webp",
+      "claims": [
+        {
+          "claim": "On Wednesday, Iran says it closed the Strait of Hormuz after a U.S. military blockade, threatening global energy markets and commercial ships.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The narrow waterway links Gulf exporters to world markets, so a closure can disrupt energy supplies far beyond the region.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Iran paired the closure with retaliatory strikes against countries hosting U.S. bases, escalating the conflict across the Gulf.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Iran’s Revolutionary Guard said regional energy exports would be shared by all or denied to all during the confrontation.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "U.S. officials said commercial ships were attacked in the strait last week, adding danger for crews and cargo traffic.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Shipping lanes remain closed while the blockade and strikes threaten energy deliveries and raise risks for crews crossing the Gulf.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "On Wednesday, Iran says it closed the Strait of Hormuz after a U.S. military blockade, threatening global energy markets and commercial ships.",
+        "The narrow waterway links Gulf exporters to world markets, so a closure can disrupt energy supplies far beyond the region.",
+        "Iran paired the closure with retaliatory strikes against countries hosting U.S. bases, escalating the conflict across the Gulf.",
+        "Iran’s Revolutionary Guard said regional energy exports would be shared by all or denied to all during the confrontation.",
+        "U.S. officials said commercial ships were attacked in the strait last week, adding danger for crews and cargo traffic.",
+        "Shipping lanes remain closed while the blockade and strikes threaten energy deliveries and raise risks for crews crossing the Gulf."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.474,
+          50.545
+        ],
+        [
+          33.714,
+          0,
+          31.401,
+          50.545
+        ],
+        [
+          66.722,
+          0,
+          33.278,
+          50.545
+        ],
+        [
+          0,
+          51.798,
+          33.474,
+          48.202
+        ],
+        [
+          33.714,
+          51.798,
+          31.401,
+          48.202
+        ],
+        [
+          66.722,
+          51.798,
+          33.278,
+          48.202
+        ]
+      ],
+      "primaryGuide": null,
+      "relatedBriefSlugs": [],
+      "shortTitle": "Iran Closes Hormuz",
+      "slug": "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
+      "sourceCount": 4,
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/jul/15/trump-iran-power-plants-strike-threat-strait-of-hormuz"
+        },
+        {
+          "name": "CBS News Latest",
+          "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-ceasefire-attacks-strait-of-hormuz"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20260715-iran-threatens-to-cut-off-major-vital-seaways-in-response-to-trump-s-renewed-blockade"
+        },
+        {
+          "name": "The New York Times World",
+          "url": "https://www.nytimes.com/2026/07/14/world/middleeast/trump-hormuz-shipping-fee-dropped.html"
+        }
+      ],
+      "storylineKey": "war-security-order",
+      "storylineNext": {
+        "slug": "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
+        "title": "Trump Changes Hormuz Toll Plan, With Tankers Stalled",
+        "url": "/live/?slug=trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz"
+      },
+      "storylineTitle": "The War and Security Order",
+      "summary": "Iran says it has closed the Strait of Hormuz after the United States reimposed a blockade, threatening a major route for Middle East oil and gas exports.",
+      "title": "Iran Closes Hormuz, Disrupting Gulf Oil Routes",
+      "verificationNote": "Cross-checked across 4 sources"
+    },
     {
       "category": "U.S. & Politics",
       "contentType": "brief",
@@ -8049,171 +8218,6 @@
       "summary": "Trump said the ceasefire with Iran was over after renewed strikes, leaving talks, U.S. forces, and Hormuz shipping in doubt.",
       "title": "Trump Says Iran Ceasefire Over as Strikes Threaten U.S. Forces",
       "verificationNote": "Cross-checked across 4 sources"
-    },
-    {
-      "category": "U.S. & Politics",
-      "contentType": "brief",
-      "generatedAt": "2026-07-08T08:40:47.971Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What happened",
-            "panel": 1
-          },
-          {
-            "label": "Why it matters",
-            "panel": 5
-          },
-          {
-            "label": "What to watch",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/republican-leaders-say-they-ve-spoken-with-mitch-mcconnell-since-hospitalization.webp",
-      "claims": [
-        {
-          "claim": "Senate GOP says McConnell remains hospitalized while the public lacks a diagnosis, discharge date, or return timeline.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Thune’s office said he spoke with McConnell Monday while the Kentucky senator remained in the hospital.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Barrasso’s office also reported recent contact, but McConnell’s condition and discharge timing were not detailed.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "McConnell was first reported hospitalized June 14 for an unknown condition, extending the absence beyond three weeks.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "His office says he is improving and working with staff on Kentucky and Senate matters.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Next public signal: a medical update, discharge plan, or timetable for returning to Senate work.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "Senate GOP says McConnell remains hospitalized while the public lacks a diagnosis, discharge date, or return timeline.",
-        "Thune’s office said he spoke with McConnell Monday while the Kentucky senator remained in the hospital.",
-        "Barrasso’s office also reported recent contact, but McConnell’s condition and discharge timing were not detailed.",
-        "McConnell was first reported hospitalized June 14 for an unknown condition, extending the absence beyond three weeks.",
-        "His office says he is improving and working with staff on Kentucky and Senate matters.",
-        "Next public signal: a medical update, discharge plan, or timetable for returning to Senate work."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          32.888,
-          49.959
-        ],
-        [
-          33.584,
-          0,
-          30.75,
-          49.959
-        ],
-        [
-          65.094,
-          0,
-          34.906,
-          49.959
-        ],
-        [
-          0,
-          50.041,
-          32.888,
-          49.959
-        ],
-        [
-          33.584,
-          50.041,
-          30.75,
-          49.959
-        ],
-        [
-          65.094,
-          50.041,
-          34.906,
-          49.959
-        ]
-      ],
-      "primaryGuide": null,
-      "relatedBriefSlugs": [],
-      "shortTitle": "GOP Leaders Give No Return Timeline for McConnell",
-      "slug": "republican-leaders-say-they-ve-spoken-with-mitch-mcconnell-since-hospitalization",
-      "sourceCount": 4,
-      "sources": [
-        {
-          "name": "ABC News Top Stories",
-          "url": "https://abcnews.com/Politics/senate-republican-leaders-spoken-mitch-mcconnell-remains-hospitalized/story?id=134561292"
-        },
-        {
-          "name": "CBS News Latest",
-          "url": "https://www.cbsnews.com/video/what-happens-when-lawmaker-takes-extended-absence"
-        },
-        {
-          "name": "Politico Congress",
-          "url": "https://www.politico.com/live-updates/2026/07/07/congress/mitch-mcconnell-health-thune-barrasso-00988874"
-        },
-        {
-          "name": "The New York Times U.S.",
-          "url": "https://www.nytimes.com/2026/07/07/us/politics/mitch-mcconnell-hospital-thune-barrasso.html"
-        }
-      ],
-      "storylineKey": "",
-      "storylineNext": null,
-      "storylineTitle": "",
-      "summary": "Spokespeople for Senate Republican leaders John Thune and John Barrasso said they have spoken with Mitch McConnell while he remains hospitalized after a June 14 admission, but his office has not provided a diagnosis, discharge date, or Senate return timeline.",
-      "title": "Senate GOP Says McConnell Remains Hospitalized With No Return Timeline",
-      "verificationNote": "Cross-checked across 4 sources"
     }
   ],
   "dailyPaper": {
@@ -8270,6 +8274,16 @@
   },
   "feeds": {
     "categories": {
+      "World": [
+        "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
+        "inflation-slowed-during-pause-in-war-with-iran",
+        "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
+        "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
+        "trump-says-iran-ceasefire-is-over",
+        "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the",
+        "one-of-spain-s-deadliest-wildfires-kills-at-least-12-people-with-23-others-missi",
+        "trump-says-iran-ceasefire-is-over-after-latest-round-of-strikes"
+      ],
       "U.S. & Politics": [
         "house-votes-for-permanent-daylight-saving-time",
         "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
@@ -8296,21 +8310,11 @@
         "judge-orders-release-of-the-5-8-million-payment-that-trump-owed-e-jean-carroll",
         "tensions-with-iran-add-fresh-uncertainty-to-an-already-shaky-global-economy",
         "sanders-warren-drop-endorsements-of-maine-s-graham-platner",
-        "at-nato-summit-in-turkey-trump-says-he-believes-ceasefire-with-iran-is-over",
-        "republican-leaders-say-they-ve-spoken-with-mitch-mcconnell-since-hospitalization"
+        "at-nato-summit-in-turkey-trump-says-he-believes-ceasefire-with-iran-is-over"
       ],
       "Tech & Science": [
         "the-politics-of-new-york-s-data-center-construction-pause",
         "how-to-prevent-meta-from-using-your-instagram-images-in-a-i"
-      ],
-      "World": [
-        "inflation-slowed-during-pause-in-war-with-iran",
-        "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
-        "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
-        "trump-says-iran-ceasefire-is-over",
-        "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the",
-        "one-of-spain-s-deadliest-wildfires-kills-at-least-12-people-with-23-others-missi",
-        "trump-says-iran-ceasefire-is-over-after-latest-round-of-strikes"
       ],
       "Guide": [
         "how-us-senate-vacancies-are-filled",
@@ -8340,13 +8344,8 @@
       "how-federal-race-and-ethnicity-data-works"
     ],
     "storylines": {
-      "ai-buildout": [
-        "the-politics-of-new-york-s-data-center-construction-pause",
-        "apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secr",
-        "chatgpt-56-security-gate",
-        "how-to-prevent-meta-from-using-your-instagram-images-in-a-i"
-      ],
       "war-security-order": [
+        "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
         "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
         "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
         "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
@@ -8361,6 +8360,12 @@
         "tensions-with-iran-add-fresh-uncertainty-to-an-already-shaky-global-economy",
         "at-nato-summit-in-turkey-trump-says-he-believes-ceasefire-with-iran-is-over",
         "trump-says-iran-ceasefire-is-over-after-latest-round-of-strikes"
+      ],
+      "ai-buildout": [
+        "the-politics-of-new-york-s-data-center-construction-pause",
+        "apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secr",
+        "chatgpt-56-security-gate",
+        "how-to-prevent-meta-from-using-your-instagram-images-in-a-i"
       ],
       "governing-crisis": [
         "how-us-senate-vacancies-are-filled",
