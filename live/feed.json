@@ -1,6 +1,6 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-16T13:38:44.291Z",
+  "updatedAt": "2026-07-16T14:57:01.958Z",
   "rolling24HourCount": 4,
   "comics": [
     {
@@ -295,7 +295,7 @@
       ],
       "primaryGuide": null,
       "relatedBriefSlugs": [],
-      "shortTitle": "Pay-Transparency Laws Turn a Job",
+      "shortTitle": "How Pay Transparency Laws Work",
       "slug": "how-pay-transparency-laws-work",
       "sourceCount": 2,
       "sources": [
