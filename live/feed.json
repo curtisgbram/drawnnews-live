@@ -1,7 +1,7 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-16T01:27:40.941Z",
-  "rolling24HourCount": 7,
+  "updatedAt": "2026-07-16T04:31:18.314Z",
+  "rolling24HourCount": 6,
   "comics": [
     {
       "category": "Guide",
@@ -128,7 +128,7 @@
       ],
       "primaryGuide": null,
       "relatedBriefSlugs": [],
-      "shortTitle": "Pay-transparency laws turn a job",
+      "shortTitle": "Pay-Transparency Laws Turn a Job",
       "slug": "how-pay-transparency-laws-work",
       "sourceCount": 2,
       "sources": [
@@ -160,10 +160,10 @@
           },
           {
             "label": "Why it matters",
-            "panel": 3
+            "panel": 5
           },
           {
-            "label": "What to watch",
+            "label": "Where it stands",
             "panel": 6
           }
         ]
@@ -171,7 +171,7 @@
       "imagePath": "/live/media/trump-s-intelligence-nominee-refuses-to-say-who-won-2020-election.webp",
       "claims": [
         {
-          "claim": "At a Senate Intelligence Committee hearing, DNI nominee Jay Clayton would not say who won the 2020 election, putting independence at issue.",
+          "claim": "At a Senate Intelligence Committee hearing, DNI nominee Jay Clayton declined to identify the winner of the 2020 presidential election.",
           "panel": 1,
           "sourceIndexes": [
             0,
@@ -193,7 +193,7 @@
           "verification": "briefing-source-set"
         },
         {
-          "claim": "Instead, senators focused on Clayton's answer about the election, a test of whether he would acknowledge established facts.",
+          "claim": "Senators repeatedly returned to Clayton’s answer and asked how he would handle disputed political claims as intelligence chief.",
           "panel": 3,
           "sourceIndexes": [
             0,
@@ -204,7 +204,7 @@
           "verification": "briefing-source-set"
         },
         {
-          "claim": "Lawmakers also asked whether he would tell the president the unvarnished truth when intelligence assessments are unwelcome.",
+          "claim": "Lawmakers asked whether Clayton would deliver intelligence assessments that conflict with a president’s stated position.",
           "panel": 4,
           "sourceIndexes": [
             0,
@@ -226,7 +226,7 @@
           "verification": "briefing-source-set"
         },
         {
-          "claim": "A Republican-controlled Senate is likely to confirm Clayton, leaving the hearing as a public test of independent intelligence advice.",
+          "claim": "A Republican-controlled Senate is likely to confirm Clayton after a hearing dominated by questions about presidential briefings.",
           "panel": 6,
           "sourceIndexes": [
             0,
@@ -238,54 +238,64 @@
         }
       ],
       "panelCaptions": [
-        "At a Senate Intelligence Committee hearing, DNI nominee Jay Clayton would not say who won the 2020 election, putting independence at issue.",
+        "At a Senate Intelligence Committee hearing, DNI nominee Jay Clayton declined to identify the winner of the 2020 presidential election.",
         "The director of national intelligence coordinates agencies that assess foreign threats and brief the president on national security.",
-        "Instead, senators focused on Clayton's answer about the election, a test of whether he would acknowledge established facts.",
-        "Lawmakers also asked whether he would tell the president the unvarnished truth when intelligence assessments are unwelcome.",
+        "Senators repeatedly returned to Clayton’s answer and asked how he would handle disputed political claims as intelligence chief.",
+        "Lawmakers asked whether Clayton would deliver intelligence assessments that conflict with a president’s stated position.",
         "The job would put Clayton over a system responsible for collecting, analyzing and protecting sensitive intelligence.",
-        "A Republican-controlled Senate is likely to confirm Clayton, leaving the hearing as a public test of independent intelligence advice."
+        "A Republican-controlled Senate is likely to confirm Clayton after a hearing dominated by questions about presidential briefings."
       ],
       "panelFrames": [
         [
           0,
           0,
           33.278,
-          50.448
+          46.834
         ],
         [
-          35.081,
+          35.016,
           0,
-          31.401,
-          50.448
+          31.466,
+          46.834
         ],
         [
           66.722,
           0,
           33.278,
-          50.448
+          46.834
         ],
         [
           0,
-          51.798,
+          49.748,
           33.278,
-          48.202
+          50.252
         ],
         [
-          35.081,
-          51.798,
-          31.401,
-          48.202
+          35.016,
+          49.748,
+          31.466,
+          50.252
         ],
         [
           66.722,
-          51.798,
+          49.748,
           33.278,
-          48.202
+          50.252
         ]
       ],
       "primaryGuide": null,
-      "relatedBriefSlugs": [],
-      "shortTitle": "Jay Clayton dodges 2020 result at DNI hearing",
+      "readerNext": {
+        "buttonLabel": "Earlier brief",
+        "kind": "earlier-brief",
+        "label": "Earlier in this story",
+        "slug": "trump-taps-prosecutor-jay-clayton-as-next-director-of-national-intelligence",
+        "title": "Trump's Clayton pick meets FISA deadline",
+        "url": "/briefs/trump-taps-prosecutor-jay-clayton-as-next-director-of-national-intelligence/"
+      },
+      "relatedBriefSlugs": [
+        "trump-taps-prosecutor-jay-clayton-as-next-director-of-national-intelligence"
+      ],
+      "shortTitle": "Jay Clayton declines to name 2020 winner",
       "slug": "trump-s-intelligence-nominee-refuses-to-say-who-won-2020-election",
       "sourceCount": 4,
       "sources": [
@@ -306,11 +316,15 @@
           "url": "https://www.politico.com/news/2026/07/15/jay-clayton-hearing-odni-00998294"
         }
       ],
-      "storylineKey": "",
-      "storylineNext": null,
-      "storylineTitle": "",
-      "summary": "Jay Clayton appeared before the Senate Intelligence Committee for his confirmation hearing to become director of national intelligence. The job is largely focused on foreign threats and national security, but much of the hearing focused instead on the recent past.",
-      "title": "DNI nominee Jay Clayton dodges",
+      "storylineKey": "governing-crisis",
+      "storylineNext": {
+        "slug": "trump-endorses-pillow-man-mike-lindell-for-minnesota-governor",
+        "title": "Trump Backs Lindell in Minnesota Race",
+        "url": "/live/?slug=trump-endorses-pillow-man-mike-lindell-for-minnesota-governor"
+      },
+      "storylineTitle": "U.S. Elections",
+      "summary": "DNI nominee Jay Clayton declined to identify the winner of the 2020 presidential election during his Senate Intelligence Committee confirmation hearing.",
+      "title": "DNI Nominee Declines to Name 2020 Winner",
       "verificationNote": "Cross-checked across 4 sources"
     },
     {
@@ -366,7 +380,7 @@
           "verification": "briefing-source-set"
         },
         {
-          "claim": "He has repeated Trump’s false claim that the 2020 presidential election was fraudulent.",
+          "claim": "Since 2020, Lindell has made challenges to that election’s outcome a central part of his political profile.",
           "panel": 4,
           "sourceIndexes": [
             0,
@@ -400,7 +414,7 @@
         "President Trump puts his endorsement behind MyPillow founder Mike Lindell in Minnesota’s governor election, where voters will choose state government leadership.",
         "Trump’s backing arrived one day before a planned national address focused on election security.",
         "Lindell built his national profile through MyPillow advertising and has been a prominent Trump supporter.",
-        "He has repeated Trump’s false claim that the 2020 presidential election was fraudulent.",
+        "Since 2020, Lindell has made challenges to that election’s outcome a central part of his political profile.",
         "The endorsement gives Minnesota voters a clearer signal of Trump’s preferred candidate in the race.",
         "Minnesota voters will decide whether national backing translates into a winning statewide coalition."
       ],
@@ -409,37 +423,37 @@
           0,
           0,
           33.213,
-          50.35
+          46.834
         ],
         [
           33.453,
           0,
           32.898,
-          50.35
+          46.834
         ],
         [
           66.591,
           0,
           33.409,
-          50.35
+          46.834
         ],
         [
           0,
-          53.752,
+          49.65,
           33.213,
-          46.248
+          50.35
         ],
         [
           33.453,
-          53.752,
+          49.65,
           32.898,
-          46.248
+          50.35
         ],
         [
           66.591,
-          53.752,
+          49.65,
           33.409,
-          46.248
+          50.35
         ]
       ],
       "primaryGuide": null,
@@ -476,7 +490,7 @@
         "url": "/live/?slug=how-us-senate-vacancies-are-filled"
       },
       "storylineTitle": "U.S. Elections",
-      "summary": "Trump praised Lindell as \"one of America's greatest and most hard working Patriots\" and gave formal backing to a fellow election denier a day before the Republican president delivers a national address he says will focus on election security.",
+      "summary": "Trump formally endorsed MyPillow founder Mike Lindell for Minnesota governor one day before a national address Trump said would focus on election security. Lindell has made challenges to the 2020 election result a central part of his political profile.",
       "title": "Trump Backs Mike Lindell in Minnesota Governor Race",
       "verificationNote": "Cross-checked across 3 sources"
     },
@@ -8639,6 +8653,7 @@
     ],
     "storylines": {
       "governing-crisis": [
+        "trump-s-intelligence-nominee-refuses-to-say-who-won-2020-election",
         "trump-endorses-pillow-man-mike-lindell-for-minnesota-governor",
         "how-us-senate-vacancies-are-filled",
         "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa",
