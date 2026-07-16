@@ -1,8 +1,153 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-16T01:10:39.237Z",
+  "updatedAt": "2026-07-16T01:27:40.941Z",
   "rolling24HourCount": 7,
   "comics": [
+    {
+      "category": "Guide",
+      "contentType": "guide",
+      "generatedAt": "2026-07-16T01:26:50.483Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What it explains",
+            "panel": 1
+          },
+          {
+            "label": "How it works",
+            "panel": 2
+          },
+          {
+            "label": "Where it gets hard",
+            "panel": 4
+          }
+        ]
+      },
+      "imagePath": "/live/media/how-pay-transparency-laws-work.webp",
+      "claims": [
+        {
+          "claim": "New York employers with four workers must post a salary range for covered jobs, giving applicants and employees a wage rule they can enforce.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "A job-posting document starts the enforcement path: the range and description enter the hiring record before an applicant accepts an interview.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "A comparison ledger connects pay information to like work, location, seniority, and permitted factors instead of treating every wage difference alike.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The legal threshold is job-specific: a range must be current and good-faith, while each jurisdiction defines which employers and openings are covered.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "A complaint docket exposes the failure mode when vague ranges, exclusions, weak records, or retaliation block the rule from revealing a pay gap.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Watch the enforcement path: new postings, worker complaints, agency investigations, and remedies test whether disclosure changes bargaining power.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "New York employers with four workers must post a salary range for covered jobs, giving applicants and employees a wage rule they can enforce.",
+        "A job-posting document starts the enforcement path: the range and description enter the hiring record before an applicant accepts an interview.",
+        "A comparison ledger connects pay information to like work, location, seniority, and permitted factors instead of treating every wage difference alike.",
+        "The legal threshold is job-specific: a range must be current and good-faith, while each jurisdiction defines which employers and openings are covered.",
+        "A complaint docket exposes the failure mode when vague ranges, exclusions, weak records, or retaliation block the rule from revealing a pay gap.",
+        "Watch the enforcement path: new postings, worker complaints, agency investigations, and remedies test whether disclosure changes bargaining power."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.278,
+          50.35
+        ],
+        [
+          33.518,
+          0,
+          33.028,
+          50.35
+        ],
+        [
+          66.787,
+          0,
+          33.213,
+          50.35
+        ],
+        [
+          0,
+          51.798,
+          33.278,
+          48.202
+        ],
+        [
+          33.518,
+          51.798,
+          33.028,
+          48.202
+        ],
+        [
+          66.787,
+          51.798,
+          33.213,
+          48.202
+        ]
+      ],
+      "primaryGuide": null,
+      "relatedBriefSlugs": [],
+      "shortTitle": "Pay-transparency laws turn a job",
+      "slug": "how-pay-transparency-laws-work",
+      "sourceCount": 2,
+      "sources": [
+        {
+          "name": "New York State Department of Labor",
+          "url": "https://dol.ny.gov/pay-transparency"
+        },
+        {
+          "name": "EUR-Lex",
+          "url": "https://eur-lex.europa.eu/eli/dir/2023/970/oj"
+        }
+      ],
+      "storylineKey": "",
+      "storylineNext": null,
+      "storylineTitle": "",
+      "summary": "Pay-transparency laws turn a job opening into a disclosed pay range, worker access to comparison information, enforcement pathways, and a public record that can expose unequal pay.",
+      "title": "How Pay Transparency Laws Work",
+      "verificationNote": "Cross-checked across 2 sources"
+    },
     {
       "category": "U.S. & Politics",
       "contentType": "brief",
@@ -8363,171 +8508,6 @@
       "summary": "President Trump praised unity at the NATO summit in Turkey while Iran, Greenland and defense-spending disputes kept alliance strains visible.",
       "title": "Trump says NATO unity faces Iran, Greenland and defense-spending tests",
       "verificationNote": "Cross-checked across 6 sources"
-    },
-    {
-      "category": "U.S. & Politics",
-      "contentType": "brief",
-      "generatedAt": "2026-07-08T19:23:11.033Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What happened",
-            "panel": 1
-          },
-          {
-            "label": "Why it matters",
-            "panel": 5
-          },
-          {
-            "label": "Where it stands",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/judge-orders-release-of-the-5-8-million-payment-that-trump-owed-e-jean-carroll.webp",
-      "claims": [
-        {
-          "claim": "Judge Kaplan orders court-held money released to E. Jean Carroll after Trump’s Supreme Court appeal was denied.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The $5.8 million account holds a 2023 jury award plus interest from the civil verdict.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Jurors found Trump liable for sexual abuse and defamation; he denies wrongdoing and keeps contesting the case.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The Supreme Court declined review on June 29, clearing the escrow account for release.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Trump’s lawyers sought more delay while asking the justices to reconsider, keeping payment timing contested.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The remaining steps are transfer timing, the rehearing request, and Trump’s new notice of appeal.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "Judge Kaplan orders court-held money released to E. Jean Carroll after Trump’s Supreme Court appeal was denied.",
-        "The $5.8 million account holds a 2023 jury award plus interest from the civil verdict.",
-        "Jurors found Trump liable for sexual abuse and defamation; he denies wrongdoing and keeps contesting the case.",
-        "The Supreme Court declined review on June 29, clearing the escrow account for release.",
-        "Trump’s lawyers sought more delay while asking the justices to reconsider, keeping payment timing contested.",
-        "The remaining steps are transfer timing, the rehearing request, and Trump’s new notice of appeal."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          33.213,
-          50.35
-        ],
-        [
-          33.453,
-          0,
-          32.312,
-          50.35
-        ],
-        [
-          66.787,
-          0,
-          33.213,
-          50.35
-        ],
-        [
-          0,
-          51.31,
-          33.213,
-          48.69
-        ],
-        [
-          33.453,
-          51.31,
-          32.312,
-          48.69
-        ],
-        [
-          66.787,
-          51.31,
-          33.213,
-          48.69
-        ]
-      ],
-      "primaryGuide": null,
-      "relatedBriefSlugs": [],
-      "shortTitle": "Judge orders Trump escrow released",
-      "slug": "judge-orders-release-of-the-5-8-million-payment-that-trump-owed-e-jean-carroll",
-      "sourceCount": 4,
-      "sources": [
-        {
-          "name": "The Guardian US",
-          "url": "https://www.theguardian.com/us-news/2026/jul/08/trump-e-jean-carroll-settlement"
-        },
-        {
-          "name": "CBS News Latest",
-          "url": "https://www.cbsnews.com/news/trump-seeking-delay-payment-e-jean-carroll-asks-supreme-court-to-reconsider"
-        },
-        {
-          "name": "NBC News",
-          "url": "https://www.nbcnews.com/politics/donald-trump/judge-orders-release-58-million-payment-trump-owed-e-jean-carroll-rcna353512"
-        },
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/08/us/politics/trump-e-jean-carroll-5-million-payment.html"
-        }
-      ],
-      "storylineKey": "",
-      "storylineNext": null,
-      "storylineTitle": "",
-      "summary": "A Manhattan federal judge ordered court-held funds released to E. Jean Carroll after the Supreme Court declined to hear Donald Trump’s appeal of her civil sexual abuse and defamation verdict.",
-      "title": "Judge orders $5.8 million in Trump escrow released to E. Jean Carroll",
-      "verificationNote": "Cross-checked across 4 sources"
     }
   ],
   "dailyPaper": {
@@ -8584,6 +8564,18 @@
   },
   "feeds": {
     "categories": {
+      "Guide": [
+        "how-pay-transparency-laws-work",
+        "how-buy-now-pay-later-loans-work",
+        "how-us-senate-vacancies-are-filled",
+        "how-ev-battery-recycling-works",
+        "how-national-bank-charters-work",
+        "what-the-election-assistance-commission-does",
+        "how-bills-become-law-without-a-signature",
+        "how-the-digital-services-act-works",
+        "how-mortgage-rates-move",
+        "how-federal-race-and-ethnicity-data-works"
+      ],
       "U.S. & Politics": [
         "trump-s-intelligence-nominee-refuses-to-say-who-won-2020-election",
         "trump-endorses-pillow-man-mike-lindell-for-minnesota-governor",
@@ -8608,22 +8600,10 @@
         "maine-democrats-vote-to-replace-platner-before-july-13-senate-deadline",
         "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
         "new-attacks-raise-questions-about-what-comes-next-in-the-iran-war",
-        "trump-hails-unity-at-nato-summit-despite-recent-tensions",
-        "judge-orders-release-of-the-5-8-million-payment-that-trump-owed-e-jean-carroll"
+        "trump-hails-unity-at-nato-summit-despite-recent-tensions"
       ],
       "Sports & Culture": [
         "world-cup-favorites-france-unravel-as-spain-book-s"
-      ],
-      "Guide": [
-        "how-buy-now-pay-later-loans-work",
-        "how-us-senate-vacancies-are-filled",
-        "how-ev-battery-recycling-works",
-        "how-national-bank-charters-work",
-        "what-the-election-assistance-commission-does",
-        "how-bills-become-law-without-a-signature",
-        "how-the-digital-services-act-works",
-        "how-mortgage-rates-move",
-        "how-federal-race-and-ethnicity-data-works"
       ],
       "World": [
         "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
@@ -8646,6 +8626,7 @@
       ]
     },
     "guides": [
+      "how-pay-transparency-laws-work",
       "how-buy-now-pay-later-loans-work",
       "how-us-senate-vacancies-are-filled",
       "how-ev-battery-recycling-works",
