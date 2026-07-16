@@ -1,8 +1,340 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-15T21:09:41.433Z",
-  "rolling24HourCount": 5,
+  "updatedAt": "2026-07-16T01:10:39.237Z",
+  "rolling24HourCount": 7,
   "comics": [
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-16T01:09:49.639Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What happened",
+            "panel": 1
+          },
+          {
+            "label": "Why it matters",
+            "panel": 3
+          },
+          {
+            "label": "What to watch",
+            "panel": 6
+          }
+        ]
+      },
+      "imagePath": "/live/media/trump-s-intelligence-nominee-refuses-to-say-who-won-2020-election.webp",
+      "claims": [
+        {
+          "claim": "At a Senate Intelligence Committee hearing, DNI nominee Jay Clayton would not say who won the 2020 election, putting independence at issue.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The director of national intelligence coordinates agencies that assess foreign threats and brief the president on national security.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Instead, senators focused on Clayton's answer about the election, a test of whether he would acknowledge established facts.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Lawmakers also asked whether he would tell the president the unvarnished truth when intelligence assessments are unwelcome.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The job would put Clayton over a system responsible for collecting, analyzing and protecting sensitive intelligence.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "A Republican-controlled Senate is likely to confirm Clayton, leaving the hearing as a public test of independent intelligence advice.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "At a Senate Intelligence Committee hearing, DNI nominee Jay Clayton would not say who won the 2020 election, putting independence at issue.",
+        "The director of national intelligence coordinates agencies that assess foreign threats and brief the president on national security.",
+        "Instead, senators focused on Clayton's answer about the election, a test of whether he would acknowledge established facts.",
+        "Lawmakers also asked whether he would tell the president the unvarnished truth when intelligence assessments are unwelcome.",
+        "The job would put Clayton over a system responsible for collecting, analyzing and protecting sensitive intelligence.",
+        "A Republican-controlled Senate is likely to confirm Clayton, leaving the hearing as a public test of independent intelligence advice."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.278,
+          50.448
+        ],
+        [
+          35.081,
+          0,
+          31.401,
+          50.448
+        ],
+        [
+          66.722,
+          0,
+          33.278,
+          50.448
+        ],
+        [
+          0,
+          51.798,
+          33.278,
+          48.202
+        ],
+        [
+          35.081,
+          51.798,
+          31.401,
+          48.202
+        ],
+        [
+          66.722,
+          51.798,
+          33.278,
+          48.202
+        ]
+      ],
+      "primaryGuide": null,
+      "relatedBriefSlugs": [],
+      "shortTitle": "Jay Clayton dodges 2020 result at DNI hearing",
+      "slug": "trump-s-intelligence-nominee-refuses-to-say-who-won-2020-election",
+      "sourceCount": 4,
+      "sources": [
+        {
+          "name": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/show/trumps-intelligence-nominee-refuses-to-say-who-won-2020-election"
+        },
+        {
+          "name": "NBC News Politics",
+          "url": "https://www.nbcnews.com/politics/national-security/nominee-top-intel-post-faces-lawmakers-eager-see-replace-current-leade-rcna587368"
+        },
+        {
+          "name": "CNBC Top News",
+          "url": "https://www.cnbc.com/2026/07/15/trump-dni-jay-clayton-senate-2020-election.html"
+        },
+        {
+          "name": "Politico Congress",
+          "url": "https://www.politico.com/news/2026/07/15/jay-clayton-hearing-odni-00998294"
+        }
+      ],
+      "storylineKey": "",
+      "storylineNext": null,
+      "storylineTitle": "",
+      "summary": "Jay Clayton appeared before the Senate Intelligence Committee for his confirmation hearing to become director of national intelligence. The job is largely focused on foreign threats and national security, but much of the hearing focused instead on the recent past.",
+      "title": "DNI nominee Jay Clayton dodges",
+      "verificationNote": "Cross-checked across 4 sources"
+    },
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-15T23:22:30.112Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What happened",
+            "panel": 1
+          },
+          {
+            "label": "Why it matters",
+            "panel": 5
+          },
+          {
+            "label": "What to watch",
+            "panel": 6
+          }
+        ]
+      },
+      "imagePath": "/live/media/trump-endorses-pillow-man-mike-lindell-for-minnesota-governor.webp",
+      "claims": [
+        {
+          "claim": "President Trump puts his endorsement behind MyPillow founder Mike Lindell in Minnesota’s governor election, where voters will choose state government leadership.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Trump’s backing arrived one day before a planned national address focused on election security.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Lindell built his national profile through MyPillow advertising and has been a prominent Trump supporter.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "He has repeated Trump’s false claim that the 2020 presidential election was fraudulent.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The endorsement gives Minnesota voters a clearer signal of Trump’s preferred candidate in the race.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Minnesota voters will decide whether national backing translates into a winning statewide coalition.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "President Trump puts his endorsement behind MyPillow founder Mike Lindell in Minnesota’s governor election, where voters will choose state government leadership.",
+        "Trump’s backing arrived one day before a planned national address focused on election security.",
+        "Lindell built his national profile through MyPillow advertising and has been a prominent Trump supporter.",
+        "He has repeated Trump’s false claim that the 2020 presidential election was fraudulent.",
+        "The endorsement gives Minnesota voters a clearer signal of Trump’s preferred candidate in the race.",
+        "Minnesota voters will decide whether national backing translates into a winning statewide coalition."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.213,
+          50.35
+        ],
+        [
+          33.453,
+          0,
+          32.898,
+          50.35
+        ],
+        [
+          66.591,
+          0,
+          33.409,
+          50.35
+        ],
+        [
+          0,
+          53.752,
+          33.213,
+          46.248
+        ],
+        [
+          33.453,
+          53.752,
+          32.898,
+          46.248
+        ],
+        [
+          66.591,
+          53.752,
+          33.409,
+          46.248
+        ]
+      ],
+      "primaryGuide": null,
+      "readerNext": {
+        "buttonLabel": "Storyline",
+        "kind": "storyline",
+        "label": "Storyline",
+        "slug": "governing-crisis",
+        "title": "U.S. Elections",
+        "url": "/storylines/governing-crisis/"
+      },
+      "relatedBriefSlugs": [],
+      "shortTitle": "Trump Backs Lindell in Minnesota Race",
+      "slug": "trump-endorses-pillow-man-mike-lindell-for-minnesota-governor",
+      "sourceCount": 3,
+      "sources": [
+        {
+          "name": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/politics/trump-endorses-pillow-man-mike-lindell-for-minnesota-governor"
+        },
+        {
+          "name": "ABC News Top Stories",
+          "url": "https://abcnews.com/Politics/wireStory/donald-trump-endorses-pillow-man-mike-lindell-minnesota-134776809"
+        },
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/15/us/trump-mike-lindell-endorsement-minnesota.html"
+        }
+      ],
+      "storylineKey": "governing-crisis",
+      "storylineNext": {
+        "slug": "how-us-senate-vacancies-are-filled",
+        "title": "Filling a Senate Vacancy",
+        "url": "/live/?slug=how-us-senate-vacancies-are-filled"
+      },
+      "storylineTitle": "U.S. Elections",
+      "summary": "Trump praised Lindell as \"one of America's greatest and most hard working Patriots\" and gave formal backing to a fellow election denier a day before the Republican president delivers a national address he says will focus on election security.",
+      "title": "Trump Backs Mike Lindell in Minnesota Governor Race",
+      "verificationNote": "Cross-checked across 3 sources"
+    },
     {
       "category": "Sports & Culture",
       "contentType": "brief",
@@ -7094,7 +7426,7 @@
       "storylineNext": {
         "slug": "sanders-warren-drop-endorsements-of-maine-s-graham-platner",
         "title": "Sanders, Warren Call for Platner to Quit Before Maine Ballot Deadline",
-        "url": "/live/?slug=sanders-warren-drop-endorsements-of-maine-s-graham-platner"
+        "url": "/briefs/sanders-warren-drop-endorsements-of-maine-s-graham-platner/"
       },
       "storylineTitle": "U.S. Elections",
       "summary": "After Democratic Senate nominee Graham Platner said he would withdraw following a sexual-assault allegation he denies, Maine Democrats voted to hold a nominating convention. State law gives the party a narrow path to name a replacement for the contest against Republican Sen. Susan Collins.",
@@ -8025,7 +8357,7 @@
       "storylineNext": {
         "slug": "tensions-with-iran-add-fresh-uncertainty-to-an-already-shaky-global-economy",
         "title": "Iran Tensions Hit Oil and Rates",
-        "url": "/live/?slug=tensions-with-iran-add-fresh-uncertainty-to-an-already-shaky-global-economy"
+        "url": "/briefs/tensions-with-iran-add-fresh-uncertainty-to-an-already-shaky-global-economy/"
       },
       "storylineTitle": "The War and Security Order",
       "summary": "President Trump praised unity at the NATO summit in Turkey while Iran, Greenland and defense-spending disputes kept alliance strains visible.",
@@ -8196,356 +8528,6 @@
       "summary": "A Manhattan federal judge ordered court-held funds released to E. Jean Carroll after the Supreme Court declined to hear Donald Trump’s appeal of her civil sexual abuse and defamation verdict.",
       "title": "Judge orders $5.8 million in Trump escrow released to E. Jean Carroll",
       "verificationNote": "Cross-checked across 4 sources"
-    },
-    {
-      "category": "U.S. & Politics",
-      "contentType": "brief",
-      "generatedAt": "2026-07-08T18:35:02.788Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What happened",
-            "panel": 1
-          },
-          {
-            "label": "Why it matters",
-            "panel": 4
-          },
-          {
-            "label": "What to watch",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/tensions-with-iran-add-fresh-uncertainty-to-an-already-shaky-global-economy.webp",
-      "claims": [
-        {
-          "claim": "Trump says the Iran ceasefire is over; oil prices move Strait of Hormuz risk into U.S. inflation forecasts.",
-          "panel": 1,
-          "sourceIndexes": [
-            0
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The chain starts with tanker attacks, U.S. strikes, and crude shipments through the Strait of Hormuz.",
-          "panel": 2,
-          "sourceIndexes": [
-            0
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Brent rose 6.3% to $78.80; WTI, the U.S. benchmark, climbed 6.4% to $75.",
-          "panel": 3,
-          "sourceIndexes": [
-            0
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Higher crude raises gasoline and transportation costs, while the Dow fell 623 points in the market selloff.",
-          "panel": 4,
-          "sourceIndexes": [
-            0
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Inflation risk can trigger a higher-rate path at the Federal Reserve, tightening conditions across the U.S. economy.",
-          "panel": 5,
-          "sourceIndexes": [
-            0
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Watch the revoked oil-sales waiver, Strait traffic, and benchmarks as the price shock moves through markets.",
-          "panel": 6,
-          "sourceIndexes": [
-            0
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "Trump says the Iran ceasefire is over; oil prices move Strait of Hormuz risk into U.S. inflation forecasts.",
-        "The chain starts with tanker attacks, U.S. strikes, and crude shipments through the Strait of Hormuz.",
-        "Brent rose 6.3% to $78.80; WTI, the U.S. benchmark, climbed 6.4% to $75.",
-        "Higher crude raises gasoline and transportation costs, while the Dow fell 623 points in the market selloff.",
-        "Inflation risk can trigger a higher-rate path at the Federal Reserve, tightening conditions across the U.S. economy.",
-        "Watch the revoked oil-sales waiver, Strait traffic, and benchmarks as the price shock moves through markets."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          32.953,
-          48.495
-        ],
-        [
-          34.104,
-          0,
-          30.619,
-          48.495
-        ],
-        [
-          65.94,
-          0,
-          34.06,
-          48.495
-        ],
-        [
-          0,
-          49.162,
-          32.953,
-          50.838
-        ],
-        [
-          34.104,
-          49.162,
-          30.619,
-          50.838
-        ],
-        [
-          65.94,
-          49.162,
-          34.06,
-          50.838
-        ]
-      ],
-      "primaryGuide": {
-        "slug": "how-the-fed-sets-interest-rates",
-        "title": "How the Fed Sets Interest Rates",
-        "url": "/briefs/how-the-fed-sets-interest-rates/"
-      },
-      "readerNext": {
-        "buttonLabel": "Guide",
-        "kind": "background-guide",
-        "label": "Background guide",
-        "slug": "how-the-fed-sets-interest-rates",
-        "title": "How the Fed Sets Interest Rates",
-        "url": "/briefs/how-the-fed-sets-interest-rates/"
-      },
-      "relatedBriefSlugs": [],
-      "shortTitle": "Iran Tensions Hit Oil and Rates",
-      "slug": "tensions-with-iran-add-fresh-uncertainty-to-an-already-shaky-global-economy",
-      "sourceCount": 1,
-      "sources": [
-        {
-          "name": "CBS News Latest",
-          "url": "https://www.cbsnews.com/news/dow-oil-prices-strait-of-hormuz-trump/"
-        }
-      ],
-      "storylineKey": "war-security-order",
-      "storylineNext": {
-        "slug": "at-nato-summit-in-turkey-trump-says-he-believes-ceasefire-with-iran-is-over",
-        "title": "Trump says Iran ceasefire is over as attacks put diplomacy at risk",
-        "url": "/briefs/at-nato-summit-in-turkey-trump-says-he-believes-ceasefire-with-iran-is-over/"
-      },
-      "storylineTitle": "The War and Security Order",
-      "summary": "Trump says the Iran ceasefire is over; oil prices rose, stocks fell, and markets began pricing Strait of Hormuz risk into inflation and Federal Reserve rate expectations.",
-      "title": "Iran Tensions Raise Fed Rate Risk",
-      "verificationNote": "Checked against live reporting"
-    },
-    {
-      "category": "U.S. & Politics",
-      "contentType": "brief",
-      "generatedAt": "2026-07-08T15:24:44.425Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What happened",
-            "panel": 1
-          },
-          {
-            "label": "Why it matters",
-            "panel": 5
-          },
-          {
-            "label": "What to watch",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/sanders-warren-drop-endorsements-of-maine-s-graham-platner.webp",
-      "claims": [
-        {
-          "claim": "Warren and Sanders say Maine Democrats face a July 13 ballot deadline after they withdrew support from Platner.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "A new nonconsensual sexual conduct allegation triggered the calls; Platner denies the allegation.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Former allies are speaking up as the party weighs whether its nominee can stay in the race.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "If Platner steps aside by July 13, Maine Democrats can try to replace him on ballots.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Party officials accuse Platner’s team of trying to influence who would choose a replacement.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The next choice is exit before the deadline or a Senate race with Platner still nominated.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "Warren and Sanders say Maine Democrats face a July 13 ballot deadline after they withdrew support from Platner.",
-        "A new nonconsensual sexual conduct allegation triggered the calls; Platner denies the allegation.",
-        "Former allies are speaking up as the party weighs whether its nominee can stay in the race.",
-        "If Platner steps aside by July 13, Maine Democrats can try to replace him on ballots.",
-        "Party officials accuse Platner’s team of trying to influence who would choose a replacement.",
-        "The next choice is exit before the deadline or a Senate race with Platner still nominated."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          32.953,
-          48.885
-        ],
-        [
-          34.235,
-          0,
-          32.247,
-          48.885
-        ],
-        [
-          66.722,
-          0,
-          33.278,
-          48.885
-        ],
-        [
-          0,
-          49.748,
-          32.953,
-          50.252
-        ],
-        [
-          34.235,
-          49.748,
-          32.247,
-          50.252
-        ],
-        [
-          66.722,
-          49.748,
-          33.278,
-          50.252
-        ]
-      ],
-      "primaryGuide": null,
-      "readerNext": {
-        "buttonLabel": "Read update",
-        "kind": "latest-development",
-        "label": "Latest development",
-        "slug": "graham-platner-officially-withdraws-from-the-maine-senate-race",
-        "title": "Platner withdrawal opens July 27 Maine Senate race replacement deadline",
-        "url": "/live/?slug=graham-platner-officially-withdraws-from-the-maine-senate-race"
-      },
-      "relatedBriefSlugs": [
-        "democrats-have-abandoned-graham-platner"
-      ],
-      "shortTitle": "Sanders, Warren Call for Platner to Quit Before Maine Ballot Deadline",
-      "slug": "sanders-warren-drop-endorsements-of-maine-s-graham-platner",
-      "sourceCount": 6,
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/live/2026/jul/08/graham-platner-democrats-senate-bernie-sanders-maine-donald-trump-us-politics-live"
-        },
-        {
-          "name": "CBS News Politics",
-          "url": "https://www.cbsnews.com/video/breaking-down-graham-platner-allegations-pressure-democrats"
-        },
-        {
-          "name": "NBC News",
-          "url": "https://www.today.com/video/top-democrats-call-on-graham-platner-to-quit-maine-senate-race-266358341729"
-        },
-        {
-          "name": "NBC News Politics",
-          "url": "https://www.nbcnews.com/nightly-news/video/platner-faces-growing-calls-to-drop-out-after-rape-allegation-266333765969"
-        },
-        {
-          "name": "Politico",
-          "url": "https://www.politico.com/news/2026/07/07/maine-voters-graham-platner-biden-harris-fears-00989673"
-        },
-        {
-          "name": "The New York Times U.S.",
-          "url": "https://www.nytimes.com/2026/07/07/us/politics/graham-platner-maine-senate-democrats.html"
-        }
-      ],
-      "storylineKey": "governing-crisis",
-      "storylineNext": {
-        "slug": "judge-blocks-doj-bid-for-fulton-election-worker-data",
-        "title": "Court Ruling Blocks DOJ Data Subpoena for Election Workers",
-        "url": "/briefs/judge-blocks-doj-bid-for-fulton-election-worker-data/"
-      },
-      "storylineTitle": "U.S. Elections",
-      "summary": "Sen. Bernie Sanders and Sen. Elizabeth Warren called for Maine Democratic Senate nominee Graham Platner to step aside after a new nonconsensual sexual conduct allegation, which Platner denies. July 13 is reported as the deadline for Maine Democrats to replace him on the ballot.",
-      "title": "Sanders, Warren Call for Platner to Quit Before Maine Ballot Deadline",
-      "verificationNote": "Cross-checked across 6 sources"
     }
   ],
   "dailyPaper": {
@@ -8602,30 +8584,9 @@
   },
   "feeds": {
     "categories": {
-      "Sports & Culture": [
-        "world-cup-favorites-france-unravel-as-spain-book-s"
-      ],
-      "Guide": [
-        "how-buy-now-pay-later-loans-work",
-        "how-us-senate-vacancies-are-filled",
-        "how-ev-battery-recycling-works",
-        "how-national-bank-charters-work",
-        "what-the-election-assistance-commission-does",
-        "how-bills-become-law-without-a-signature",
-        "how-the-digital-services-act-works",
-        "how-mortgage-rates-move",
-        "how-federal-race-and-ethnicity-data-works"
-      ],
-      "World": [
-        "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
-        "inflation-slowed-during-pause-in-war-with-iran",
-        "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
-        "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
-        "trump-says-iran-ceasefire-is-over",
-        "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the",
-        "one-of-spain-s-deadliest-wildfires-kills-at-least-12-people-with-23-others-missi"
-      ],
       "U.S. & Politics": [
+        "trump-s-intelligence-nominee-refuses-to-say-who-won-2020-election",
+        "trump-endorses-pillow-man-mike-lindell-for-minnesota-governor",
         "house-votes-for-permanent-daylight-saving-time",
         "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
         "justice-kagan-calls-for-additional-supreme-court-security-funding",
@@ -8648,9 +8609,30 @@
         "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
         "new-attacks-raise-questions-about-what-comes-next-in-the-iran-war",
         "trump-hails-unity-at-nato-summit-despite-recent-tensions",
-        "judge-orders-release-of-the-5-8-million-payment-that-trump-owed-e-jean-carroll",
-        "tensions-with-iran-add-fresh-uncertainty-to-an-already-shaky-global-economy",
-        "sanders-warren-drop-endorsements-of-maine-s-graham-platner"
+        "judge-orders-release-of-the-5-8-million-payment-that-trump-owed-e-jean-carroll"
+      ],
+      "Sports & Culture": [
+        "world-cup-favorites-france-unravel-as-spain-book-s"
+      ],
+      "Guide": [
+        "how-buy-now-pay-later-loans-work",
+        "how-us-senate-vacancies-are-filled",
+        "how-ev-battery-recycling-works",
+        "how-national-bank-charters-work",
+        "what-the-election-assistance-commission-does",
+        "how-bills-become-law-without-a-signature",
+        "how-the-digital-services-act-works",
+        "how-mortgage-rates-move",
+        "how-federal-race-and-ethnicity-data-works"
+      ],
+      "World": [
+        "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
+        "inflation-slowed-during-pause-in-war-with-iran",
+        "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
+        "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
+        "trump-says-iran-ceasefire-is-over",
+        "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the",
+        "one-of-spain-s-deadliest-wildfires-kills-at-least-12-people-with-23-others-missi"
       ],
       "Tech & Science": [
         "the-politics-of-new-york-s-data-center-construction-pause",
@@ -8675,6 +8657,20 @@
       "how-federal-race-and-ethnicity-data-works"
     ],
     "storylines": {
+      "governing-crisis": [
+        "trump-endorses-pillow-man-mike-lindell-for-minnesota-governor",
+        "how-us-senate-vacancies-are-filled",
+        "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa",
+        "grahams-death-opens-senate-seat-as-gop-guards-slim-majority",
+        "graham-platner-officially-withdraws-from-the-maine-senate-race",
+        "what-the-election-assistance-commission-does",
+        "maine-democrats-announce-july-25-convention-to-pick-platner-replacement",
+        "trump-leaves-election-assistance-commission-without-members",
+        "trump-lets-housing-bill-become-law-without-signing",
+        "how-federal-race-and-ethnicity-data-works",
+        "latino-trump-voters-are-less-likely-than-harris-voters-to-say-being-latino-is-ce",
+        "maine-democrats-vote-to-replace-platner-before-july-13-senate-deadline"
+      ],
       "war-security-order": [
         "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
         "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
@@ -8687,28 +8683,13 @@
         "us-and-iran-exchange-back-and-forth-strikes-for-second-day",
         "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
         "new-attacks-raise-questions-about-what-comes-next-in-the-iran-war",
-        "trump-hails-unity-at-nato-summit-despite-recent-tensions",
-        "tensions-with-iran-add-fresh-uncertainty-to-an-already-shaky-global-economy"
+        "trump-hails-unity-at-nato-summit-despite-recent-tensions"
       ],
       "ai-buildout": [
         "the-politics-of-new-york-s-data-center-construction-pause",
         "apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secr",
         "chatgpt-56-security-gate",
         "how-to-prevent-meta-from-using-your-instagram-images-in-a-i"
-      ],
-      "governing-crisis": [
-        "how-us-senate-vacancies-are-filled",
-        "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa",
-        "grahams-death-opens-senate-seat-as-gop-guards-slim-majority",
-        "graham-platner-officially-withdraws-from-the-maine-senate-race",
-        "what-the-election-assistance-commission-does",
-        "maine-democrats-announce-july-25-convention-to-pick-platner-replacement",
-        "trump-leaves-election-assistance-commission-without-members",
-        "trump-lets-housing-bill-become-law-without-signing",
-        "how-federal-race-and-ethnicity-data-works",
-        "latino-trump-voters-are-less-likely-than-harris-voters-to-say-being-latino-is-ce",
-        "maine-democrats-vote-to-replace-platner-before-july-13-senate-deadline",
-        "sanders-warren-drop-endorsements-of-maine-s-graham-platner"
       ],
       "new-energy-system": [
         "how-ev-battery-recycling-works"
