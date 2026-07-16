@@ -1,7 +1,7 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-16T14:57:01.958Z",
-  "rolling24HourCount": 4,
+  "updatedAt": "2026-07-16T15:20:49.769Z",
+  "rolling24HourCount": 3,
   "comics": [
     {
       "category": "Money",
@@ -314,173 +314,6 @@
       "summary": "Pay-transparency laws turn a job opening into a disclosed pay range, worker access to comparison information, enforcement pathways, and a public record that can expose unequal pay.",
       "title": "How Pay Transparency Laws Work",
       "verificationNote": "Cross-checked across 2 sources"
-    },
-    {
-      "category": "U.S. & Politics",
-      "contentType": "brief",
-      "generatedAt": "2026-07-15T23:22:30.112Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What happened",
-            "panel": 1
-          },
-          {
-            "label": "Why it matters",
-            "panel": 5
-          },
-          {
-            "label": "What to watch",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/trump-endorses-pillow-man-mike-lindell-for-minnesota-governor.webp",
-      "claims": [
-        {
-          "claim": "President Trump puts his endorsement behind MyPillow founder Mike Lindell in Minnesota’s governor election, where voters will choose state government leadership.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Trump’s backing arrived one day before a planned national address focused on election security.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Lindell built his national profile through MyPillow advertising and has been a prominent Trump supporter.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Since 2020, Lindell has made challenges to that election’s outcome a central part of his political profile.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The endorsement gives Minnesota voters a clearer signal of Trump’s preferred candidate in the race.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Minnesota voters will decide whether national backing translates into a winning statewide coalition.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "President Trump puts his endorsement behind MyPillow founder Mike Lindell in Minnesota’s governor election, where voters will choose state government leadership.",
-        "Trump’s backing arrived one day before a planned national address focused on election security.",
-        "Lindell built his national profile through MyPillow advertising and has been a prominent Trump supporter.",
-        "Since 2020, Lindell has made challenges to that election’s outcome a central part of his political profile.",
-        "The endorsement gives Minnesota voters a clearer signal of Trump’s preferred candidate in the race.",
-        "Minnesota voters will decide whether national backing translates into a winning statewide coalition."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          33.213,
-          46.834
-        ],
-        [
-          33.453,
-          0,
-          32.898,
-          46.834
-        ],
-        [
-          66.591,
-          0,
-          33.409,
-          46.834
-        ],
-        [
-          0,
-          49.65,
-          33.213,
-          50.35
-        ],
-        [
-          33.453,
-          49.65,
-          32.898,
-          50.35
-        ],
-        [
-          66.591,
-          49.65,
-          33.409,
-          50.35
-        ]
-      ],
-      "primaryGuide": null,
-      "readerNext": {
-        "buttonLabel": "Storyline",
-        "kind": "storyline",
-        "label": "Storyline",
-        "slug": "governing-crisis",
-        "title": "U.S. Elections",
-        "url": "/storylines/governing-crisis/"
-      },
-      "relatedBriefSlugs": [],
-      "shortTitle": "Trump Backs Lindell in Minnesota Race",
-      "slug": "trump-endorses-pillow-man-mike-lindell-for-minnesota-governor",
-      "sourceCount": 3,
-      "sources": [
-        {
-          "name": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/politics/trump-endorses-pillow-man-mike-lindell-for-minnesota-governor"
-        },
-        {
-          "name": "ABC News Top Stories",
-          "url": "https://abcnews.com/Politics/wireStory/donald-trump-endorses-pillow-man-mike-lindell-minnesota-134776809"
-        },
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/15/us/trump-mike-lindell-endorsement-minnesota.html"
-        }
-      ],
-      "storylineKey": "governing-crisis",
-      "storylineNext": {
-        "slug": "how-us-senate-vacancies-are-filled",
-        "title": "Filling a Senate Vacancy",
-        "url": "/live/?slug=how-us-senate-vacancies-are-filled"
-      },
-      "storylineTitle": "U.S. Elections",
-      "summary": "Trump formally endorsed MyPillow founder Mike Lindell for Minnesota governor one day before a national address Trump said would focus on election security. Lindell has made challenges to the 2020 election result a central part of his political profile.",
-      "title": "Trump Backs Mike Lindell in Minnesota Governor Race",
-      "verificationNote": "Cross-checked across 3 sources"
     },
     {
       "category": "Sports & Culture",
@@ -8510,6 +8343,171 @@
       "summary": "President Trump praised unity at the NATO summit in Turkey while Iran, Greenland and defense-spending disputes kept alliance strains visible.",
       "title": "Trump says NATO unity faces Iran, Greenland and defense-spending tests",
       "verificationNote": "Cross-checked across 6 sources"
+    },
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-08T19:23:11.033Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What happened",
+            "panel": 1
+          },
+          {
+            "label": "Why it matters",
+            "panel": 5
+          },
+          {
+            "label": "Where it stands",
+            "panel": 6
+          }
+        ]
+      },
+      "imagePath": "/live/media/judge-orders-release-of-the-5-8-million-payment-that-trump-owed-e-jean-carroll.webp",
+      "claims": [
+        {
+          "claim": "Judge Kaplan orders court-held money released to E. Jean Carroll after Trump’s Supreme Court appeal was denied.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The $5.8 million account holds a 2023 jury award plus interest from the civil verdict.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Jurors found Trump liable for sexual abuse and defamation; he denies wrongdoing and keeps contesting the case.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The Supreme Court declined review on June 29, clearing the escrow account for release.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Trump’s lawyers sought more delay while asking the justices to reconsider, keeping payment timing contested.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The remaining steps are transfer timing, the rehearing request, and Trump’s new notice of appeal.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Judge Kaplan orders court-held money released to E. Jean Carroll after Trump’s Supreme Court appeal was denied.",
+        "The $5.8 million account holds a 2023 jury award plus interest from the civil verdict.",
+        "Jurors found Trump liable for sexual abuse and defamation; he denies wrongdoing and keeps contesting the case.",
+        "The Supreme Court declined review on June 29, clearing the escrow account for release.",
+        "Trump’s lawyers sought more delay while asking the justices to reconsider, keeping payment timing contested.",
+        "The remaining steps are transfer timing, the rehearing request, and Trump’s new notice of appeal."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.213,
+          50.35
+        ],
+        [
+          33.453,
+          0,
+          32.312,
+          50.35
+        ],
+        [
+          66.787,
+          0,
+          33.213,
+          50.35
+        ],
+        [
+          0,
+          51.31,
+          33.213,
+          48.69
+        ],
+        [
+          33.453,
+          51.31,
+          32.312,
+          48.69
+        ],
+        [
+          66.787,
+          51.31,
+          33.213,
+          48.69
+        ]
+      ],
+      "primaryGuide": null,
+      "relatedBriefSlugs": [],
+      "shortTitle": "Judge orders Trump escrow released",
+      "slug": "judge-orders-release-of-the-5-8-million-payment-that-trump-owed-e-jean-carroll",
+      "sourceCount": 4,
+      "sources": [
+        {
+          "name": "The Guardian US",
+          "url": "https://www.theguardian.com/us-news/2026/jul/08/trump-e-jean-carroll-settlement"
+        },
+        {
+          "name": "CBS News Latest",
+          "url": "https://www.cbsnews.com/news/trump-seeking-delay-payment-e-jean-carroll-asks-supreme-court-to-reconsider"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/politics/donald-trump/judge-orders-release-58-million-payment-trump-owed-e-jean-carroll-rcna353512"
+        },
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/08/us/politics/trump-e-jean-carroll-5-million-payment.html"
+        }
+      ],
+      "storylineKey": "",
+      "storylineNext": null,
+      "storylineTitle": "",
+      "summary": "A Manhattan federal judge ordered court-held funds released to E. Jean Carroll after the Supreme Court declined to hear Donald Trump’s appeal of her civil sexual abuse and defamation verdict.",
+      "title": "Judge orders $5.8 million in Trump escrow released to E. Jean Carroll",
+      "verificationNote": "Cross-checked across 4 sources"
     }
   ],
   "dailyPaper": {
@@ -8585,8 +8583,19 @@
         "how-mortgage-rates-move",
         "how-federal-race-and-ethnicity-data-works"
       ],
+      "Sports & Culture": [
+        "world-cup-favorites-france-unravel-as-spain-book-s"
+      ],
+      "World": [
+        "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
+        "inflation-slowed-during-pause-in-war-with-iran",
+        "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
+        "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
+        "trump-says-iran-ceasefire-is-over",
+        "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the",
+        "one-of-spain-s-deadliest-wildfires-kills-at-least-12-people-with-23-others-missi"
+      ],
       "U.S. & Politics": [
-        "trump-endorses-pillow-man-mike-lindell-for-minnesota-governor",
         "house-votes-for-permanent-daylight-saving-time",
         "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
         "justice-kagan-calls-for-additional-supreme-court-security-funding",
@@ -8608,19 +8617,8 @@
         "maine-democrats-vote-to-replace-platner-before-july-13-senate-deadline",
         "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
         "new-attacks-raise-questions-about-what-comes-next-in-the-iran-war",
-        "trump-hails-unity-at-nato-summit-despite-recent-tensions"
-      ],
-      "Sports & Culture": [
-        "world-cup-favorites-france-unravel-as-spain-book-s"
-      ],
-      "World": [
-        "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
-        "inflation-slowed-during-pause-in-war-with-iran",
-        "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
-        "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
-        "trump-says-iran-ceasefire-is-over",
-        "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the",
-        "one-of-spain-s-deadliest-wildfires-kills-at-least-12-people-with-23-others-missi"
+        "trump-hails-unity-at-nato-summit-despite-recent-tensions",
+        "judge-orders-release-of-the-5-8-million-payment-that-trump-owed-e-jean-carroll"
       ],
       "Tech & Science": [
         "the-politics-of-new-york-s-data-center-construction-pause",
@@ -8640,20 +8638,6 @@
       "how-federal-race-and-ethnicity-data-works"
     ],
     "storylines": {
-      "governing-crisis": [
-        "trump-endorses-pillow-man-mike-lindell-for-minnesota-governor",
-        "how-us-senate-vacancies-are-filled",
-        "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa",
-        "grahams-death-opens-senate-seat-as-gop-guards-slim-majority",
-        "graham-platner-officially-withdraws-from-the-maine-senate-race",
-        "what-the-election-assistance-commission-does",
-        "maine-democrats-announce-july-25-convention-to-pick-platner-replacement",
-        "trump-leaves-election-assistance-commission-without-members",
-        "trump-lets-housing-bill-become-law-without-signing",
-        "how-federal-race-and-ethnicity-data-works",
-        "latino-trump-voters-are-less-likely-than-harris-voters-to-say-being-latino-is-ce",
-        "maine-democrats-vote-to-replace-platner-before-july-13-senate-deadline"
-      ],
       "war-security-order": [
         "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
         "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
@@ -8673,6 +8657,19 @@
         "apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secr",
         "chatgpt-56-security-gate",
         "how-to-prevent-meta-from-using-your-instagram-images-in-a-i"
+      ],
+      "governing-crisis": [
+        "how-us-senate-vacancies-are-filled",
+        "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa",
+        "grahams-death-opens-senate-seat-as-gop-guards-slim-majority",
+        "graham-platner-officially-withdraws-from-the-maine-senate-race",
+        "what-the-election-assistance-commission-does",
+        "maine-democrats-announce-july-25-convention-to-pick-platner-replacement",
+        "trump-leaves-election-assistance-commission-without-members",
+        "trump-lets-housing-bill-become-law-without-signing",
+        "how-federal-race-and-ethnicity-data-works",
+        "latino-trump-voters-are-less-likely-than-harris-voters-to-say-being-latino-is-ce",
+        "maine-democrats-vote-to-replace-platner-before-july-13-senate-deadline"
       ],
       "new-energy-system": [
         "how-ev-battery-recycling-works"
