@@ -1,8 +1,179 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-16T05:20:20.721Z",
-  "rolling24HourCount": 6,
+  "updatedAt": "2026-07-16T08:39:46.997Z",
+  "rolling24HourCount": 7,
   "comics": [
+    {
+      "category": "Money",
+      "contentType": "brief",
+      "generatedAt": "2026-07-16T08:38:56.619Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What happened",
+            "panel": 1
+          },
+          {
+            "label": "Why it matters",
+            "panel": 5
+          },
+          {
+            "label": "What to watch",
+            "panel": 6
+          }
+        ]
+      },
+      "imagePath": "/live/media/us-imposing-25-tariff-on-some-brazilian-imports-citing-unfair-trade-practices.webp",
+      "claims": [
+        {
+          "claim": "The Trump administration orders a 25% tariff on Brazilian imports July 22, a federal trade policy that raises costs.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The order exempts coffee, beef, oranges, orange juice, some energy products, and aerospace parts to limit supply disruptions.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "A yearlong U.S. Trade Representative investigation cited Brazilian anti-corruption enforcement and tariff practices as unfair.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Brazil is the world's 10th-biggest economy, yet the United States has held a goods-trade surplus with it for years.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Importers must separate exempt goods from tariffed shipments as containers move through ports, warehouses, and final contracts.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "On July 22, the new rate begins and buyers must decide which higher import costs they can absorb.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "The Trump administration orders a 25% tariff on Brazilian imports July 22, a federal trade policy that raises costs.",
+        "The order exempts coffee, beef, oranges, orange juice, some energy products, and aerospace parts to limit supply disruptions.",
+        "A yearlong U.S. Trade Representative investigation cited Brazilian anti-corruption enforcement and tariff practices as unfair.",
+        "Brazil is the world's 10th-biggest economy, yet the United States has held a goods-trade surplus with it for years.",
+        "Importers must separate exempt goods from tariffed shipments as containers move through ports, warehouses, and final contracts.",
+        "On July 22, the new rate begins and buyers must decide which higher import costs they can absorb."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.213,
+          50.35
+        ],
+        [
+          33.453,
+          0,
+          33.093,
+          50.35
+        ],
+        [
+          66.787,
+          0,
+          33.213,
+          50.35
+        ],
+        [
+          0,
+          51.798,
+          33.213,
+          48.202
+        ],
+        [
+          33.453,
+          51.798,
+          33.093,
+          48.202
+        ],
+        [
+          66.787,
+          51.798,
+          33.213,
+          48.202
+        ]
+      ],
+      "primaryGuide": {
+        "slug": "how-tariffs-work",
+        "title": "How Tariffs Work",
+        "url": "/briefs/how-tariffs-work/"
+      },
+      "readerNext": {
+        "buttonLabel": "Guide",
+        "kind": "background-guide",
+        "label": "Background guide",
+        "slug": "how-tariffs-work",
+        "title": "How Tariffs Work",
+        "url": "/briefs/how-tariffs-work/"
+      },
+      "relatedBriefSlugs": [],
+      "shortTitle": "Trump Administration Sets 25% Brazil Tariff",
+      "slug": "us-imposing-25-tariff-on-some-brazilian-imports-citing-unfair-trade-practices",
+      "sourceCount": 3,
+      "sources": [
+        {
+          "name": "ABC News U.S.",
+          "url": "https://abcnews.com/US/wireStory/us-imposing-25-tariff-brazilian-imports-starting-july-134805695"
+        },
+        {
+          "name": "CBS News Latest",
+          "url": "https://www.cbsnews.com/news/us-to-impose-25-percent-tariffs-on-brazil"
+        },
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/15/business/economy/trump-brazil-tariffs.html"
+        }
+      ],
+      "storylineKey": "new-energy-system",
+      "storylineNext": {
+        "slug": "how-ev-battery-recycling-works",
+        "title": "EV Battery Recycling, Explained",
+        "url": "/live/?slug=how-ev-battery-recycling-works"
+      },
+      "storylineTitle": "The New Energy System",
+      "summary": "The United States is imposing 25% tariffs on imports from Brazil after finding a range of what it deemed unfair trade practices by the world&rsquo;s 10th-biggest economy",
+      "title": "Trump Administration Sets 25% Tariff",
+      "verificationNote": "Cross-checked across 3 sources"
+    },
     {
       "category": "Guide",
       "contentType": "guide",
@@ -8313,215 +8484,12 @@
       "storylineNext": {
         "slug": "trump-hails-unity-at-nato-summit-despite-recent-tensions",
         "title": "Trump says NATO unity faces tests",
-        "url": "/live/?slug=trump-hails-unity-at-nato-summit-despite-recent-tensions"
+        "url": "/briefs/trump-hails-unity-at-nato-summit-despite-recent-tensions/"
       },
       "storylineTitle": "The War and Security Order",
       "summary": "President Donald Trump says the Iran ceasefire is over after new fighting around the Strait of Hormuz, raising risks for shipping, oil prices, and diplomacy.",
       "title": "Trump Says Iran Truce Is Over as Hormuz Strikes Threaten Oil Routes",
       "verificationNote": "Cross-checked across 4 sources"
-    },
-    {
-      "category": "U.S. & Politics",
-      "contentType": "brief",
-      "generatedAt": "2026-07-08T21:17:44.171Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What happened",
-            "panel": 1
-          },
-          {
-            "label": "Why it matters",
-            "panel": 5
-          },
-          {
-            "label": "What to watch",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/trump-hails-unity-at-nato-summit-despite-recent-tensions.webp",
-      "claims": [
-        {
-          "claim": "Trump says NATO summit showed unity as Iran strikes, Greenland comments and defense demands keep allied security frictions visible.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "At the Turkey summit, allies heard warm praise after months of U.S. complaints that NATO does too little.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Iran questions followed recent U.S. strikes, with several allies described as staying on the sidelines.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Greenland returned to the agenda, turning a territorial demand into another alliance map problem.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Defense-spending projects worth billions became the alliance's proof point as leaders tried to show firepower.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Next, allies have to turn summit warmth into decisions on Iran, Greenland talk and defense spending.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "Trump says NATO summit showed unity as Iran strikes, Greenland comments and defense demands keep allied security frictions visible.",
-        "At the Turkey summit, allies heard warm praise after months of U.S. complaints that NATO does too little.",
-        "Iran questions followed recent U.S. strikes, with several allies described as staying on the sidelines.",
-        "Greenland returned to the agenda, turning a territorial demand into another alliance map problem.",
-        "Defense-spending projects worth billions became the alliance's proof point as leaders tried to show firepower.",
-        "Next, allies have to turn summit warmth into decisions on Iran, Greenland talk and defense spending."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          32.953,
-          49.959
-        ],
-        [
-          33.779,
-          0,
-          32.312,
-          49.959
-        ],
-        [
-          66.917,
-          0,
-          33.083,
-          49.959
-        ],
-        [
-          0,
-          50.138,
-          32.953,
-          49.862
-        ],
-        [
-          33.779,
-          50.138,
-          32.312,
-          49.862
-        ],
-        [
-          66.917,
-          50.138,
-          33.083,
-          49.862
-        ]
-      ],
-      "primaryGuide": {
-        "slug": "what-nato-does",
-        "title": "What NATO Does",
-        "url": "/briefs/what-nato-does/"
-      },
-      "readerNext": {
-        "buttonLabel": "Earlier brief",
-        "kind": "earlier-brief",
-        "label": "Earlier in this story",
-        "slug": "trump-talks-ukraine-russia-and-f-35-jets-sale-in-meeting-with-turkey-s-erdo-an",
-        "title": "Trump weighs Turkey F-35 sale",
-        "url": "/briefs/trump-talks-ukraine-russia-and-f-35-jets-sale-in-meeting-with-turkey-s-erdo-an/"
-      },
-      "relatedBriefSlugs": [
-        "trump-talks-ukraine-russia-and-f-35-jets-sale-in-meeting-with-turkey-s-erdo-an"
-      ],
-      "shortTitle": "Trump says NATO unity faces tests",
-      "slug": "trump-hails-unity-at-nato-summit-despite-recent-tensions",
-      "sourceCount": 6,
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/videos/cn75n0lyzedo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/world/watch-live-trump-holds-news-conference-at-nato-summit-in-turkey"
-        },
-        {
-          "name": "CBS News Latest",
-          "url": "https://www.cbsnews.com/news/trump-nato-leaders-news-conference-iran-strikes"
-        },
-        {
-          "name": "NBC News Politics",
-          "url": "https://www.nbcnews.com/now/video/trump-faces-questions-on-conflict-with-iran-during-nato-summit-press-conference-266378309632"
-        },
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/americas/20260708-trump-says-he-will-allow-ukraine-to-make-its-own-patriot-missiles"
-        },
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/08/world/europe/nato-trump-europe.html"
-        }
-      ],
-      "storylineKey": "war-security-order",
-      "storylineNext": {
-        "slug": "tensions-with-iran-add-fresh-uncertainty-to-an-already-shaky-global-economy",
-        "title": "Iran Tensions Hit Oil and Rates",
-        "url": "/briefs/tensions-with-iran-add-fresh-uncertainty-to-an-already-shaky-global-economy/"
-      },
-      "storylineTitle": "The War and Security Order",
-      "summary": "President Trump praised unity at the NATO summit in Turkey while Iran, Greenland and defense-spending disputes kept alliance strains visible.",
-      "title": "Trump says NATO unity faces Iran, Greenland and defense-spending tests",
-      "verificationNote": "Cross-checked across 6 sources"
     }
   ],
   "dailyPaper": {
@@ -8579,6 +8547,13 @@
   },
   "feeds": {
     "categories": {
+      "Money": [
+        "us-imposing-25-tariff-on-some-brazilian-imports-citing-unfair-trade-practices",
+        "paramount-and-warner-bros-sued-to-block-110bn-mega-merger",
+        "easyjet-agrees-to-apollo-7-7b-bid-sidelining-castlelake-offer",
+        "what-to-know-about-u-s-oil-production-and-consumption-in-6-charts",
+        "fed-minutes-officials-deeply-divided-over-future-path-of-us-inflation"
+      ],
       "Guide": [
         "how-pay-transparency-laws-work",
         "how-buy-now-pay-later-loans-work",
@@ -8614,8 +8589,7 @@
         "latino-trump-voters-are-less-likely-than-harris-voters-to-say-being-latino-is-ce",
         "maine-democrats-vote-to-replace-platner-before-july-13-senate-deadline",
         "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
-        "new-attacks-raise-questions-about-what-comes-next-in-the-iran-war",
-        "trump-hails-unity-at-nato-summit-despite-recent-tensions"
+        "new-attacks-raise-questions-about-what-comes-next-in-the-iran-war"
       ],
       "Sports & Culture": [
         "world-cup-favorites-france-unravel-as-spain-book-s"
@@ -8632,12 +8606,6 @@
       "Tech & Science": [
         "the-politics-of-new-york-s-data-center-construction-pause",
         "how-to-prevent-meta-from-using-your-instagram-images-in-a-i"
-      ],
-      "Money": [
-        "paramount-and-warner-bros-sued-to-block-110bn-mega-merger",
-        "easyjet-agrees-to-apollo-7-7b-bid-sidelining-castlelake-offer",
-        "what-to-know-about-u-s-oil-production-and-consumption-in-6-charts",
-        "fed-minutes-officials-deeply-divided-over-future-path-of-us-inflation"
       ]
     },
     "guides": [
@@ -8653,6 +8621,10 @@
       "how-federal-race-and-ethnicity-data-works"
     ],
     "storylines": {
+      "new-energy-system": [
+        "us-imposing-25-tariff-on-some-brazilian-imports-citing-unfair-trade-practices",
+        "how-ev-battery-recycling-works"
+      ],
       "governing-crisis": [
         "trump-s-intelligence-nominee-refuses-to-say-who-won-2020-election",
         "trump-endorses-pillow-man-mike-lindell-for-minnesota-governor",
@@ -8679,17 +8651,13 @@
         "trump-returns-from-turkey-in-old-air-force-one-jet-due-to-security-concerns",
         "us-and-iran-exchange-back-and-forth-strikes-for-second-day",
         "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
-        "new-attacks-raise-questions-about-what-comes-next-in-the-iran-war",
-        "trump-hails-unity-at-nato-summit-despite-recent-tensions"
+        "new-attacks-raise-questions-about-what-comes-next-in-the-iran-war"
       ],
       "ai-buildout": [
         "the-politics-of-new-york-s-data-center-construction-pause",
         "apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secr",
         "chatgpt-56-security-gate",
         "how-to-prevent-meta-from-using-your-instagram-images-in-a-i"
-      ],
-      "new-energy-system": [
-        "how-ev-battery-recycling-works"
       ]
     }
   }
