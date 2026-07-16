@@ -1,6 +1,6 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-16T04:31:18.314Z",
+  "updatedAt": "2026-07-16T05:20:20.721Z",
   "rolling24HourCount": 6,
   "comics": [
     {
@@ -8528,53 +8528,54 @@
     "briefs": [
       {
         "category": "U.S. & Politics",
-        "shortTitle": "Trump Changes Hormuz Toll Plan, With Tankers Stalled",
-        "slug": "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
-        "summary": "President Trump reversed a planned 20% toll on cargo ships using the Strait of Hormuz as tanker traffic slowed amid U.S.-Iran fighting. The shift leaves shipping companies and officials watching whether transit through the waterway resumes safely.",
-        "title": "Trump Changes Hormuz Toll Plan, With Tankers Stalled"
+        "shortTitle": "Jay Clayton declines to name 2020 winner",
+        "slug": "trump-s-intelligence-nominee-refuses-to-say-who-won-2020-election",
+        "summary": "DNI nominee Jay Clayton declined to identify the winner of the 2020 presidential election during his Senate Intelligence Committee confirmation hearing.",
+        "title": "DNI Nominee Declines to Name 2020 Winner"
       },
       {
         "category": "U.S. & Politics",
-        "shortTitle": "House Votes for Permanent Daylight Saving",
-        "slug": "house-votes-for-permanent-daylight-saving-time",
-        "summary": "House Republicans and Democrats united in favor of a bill to eliminate semiannual clock-changing, but it faces an uncertain fate in the Senate.",
-        "title": "House Votes for Permanent Daylight Saving Time"
+        "shortTitle": "Trump Backs Lindell in Minnesota Race",
+        "slug": "trump-endorses-pillow-man-mike-lindell-for-minnesota-governor",
+        "summary": "Trump formally endorsed MyPillow founder Mike Lindell for Minnesota governor one day before a national address Trump said would focus on election security. Lindell has made challenges to the 2020 election result a central part of his political profile.",
+        "title": "Trump Backs Mike Lindell in Minnesota Governor Race"
       },
       {
-        "category": "U.S. & Politics",
-        "shortTitle": "Kagan Seeks $14.6M for Court Security",
-        "slug": "justice-kagan-calls-for-additional-supreme-court-security-funding",
-        "summary": "Supreme Court Justice Elena Kagan delivered her opening statement at a hearing over the court's budget, which includes an increase in security funding as the justices have faced growing threats in recent years.",
-        "title": "Kagan Seeks $14.6M to Bolster Court Security"
-      },
-      {
-        "category": "Tech & Science",
-        "shortTitle": "Hochul Pauses AI Data Center Permits",
-        "slug": "the-politics-of-new-york-s-data-center-construction-pause",
-        "summary": "Gov. Kathy Hochul paused permits for new hyperscale AI data centers for up to a year while New York sets rules on power, water and ratepayer impacts.",
-        "title": "Hochul Pauses New AI Data Center Permits Over Grid Costs"
+        "category": "Sports & Culture",
+        "shortTitle": "Spain Beats France 2-0",
+        "slug": "world-cup-favorites-france-unravel-as-spain-book-s",
+        "summary": "Spain defeated France 2-0 in Arlington, Texas, to reach Sunday’s 2026 World Cup final.",
+        "title": "Spain Beats France 2-0 to Reach the World Cup Final"
       },
       {
         "category": "World",
-        "shortTitle": "U.S. Energy Price Drop Pulled CPI Inflation to 3.5%",
-        "slug": "inflation-slowed-during-pause-in-war-with-iran",
-        "summary": "The Consumer Price Index fell to a 3.5 percent annual increase in June, and prices marked their biggest drop from a month earlier since 2020.",
-        "title": "U.S. Energy Price Drop Pulled CPI Inflation to 3.5%"
+        "shortTitle": "Iran Closes Hormuz",
+        "slug": "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
+        "summary": "Iran says it has closed the Strait of Hormuz after the United States reimposed a blockade, threatening a major route for Middle East oil and gas exports.",
+        "title": "Iran Closes Hormuz, Disrupting Gulf Oil Routes"
+      },
+      {
+        "category": "Guide",
+        "shortTitle": "Pay-Transparency Laws Turn a Job",
+        "slug": "how-pay-transparency-laws-work",
+        "summary": "Pay-transparency laws turn a job opening into a disclosed pay range, worker access to comparison information, enforcement pathways, and a public record that can expose unequal pay.",
+        "title": "How Pay Transparency Laws Work"
       }
     ],
     "categories": [
       "U.S. & Politics",
-      "Tech & Science",
-      "World"
+      "Sports & Culture",
+      "World",
+      "Guide"
     ],
-    "date": "2026-07-14",
-    "imagePath": "/live/papers/2026-07-14.webp",
-    "leadTitle": "Trump Changes Hormuz Toll Plan, With Tankers Stalled",
-    "shortHeadline": "Trump Changes Hormuz Toll Plan, With Tankers Stalled leads the daily briefing.",
-    "sourceTotal": 30,
-    "summary": "Trump Changes Hormuz Toll Plan, With Tankers Stalled leads a 5-brief front page across 3 sections.",
+    "date": "2026-07-15",
+    "imagePath": "/live/papers/2026-07-15.webp",
+    "leadTitle": "DNI Nominee Declines to Name 2020 Winner",
+    "shortHeadline": "DNI Nominee Declines to Name 2020 Winner leads the daily briefing.",
+    "sourceTotal": 19,
+    "summary": "DNI Nominee Declines to Name 2020 Winner leads a 5-brief front page across 4 sections.",
     "topStripCount": 5,
-    "updatedAt": "2026-07-15T03:59:23.419Z"
+    "updatedAt": "2026-07-16T05:20:20.716Z"
   },
   "feeds": {
     "categories": {
