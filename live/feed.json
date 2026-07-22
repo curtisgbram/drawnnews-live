@@ -1,8 +1,187 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-16T18:52:19.292Z",
-  "rolling24HourCount": 3,
+  "updatedAt": "2026-07-22T19:32:44.588Z",
+  "rolling24HourCount": 1,
   "comics": [
+    {
+      "category": "World",
+      "contentType": "brief",
+      "generatedAt": "2026-07-22T19:31:38.550Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What happened",
+            "panel": 1
+          },
+          {
+            "label": "Why it matters",
+            "panel": 4
+          },
+          {
+            "label": "What to watch",
+            "panel": 6
+          }
+        ]
+      },
+      "imagePath": "/live/media/defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing.webp",
+      "claims": [
+        {
+          "claim": "At a Senate hearing, Hegseth put Iran war costs at $37.5 billion and sought $67 billion.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Lawmakers pressed the Pentagon on strategy while U.S. troops and damaged bases remain exposed.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Shipping disruptions around the Strait of Hormuz put energy prices and supply routes in view.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The request would replenish weapons and cover costs the current estimate may omit.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Military construction for damaged U.S. bases could push the bill higher, sources said.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Congress now weighs more war funding while the conflict shapes security and household costs.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "At a Senate hearing, Hegseth put Iran war costs at $37.5 billion and sought $67 billion.",
+        "Lawmakers pressed the Pentagon on strategy while U.S. troops and damaged bases remain exposed.",
+        "Shipping disruptions around the Strait of Hormuz put energy prices and supply routes in view.",
+        "The request would replenish weapons and cover costs the current estimate may omit.",
+        "Military construction for damaged U.S. bases could push the bill higher, sources said.",
+        "Congress now weighs more war funding while the conflict shapes security and household costs."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.213,
+          50.448
+        ],
+        [
+          35.016,
+          0,
+          31.531,
+          50.448
+        ],
+        [
+          66.787,
+          0,
+          33.213,
+          50.448
+        ],
+        [
+          0,
+          51.798,
+          33.213,
+          48.202
+        ],
+        [
+          35.016,
+          51.798,
+          31.531,
+          48.202
+        ],
+        [
+          66.787,
+          51.798,
+          33.213,
+          48.202
+        ]
+      ],
+      "primaryGuide": null,
+      "readerNext": {
+        "buttonLabel": "Earlier brief",
+        "kind": "earlier-brief",
+        "label": "Earlier in this story",
+        "slug": "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
+        "title": "U.S. Strikes Iran After Ship Attack Threatens Hormuz Shipping",
+        "url": "/live/?slug=u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz"
+      },
+      "relatedBriefSlugs": [
+        "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz"
+      ],
+      "shortTitle": "Pentagon seeks $67 billion for Iran war costs",
+      "slug": "defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
+      "sourceCount": 4,
+      "sources": [
+        {
+          "name": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/politics/watch-you-sir-are-the-failure-sen-peters-tells-hegseth-over-lack-of-u-s-strategy-in-iran-war"
+        },
+        {
+          "name": "CBS News Politics",
+          "url": "https://www.cbsnews.com/news/hegseth-caine-senate-hearing-iran"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/the-iran-war-has-cost-the-us-37-5-billion-dollars-says-defense-secretary-pete-hesgseth"
+        },
+        {
+          "name": "The New York Times U.S.",
+          "url": "https://www.nytimes.com/2026/07/21/us/politics/iran-war-cost-estimate.html"
+        }
+      ],
+      "storylineKey": "war-security-order",
+      "storylineNext": {
+        "slug": "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
+        "title": "Iran Closes Hormuz",
+        "url": "/live/?slug=iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade"
+      },
+      "storylineTitle": "The War and Security Order",
+      "summary": "Hegseth told senators the Iran war has cost about $37.5 billion and sought $67 billion more while lawmakers questioned strategy, damaged bases, and shipping risks.",
+      "title": "Pentagon seeks $67 billion as Iran war strains U.S. troops and bases",
+      "verificationNote": "Cross-checked across 4 sources"
+    },
     {
       "category": "Money",
       "contentType": "brief",
@@ -8343,171 +8522,6 @@
       "summary": "President Trump praised unity at the NATO summit in Turkey while Iran, Greenland and defense-spending disputes kept alliance strains visible.",
       "title": "Trump says NATO unity faces Iran, Greenland and defense-spending tests",
       "verificationNote": "Cross-checked across 6 sources"
-    },
-    {
-      "category": "U.S. & Politics",
-      "contentType": "brief",
-      "generatedAt": "2026-07-08T19:23:11.033Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What happened",
-            "panel": 1
-          },
-          {
-            "label": "Why it matters",
-            "panel": 5
-          },
-          {
-            "label": "Where it stands",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/judge-orders-release-of-the-5-8-million-payment-that-trump-owed-e-jean-carroll.webp",
-      "claims": [
-        {
-          "claim": "Judge Kaplan orders court-held money released to E. Jean Carroll after Trump’s Supreme Court appeal was denied.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The $5.8 million account holds a 2023 jury award plus interest from the civil verdict.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Jurors found Trump liable for sexual abuse and defamation; he denies wrongdoing and keeps contesting the case.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The Supreme Court declined review on June 29, clearing the escrow account for release.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Trump’s lawyers sought more delay while asking the justices to reconsider, keeping payment timing contested.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The remaining steps are transfer timing, the rehearing request, and Trump’s new notice of appeal.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "Judge Kaplan orders court-held money released to E. Jean Carroll after Trump’s Supreme Court appeal was denied.",
-        "The $5.8 million account holds a 2023 jury award plus interest from the civil verdict.",
-        "Jurors found Trump liable for sexual abuse and defamation; he denies wrongdoing and keeps contesting the case.",
-        "The Supreme Court declined review on June 29, clearing the escrow account for release.",
-        "Trump’s lawyers sought more delay while asking the justices to reconsider, keeping payment timing contested.",
-        "The remaining steps are transfer timing, the rehearing request, and Trump’s new notice of appeal."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          33.213,
-          50.35
-        ],
-        [
-          33.453,
-          0,
-          32.312,
-          50.35
-        ],
-        [
-          66.787,
-          0,
-          33.213,
-          50.35
-        ],
-        [
-          0,
-          51.31,
-          33.213,
-          48.69
-        ],
-        [
-          33.453,
-          51.31,
-          32.312,
-          48.69
-        ],
-        [
-          66.787,
-          51.31,
-          33.213,
-          48.69
-        ]
-      ],
-      "primaryGuide": null,
-      "relatedBriefSlugs": [],
-      "shortTitle": "Judge orders Trump escrow released",
-      "slug": "judge-orders-release-of-the-5-8-million-payment-that-trump-owed-e-jean-carroll",
-      "sourceCount": 4,
-      "sources": [
-        {
-          "name": "The Guardian US",
-          "url": "https://www.theguardian.com/us-news/2026/jul/08/trump-e-jean-carroll-settlement"
-        },
-        {
-          "name": "CBS News Latest",
-          "url": "https://www.cbsnews.com/news/trump-seeking-delay-payment-e-jean-carroll-asks-supreme-court-to-reconsider"
-        },
-        {
-          "name": "NBC News",
-          "url": "https://www.nbcnews.com/politics/donald-trump/judge-orders-release-58-million-payment-trump-owed-e-jean-carroll-rcna353512"
-        },
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/08/us/politics/trump-e-jean-carroll-5-million-payment.html"
-        }
-      ],
-      "storylineKey": "",
-      "storylineNext": null,
-      "storylineTitle": "",
-      "summary": "A Manhattan federal judge ordered court-held funds released to E. Jean Carroll after the Supreme Court declined to hear Donald Trump’s appeal of her civil sexual abuse and defamation verdict.",
-      "title": "Judge orders $5.8 million in Trump escrow released to E. Jean Carroll",
-      "verificationNote": "Cross-checked across 4 sources"
     }
   ],
   "dailyPaper": {
@@ -8564,6 +8578,16 @@
   },
   "feeds": {
     "categories": {
+      "World": [
+        "defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
+        "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
+        "inflation-slowed-during-pause-in-war-with-iran",
+        "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
+        "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
+        "trump-says-iran-ceasefire-is-over",
+        "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the",
+        "one-of-spain-s-deadliest-wildfires-kills-at-least-12-people-with-23-others-missi"
+      ],
       "Money": [
         "us-imposing-25-tariff-on-some-brazilian-imports-citing-unfair-trade-practices",
         "paramount-and-warner-bros-sued-to-block-110bn-mega-merger",
@@ -8585,15 +8609,6 @@
       ],
       "Sports & Culture": [
         "world-cup-favorites-france-unravel-as-spain-book-s"
-      ],
-      "World": [
-        "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
-        "inflation-slowed-during-pause-in-war-with-iran",
-        "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
-        "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
-        "trump-says-iran-ceasefire-is-over",
-        "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the",
-        "one-of-spain-s-deadliest-wildfires-kills-at-least-12-people-with-23-others-missi"
       ],
       "U.S. & Politics": [
         "house-votes-for-permanent-daylight-saving-time",
@@ -8617,8 +8632,7 @@
         "maine-democrats-vote-to-replace-platner-before-july-13-senate-deadline",
         "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
         "new-attacks-raise-questions-about-what-comes-next-in-the-iran-war",
-        "trump-hails-unity-at-nato-summit-despite-recent-tensions",
-        "judge-orders-release-of-the-5-8-million-payment-that-trump-owed-e-jean-carroll"
+        "trump-hails-unity-at-nato-summit-despite-recent-tensions"
       ],
       "Tech & Science": [
         "the-politics-of-new-york-s-data-center-construction-pause",
@@ -8639,6 +8653,7 @@
     ],
     "storylines": {
       "war-security-order": [
+        "defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
         "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
         "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
         "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
