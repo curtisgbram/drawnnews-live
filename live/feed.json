@@ -1,8 +1,233 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-22T19:32:44.588Z",
-  "rolling24HourCount": 1,
+  "updatedAt": "2026-07-23T01:40:42.274Z",
+  "rolling24HourCount": 2,
   "comics": [
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-23T01:39:53.167Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What happened",
+            "panel": 1
+          },
+          {
+            "label": "Why it matters",
+            "panel": 5
+          },
+          {
+            "label": "What to watch",
+            "panel": 6
+          }
+        ]
+      },
+      "imagePath": "/live/media/trump-administration-signs-commercial-nuclear-deal-with-saudi-arabia.webp",
+      "claims": [
+        {
+          "claim": "Energy officials open a civilian reactor pathway worth billions while Congress reviews proliferation risk.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The agreement is expected to last 30 years and involve billions in American contracts.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "American firms get priority access to Saudi nuclear projects, reactors, and fuel work.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "A joint study could allow Saudi Arabia to build a uranium enrichment facility.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Lawmakers must weigh the safeguards against wider nuclear competition in the region.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Inspectors and bilateral safeguards are the next gate before reactors move forward.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Energy officials open a civilian reactor pathway worth billions while Congress reviews proliferation risk.",
+        "The agreement is expected to last 30 years and involve billions in American contracts.",
+        "American firms get priority access to Saudi nuclear projects, reactors, and fuel work.",
+        "A joint study could allow Saudi Arabia to build a uranium enrichment facility.",
+        "Lawmakers must weigh the safeguards against wider nuclear competition in the region.",
+        "Inspectors and bilateral safeguards are the next gate before reactors move forward."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.344,
+          50.448
+        ],
+        [
+          33.584,
+          0,
+          32.833,
+          50.448
+        ],
+        [
+          66.656,
+          0,
+          33.344,
+          50.448
+        ],
+        [
+          0,
+          53.849,
+          33.344,
+          46.151
+        ],
+        [
+          33.584,
+          53.849,
+          32.833,
+          46.151
+        ],
+        [
+          66.656,
+          53.849,
+          33.344,
+          46.151
+        ]
+      ],
+      "primaryGuide": null,
+      "relatedBriefSlugs": [],
+      "shortTitle": "Saudi nuclear pact faces Congress",
+      "slug": "trump-administration-signs-commercial-nuclear-deal-with-saudi-arabia",
+      "sourceCount": 10,
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/world/ap-report-trump-approves-nuclear-agreement-that-may-allow-saudi-arabia-to-enrich-uranium"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/jul/22/trump-nuclear-agreement-saudi-arabia"
+        },
+        {
+          "name": "ABC News U.S.",
+          "url": "https://abcnews.com/US/wireStory/rubio-nuclear-agreement-us-signs-lead-nuclear-proliferation-134983971"
+        },
+        {
+          "name": "CBS News Latest",
+          "url": "https://www.cbsnews.com/video/heres-what-the-us-saudi-arabia-nuclear-deal-will-do"
+        },
+        {
+          "name": "CNBC Top News",
+          "url": "https://www.cnbc.com/2026/07/22/trump-saudi-arabia-nuclear-power.html"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/22/us-and-saudi-arabia-announce-nuclear-cooperation-deal?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/us-and-saudi-arabia-reach-historic-nuclear-energy-deal/a-78077629?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/us-announces-nuclear-cooperation-pact-with-saudi-arabia"
+        },
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/22/world/middleeast/us-saudi-arabia-nuclear-deal.html"
+        }
+      ],
+      "storylineKey": "",
+      "storylineNext": null,
+      "storylineTitle": "",
+      "summary": "The United States and Saudi Arabia signed a civilian nuclear cooperation pact that could steer decades of reactor work to American firms. A possible uranium enrichment path now faces safeguards review and congressional scrutiny.",
+      "title": "U.S. signs Saudi nuclear pact as enrichment safeguards head to Congress",
+      "verificationNote": "Cross-checked across 10 sources"
+    },
     {
       "category": "World",
       "contentType": "brief",
@@ -8313,215 +8538,12 @@
       "storylineNext": {
         "slug": "trump-hails-unity-at-nato-summit-despite-recent-tensions",
         "title": "Trump says NATO unity faces tests",
-        "url": "/live/?slug=trump-hails-unity-at-nato-summit-despite-recent-tensions"
+        "url": "/briefs/trump-hails-unity-at-nato-summit-despite-recent-tensions/"
       },
       "storylineTitle": "The War and Security Order",
       "summary": "President Donald Trump says the Iran ceasefire is over after new fighting around the Strait of Hormuz, raising risks for shipping, oil prices, and diplomacy.",
       "title": "Trump Says Iran Truce Is Over as Hormuz Strikes Threaten Oil Routes",
       "verificationNote": "Cross-checked across 4 sources"
-    },
-    {
-      "category": "U.S. & Politics",
-      "contentType": "brief",
-      "generatedAt": "2026-07-08T21:17:44.171Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What happened",
-            "panel": 1
-          },
-          {
-            "label": "Why it matters",
-            "panel": 5
-          },
-          {
-            "label": "What to watch",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/trump-hails-unity-at-nato-summit-despite-recent-tensions.webp",
-      "claims": [
-        {
-          "claim": "Trump says NATO summit showed unity as Iran strikes, Greenland comments and defense demands keep allied security frictions visible.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "At the Turkey summit, allies heard warm praise after months of U.S. complaints that NATO does too little.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Iran questions followed recent U.S. strikes, with several allies described as staying on the sidelines.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Greenland returned to the agenda, turning a territorial demand into another alliance map problem.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Defense-spending projects worth billions became the alliance's proof point as leaders tried to show firepower.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Next, allies have to turn summit warmth into decisions on Iran, Greenland talk and defense spending.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "Trump says NATO summit showed unity as Iran strikes, Greenland comments and defense demands keep allied security frictions visible.",
-        "At the Turkey summit, allies heard warm praise after months of U.S. complaints that NATO does too little.",
-        "Iran questions followed recent U.S. strikes, with several allies described as staying on the sidelines.",
-        "Greenland returned to the agenda, turning a territorial demand into another alliance map problem.",
-        "Defense-spending projects worth billions became the alliance's proof point as leaders tried to show firepower.",
-        "Next, allies have to turn summit warmth into decisions on Iran, Greenland talk and defense spending."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          32.953,
-          49.959
-        ],
-        [
-          33.779,
-          0,
-          32.312,
-          49.959
-        ],
-        [
-          66.917,
-          0,
-          33.083,
-          49.959
-        ],
-        [
-          0,
-          50.138,
-          32.953,
-          49.862
-        ],
-        [
-          33.779,
-          50.138,
-          32.312,
-          49.862
-        ],
-        [
-          66.917,
-          50.138,
-          33.083,
-          49.862
-        ]
-      ],
-      "primaryGuide": {
-        "slug": "what-nato-does",
-        "title": "What NATO Does",
-        "url": "/briefs/what-nato-does/"
-      },
-      "readerNext": {
-        "buttonLabel": "Earlier brief",
-        "kind": "earlier-brief",
-        "label": "Earlier in this story",
-        "slug": "trump-talks-ukraine-russia-and-f-35-jets-sale-in-meeting-with-turkey-s-erdo-an",
-        "title": "Trump weighs Turkey F-35 sale",
-        "url": "/briefs/trump-talks-ukraine-russia-and-f-35-jets-sale-in-meeting-with-turkey-s-erdo-an/"
-      },
-      "relatedBriefSlugs": [
-        "trump-talks-ukraine-russia-and-f-35-jets-sale-in-meeting-with-turkey-s-erdo-an"
-      ],
-      "shortTitle": "Trump says NATO unity faces tests",
-      "slug": "trump-hails-unity-at-nato-summit-despite-recent-tensions",
-      "sourceCount": 6,
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/videos/cn75n0lyzedo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/world/watch-live-trump-holds-news-conference-at-nato-summit-in-turkey"
-        },
-        {
-          "name": "CBS News Latest",
-          "url": "https://www.cbsnews.com/news/trump-nato-leaders-news-conference-iran-strikes"
-        },
-        {
-          "name": "NBC News Politics",
-          "url": "https://www.nbcnews.com/now/video/trump-faces-questions-on-conflict-with-iran-during-nato-summit-press-conference-266378309632"
-        },
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/americas/20260708-trump-says-he-will-allow-ukraine-to-make-its-own-patriot-missiles"
-        },
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/08/world/europe/nato-trump-europe.html"
-        }
-      ],
-      "storylineKey": "war-security-order",
-      "storylineNext": {
-        "slug": "tensions-with-iran-add-fresh-uncertainty-to-an-already-shaky-global-economy",
-        "title": "Iran Tensions Hit Oil and Rates",
-        "url": "/briefs/tensions-with-iran-add-fresh-uncertainty-to-an-already-shaky-global-economy/"
-      },
-      "storylineTitle": "The War and Security Order",
-      "summary": "President Trump praised unity at the NATO summit in Turkey while Iran, Greenland and defense-spending disputes kept alliance strains visible.",
-      "title": "Trump says NATO unity faces Iran, Greenland and defense-spending tests",
-      "verificationNote": "Cross-checked across 6 sources"
     }
   ],
   "dailyPaper": {
@@ -8578,6 +8600,30 @@
   },
   "feeds": {
     "categories": {
+      "U.S. & Politics": [
+        "trump-administration-signs-commercial-nuclear-deal-with-saudi-arabia",
+        "house-votes-for-permanent-daylight-saving-time",
+        "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
+        "justice-kagan-calls-for-additional-supreme-court-security-funding",
+        "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa",
+        "grahams-death-opens-senate-seat-as-gop-guards-slim-majority",
+        "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
+        "200-young-campers-staff-rescued-amid-record-flooding-in-missouri",
+        "justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporti",
+        "apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secr",
+        "graham-platner-officially-withdraws-from-the-maine-senate-race",
+        "maine-democrats-announce-july-25-convention-to-pick-platner-replacement",
+        "trump-leaves-election-assistance-commission-without-members",
+        "trump-lets-housing-bill-become-law-without-signing",
+        "chatgpt-56-security-gate",
+        "trump-returns-from-turkey-in-old-air-force-one-jet-due-to-security-concerns",
+        "us-and-iran-exchange-back-and-forth-strikes-for-second-day",
+        "olympian-david-hearn-pleads-not-guilty-to-charges-of-damaging-reflecting-pool",
+        "latino-trump-voters-are-less-likely-than-harris-voters-to-say-being-latino-is-ce",
+        "maine-democrats-vote-to-replace-platner-before-july-13-senate-deadline",
+        "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
+        "new-attacks-raise-questions-about-what-comes-next-in-the-iran-war"
+      ],
       "World": [
         "defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
         "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
@@ -8610,30 +8656,6 @@
       "Sports & Culture": [
         "world-cup-favorites-france-unravel-as-spain-book-s"
       ],
-      "U.S. & Politics": [
-        "house-votes-for-permanent-daylight-saving-time",
-        "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
-        "justice-kagan-calls-for-additional-supreme-court-security-funding",
-        "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa",
-        "grahams-death-opens-senate-seat-as-gop-guards-slim-majority",
-        "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
-        "200-young-campers-staff-rescued-amid-record-flooding-in-missouri",
-        "justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporti",
-        "apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secr",
-        "graham-platner-officially-withdraws-from-the-maine-senate-race",
-        "maine-democrats-announce-july-25-convention-to-pick-platner-replacement",
-        "trump-leaves-election-assistance-commission-without-members",
-        "trump-lets-housing-bill-become-law-without-signing",
-        "chatgpt-56-security-gate",
-        "trump-returns-from-turkey-in-old-air-force-one-jet-due-to-security-concerns",
-        "us-and-iran-exchange-back-and-forth-strikes-for-second-day",
-        "olympian-david-hearn-pleads-not-guilty-to-charges-of-damaging-reflecting-pool",
-        "latino-trump-voters-are-less-likely-than-harris-voters-to-say-being-latino-is-ce",
-        "maine-democrats-vote-to-replace-platner-before-july-13-senate-deadline",
-        "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
-        "new-attacks-raise-questions-about-what-comes-next-in-the-iran-war",
-        "trump-hails-unity-at-nato-summit-despite-recent-tensions"
-      ],
       "Tech & Science": [
         "the-politics-of-new-york-s-data-center-construction-pause",
         "how-to-prevent-meta-from-using-your-instagram-images-in-a-i"
@@ -8664,8 +8686,7 @@
         "trump-returns-from-turkey-in-old-air-force-one-jet-due-to-security-concerns",
         "us-and-iran-exchange-back-and-forth-strikes-for-second-day",
         "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
-        "new-attacks-raise-questions-about-what-comes-next-in-the-iran-war",
-        "trump-hails-unity-at-nato-summit-despite-recent-tensions"
+        "new-attacks-raise-questions-about-what-comes-next-in-the-iran-war"
       ],
       "ai-buildout": [
         "the-politics-of-new-york-s-data-center-construction-pause",
