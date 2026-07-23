@@ -1,8 +1,173 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-23T01:40:42.274Z",
-  "rolling24HourCount": 2,
+  "updatedAt": "2026-07-23T13:28:11.703Z",
+  "rolling24HourCount": 3,
   "comics": [
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-23T13:27:23.509Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What happened",
+            "panel": 1
+          },
+          {
+            "label": "Why it matters",
+            "panel": 5
+          },
+          {
+            "label": "Where it stands",
+            "panel": 6
+          }
+        ]
+      },
+      "imagePath": "/live/media/trump-attends-dignified-transfer-of-4-service-members-killed-in-iran-attacks.webp",
+      "claims": [
+        {
+          "claim": "Trump joins a Dover military transfer as four US soldiers killed overseas return home.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Families met the president before the ceremony, the White House said.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Officials tied two deaths to Jordan missile and drone attacks.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Another soldier died in Iraq during an Iranian drone detonation.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "NBC identified New York, North Carolina, Hawaii, and Texas as home states.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The transfer followed Trump's July 8 statement that the Iran ceasefire had ended.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Trump joins a Dover military transfer as four US soldiers killed overseas return home.",
+        "Families met the president before the ceremony, the White House said.",
+        "Officials tied two deaths to Jordan missile and drone attacks.",
+        "Another soldier died in Iraq during an Iranian drone detonation.",
+        "NBC identified New York, North Carolina, Hawaii, and Texas as home states.",
+        "The transfer followed Trump's July 8 statement that the Iran ceasefire had ended."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.278,
+          50.448
+        ],
+        [
+          33.518,
+          0,
+          32.963,
+          50.448
+        ],
+        [
+          66.722,
+          0,
+          33.278,
+          50.448
+        ],
+        [
+          0,
+          51.798,
+          33.278,
+          48.202
+        ],
+        [
+          33.518,
+          51.798,
+          32.963,
+          48.202
+        ],
+        [
+          66.722,
+          51.798,
+          33.278,
+          48.202
+        ]
+      ],
+      "primaryGuide": null,
+      "relatedBriefSlugs": [],
+      "shortTitle": "Four U.S. War Dead Return",
+      "slug": "trump-attends-dignified-transfer-of-4-service-members-killed-in-iran-attacks",
+      "sourceCount": 4,
+      "sources": [
+        {
+          "name": "ABC News U.S.",
+          "url": "https://abcnews.com/US/wireStory/trump-attend-dignified-transfer-4-us-service-members-134972991"
+        },
+        {
+          "name": "CBS News Politics",
+          "url": "https://www.cbsnews.com/news/trump-dignified-transfer-service-members-killed-in-middle-east-strikes"
+        },
+        {
+          "name": "NBC News Politics",
+          "url": "https://www.nbcnews.com/politics/white-house/trump-attends-dignified-transfer-4-service-members-killed-iran-attacks-rcna588737"
+        },
+        {
+          "name": "The New York Times U.S.",
+          "url": "https://www.nytimes.com/2026/07/22/us/politics/trump-dignified-transfer-soldiers-iran-war.html"
+        }
+      ],
+      "storylineKey": "",
+      "storylineNext": null,
+      "storylineTitle": "",
+      "summary": "Trump and Defense Secretary Pete Hegseth attended a dignified transfer at Dover Air Force Base for four U.S. Army soldiers killed in recent Middle East attacks.",
+      "title": "Trump Attends Dover Transfer as Four U.S. War Dead Return",
+      "verificationNote": "Cross-checked across 4 sources"
+    },
     {
       "category": "U.S. & Politics",
       "contentType": "brief",
@@ -8011,7 +8176,7 @@
       "storylineNext": {
         "slug": "new-attacks-raise-questions-about-what-comes-next-in-the-iran-war",
         "title": "Trump Says Iran Truce Is Over as Hormuz Routes Face Strikes",
-        "url": "/live/?slug=new-attacks-raise-questions-about-what-comes-next-in-the-iran-war"
+        "url": "/briefs/new-attacks-raise-questions-about-what-comes-next-in-the-iran-war/"
       },
       "storylineTitle": "The War and Security Order",
       "summary": "After President Trump said the ceasefire was over, U.S. forces launched more strikes on Iranian radar, missiles and air defenses while attacks on ships kept the Strait of Hormuz in the risk zone.",
@@ -8361,189 +8526,6 @@
       "summary": "Meta's Muse Image lets people tag public Instagram account profiles and move published photos into AI images unless account owners opt out.",
       "title": "Meta Opens Public Instagram Photos to AI Reuse",
       "verificationNote": "Cross-checked across 3 sources"
-    },
-    {
-      "category": "U.S. & Politics",
-      "contentType": "brief",
-      "generatedAt": "2026-07-09T01:20:44.068Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What happened",
-            "panel": 1
-          },
-          {
-            "label": "Why it matters",
-            "panel": 5
-          },
-          {
-            "label": "What to watch",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/new-attacks-raise-questions-about-what-comes-next-in-the-iran-war.webp",
-      "claims": [
-        {
-          "claim": "Trump says the Iran truce is over as Hormuz strikes put oil routes, military security, and gas prices at risk.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "At the NATO summit in Turkey, the U.S. message shifts from ceasefire diplomacy to warnings of more attacks.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "U.S. strikes near the Strait of Hormuz target Iran's ability to threaten commercial shipping after new ship attacks.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Mediators try to preserve the interim deal while Washington and Tehran accuse each other of breaking it.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Oil and gas markets become the U.S. public cost if fighting keeps disrupting the shipping corridor.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Watch the next military order, talks signal, or tanker disruption to see whether escalation outruns diplomacy.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "Trump says the Iran truce is over as Hormuz strikes put oil routes, military security, and gas prices at risk.",
-        "At the NATO summit in Turkey, the U.S. message shifts from ceasefire diplomacy to warnings of more attacks.",
-        "U.S. strikes near the Strait of Hormuz target Iran's ability to threaten commercial shipping after new ship attacks.",
-        "Mediators try to preserve the interim deal while Washington and Tehran accuse each other of breaking it.",
-        "Oil and gas markets become the U.S. public cost if fighting keeps disrupting the shipping corridor.",
-        "Watch the next military order, talks signal, or tanker disruption to see whether escalation outruns diplomacy."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          33.083,
-          47.616
-        ],
-        [
-          33.779,
-          0,
-          31.726,
-          47.616
-        ],
-        [
-          66.266,
-          0,
-          33.734,
-          47.616
-        ],
-        [
-          0,
-          47.697,
-          33.083,
-          52.303
-        ],
-        [
-          33.779,
-          47.697,
-          31.726,
-          52.303
-        ],
-        [
-          66.266,
-          47.697,
-          33.734,
-          52.303
-        ]
-      ],
-      "primaryGuide": {
-        "slug": "how-oil-prices-move",
-        "title": "How Oil Prices Move",
-        "url": "/briefs/how-oil-prices-move/"
-      },
-      "readerNext": {
-        "buttonLabel": "Read update",
-        "kind": "latest-development",
-        "label": "Latest development",
-        "slug": "us-and-iran-exchange-back-and-forth-strikes-for-second-day",
-        "title": "U.S. Strikes Iran Again, Testing Ceasefire and Hormuz Oil Route",
-        "url": "/live/?slug=us-and-iran-exchange-back-and-forth-strikes-for-second-day"
-      },
-      "relatedBriefSlugs": [
-        "iran-s-strikes-on-ships-in-strait-of-hormuz-threaten-oil-flow"
-      ],
-      "shortTitle": "Trump Says Iran Truce Is Over as Hormuz Routes Face Strikes",
-      "slug": "new-attacks-raise-questions-about-what-comes-next-in-the-iran-war",
-      "sourceCount": 4,
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://apnews.com/article/trump-iran-war-ceasefire-strikes-c45111ed270afa7dac285016ce07362f"
-        },
-        {
-          "name": "ABC News U.S.",
-          "url": "https://abcnews.com/US/wireStory/new-attacks-raise-questions-iran-war-134599224"
-        },
-        {
-          "name": "CBS News Politics",
-          "url": "https://www.cbsnews.com/video/trump-takes-questions-on-iran-war-at-nato-summit"
-        },
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/video/20260708-iran-talks-in-doubts-as-trump-says-ceasefire-over"
-        }
-      ],
-      "storylineKey": "war-security-order",
-      "storylineNext": {
-        "slug": "trump-hails-unity-at-nato-summit-despite-recent-tensions",
-        "title": "Trump says NATO unity faces tests",
-        "url": "/briefs/trump-hails-unity-at-nato-summit-despite-recent-tensions/"
-      },
-      "storylineTitle": "The War and Security Order",
-      "summary": "President Donald Trump says the Iran ceasefire is over after new fighting around the Strait of Hormuz, raising risks for shipping, oil prices, and diplomacy.",
-      "title": "Trump Says Iran Truce Is Over as Hormuz Strikes Threaten Oil Routes",
-      "verificationNote": "Cross-checked across 4 sources"
     }
   ],
   "dailyPaper": {
@@ -8601,6 +8583,7 @@
   "feeds": {
     "categories": {
       "U.S. & Politics": [
+        "trump-attends-dignified-transfer-of-4-service-members-killed-in-iran-attacks",
         "trump-administration-signs-commercial-nuclear-deal-with-saudi-arabia",
         "house-votes-for-permanent-daylight-saving-time",
         "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
@@ -8621,8 +8604,7 @@
         "olympian-david-hearn-pleads-not-guilty-to-charges-of-damaging-reflecting-pool",
         "latino-trump-voters-are-less-likely-than-harris-voters-to-say-being-latino-is-ce",
         "maine-democrats-vote-to-replace-platner-before-july-13-senate-deadline",
-        "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
-        "new-attacks-raise-questions-about-what-comes-next-in-the-iran-war"
+        "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over"
       ],
       "World": [
         "defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
@@ -8685,8 +8667,7 @@
         "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the",
         "trump-returns-from-turkey-in-old-air-force-one-jet-due-to-security-concerns",
         "us-and-iran-exchange-back-and-forth-strikes-for-second-day",
-        "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
-        "new-attacks-raise-questions-about-what-comes-next-in-the-iran-war"
+        "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over"
       ],
       "ai-buildout": [
         "the-politics-of-new-york-s-data-center-construction-pause",
