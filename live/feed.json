@@ -1,8 +1,167 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-23T13:28:11.703Z",
-  "rolling24HourCount": 3,
+  "updatedAt": "2026-07-23T16:12:22.467Z",
+  "rolling24HourCount": 4,
   "comics": [
+    {
+      "category": "Guide",
+      "contentType": "guide",
+      "generatedAt": "2026-07-23T16:11:33.939Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What it explains",
+            "panel": 1
+          },
+          {
+            "label": "How it works",
+            "panel": 2
+          },
+          {
+            "label": "Where it gets hard",
+            "panel": 5
+          }
+        ]
+      },
+      "imagePath": "/live/media/how-civil-nuclear-cooperation-deals-work.webp",
+      "claims": [
+        {
+          "claim": "The United States signs civil nuclear deals before reactor technology crosses borders under security rules.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The legal gate defines the path for reactors, fuel services, training data, and equipment transfers.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Congress reviews the agreement before it enters force, making the review calendar a political gate.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Safeguards verify nuclear material through accounting, inspections, and limits on civilian-use pathways.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Export licensing controls the handoff, blocking parts, services, or know-how outside approved terms.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The failure mode is fuel-cycle drift: enrichment, reprocessing, or safeguard disputes can stall cooperation.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "The United States signs civil nuclear deals before reactor technology crosses borders under security rules.",
+        "The legal gate defines the path for reactors, fuel services, training data, and equipment transfers.",
+        "Congress reviews the agreement before it enters force, making the review calendar a political gate.",
+        "Safeguards verify nuclear material through accounting, inspections, and limits on civilian-use pathways.",
+        "Export licensing controls the handoff, blocking parts, services, or know-how outside approved terms.",
+        "The failure mode is fuel-cycle drift: enrichment, reprocessing, or safeguard disputes can stall cooperation."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.083,
+          50.252
+        ],
+        [
+          33.323,
+          0,
+          33.354,
+          50.252
+        ],
+        [
+          66.917,
+          0,
+          33.083,
+          50.252
+        ],
+        [
+          0,
+          51.798,
+          33.083,
+          48.202
+        ],
+        [
+          33.323,
+          51.798,
+          33.354,
+          48.202
+        ],
+        [
+          66.917,
+          51.798,
+          33.083,
+          48.202
+        ]
+      ],
+      "primaryGuide": null,
+      "relatedBriefSlugs": [],
+      "shortTitle": "How Civil Nuclear Deals Work",
+      "slug": "how-civil-nuclear-cooperation-deals-work",
+      "sourceCount": 3,
+      "sources": [
+        {
+          "name": "U.S. Department of Energy: NNSA",
+          "url": "https://www.energy.gov/nnsa/123-agreements-peaceful-cooperation"
+        },
+        {
+          "name": "GovInfo: Atomic Energy Act Section 123",
+          "url": "https://www.govinfo.gov/app/details/USCODE-2024-title42/USCODE-2024-title42-chap23-divsnA-subchapXI-sec2153"
+        },
+        {
+          "name": "U.S. Nuclear Regulatory Commission",
+          "url": "https://www.nrc.gov/about-nrc/ip/export-import"
+        }
+      ],
+      "storylineKey": "new-energy-system",
+      "storylineNext": {
+        "slug": "how-ev-battery-recycling-works",
+        "title": "EV Battery Recycling, Explained",
+        "url": "/live/?slug=how-ev-battery-recycling-works"
+      },
+      "storylineTitle": "The New Energy System",
+      "summary": "Civil nuclear cooperation deals let countries share reactor technology only after legal terms, safeguards, export licensing, congressional review, and fuel-cycle limits line up.",
+      "title": "How Civil Nuclear Deals Work",
+      "verificationNote": "Cross-checked across 3 sources"
+    },
     {
       "category": "U.S. & Politics",
       "contentType": "brief",
@@ -339,7 +498,19 @@
           46.151
         ]
       ],
-      "primaryGuide": null,
+      "primaryGuide": {
+        "slug": "how-civil-nuclear-cooperation-deals-work",
+        "title": "How Civil Nuclear Deals Work",
+        "url": "/live/?slug=how-civil-nuclear-cooperation-deals-work"
+      },
+      "readerNext": {
+        "buttonLabel": "Guide",
+        "kind": "background-guide",
+        "label": "Background guide",
+        "slug": "how-civil-nuclear-cooperation-deals-work",
+        "title": "How Civil Nuclear Deals Work",
+        "url": "/live/?slug=how-civil-nuclear-cooperation-deals-work"
+      },
       "relatedBriefSlugs": [],
       "shortTitle": "Saudi nuclear pact faces Congress",
       "slug": "trump-administration-signs-commercial-nuclear-deal-with-saudi-arabia",
@@ -6944,7 +7115,7 @@
       "storylineNext": {
         "slug": "how-to-prevent-meta-from-using-your-instagram-images-in-a-i",
         "title": "Meta Opens Photos to AI Reuse",
-        "url": "/live/?slug=how-to-prevent-meta-from-using-your-instagram-images-in-a-i"
+        "url": "/briefs/how-to-prevent-meta-from-using-your-instagram-images-in-a-i/"
       },
       "storylineTitle": "The AI Buildout",
       "summary": "OpenAI moved ChatGPT 5.6 from restricted early access to a wider release after a government-requested cybersecurity review and additional testing.",
@@ -8359,173 +8530,6 @@
       "summary": "Federal Reserve minutes from the June 16-17 meeting show officials held rates unchanged but split over whether inflation will cool or keep rates higher, with fuel, tariffs, and AI infrastructure demand shaping the stakes.",
       "title": "Fed Minutes Show Officials Split Over Inflation and Rate Stakes",
       "verificationNote": "Cross-checked across 4 sources"
-    },
-    {
-      "category": "Tech & Science",
-      "contentType": "brief",
-      "generatedAt": "2026-07-09T02:22:21.469Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What happened",
-            "panel": 1
-          },
-          {
-            "label": "Why it matters",
-            "panel": 5
-          },
-          {
-            "label": "What to watch",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/how-to-prevent-meta-from-using-your-instagram-images-in-a-i.webp",
-      "claims": [
-        {
-          "claim": "Meta puts public Instagram accounts into Muse Image's AI data path, creating reuse risk unless users opt out.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "A Meta AI prompt connects a public account profile to published photos and a generated image request.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "A photo flow passes through the reuse setting, drawing part or all of an account's published photos.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The opt-out path runs through Instagram settings under Sharing and reuse, not a per-use alert.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Privacy advocates warn public-photo reuse can feed non-consensual AI-altered images.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The practical check is the opt-out control before public photos stay in the default path.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "Meta puts public Instagram accounts into Muse Image's AI data path, creating reuse risk unless users opt out.",
-        "A Meta AI prompt connects a public account profile to published photos and a generated image request.",
-        "A photo flow passes through the reuse setting, drawing part or all of an account's published photos.",
-        "The opt-out path runs through Instagram settings under Sharing and reuse, not a per-use alert.",
-        "Privacy advocates warn public-photo reuse can feed non-consensual AI-altered images.",
-        "The practical check is the opt-out control before public photos stay in the default path."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          33.474,
-          50.35
-        ],
-        [
-          33.714,
-          0,
-          32.052,
-          50.35
-        ],
-        [
-          67.763,
-          0,
-          32.237,
-          50.35
-        ],
-        [
-          0,
-          49.65,
-          33.474,
-          50.35
-        ],
-        [
-          33.714,
-          49.65,
-          32.052,
-          50.35
-        ],
-        [
-          67.763,
-          49.65,
-          32.237,
-          50.35
-        ]
-      ],
-      "primaryGuide": null,
-      "readerNext": {
-        "buttonLabel": "Storyline",
-        "kind": "storyline",
-        "label": "Storyline",
-        "slug": "ai-buildout",
-        "title": "The AI Buildout",
-        "url": "/storylines/ai-buildout/"
-      },
-      "relatedBriefSlugs": [],
-      "shortTitle": "Meta Opens Photos to AI Reuse",
-      "slug": "how-to-prevent-meta-from-using-your-instagram-images-in-a-i",
-      "sourceCount": 3,
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cp9lee19y1yo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "WIRED",
-          "url": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out"
-        },
-        {
-          "name": "The New York Times Technology",
-          "url": "https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html"
-        }
-      ],
-      "storylineKey": "ai-buildout",
-      "storylineNext": {
-        "slug": "openai-unveils-gpt-5-6-amid-us-ai-regulatory-drama",
-        "title": "OpenAI GPT-5.6 Tests AI Release Gates",
-        "url": "/briefs/openai-unveils-gpt-5-6-amid-us-ai-regulatory-drama/"
-      },
-      "storylineTitle": "The AI Buildout",
-      "summary": "Meta's Muse Image lets people tag public Instagram account profiles and move published photos into AI images unless account owners opt out.",
-      "title": "Meta Opens Public Instagram Photos to AI Reuse",
-      "verificationNote": "Cross-checked across 3 sources"
     }
   ],
   "dailyPaper": {
@@ -8582,6 +8586,19 @@
   },
   "feeds": {
     "categories": {
+      "Guide": [
+        "how-civil-nuclear-cooperation-deals-work",
+        "how-pay-transparency-laws-work",
+        "how-buy-now-pay-later-loans-work",
+        "how-us-senate-vacancies-are-filled",
+        "how-ev-battery-recycling-works",
+        "how-national-bank-charters-work",
+        "what-the-election-assistance-commission-does",
+        "how-bills-become-law-without-a-signature",
+        "how-the-digital-services-act-works",
+        "how-mortgage-rates-move",
+        "how-federal-race-and-ethnicity-data-works"
+      ],
       "U.S. & Politics": [
         "trump-attends-dignified-transfer-of-4-service-members-killed-in-iran-attacks",
         "trump-administration-signs-commercial-nuclear-deal-with-saudi-arabia",
@@ -8623,27 +8640,15 @@
         "what-to-know-about-u-s-oil-production-and-consumption-in-6-charts",
         "fed-minutes-officials-deeply-divided-over-future-path-of-us-inflation"
       ],
-      "Guide": [
-        "how-pay-transparency-laws-work",
-        "how-buy-now-pay-later-loans-work",
-        "how-us-senate-vacancies-are-filled",
-        "how-ev-battery-recycling-works",
-        "how-national-bank-charters-work",
-        "what-the-election-assistance-commission-does",
-        "how-bills-become-law-without-a-signature",
-        "how-the-digital-services-act-works",
-        "how-mortgage-rates-move",
-        "how-federal-race-and-ethnicity-data-works"
-      ],
       "Sports & Culture": [
         "world-cup-favorites-france-unravel-as-spain-book-s"
       ],
       "Tech & Science": [
-        "the-politics-of-new-york-s-data-center-construction-pause",
-        "how-to-prevent-meta-from-using-your-instagram-images-in-a-i"
+        "the-politics-of-new-york-s-data-center-construction-pause"
       ]
     },
     "guides": [
+      "how-civil-nuclear-cooperation-deals-work",
       "how-pay-transparency-laws-work",
       "how-buy-now-pay-later-loans-work",
       "how-us-senate-vacancies-are-filled",
@@ -8656,6 +8661,10 @@
       "how-federal-race-and-ethnicity-data-works"
     ],
     "storylines": {
+      "new-energy-system": [
+        "how-civil-nuclear-cooperation-deals-work",
+        "how-ev-battery-recycling-works"
+      ],
       "war-security-order": [
         "defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
         "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
@@ -8672,8 +8681,7 @@
       "ai-buildout": [
         "the-politics-of-new-york-s-data-center-construction-pause",
         "apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secr",
-        "chatgpt-56-security-gate",
-        "how-to-prevent-meta-from-using-your-instagram-images-in-a-i"
+        "chatgpt-56-security-gate"
       ],
       "governing-crisis": [
         "how-us-senate-vacancies-are-filled",
@@ -8687,9 +8695,6 @@
         "how-federal-race-and-ethnicity-data-works",
         "latino-trump-voters-are-less-likely-than-harris-voters-to-say-being-latino-is-ce",
         "maine-democrats-vote-to-replace-platner-before-july-13-senate-deadline"
-      ],
-      "new-energy-system": [
-        "how-ev-battery-recycling-works"
       ]
     }
   }
