@@ -1,8 +1,241 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-23T16:12:22.467Z",
-  "rolling24HourCount": 4,
+  "updatedAt": "2026-07-23T19:24:43.612Z",
+  "rolling24HourCount": 5,
   "comics": [
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-23T19:23:54.720Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What happened",
+            "panel": 1
+          },
+          {
+            "label": "Why it matters",
+            "panel": 5
+          },
+          {
+            "label": "Where it stands",
+            "panel": 6
+          }
+        ]
+      },
+      "imagePath": "/live/media/israel-welcomes-trump-s-demand-for-diplomatic-ties-with-saudi-arabia.webp",
+      "claims": [
+        {
+          "claim": "Trump says the Saudi civilian nuclear deal requires Israel ties, adding security and enrichment risk.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The energy agreement was signed Wednesday without a public Israel-normalization condition attached.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The White House says approval now turns on that condition as talks continue.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Nonproliferation experts warn the deal still needs enforceable enrichment guardrails.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Saudi leaders have tied normalization to a path toward a Palestinian state.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Negotiators must keep Saudi support, Israel ties, and nuclear safeguards in one pact.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Trump says the Saudi civilian nuclear deal requires Israel ties, adding security and enrichment risk.",
+        "The energy agreement was signed Wednesday without a public Israel-normalization condition attached.",
+        "The White House says approval now turns on that condition as talks continue.",
+        "Nonproliferation experts warn the deal still needs enforceable enrichment guardrails.",
+        "Saudi leaders have tied normalization to a path toward a Palestinian state.",
+        "Negotiators must keep Saudi support, Israel ties, and nuclear safeguards in one pact."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.213,
+          50.35
+        ],
+        [
+          33.453,
+          0,
+          32.963,
+          50.35
+        ],
+        [
+          66.656,
+          0,
+          33.344,
+          50.35
+        ],
+        [
+          0,
+          51.798,
+          33.213,
+          48.202
+        ],
+        [
+          33.453,
+          51.798,
+          32.963,
+          48.202
+        ],
+        [
+          66.656,
+          51.798,
+          33.344,
+          48.202
+        ]
+      ],
+      "primaryGuide": {
+        "slug": "how-civil-nuclear-cooperation-deals-work",
+        "title": "How Civil Nuclear Deals Work",
+        "url": "/live/?slug=how-civil-nuclear-cooperation-deals-work"
+      },
+      "readerNext": {
+        "buttonLabel": "Earlier brief",
+        "kind": "earlier-brief",
+        "label": "Earlier in this story",
+        "slug": "trump-administration-signs-commercial-nuclear-deal-with-saudi-arabia",
+        "title": "Saudi nuclear pact faces Congress",
+        "url": "/live/?slug=trump-administration-signs-commercial-nuclear-deal-with-saudi-arabia"
+      },
+      "relatedBriefSlugs": [
+        "trump-administration-signs-commercial-nuclear-deal-with-saudi-arabia"
+      ],
+      "shortTitle": "Saudi Nuclear Pact Faces Gate",
+      "slug": "israel-welcomes-trump-s-demand-for-diplomatic-ties-with-saudi-arabia",
+      "sourceCount": 9,
+      "sources": [
+        {
+          "name": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/world/trump-adds-new-condition-to-saudi-nuclear-deal-says-kingdom-must-normalize-relations-with-israel"
+        },
+        {
+          "name": "Axios",
+          "url": "https://www.axios.com/2026/07/23/url-slug-trump-saudi-nuclear-deal-enrichment-israel"
+        },
+        {
+          "name": "ABC News U.S.",
+          "url": "https://abcnews.com/US/wireStory/trump-saudi-nuclear-pact-requires-kingdom-normalize-israel-135014171"
+        },
+        {
+          "name": "CBS News Latest",
+          "url": "https://www.cbsnews.com/video/trump-says-saudi-arabia-must-join-abraham-accords-to-seal-nuclear-energy-deal"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/world/middle-east/trump-saudi-arabia-normalize-israel-ties-nuclear-deal-rcna588859"
+        },
+        {
+          "name": "CNBC World News",
+          "url": "https://www.cnbc.com/2026/07/23/trump-saudi-arabia-nuclear-power.html"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/23/trump-says-saudi-nuclear-pact-hinges-on-kingdom-joining-abraham-accords?traffic_source=rss"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/trump-stuns-saudis-by-pinning-nuclear-deal-to-israel-ties"
+        },
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/23/us/politics/israel-saudi-arabia-us-nuclear-deal.html"
+        }
+      ],
+      "storylineKey": "war-security-order",
+      "storylineNext": {
+        "slug": "defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
+        "title": "Pentagon seeks $67 billion for Iran war costs",
+        "url": "/live/?slug=defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing"
+      },
+      "storylineTitle": "The War and Security Order",
+      "summary": "Trump says a U.S.-Saudi civilian nuclear pact depends on Saudi Arabia joining the Abraham Accords.",
+      "title": "Trump Adds Israel Condition to Saudi Nuclear Pact",
+      "verificationNote": "Cross-checked across 9 sources"
+    },
     {
       "category": "Guide",
       "contentType": "guide",
@@ -504,12 +737,12 @@
         "url": "/live/?slug=how-civil-nuclear-cooperation-deals-work"
       },
       "readerNext": {
-        "buttonLabel": "Guide",
-        "kind": "background-guide",
-        "label": "Background guide",
-        "slug": "how-civil-nuclear-cooperation-deals-work",
-        "title": "How Civil Nuclear Deals Work",
-        "url": "/live/?slug=how-civil-nuclear-cooperation-deals-work"
+        "buttonLabel": "Read update",
+        "kind": "latest-development",
+        "label": "Latest development",
+        "slug": "israel-welcomes-trump-s-demand-for-diplomatic-ties-with-saudi-arabia",
+        "title": "Saudi Nuclear Pact Faces Gate",
+        "url": "/live/?slug=israel-welcomes-trump-s-demand-for-diplomatic-ties-with-saudi-arabia"
       },
       "relatedBriefSlugs": [],
       "shortTitle": "Saudi nuclear pact faces Congress",
@@ -8353,183 +8586,6 @@
       "summary": "After President Trump said the ceasefire was over, U.S. forces launched more strikes on Iranian radar, missiles and air defenses while attacks on ships kept the Strait of Hormuz in the risk zone.",
       "title": "U.S. and Iran Trade Strikes, Raising Hormuz Shipping Risk",
       "verificationNote": "Cross-checked across 6 sources"
-    },
-    {
-      "category": "Money",
-      "contentType": "brief",
-      "generatedAt": "2026-07-09T05:46:23.451Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What happened",
-            "panel": 1
-          },
-          {
-            "label": "Why it matters",
-            "panel": 5
-          },
-          {
-            "label": "What to watch",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/fed-minutes-officials-deeply-divided-over-future-path-of-us-inflation.webp",
-      "claims": [
-        {
-          "claim": "Federal Reserve minutes say officials keep rates unchanged as inflation risk still hits households, businesses, markets, and public budgets.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The June 16-17 meeting left policymakers split between lower rates later and a higher year-end path.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "One camp expects gas prices and tariff effects to cool; another worries inflation stays elevated.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "AI infrastructure demand adds price risk through chips, technology products, electricity, and data-center buildouts.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "A higher rate path would keep borrowing costs tighter for loans, firms, investors, and public budgets.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Watch inflation reports and the next Fed rate decision; incoming data decides whether the split turns into action.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "Federal Reserve minutes say officials keep rates unchanged as inflation risk still hits households, businesses, markets, and public budgets.",
-        "The June 16-17 meeting left policymakers split between lower rates later and a higher year-end path.",
-        "One camp expects gas prices and tariff effects to cool; another worries inflation stays elevated.",
-        "AI infrastructure demand adds price risk through chips, technology products, electricity, and data-center buildouts.",
-        "A higher rate path would keep borrowing costs tighter for loans, firms, investors, and public budgets.",
-        "Watch inflation reports and the next Fed rate decision; incoming data decides whether the split turns into action."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          33.278,
-          50.252
-        ],
-        [
-          34.951,
-          0,
-          31.531,
-          50.252
-        ],
-        [
-          66.722,
-          0,
-          33.278,
-          50.252
-        ],
-        [
-          0,
-          51.896,
-          33.278,
-          48.104
-        ],
-        [
-          34.951,
-          51.896,
-          31.531,
-          48.104
-        ],
-        [
-          66.722,
-          51.896,
-          33.278,
-          48.104
-        ]
-      ],
-      "primaryGuide": {
-        "slug": "how-the-fed-sets-interest-rates",
-        "title": "How the Fed Sets Interest Rates",
-        "url": "/briefs/how-the-fed-sets-interest-rates/"
-      },
-      "readerNext": {
-        "buttonLabel": "Guide",
-        "kind": "background-guide",
-        "label": "Background guide",
-        "slug": "how-the-fed-sets-interest-rates",
-        "title": "How the Fed Sets Interest Rates",
-        "url": "/briefs/how-the-fed-sets-interest-rates/"
-      },
-      "relatedBriefSlugs": [],
-      "shortTitle": "Fed split over inflation and rates",
-      "slug": "fed-minutes-officials-deeply-divided-over-future-path-of-us-inflation",
-      "sourceCount": 4,
-      "sources": [
-        {
-          "name": "Axios",
-          "url": "https://www.axios.com/2026/07/08/fed-warsh-minutes-inflation"
-        },
-        {
-          "name": "ABC News U.S.",
-          "url": "https://abcnews.com/US/wireStory/fed-minutes-officials-deeply-divided-future-path-us-134593000"
-        },
-        {
-          "name": "CNBC Top News",
-          "url": "https://www.cnbc.com/2026/07/08/fed-minutes-june-2026-.html"
-        },
-        {
-          "name": "The New York Times Business",
-          "url": "https://www.nytimes.com/2026/07/08/business/fed-meeting-minutes-warsh-interest-rates.html"
-        }
-      ],
-      "storylineKey": "",
-      "storylineNext": null,
-      "storylineTitle": "",
-      "summary": "Federal Reserve minutes from the June 16-17 meeting show officials held rates unchanged but split over whether inflation will cool or keep rates higher, with fuel, tariffs, and AI infrastructure demand shaping the stakes.",
-      "title": "Fed Minutes Show Officials Split Over Inflation and Rate Stakes",
-      "verificationNote": "Cross-checked across 4 sources"
     }
   ],
   "dailyPaper": {
@@ -8586,20 +8642,8 @@
   },
   "feeds": {
     "categories": {
-      "Guide": [
-        "how-civil-nuclear-cooperation-deals-work",
-        "how-pay-transparency-laws-work",
-        "how-buy-now-pay-later-loans-work",
-        "how-us-senate-vacancies-are-filled",
-        "how-ev-battery-recycling-works",
-        "how-national-bank-charters-work",
-        "what-the-election-assistance-commission-does",
-        "how-bills-become-law-without-a-signature",
-        "how-the-digital-services-act-works",
-        "how-mortgage-rates-move",
-        "how-federal-race-and-ethnicity-data-works"
-      ],
       "U.S. & Politics": [
+        "israel-welcomes-trump-s-demand-for-diplomatic-ties-with-saudi-arabia",
         "trump-attends-dignified-transfer-of-4-service-members-killed-in-iran-attacks",
         "trump-administration-signs-commercial-nuclear-deal-with-saudi-arabia",
         "house-votes-for-permanent-daylight-saving-time",
@@ -8623,6 +8667,19 @@
         "maine-democrats-vote-to-replace-platner-before-july-13-senate-deadline",
         "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over"
       ],
+      "Guide": [
+        "how-civil-nuclear-cooperation-deals-work",
+        "how-pay-transparency-laws-work",
+        "how-buy-now-pay-later-loans-work",
+        "how-us-senate-vacancies-are-filled",
+        "how-ev-battery-recycling-works",
+        "how-national-bank-charters-work",
+        "what-the-election-assistance-commission-does",
+        "how-bills-become-law-without-a-signature",
+        "how-the-digital-services-act-works",
+        "how-mortgage-rates-move",
+        "how-federal-race-and-ethnicity-data-works"
+      ],
       "World": [
         "defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
         "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
@@ -8637,8 +8694,7 @@
         "us-imposing-25-tariff-on-some-brazilian-imports-citing-unfair-trade-practices",
         "paramount-and-warner-bros-sued-to-block-110bn-mega-merger",
         "easyjet-agrees-to-apollo-7-7b-bid-sidelining-castlelake-offer",
-        "what-to-know-about-u-s-oil-production-and-consumption-in-6-charts",
-        "fed-minutes-officials-deeply-divided-over-future-path-of-us-inflation"
+        "what-to-know-about-u-s-oil-production-and-consumption-in-6-charts"
       ],
       "Sports & Culture": [
         "world-cup-favorites-france-unravel-as-spain-book-s"
@@ -8661,11 +8717,8 @@
       "how-federal-race-and-ethnicity-data-works"
     ],
     "storylines": {
-      "new-energy-system": [
-        "how-civil-nuclear-cooperation-deals-work",
-        "how-ev-battery-recycling-works"
-      ],
       "war-security-order": [
+        "israel-welcomes-trump-s-demand-for-diplomatic-ties-with-saudi-arabia",
         "defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
         "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
         "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
@@ -8677,6 +8730,10 @@
         "trump-returns-from-turkey-in-old-air-force-one-jet-due-to-security-concerns",
         "us-and-iran-exchange-back-and-forth-strikes-for-second-day",
         "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over"
+      ],
+      "new-energy-system": [
+        "how-civil-nuclear-cooperation-deals-work",
+        "how-ev-battery-recycling-works"
       ],
       "ai-buildout": [
         "the-politics-of-new-york-s-data-center-construction-pause",
