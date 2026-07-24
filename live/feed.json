@@ -1,7 +1,7 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-24T01:21:38.014Z",
-  "rolling24HourCount": 5,
+  "updatedAt": "2026-07-24T03:54:12.165Z",
+  "rolling24HourCount": 4,
   "comics": [
     {
       "category": "World",
@@ -8582,53 +8582,46 @@
     "briefs": [
       {
         "category": "U.S. & Politics",
-        "shortTitle": "Trump Changes Hormuz Toll Plan, With Tankers Stalled",
-        "slug": "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
-        "summary": "President Trump reversed a planned 20% toll on cargo ships using the Strait of Hormuz as tanker traffic slowed amid U.S.-Iran fighting. The shift leaves shipping companies and officials watching whether transit through the waterway resumes safely.",
-        "title": "Trump Changes Hormuz Toll Plan, With Tankers Stalled"
+        "shortTitle": "Saudi Nuclear Pact Faces Gate",
+        "slug": "israel-welcomes-trump-s-demand-for-diplomatic-ties-with-saudi-arabia",
+        "summary": "Trump says a U.S.-Saudi civilian nuclear pact depends on Saudi Arabia joining the Abraham Accords.",
+        "title": "Trump Adds Israel Condition to Saudi Nuclear Pact"
       },
       {
         "category": "U.S. & Politics",
-        "shortTitle": "House Votes for Permanent Daylight Saving",
-        "slug": "house-votes-for-permanent-daylight-saving-time",
-        "summary": "House Republicans and Democrats united in favor of a bill to eliminate semiannual clock-changing, but it faces an uncertain fate in the Senate.",
-        "title": "House Votes for Permanent Daylight Saving Time"
-      },
-      {
-        "category": "U.S. & Politics",
-        "shortTitle": "Kagan Seeks $14.6M for Court Security",
-        "slug": "justice-kagan-calls-for-additional-supreme-court-security-funding",
-        "summary": "Supreme Court Justice Elena Kagan delivered her opening statement at a hearing over the court's budget, which includes an increase in security funding as the justices have faced growing threats in recent years.",
-        "title": "Kagan Seeks $14.6M to Bolster Court Security"
-      },
-      {
-        "category": "Tech & Science",
-        "shortTitle": "Hochul Pauses AI Data Center Permits",
-        "slug": "the-politics-of-new-york-s-data-center-construction-pause",
-        "summary": "Gov. Kathy Hochul paused permits for new hyperscale AI data centers for up to a year while New York sets rules on power, water and ratepayer impacts.",
-        "title": "Hochul Pauses New AI Data Center Permits Over Grid Costs"
+        "shortTitle": "Four U.S. War Dead Return",
+        "slug": "trump-attends-dignified-transfer-of-4-service-members-killed-in-iran-attacks",
+        "summary": "Trump and Defense Secretary Pete Hegseth attended a dignified transfer at Dover Air Force Base for four U.S. Army soldiers killed in recent Middle East attacks.",
+        "title": "Trump Attends Dover Transfer as Four U.S. War Dead Return"
       },
       {
         "category": "World",
-        "shortTitle": "U.S. Energy Price Drop Pulled CPI Inflation to 3.5%",
-        "slug": "inflation-slowed-during-pause-in-war-with-iran",
-        "summary": "The Consumer Price Index fell to a 3.5 percent annual increase in June, and prices marked their biggest drop from a month earlier since 2020.",
-        "title": "U.S. Energy Price Drop Pulled CPI Inflation to 3.5%"
+        "shortTitle": "Trump Warns Iran Over Red Sea Oil Risk",
+        "slug": "trump-warns-iran-after-tanker-attacks-raise-oil-risk",
+        "summary": "Trump warned Iran over two Saudi tanker attacks. He also said he is considering wider strikes as U.S. strikes continued and oil topped $100.",
+        "title": "Trump Warns Iran Over Red Sea Oil Risk"
+      },
+      {
+        "category": "Guide",
+        "shortTitle": "How Civil Nuclear Deals Work",
+        "slug": "how-civil-nuclear-cooperation-deals-work",
+        "summary": "Civil nuclear cooperation deals let countries share reactor technology only after legal terms, safeguards, export licensing, congressional review, and fuel-cycle limits line up.",
+        "title": "How Civil Nuclear Deals Work"
       }
     ],
     "categories": [
       "U.S. & Politics",
-      "Tech & Science",
-      "World"
+      "World",
+      "Guide"
     ],
-    "date": "2026-07-14",
-    "imagePath": "/live/papers/2026-07-14.webp",
-    "leadTitle": "Trump Changes Hormuz Toll Plan, With Tankers Stalled",
-    "shortHeadline": "Trump Changes Hormuz Toll Plan, With Tankers Stalled leads the daily briefing.",
-    "sourceTotal": 30,
-    "summary": "Trump Changes Hormuz Toll Plan, With Tankers Stalled leads a 5-brief front page across 3 sections.",
-    "topStripCount": 5,
-    "updatedAt": "2026-07-15T03:59:23.419Z"
+    "date": "2026-07-23",
+    "imagePath": "/live/papers/2026-07-23.webp",
+    "leadTitle": "Trump Adds Israel Condition to Saudi Nuclear Pact",
+    "shortHeadline": "Trump Adds Israel Condition to Saudi Nuclear Pact leads the daily briefing.",
+    "sourceTotal": 21,
+    "summary": "Trump Adds Israel Condition to Saudi Nuclear Pact leads a 4-brief front page across 3 sections.",
+    "topStripCount": 4,
+    "updatedAt": "2026-07-24T03:54:12.159Z"
   },
   "feeds": {
     "categories": {
