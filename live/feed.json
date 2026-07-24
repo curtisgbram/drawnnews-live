@@ -1,8 +1,177 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-24T03:54:12.165Z",
-  "rolling24HourCount": 4,
+  "updatedAt": "2026-07-24T16:19:15.234Z",
+  "rolling24HourCount": 3,
   "comics": [
+    {
+      "category": "Guide",
+      "contentType": "guide",
+      "generatedAt": "2026-07-24T16:18:25.761Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What it explains",
+            "panel": 1
+          },
+          {
+            "label": "How it works",
+            "panel": 2
+          },
+          {
+            "label": "Where it gets hard",
+            "panel": 5
+          }
+        ]
+      },
+      "imagePath": "/live/media/how-war-powers-votes-work.webp",
+      "claims": [
+        {
+          "claim": "Congress votes over military force when war authority meets public money and presidential command under security risk.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The War Powers Resolution turns hostilities into a report path and a 60-day clock.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Hearings, authorization text, and a chamber vote build the public sequence Congress can use.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The funding ledger is the hard gate because appropriations can widen, narrow, or end a mission.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The court threshold is the weak spot when branches dispute authority and judges avoid war questions.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Watch the timeline: authorization, funding limits, withdrawal deadlines, and reports show whether leverage holds.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Congress votes over military force when war authority meets public money and presidential command under security risk.",
+        "The War Powers Resolution turns hostilities into a report path and a 60-day clock.",
+        "Hearings, authorization text, and a chamber vote build the public sequence Congress can use.",
+        "The funding ledger is the hard gate because appropriations can widen, narrow, or end a mission.",
+        "The court threshold is the weak spot when branches dispute authority and judges avoid war questions.",
+        "Watch the timeline: authorization, funding limits, withdrawal deadlines, and reports show whether leverage holds."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.344,
+          50.448
+        ],
+        [
+          34.886,
+          0,
+          30.229,
+          50.448
+        ],
+        [
+          66.722,
+          0,
+          33.278,
+          50.448
+        ],
+        [
+          0,
+          51.798,
+          33.344,
+          48.202
+        ],
+        [
+          34.886,
+          51.798,
+          30.229,
+          48.202
+        ],
+        [
+          66.722,
+          51.798,
+          33.278,
+          48.202
+        ]
+      ],
+      "primaryGuide": null,
+      "relatedBriefSlugs": [],
+      "shortTitle": "How War Powers Votes Work",
+      "slug": "how-war-powers-votes-work",
+      "sourceCount": 4,
+      "sources": [
+        {
+          "name": "GovInfo: War Powers Resolution",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title50/html/USCODE-2024-title50-chap33.htm"
+        },
+        {
+          "name": "National Archives: Constitution Transcript",
+          "url": "https://www.archives.gov/founding-docs/constitution-transcript"
+        },
+        {
+          "name": "U.S. House History: War Powers",
+          "url": "https://history.house.gov/Institution/Origins-Development/War-Powers/"
+        },
+        {
+          "name": "U.S. Senate: Declarations of War",
+          "url": "https://www.senate.gov/about/powers-procedures/declarations-of-war.htm"
+        }
+      ],
+      "storylineKey": "governing-crisis",
+      "storylineNext": {
+        "slug": "trump-s-intelligence-nominee-refuses-to-say-who-won-2020-election",
+        "title": "Jay Clayton declines to name 2020 winner",
+        "url": "/briefs/trump-s-intelligence-nominee-refuses-to-say-who-won-2020-election/"
+      },
+      "storylineTitle": "U.S. Elections",
+      "summary": "War-powers votes test the boundary between presidential command, congressional authorization, reporting clocks, funding leverage, court limits, and public accountability before or after U.S. forces are used.",
+      "title": "How War Powers Votes Work",
+      "verificationNote": "Cross-checked across 4 sources"
+    },
     {
       "category": "World",
       "contentType": "brief",
@@ -1123,7 +1292,11 @@
           48.202
         ]
       ],
-      "primaryGuide": null,
+      "primaryGuide": {
+        "slug": "how-war-powers-votes-work",
+        "title": "How War Powers Votes Work",
+        "url": "/live/?slug=how-war-powers-votes-work"
+      },
       "readerNext": {
         "buttonLabel": "Earlier brief",
         "kind": "earlier-brief",
@@ -7834,14 +8007,18 @@
           50.057
         ]
       ],
-      "primaryGuide": null,
+      "primaryGuide": {
+        "slug": "how-war-powers-votes-work",
+        "title": "How War Powers Votes Work",
+        "url": "/live/?slug=how-war-powers-votes-work"
+      },
       "readerNext": {
-        "buttonLabel": "Storyline",
-        "kind": "storyline",
-        "label": "Storyline",
-        "slug": "war-security-order",
-        "title": "The War and Security Order",
-        "url": "/storylines/war-security-order/"
+        "buttonLabel": "Guide",
+        "kind": "background-guide",
+        "label": "Background guide",
+        "slug": "how-war-powers-votes-work",
+        "title": "How War Powers Votes Work",
+        "url": "/live/?slug=how-war-powers-votes-work"
       },
       "relatedBriefSlugs": [],
       "shortTitle": "Trump takes old Air Force One for security",
@@ -8380,202 +8557,12 @@
       "storylineNext": {
         "slug": "maine-democrats-vote-to-replace-platner-before-july-13-senate-deadline",
         "title": "Maine Democrats Vote to Replace Platner Before Senate Race Deadline",
-        "url": "/live/?slug=maine-democrats-vote-to-replace-platner-before-july-13-senate-deadline"
+        "url": "/briefs/maine-democrats-vote-to-replace-platner-before-july-13-senate-deadline/"
       },
       "storylineTitle": "U.S. Elections",
       "summary": "An October 2025 survey compared validated 2024 Latino Trump and Harris voters across identity centrality, linked fate, responsibility for other U.S. Latinos, reported discrimination, and the limits of what survey data can prove.",
       "title": "Trump-Harris Survey Tests Latino Voters' Identity Split",
       "verificationNote": "Checked against the primary source"
-    },
-    {
-      "category": "U.S. & Politics",
-      "contentType": "brief",
-      "generatedAt": "2026-07-09T11:19:56.720Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What happened",
-            "panel": 1
-          },
-          {
-            "label": "Why it matters",
-            "panel": 5
-          },
-          {
-            "label": "What to watch",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/maine-democrats-vote-to-replace-platner-before-july-13-senate-deadline.webp",
-      "claims": [
-        {
-          "claim": "A convention process turns a withdrawn nomination into a deadline for voters in the Collins Senate race.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Platner's exit followed a sexual-assault allegation he denies and a collapse in party and donor support.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "State law lets the party name a new nominee after Platner files withdrawal paperwork by July 13.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The contest against Sen. Susan Collins now restarts with less than four months before the midterms.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Potential contenders began signaling interest while party officials prepare a convention process under a tight calendar.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Next, Democrats need a nominee quickly enough to keep a pivotal Senate seat contest viable.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "A convention process turns a withdrawn nomination into a deadline for voters in the Collins Senate race.",
-        "Platner's exit followed a sexual-assault allegation he denies and a collapse in party and donor support.",
-        "State law lets the party name a new nominee after Platner files withdrawal paperwork by July 13.",
-        "The contest against Sen. Susan Collins now restarts with less than four months before the midterms.",
-        "Potential contenders began signaling interest while party officials prepare a convention process under a tight calendar.",
-        "Next, Democrats need a nominee quickly enough to keep a pivotal Senate seat contest viable."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          32.953,
-          50.545
-        ],
-        [
-          33.974,
-          0,
-          32.573,
-          50.545
-        ],
-        [
-          67.373,
-          0,
-          32.627,
-          50.545
-        ],
-        [
-          0,
-          50.627,
-          32.953,
-          49.373
-        ],
-        [
-          33.974,
-          50.627,
-          32.573,
-          49.373
-        ],
-        [
-          67.373,
-          50.627,
-          32.627,
-          49.373
-        ]
-      ],
-      "primaryGuide": null,
-      "readerNext": {
-        "buttonLabel": "Read update",
-        "kind": "latest-development",
-        "label": "Latest development",
-        "slug": "maine-democrats-announce-july-25-convention-to-pick-platner-replacement",
-        "title": "Maine Democrats Plan Senate Replacement Vote",
-        "url": "/live/?slug=maine-democrats-announce-july-25-convention-to-pick-platner-replacement"
-      },
-      "relatedBriefSlugs": [
-        "sanders-warren-drop-endorsements-of-maine-s-graham-platner",
-        "how-dems-could-replace-platner-in-maine-senate-race-and-who-might-take-his-place"
-      ],
-      "shortTitle": "Maine Democrats Vote to Replace Platner Before Senate Race Deadline",
-      "slug": "maine-democrats-vote-to-replace-platner-before-july-13-senate-deadline",
-      "sourceCount": 5,
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/live/2026/jul/09/donald-trump-graham-platner-mitch-mcconnell-iran-midterms-latest-news-updates"
-        },
-        {
-          "name": "ABC News U.S.",
-          "url": "https://abcnews.com/US/wireStory/graham-platner-maine-us-senate-race-134591179"
-        },
-        {
-          "name": "CNBC Top News",
-          "url": "https://www.cnbc.com/2026/07/08/platner-quits-maine-senate-race-midterm-elections.html"
-        },
-        {
-          "name": "Politico",
-          "url": "https://www.politico.com/news/2026/07/09/graham-platner-maine-democrats-replacement-process-00991464"
-        },
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/08/us/politics/graham-platner-out-whats-next.html"
-        }
-      ],
-      "storylineKey": "governing-crisis",
-      "storylineNext": {
-        "slug": "sanders-warren-drop-endorsements-of-maine-s-graham-platner",
-        "title": "Sanders, Warren Call for Platner to Quit Before Maine Ballot Deadline",
-        "url": "/briefs/sanders-warren-drop-endorsements-of-maine-s-graham-platner/"
-      },
-      "storylineTitle": "U.S. Elections",
-      "summary": "After Democratic Senate nominee Graham Platner said he would withdraw following a sexual-assault allegation he denies, Maine Democrats voted to hold a nominating convention. State law gives the party a narrow path to name a replacement for the contest against Republican Sen. Susan Collins.",
-      "title": "Maine Democrats Vote to Replace Platner Before July 13 Senate Deadline",
-      "verificationNote": "Cross-checked across 5 sources"
     }
   ],
   "dailyPaper": {
@@ -8625,6 +8612,20 @@
   },
   "feeds": {
     "categories": {
+      "Guide": [
+        "how-war-powers-votes-work",
+        "how-civil-nuclear-cooperation-deals-work",
+        "how-pay-transparency-laws-work",
+        "how-buy-now-pay-later-loans-work",
+        "how-us-senate-vacancies-are-filled",
+        "how-ev-battery-recycling-works",
+        "how-national-bank-charters-work",
+        "what-the-election-assistance-commission-does",
+        "how-bills-become-law-without-a-signature",
+        "how-the-digital-services-act-works",
+        "how-mortgage-rates-move",
+        "how-federal-race-and-ethnicity-data-works"
+      ],
       "World": [
         "trump-warns-iran-after-tanker-attacks-raise-oil-risk",
         "defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
@@ -8657,21 +8658,7 @@
         "trump-returns-from-turkey-in-old-air-force-one-jet-due-to-security-concerns",
         "us-and-iran-exchange-back-and-forth-strikes-for-second-day",
         "olympian-david-hearn-pleads-not-guilty-to-charges-of-damaging-reflecting-pool",
-        "latino-trump-voters-are-less-likely-than-harris-voters-to-say-being-latino-is-ce",
-        "maine-democrats-vote-to-replace-platner-before-july-13-senate-deadline"
-      ],
-      "Guide": [
-        "how-civil-nuclear-cooperation-deals-work",
-        "how-pay-transparency-laws-work",
-        "how-buy-now-pay-later-loans-work",
-        "how-us-senate-vacancies-are-filled",
-        "how-ev-battery-recycling-works",
-        "how-national-bank-charters-work",
-        "what-the-election-assistance-commission-does",
-        "how-bills-become-law-without-a-signature",
-        "how-the-digital-services-act-works",
-        "how-mortgage-rates-move",
-        "how-federal-race-and-ethnicity-data-works"
+        "latino-trump-voters-are-less-likely-than-harris-voters-to-say-being-latino-is-ce"
       ],
       "Money": [
         "us-imposing-25-tariff-on-some-brazilian-imports-citing-unfair-trade-practices",
@@ -8687,6 +8674,7 @@
       ]
     },
     "guides": [
+      "how-war-powers-votes-work",
       "how-civil-nuclear-cooperation-deals-work",
       "how-pay-transparency-laws-work",
       "how-buy-now-pay-later-loans-work",
@@ -8700,6 +8688,19 @@
       "how-federal-race-and-ethnicity-data-works"
     ],
     "storylines": {
+      "governing-crisis": [
+        "how-war-powers-votes-work",
+        "how-us-senate-vacancies-are-filled",
+        "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa",
+        "grahams-death-opens-senate-seat-as-gop-guards-slim-majority",
+        "graham-platner-officially-withdraws-from-the-maine-senate-race",
+        "what-the-election-assistance-commission-does",
+        "maine-democrats-announce-july-25-convention-to-pick-platner-replacement",
+        "trump-leaves-election-assistance-commission-without-members",
+        "trump-lets-housing-bill-become-law-without-signing",
+        "how-federal-race-and-ethnicity-data-works",
+        "latino-trump-voters-are-less-likely-than-harris-voters-to-say-being-latino-is-ce"
+      ],
       "war-security-order": [
         "trump-warns-iran-after-tanker-attacks-raise-oil-risk",
         "israel-welcomes-trump-s-demand-for-diplomatic-ties-with-saudi-arabia",
@@ -8722,19 +8723,6 @@
         "the-politics-of-new-york-s-data-center-construction-pause",
         "apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secr",
         "chatgpt-56-security-gate"
-      ],
-      "governing-crisis": [
-        "how-us-senate-vacancies-are-filled",
-        "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa",
-        "grahams-death-opens-senate-seat-as-gop-guards-slim-majority",
-        "graham-platner-officially-withdraws-from-the-maine-senate-race",
-        "what-the-election-assistance-commission-does",
-        "maine-democrats-announce-july-25-convention-to-pick-platner-replacement",
-        "trump-leaves-election-assistance-commission-without-members",
-        "trump-lets-housing-bill-become-law-without-signing",
-        "how-federal-race-and-ethnicity-data-works",
-        "latino-trump-voters-are-less-likely-than-harris-voters-to-say-being-latino-is-ce",
-        "maine-democrats-vote-to-replace-platner-before-july-13-senate-deadline"
       ]
     }
   }
