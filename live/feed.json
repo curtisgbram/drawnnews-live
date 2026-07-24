@@ -1,8 +1,202 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-24T16:19:15.234Z",
-  "rolling24HourCount": 3,
+  "updatedAt": "2026-07-24T19:14:57.905Z",
+  "rolling24HourCount": 4,
   "comics": [
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-24T19:14:08.892Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What happened",
+            "panel": 1
+          },
+          {
+            "label": "Why it matters",
+            "panel": 5
+          },
+          {
+            "label": "What to watch",
+            "panel": 6
+          }
+        ]
+      },
+      "imagePath": "/live/media/dnc-committee-sets-up-south-carolina-to-vote-first-in-democrats-2028-presidentia.webp",
+      "claims": [
+        {
+          "claim": "DNC rules panel voted to put Democrats' first 2028 presidential election contest in South Carolina.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The full DNC votes next month in Austin before the calendar becomes final.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Six states would be eligible before Super Tuesday, with Iowa outside the early window.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "South Carolina backers said the state gives Democrats a read on Black voters.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Nevada supporters pressed the party to weigh the West's growing Latino electorate.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Campaigns now watch whether the full committee locks in the reordered map.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "DNC rules panel voted to put Democrats' first 2028 presidential election contest in South Carolina.",
+        "The full DNC votes next month in Austin before the calendar becomes final.",
+        "Six states would be eligible before Super Tuesday, with Iowa outside the early window.",
+        "South Carolina backers said the state gives Democrats a read on Black voters.",
+        "Nevada supporters pressed the party to weigh the West's growing Latino electorate.",
+        "Campaigns now watch whether the full committee locks in the reordered map."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.213,
+          50.35
+        ],
+        [
+          35.146,
+          0,
+          31.401,
+          50.35
+        ],
+        [
+          66.787,
+          0,
+          33.213,
+          50.35
+        ],
+        [
+          0,
+          51.798,
+          33.213,
+          48.202
+        ],
+        [
+          35.146,
+          51.798,
+          31.401,
+          48.202
+        ],
+        [
+          66.787,
+          51.798,
+          33.213,
+          48.202
+        ]
+      ],
+      "primaryGuide": {
+        "slug": "how-primary-elections-work",
+        "title": "How Primary Elections Work",
+        "url": "/briefs/how-primary-elections-work/"
+      },
+      "readerNext": {
+        "buttonLabel": "Earlier brief",
+        "kind": "earlier-brief",
+        "label": "Earlier in this story",
+        "slug": "rep-nancy-mace-fails-to-advance-in-gop-primary-for-south-carolina-governor",
+        "title": "Evette and Wilson move to governor race runoff",
+        "url": "/briefs/rep-nancy-mace-fails-to-advance-in-gop-primary-for-south-carolina-governor/"
+      },
+      "relatedBriefSlugs": [
+        "rep-nancy-mace-fails-to-advance-in-gop-primary-for-south-carolina-governor",
+        "alan-wilson-boosted-by-trump-s-late-co-endorsement-wins-south-carolina-governor-"
+      ],
+      "shortTitle": "DNC panel advances South Carolina-first primary calendar",
+      "slug": "dnc-committee-sets-up-south-carolina-to-vote-first-in-democrats-2028-presidentia",
+      "sourceCount": 5,
+      "sources": [
+        {
+          "name": "Axios",
+          "url": "https://www.axios.com/2026/07/24/democrats-2028-first-primary-south-carolina-nevada"
+        },
+        {
+          "name": "ABC News Top Stories",
+          "url": "https://abcnews.com/Politics/democratic-national-committee-set-key-vote-towards-determining/story?id=135000357"
+        },
+        {
+          "name": "CBS News Latest",
+          "url": "https://www.cbsnews.com/news/south-carolina-first-2028-democratic-presidential-primary-state"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/politics/2028-election/dnc-committee-sets-south-carolina-vote-first-democrats-2028-presidenti-rcna588863"
+        },
+        {
+          "name": "The New York Times U.S.",
+          "url": "https://www.nytimes.com/2026/07/24/us/politics/democrats-south-carolina-nevada-2028-presidential-race.html"
+        }
+      ],
+      "storylineKey": "governing-crisis",
+      "storylineNext": {
+        "slug": "how-war-powers-votes-work",
+        "title": "How War Powers Votes Work",
+        "url": "/live/?slug=how-war-powers-votes-work"
+      },
+      "storylineTitle": "U.S. Elections",
+      "summary": "A DNC rules panel recommended South Carolina for Democrats' first 2028 presidential primary, sending a reshaped early-state calendar to the full party committee next month.",
+      "title": "DNC panel advances South Carolina-first primary",
+      "verificationNote": "Cross-checked across 5 sources"
+    },
     {
       "category": "Guide",
       "contentType": "guide",
@@ -7871,7 +8065,7 @@
       "storylineNext": {
         "slug": "latino-trump-voters-are-less-likely-than-harris-voters-to-say-being-latino-is-ce",
         "title": "Trump-Harris Survey Tests Latino Voters' Identity Split",
-        "url": "/live/?slug=latino-trump-voters-are-less-likely-than-harris-voters-to-say-being-latino-is-ce"
+        "url": "/briefs/latino-trump-voters-are-less-likely-than-harris-voters-to-say-being-latino-is-ce/"
       },
       "storylineTitle": "U.S. Elections",
       "summary": "Federal race and ethnicity data turns self-identification, OMB standards, Census questions, detailed write-ins and agency tabulation rules into comparable statistics used for civil-rights enforcement, redistricting, program reporting and policy decisions.",
@@ -8416,153 +8610,6 @@
       "summary": "Former Olympic canoe racer David Hearn pleaded not guilty in D.C. Superior Court after prosecutors accused him of damaging lining material at the recently renovated Lincoln Memorial Reflecting Pool; a status hearing is set for Aug. 5.",
       "title": "David Hearn pleads not guilty in $16M Reflecting Pool damage case",
       "verificationNote": "Cross-checked across 6 sources"
-    },
-    {
-      "category": "U.S. & Politics",
-      "contentType": "brief",
-      "generatedAt": "2026-07-09T14:28:06.100Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What happened",
-            "panel": 1
-          },
-          {
-            "label": "Why it matters",
-            "panel": 4
-          },
-          {
-            "label": "Where it stands",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/latino-trump-voters-are-less-likely-than-harris-voters-to-say-being-latino-is-ce.webp",
-      "claims": [
-        {
-          "claim": "Survey gate: An October 2025 survey says validated Latino Trump and Harris voters split on identity measures after 2024.",
-          "panel": 1,
-          "sourceIndexes": [
-            0
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Benchmark: 69% of Harris voters call Latino identity extremely or very important, compared with 42% of Trump voters.",
-          "panel": 2,
-          "sourceIndexes": [
-            0
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Linked-fate meter: 75% of Harris voters feel affected by other U.S. Latinos; 57% of Trump voters say little.",
-          "panel": 3,
-          "sourceIndexes": [
-            0
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Responsibility threshold: 61% of Trump voters seldom feel responsible for other Latinos; 48% of Harris voters feel it very often.",
-          "panel": 4,
-          "sourceIndexes": [
-            0
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Experience ledger: 39% of Harris voters report recent discrimination, more than twice the 15% share among Trump voters.",
-          "panel": 5,
-          "sourceIndexes": [
-            0
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Causal guardrail: the survey cannot prove vote choice or party caused these identity differences.",
-          "panel": 6,
-          "sourceIndexes": [
-            0
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "Survey gate: An October 2025 survey says validated Latino Trump and Harris voters split on identity measures after 2024.",
-        "Benchmark: 69% of Harris voters call Latino identity extremely or very important, compared with 42% of Trump voters.",
-        "Linked-fate meter: 75% of Harris voters feel affected by other U.S. Latinos; 57% of Trump voters say little.",
-        "Responsibility threshold: 61% of Trump voters seldom feel responsible for other Latinos; 48% of Harris voters feel it very often.",
-        "Experience ledger: 39% of Harris voters report recent discrimination, more than twice the 15% share among Trump voters.",
-        "Causal guardrail: the survey cannot prove vote choice or party caused these identity differences."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          33.734,
-          49.764
-        ],
-        [
-          34.625,
-          0,
-          28.211,
-          49.764
-        ],
-        [
-          63.792,
-          0,
-          36.208,
-          49.764
-        ],
-        [
-          0,
-          50.138,
-          33.734,
-          49.862
-        ],
-        [
-          34.625,
-          50.138,
-          28.211,
-          49.862
-        ],
-        [
-          63.792,
-          50.138,
-          36.208,
-          49.862
-        ]
-      ],
-      "primaryGuide": null,
-      "readerNext": {
-        "buttonLabel": "Storyline",
-        "kind": "storyline",
-        "label": "Storyline",
-        "slug": "governing-crisis",
-        "title": "U.S. Elections",
-        "url": "/storylines/governing-crisis/"
-      },
-      "relatedBriefSlugs": [],
-      "shortTitle": "Trump-Harris Survey Tests Latino Voters' Identity Split",
-      "slug": "latino-trump-voters-are-less-likely-than-harris-voters-to-say-being-latino-is-ce",
-      "sourceCount": 1,
-      "sources": [
-        {
-          "name": "Pew Research Center",
-          "url": "https://www.pewresearch.org/race-and-ethnicity/2026/07/09/latino-trump-voters-are-less-likely-than-harris-voters-to-say-being-latino-is-central-to-their-lives"
-        }
-      ],
-      "storylineKey": "governing-crisis",
-      "storylineNext": {
-        "slug": "maine-democrats-vote-to-replace-platner-before-july-13-senate-deadline",
-        "title": "Maine Democrats Vote to Replace Platner Before Senate Race Deadline",
-        "url": "/briefs/maine-democrats-vote-to-replace-platner-before-july-13-senate-deadline/"
-      },
-      "storylineTitle": "U.S. Elections",
-      "summary": "An October 2025 survey compared validated 2024 Latino Trump and Harris voters across identity centrality, linked fate, responsibility for other U.S. Latinos, reported discrimination, and the limits of what survey data can prove.",
-      "title": "Trump-Harris Survey Tests Latino Voters' Identity Split",
-      "verificationNote": "Checked against the primary source"
     }
   ],
   "dailyPaper": {
@@ -8612,6 +8659,29 @@
   },
   "feeds": {
     "categories": {
+      "U.S. & Politics": [
+        "dnc-committee-sets-up-south-carolina-to-vote-first-in-democrats-2028-presidentia",
+        "israel-welcomes-trump-s-demand-for-diplomatic-ties-with-saudi-arabia",
+        "trump-attends-dignified-transfer-of-4-service-members-killed-in-iran-attacks",
+        "trump-administration-signs-commercial-nuclear-deal-with-saudi-arabia",
+        "house-votes-for-permanent-daylight-saving-time",
+        "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
+        "justice-kagan-calls-for-additional-supreme-court-security-funding",
+        "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa",
+        "grahams-death-opens-senate-seat-as-gop-guards-slim-majority",
+        "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
+        "200-young-campers-staff-rescued-amid-record-flooding-in-missouri",
+        "justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporti",
+        "apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secr",
+        "graham-platner-officially-withdraws-from-the-maine-senate-race",
+        "maine-democrats-announce-july-25-convention-to-pick-platner-replacement",
+        "trump-leaves-election-assistance-commission-without-members",
+        "trump-lets-housing-bill-become-law-without-signing",
+        "chatgpt-56-security-gate",
+        "trump-returns-from-turkey-in-old-air-force-one-jet-due-to-security-concerns",
+        "us-and-iran-exchange-back-and-forth-strikes-for-second-day",
+        "olympian-david-hearn-pleads-not-guilty-to-charges-of-damaging-reflecting-pool"
+      ],
       "Guide": [
         "how-war-powers-votes-work",
         "how-civil-nuclear-cooperation-deals-work",
@@ -8636,29 +8706,6 @@
         "trump-says-iran-ceasefire-is-over",
         "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the",
         "one-of-spain-s-deadliest-wildfires-kills-at-least-12-people-with-23-others-missi"
-      ],
-      "U.S. & Politics": [
-        "israel-welcomes-trump-s-demand-for-diplomatic-ties-with-saudi-arabia",
-        "trump-attends-dignified-transfer-of-4-service-members-killed-in-iran-attacks",
-        "trump-administration-signs-commercial-nuclear-deal-with-saudi-arabia",
-        "house-votes-for-permanent-daylight-saving-time",
-        "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
-        "justice-kagan-calls-for-additional-supreme-court-security-funding",
-        "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa",
-        "grahams-death-opens-senate-seat-as-gop-guards-slim-majority",
-        "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
-        "200-young-campers-staff-rescued-amid-record-flooding-in-missouri",
-        "justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporti",
-        "apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secr",
-        "graham-platner-officially-withdraws-from-the-maine-senate-race",
-        "maine-democrats-announce-july-25-convention-to-pick-platner-replacement",
-        "trump-leaves-election-assistance-commission-without-members",
-        "trump-lets-housing-bill-become-law-without-signing",
-        "chatgpt-56-security-gate",
-        "trump-returns-from-turkey-in-old-air-force-one-jet-due-to-security-concerns",
-        "us-and-iran-exchange-back-and-forth-strikes-for-second-day",
-        "olympian-david-hearn-pleads-not-guilty-to-charges-of-damaging-reflecting-pool",
-        "latino-trump-voters-are-less-likely-than-harris-voters-to-say-being-latino-is-ce"
       ],
       "Money": [
         "us-imposing-25-tariff-on-some-brazilian-imports-citing-unfair-trade-practices",
@@ -8689,6 +8736,7 @@
     ],
     "storylines": {
       "governing-crisis": [
+        "dnc-committee-sets-up-south-carolina-to-vote-first-in-democrats-2028-presidentia",
         "how-war-powers-votes-work",
         "how-us-senate-vacancies-are-filled",
         "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa",
@@ -8698,8 +8746,7 @@
         "maine-democrats-announce-july-25-convention-to-pick-platner-replacement",
         "trump-leaves-election-assistance-commission-without-members",
         "trump-lets-housing-bill-become-law-without-signing",
-        "how-federal-race-and-ethnicity-data-works",
-        "latino-trump-voters-are-less-likely-than-harris-voters-to-say-being-latino-is-ce"
+        "how-federal-race-and-ethnicity-data-works"
       ],
       "war-security-order": [
         "trump-warns-iran-after-tanker-attacks-raise-oil-risk",
