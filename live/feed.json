@@ -1,8 +1,199 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-23T19:24:43.612Z",
+  "updatedAt": "2026-07-24T01:21:38.014Z",
   "rolling24HourCount": 5,
   "comics": [
+    {
+      "category": "World",
+      "contentType": "brief",
+      "generatedAt": "2026-07-24T01:20:49.058Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What happened",
+            "panel": 1
+          },
+          {
+            "label": "Why it matters",
+            "panel": 5
+          },
+          {
+            "label": "What to watch",
+            "panel": 6
+          }
+        ]
+      },
+      "imagePath": "/live/media/trump-warns-iran-after-tanker-attacks-raise-oil-risk.webp",
+      "claims": [
+        {
+          "claim": "Trump warns Iran as Houthi attacks on two Saudi tankers raise shipping security risk.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "He also weighs wider Iran strikes, with no final decision announced.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "U.S. strikes hit Iranian targets over commercial-shipping threats.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Oil topped $100 as traders priced wider regional war.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Gulf ports, tanker routes, and nearby bases sit in the risk zone.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Washington has not announced whether it will expand current strikes.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Trump warns Iran as Houthi attacks on two Saudi tankers raise shipping security risk.",
+        "He also weighs wider Iran strikes, with no final decision announced.",
+        "U.S. strikes hit Iranian targets over commercial-shipping threats.",
+        "Oil topped $100 as traders priced wider regional war.",
+        "Gulf ports, tanker routes, and nearby bases sit in the risk zone.",
+        "Washington has not announced whether it will expand current strikes."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.213,
+          50.448
+        ],
+        [
+          33.453,
+          0,
+          31.661,
+          50.448
+        ],
+        [
+          66.722,
+          0,
+          33.278,
+          50.448
+        ],
+        [
+          0,
+          51.798,
+          33.213,
+          48.202
+        ],
+        [
+          33.453,
+          51.798,
+          31.661,
+          48.202
+        ],
+        [
+          66.722,
+          51.798,
+          33.278,
+          48.202
+        ]
+      ],
+      "primaryGuide": {
+        "slug": "how-oil-prices-move",
+        "title": "How Oil Prices Move",
+        "url": "/briefs/how-oil-prices-move/"
+      },
+      "readerNext": {
+        "buttonLabel": "Guide",
+        "kind": "background-guide",
+        "label": "Background guide",
+        "slug": "how-oil-prices-move",
+        "title": "How Oil Prices Move",
+        "url": "/briefs/how-oil-prices-move/"
+      },
+      "relatedBriefSlugs": [],
+      "shortTitle": "Trump Warns Iran Over Red Sea Oil Risk",
+      "slug": "trump-warns-iran-after-tanker-attacks-raise-oil-risk",
+      "sourceCount": 5,
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/jul/23/trump-says-he-is-close-to-decision-on-largest-yet-attack-on-iran"
+        },
+        {
+          "name": "Axios",
+          "url": "https://www.axios.com/2026/07/23/trump-axios-iran-interview"
+        },
+        {
+          "name": "ABC News Top Stories",
+          "url": "https://abcnews.com/International/live-updates/iran-live-updates-kuwait-attacked-bahrain-sounds-sirens/?id=134907987"
+        },
+        {
+          "name": "CNBC World News",
+          "url": "https://www.cnbc.com/2026/07/23/iran-war-us-trump-houthis-red-sea-oil.html"
+        },
+        {
+          "name": "The New York Times World",
+          "url": "https://www.nytimes.com/2026/07/23/world/middleeast/red-sea-strikes-oil-houthis.html"
+        }
+      ],
+      "storylineKey": "war-security-order",
+      "storylineNext": {
+        "slug": "israel-welcomes-trump-s-demand-for-diplomatic-ties-with-saudi-arabia",
+        "title": "Saudi Nuclear Pact Faces Gate",
+        "url": "/live/?slug=israel-welcomes-trump-s-demand-for-diplomatic-ties-with-saudi-arabia"
+      },
+      "storylineTitle": "The War and Security Order",
+      "summary": "Trump warned Iran over two Saudi tanker attacks. He also said he is considering wider strikes as U.S. strikes continued and oil topped $100.",
+      "title": "Trump Warns Iran Over Red Sea Oil Risk",
+      "verificationNote": "Cross-checked across 5 sources"
+    },
     {
       "category": "U.S. & Politics",
       "contentType": "brief",
@@ -3425,7 +3616,7 @@
         "label": "Earlier in this story",
         "slug": "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
         "title": "U.S. and Iran Trade Strikes, Raising Hormuz Shipping Risk",
-        "url": "/live/?slug=u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over"
+        "url": "/briefs/u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over/"
       },
       "relatedBriefSlugs": [
         "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
@@ -4010,7 +4201,7 @@
         "label": "Earlier in this story",
         "slug": "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
         "title": "U.S. and Iran Trade Strikes, Raising Hormuz Shipping Risk",
-        "url": "/live/?slug=u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over"
+        "url": "/briefs/u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over/"
       },
       "relatedBriefSlugs": [
         "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
@@ -4883,7 +5074,7 @@
         "label": "Earlier in this story",
         "slug": "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
         "title": "U.S. and Iran Trade Strikes, Raising Hormuz Shipping Risk",
-        "url": "/live/?slug=u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over"
+        "url": "/briefs/u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over/"
       },
       "relatedBriefSlugs": [
         "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
@@ -7857,7 +8048,7 @@
       "storylineNext": {
         "slug": "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
         "title": "U.S. and Iran Trade Strikes, Raising Hormuz Shipping Risk",
-        "url": "/live/?slug=u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over"
+        "url": "/briefs/u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over/"
       },
       "storylineTitle": "The War and Security Order",
       "summary": "The U.S. and Iran traded new strikes after Trump said the ceasefire was over; the fighting threatens Hormuz shipping, Gulf security, and oil-price stability.",
@@ -8385,207 +8576,6 @@
       "summary": "After Democratic Senate nominee Graham Platner said he would withdraw following a sexual-assault allegation he denies, Maine Democrats voted to hold a nominating convention. State law gives the party a narrow path to name a replacement for the contest against Republican Sen. Susan Collins.",
       "title": "Maine Democrats Vote to Replace Platner Before July 13 Senate Deadline",
       "verificationNote": "Cross-checked across 5 sources"
-    },
-    {
-      "category": "U.S. & Politics",
-      "contentType": "brief",
-      "generatedAt": "2026-07-09T08:46:59.051Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What happened",
-            "panel": 1
-          },
-          {
-            "label": "Why it matters",
-            "panel": 5
-          },
-          {
-            "label": "What to watch",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over.webp",
-      "claims": [
-        {
-          "claim": "After Trump said the ceasefire was over, U.S. strikes returned to Iran as Hormuz shipping risk rose.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "U.S. commanders targeted radar, missiles and air defenses after attacks on ships moving through the strait.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Iranian media reported explosions near Bandar Abbas, Sirik and Bushehr along the Gulf corridor.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The military framed the strikes as protecting navigation through the Strait of Hormuz.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Trump signaled the action from Ankara after saying he did not want the war to restart.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "More ship attacks or counterstrikes could push the interim ceasefire farther out of reach.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "After Trump said the ceasefire was over, U.S. strikes returned to Iran as Hormuz shipping risk rose.",
-        "U.S. commanders targeted radar, missiles and air defenses after attacks on ships moving through the strait.",
-        "Iranian media reported explosions near Bandar Abbas, Sirik and Bushehr along the Gulf corridor.",
-        "The military framed the strikes as protecting navigation through the Strait of Hormuz.",
-        "Trump signaled the action from Ankara after saying he did not want the war to restart.",
-        "More ship attacks or counterstrikes could push the interim ceasefire farther out of reach."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          34.385,
-          49.764
-        ],
-        [
-          35.472,
-          0,
-          30.489,
-          49.764
-        ],
-        [
-          66.982,
-          0,
-          33.018,
-          49.764
-        ],
-        [
-          0,
-          50.334,
-          34.385,
-          49.666
-        ],
-        [
-          35.472,
-          50.334,
-          30.489,
-          49.666
-        ],
-        [
-          66.982,
-          50.334,
-          33.018,
-          49.666
-        ]
-      ],
-      "primaryGuide": {
-        "slug": "how-ceasefires-are-monitored",
-        "title": "How Ceasefires Are Monitored",
-        "url": "/briefs/how-ceasefires-are-monitored/"
-      },
-      "readerNext": {
-        "buttonLabel": "Read update",
-        "kind": "latest-development",
-        "label": "Latest development",
-        "slug": "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
-        "title": "U.S.-Iran Strikes Deepen Hormuz Standoff",
-        "url": "/live/?slug=us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f"
-      },
-      "relatedBriefSlugs": [],
-      "shortTitle": "U.S. and Iran Trade Strikes, Raising Hormuz Shipping Risk",
-      "slug": "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
-      "sourceCount": 6,
-      "sources": [
-        {
-          "name": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/show/trump-says-ceasefire-is-over-as-u-s-launches-more-strikes-on-iran"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/jul/08/us-carries-out-another-wave-of-strikes-on-iran"
-        },
-        {
-          "name": "CBS News Latest",
-          "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-says-ceasefire-over"
-        },
-        {
-          "name": "NBC News",
-          "url": "https://www.nbcnews.com/nightly-news/video/trump-declares-iran-ceasefire-over-as-u-s-launches-new-retaliatory-strikes-266399813652"
-        },
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/iran-war-trump-calls-second-set-of-us-strikes-retribution/live-77882459?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "name": "The New York Times World",
-          "url": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump"
-        }
-      ],
-      "storylineKey": "war-security-order",
-      "storylineNext": {
-        "slug": "new-attacks-raise-questions-about-what-comes-next-in-the-iran-war",
-        "title": "Trump Says Iran Truce Is Over as Hormuz Routes Face Strikes",
-        "url": "/briefs/new-attacks-raise-questions-about-what-comes-next-in-the-iran-war/"
-      },
-      "storylineTitle": "The War and Security Order",
-      "summary": "After President Trump said the ceasefire was over, U.S. forces launched more strikes on Iranian radar, missiles and air defenses while attacks on ships kept the Strait of Hormuz in the risk zone.",
-      "title": "U.S. and Iran Trade Strikes, Raising Hormuz Shipping Risk",
-      "verificationNote": "Cross-checked across 6 sources"
     }
   ],
   "dailyPaper": {
@@ -8642,6 +8632,17 @@
   },
   "feeds": {
     "categories": {
+      "World": [
+        "trump-warns-iran-after-tanker-attacks-raise-oil-risk",
+        "defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
+        "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
+        "inflation-slowed-during-pause-in-war-with-iran",
+        "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
+        "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
+        "trump-says-iran-ceasefire-is-over",
+        "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the",
+        "one-of-spain-s-deadliest-wildfires-kills-at-least-12-people-with-23-others-missi"
+      ],
       "U.S. & Politics": [
         "israel-welcomes-trump-s-demand-for-diplomatic-ties-with-saudi-arabia",
         "trump-attends-dignified-transfer-of-4-service-members-killed-in-iran-attacks",
@@ -8664,8 +8665,7 @@
         "us-and-iran-exchange-back-and-forth-strikes-for-second-day",
         "olympian-david-hearn-pleads-not-guilty-to-charges-of-damaging-reflecting-pool",
         "latino-trump-voters-are-less-likely-than-harris-voters-to-say-being-latino-is-ce",
-        "maine-democrats-vote-to-replace-platner-before-july-13-senate-deadline",
-        "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over"
+        "maine-democrats-vote-to-replace-platner-before-july-13-senate-deadline"
       ],
       "Guide": [
         "how-civil-nuclear-cooperation-deals-work",
@@ -8679,16 +8679,6 @@
         "how-the-digital-services-act-works",
         "how-mortgage-rates-move",
         "how-federal-race-and-ethnicity-data-works"
-      ],
-      "World": [
-        "defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
-        "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
-        "inflation-slowed-during-pause-in-war-with-iran",
-        "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
-        "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
-        "trump-says-iran-ceasefire-is-over",
-        "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the",
-        "one-of-spain-s-deadliest-wildfires-kills-at-least-12-people-with-23-others-missi"
       ],
       "Money": [
         "us-imposing-25-tariff-on-some-brazilian-imports-citing-unfair-trade-practices",
@@ -8718,6 +8708,7 @@
     ],
     "storylines": {
       "war-security-order": [
+        "trump-warns-iran-after-tanker-attacks-raise-oil-risk",
         "israel-welcomes-trump-s-demand-for-diplomatic-ties-with-saudi-arabia",
         "defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
         "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
@@ -8728,8 +8719,7 @@
         "trump-says-iran-ceasefire-is-over",
         "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the",
         "trump-returns-from-turkey-in-old-air-force-one-jet-due-to-security-concerns",
-        "us-and-iran-exchange-back-and-forth-strikes-for-second-day",
-        "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over"
+        "us-and-iran-exchange-back-and-forth-strikes-for-second-day"
       ],
       "new-energy-system": [
         "how-civil-nuclear-cooperation-deals-work",
