@@ -1,8 +1,203 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-24T19:14:57.905Z",
-  "rolling24HourCount": 4,
+  "updatedAt": "2026-07-25T13:24:53.444Z",
+  "rolling24HourCount": 3,
   "comics": [
+    {
+      "category": "World",
+      "contentType": "brief",
+      "generatedAt": "2026-07-25T13:24:04.142Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What happened",
+            "panel": 1
+          },
+          {
+            "label": "Why it matters",
+            "panel": 5
+          },
+          {
+            "label": "What to watch",
+            "panel": 6
+          }
+        ]
+      },
+      "imagePath": "/live/media/cockroaches-won-india-s-education-minister-resigns-amid-massive-youth-protests.webp",
+      "claims": [
+        {
+          "claim": "Alleged entrance-exam leaks force Indian students and families into nationwide accountability protests over public education.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Rallies and a 26-day hunger strike kept pressure on the ministry.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Dharmendra Pradhan sent his resignation to Prime Minister Narendra Modi.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Police dispersed New Delhi protesters before leaders returned to government talks.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Movement leaders said demands were accepted and ended the demonstrations.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Exam integrity and youth opportunity remain the next test for India's government.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Alleged entrance-exam leaks force Indian students and families into nationwide accountability protests over public education.",
+        "Rallies and a 26-day hunger strike kept pressure on the ministry.",
+        "Dharmendra Pradhan sent his resignation to Prime Minister Narendra Modi.",
+        "Police dispersed New Delhi protesters before leaders returned to government talks.",
+        "Movement leaders said demands were accepted and ended the demonstrations.",
+        "Exam integrity and youth opportunity remain the next test for India's government."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.278,
+          50.448
+        ],
+        [
+          33.518,
+          0,
+          27.559,
+          50.448
+        ],
+        [
+          63.206,
+          0,
+          36.794,
+          50.448
+        ],
+        [
+          0,
+          51.798,
+          33.278,
+          48.202
+        ],
+        [
+          33.518,
+          51.798,
+          27.559,
+          48.202
+        ],
+        [
+          63.206,
+          51.798,
+          36.794,
+          48.202
+        ]
+      ],
+      "primaryGuide": null,
+      "relatedBriefSlugs": [],
+      "shortTitle": "Exam Protests Force Reform Talks",
+      "slug": "cockroaches-won-india-s-education-minister-resigns-amid-massive-youth-protests",
+      "sourceCount": 7,
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/jul/25/dharmendra-pradhan-india-education-minister-resigns-cockroach-movement"
+        },
+        {
+          "name": "CBS News Latest",
+          "url": "https://www.cbsnews.com/news/india-protests-education-cockroach-party"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/world/india/india-education-minister-resigns-escalating-cockroach-protests-challen-rcna589188"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/25/indias-education-minister-resigns-after-weeks-of-cockroach-protests?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/india-cockroaches-end-protest-after-education-minister-dharmendra-pradhan-resigns/live-78108089?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/india-s-education-minister-resigns-in-major-victory-for-youth-protesters"
+        },
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns-cockroach-protests.html"
+        }
+      ],
+      "storylineKey": "",
+      "storylineNext": null,
+      "storylineTitle": "",
+      "summary": "India Education Minister Dharmendra Pradhan resigned after weeks of youth-led protests over alleged entrance-exam leaks, a 26-day hunger strike, and demands for education-system reform.",
+      "title": "Indian students force Pradhan resignation and exam reform talks",
+      "verificationNote": "Cross-checked across 7 sources"
+    },
     {
       "category": "U.S. & Politics",
       "contentType": "brief",
@@ -8425,191 +8620,6 @@
       "summary": "The U.S. and Iran traded new strikes after Trump said the ceasefire was over; the fighting threatens Hormuz shipping, Gulf security, and oil-price stability.",
       "title": "U.S. Strikes Iran Again, Testing Ceasefire and Hormuz Oil Route",
       "verificationNote": "Cross-checked across 4 sources"
-    },
-    {
-      "category": "U.S. & Politics",
-      "contentType": "brief",
-      "generatedAt": "2026-07-09T15:22:22.784Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What happened",
-            "panel": 1
-          },
-          {
-            "label": "Why it matters",
-            "panel": 5
-          },
-          {
-            "label": "What to watch",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/olympian-david-hearn-pleads-not-guilty-to-charges-of-damaging-reflecting-pool.webp",
-      "claims": [
-        {
-          "claim": "D.C. court charges over National Mall pool damage follow a $16 million renovation and new liner repairs.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Prosecutors say he pulled up blue liner material from the Lincoln Memorial Reflecting Pool on June 19.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The three-time Olympic canoe racer was indicted July 2 on one felony property-destruction count.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "President Trump ordered the National Mall pool renovation ahead of the nation's 250th anniversary.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Workers have treated algae, and liner repairs could require draining the pool again.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Judge Carmen McLean let Hearn await trial without supervision; a status hearing is set for Aug. 5.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "D.C. court charges over National Mall pool damage follow a $16 million renovation and new liner repairs.",
-        "Prosecutors say he pulled up blue liner material from the Lincoln Memorial Reflecting Pool on June 19.",
-        "The three-time Olympic canoe racer was indicted July 2 on one felony property-destruction count.",
-        "President Trump ordered the National Mall pool renovation ahead of the nation's 250th anniversary.",
-        "Workers have treated algae, and liner repairs could require draining the pool again.",
-        "Judge Carmen McLean let Hearn await trial without supervision; a status hearing is set for Aug. 5."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          33.604,
-          50.35
-        ],
-        [
-          34.821,
-          0,
-          31.14,
-          50.35
-        ],
-        [
-          66.201,
-          0,
-          33.799,
-          50.35
-        ],
-        [
-          0,
-          49.65,
-          33.604,
-          50.35
-        ],
-        [
-          34.821,
-          49.65,
-          31.14,
-          50.35
-        ],
-        [
-          66.201,
-          49.65,
-          33.799,
-          50.35
-        ]
-      ],
-      "primaryGuide": null,
-      "relatedBriefSlugs": [],
-      "shortTitle": "Hearn pleads not guilty in Reflecting Pool damage case",
-      "slug": "olympian-david-hearn-pleads-not-guilty-to-charges-of-damaging-reflecting-pool",
-      "sourceCount": 6,
-      "sources": [
-        {
-          "name": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/politics/former-olympic-canoe-racer-pleads-not-guilty-in-reflecting-pool-damage-case"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/jul/09/reflecting-pool-case-us-olympian-plea"
-        },
-        {
-          "name": "Axios",
-          "url": "https://www.axios.com/2026/07/02/olympian-indicted-for-allegedly-vandalizing-reflecting-pool"
-        },
-        {
-          "name": "ABC News U.S.",
-          "url": "https://abcnews.com/US/wireStory/former-olympian-pleads-guilty-reflecting-pool-damage-case-134616521"
-        },
-        {
-          "name": "CBS News Latest",
-          "url": "https://www.cbsnews.com/news/olympian-david-hearn-pleads-not-guilty-reflecting-pool-damage"
-        },
-        {
-          "name": "The New York Times U.S.",
-          "url": "https://www.nytimes.com/2026/07/09/us/david-hearn-olympian-reflecting-pool.html"
-        }
-      ],
-      "storylineKey": "",
-      "storylineNext": null,
-      "storylineTitle": "",
-      "summary": "Former Olympic canoe racer David Hearn pleaded not guilty in D.C. Superior Court after prosecutors accused him of damaging lining material at the recently renovated Lincoln Memorial Reflecting Pool; a status hearing is set for Aug. 5.",
-      "title": "David Hearn pleads not guilty in $16M Reflecting Pool damage case",
-      "verificationNote": "Cross-checked across 6 sources"
     }
   ],
   "dailyPaper": {
@@ -8659,6 +8669,18 @@
   },
   "feeds": {
     "categories": {
+      "World": [
+        "cockroaches-won-india-s-education-minister-resigns-amid-massive-youth-protests",
+        "trump-warns-iran-after-tanker-attacks-raise-oil-risk",
+        "defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
+        "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
+        "inflation-slowed-during-pause-in-war-with-iran",
+        "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
+        "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
+        "trump-says-iran-ceasefire-is-over",
+        "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the",
+        "one-of-spain-s-deadliest-wildfires-kills-at-least-12-people-with-23-others-missi"
+      ],
       "U.S. & Politics": [
         "dnc-committee-sets-up-south-carolina-to-vote-first-in-democrats-2028-presidentia",
         "israel-welcomes-trump-s-demand-for-diplomatic-ties-with-saudi-arabia",
@@ -8679,8 +8701,7 @@
         "trump-lets-housing-bill-become-law-without-signing",
         "chatgpt-56-security-gate",
         "trump-returns-from-turkey-in-old-air-force-one-jet-due-to-security-concerns",
-        "us-and-iran-exchange-back-and-forth-strikes-for-second-day",
-        "olympian-david-hearn-pleads-not-guilty-to-charges-of-damaging-reflecting-pool"
+        "us-and-iran-exchange-back-and-forth-strikes-for-second-day"
       ],
       "Guide": [
         "how-war-powers-votes-work",
@@ -8695,17 +8716,6 @@
         "how-the-digital-services-act-works",
         "how-mortgage-rates-move",
         "how-federal-race-and-ethnicity-data-works"
-      ],
-      "World": [
-        "trump-warns-iran-after-tanker-attacks-raise-oil-risk",
-        "defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
-        "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
-        "inflation-slowed-during-pause-in-war-with-iran",
-        "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
-        "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
-        "trump-says-iran-ceasefire-is-over",
-        "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the",
-        "one-of-spain-s-deadliest-wildfires-kills-at-least-12-people-with-23-others-missi"
       ],
       "Money": [
         "us-imposing-25-tariff-on-some-brazilian-imports-citing-unfair-trade-practices",
