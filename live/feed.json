@@ -1,8 +1,163 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-27T13:38:39.236Z",
-  "rolling24HourCount": 1,
+  "updatedAt": "2026-07-27T16:13:35.844Z",
+  "rolling24HourCount": 2,
   "comics": [
+    {
+      "category": "Guide",
+      "contentType": "guide",
+      "generatedAt": "2026-07-27T16:12:46.528Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What it explains",
+            "panel": 1
+          },
+          {
+            "label": "How it works",
+            "panel": 2
+          },
+          {
+            "label": "Where it gets hard",
+            "panel": 4
+          }
+        ]
+      },
+      "imagePath": "/live/media/how-wildfire-evacuations-work.webp",
+      "claims": [
+        {
+          "claim": "Wildfire warnings turn weather and fuel maps into safety orders for residents before flames arrive.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Incident command turns terrain, crew capacity, and road width into evacuation thresholds.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Local officials open an alert path through phones, media, sirens, and door checks.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Evacuees exit the road bottleneck while engines enter the fire corridor.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Failure mode: wind shift, power loss, traffic, or weak communications traps people late.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Watch the reentry gate: containment, weather, utilities, and inspections decide when zones reopen.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Wildfire warnings turn weather and fuel maps into safety orders for residents before flames arrive.",
+        "Incident command turns terrain, crew capacity, and road width into evacuation thresholds.",
+        "Local officials open an alert path through phones, media, sirens, and door checks.",
+        "Evacuees exit the road bottleneck while engines enter the fire corridor.",
+        "Failure mode: wind shift, power loss, traffic, or weak communications traps people late.",
+        "Watch the reentry gate: containment, weather, utilities, and inspections decide when zones reopen."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.148,
+          50.252
+        ],
+        [
+          33.388,
+          0,
+          33.224,
+          50.252
+        ],
+        [
+          66.852,
+          0,
+          33.148,
+          50.252
+        ],
+        [
+          0,
+          51.798,
+          33.148,
+          48.202
+        ],
+        [
+          33.388,
+          51.798,
+          33.224,
+          48.202
+        ],
+        [
+          66.852,
+          51.798,
+          33.148,
+          48.202
+        ]
+      ],
+      "primaryGuide": null,
+      "relatedBriefSlugs": [],
+      "shortTitle": "Wildfire Evacuations, Explained",
+      "slug": "how-wildfire-evacuations-work",
+      "sourceCount": 3,
+      "sources": [
+        {
+          "name": "National Weather Service: Wildfire Weather Safety",
+          "url": "https://www.weather.gov/safety/wildfire-ww"
+        },
+        {
+          "name": "Ready.gov: Wildfires",
+          "url": "https://www.ready.gov/wildfires"
+        },
+        {
+          "name": "National Interagency Fire Center: National Fire News",
+          "url": "https://www.nifc.gov/fire-information/nfn"
+        }
+      ],
+      "storylineKey": "",
+      "storylineNext": null,
+      "storylineTitle": "",
+      "summary": "Wildfire evacuations turn fire weather, fuels, crews, local authority, alert zones, routes, shelters, and reentry checks into staged decisions about who must move and when.",
+      "title": "How Wildfire Evacuations Work",
+      "verificationNote": "Cross-checked across 3 sources"
+    },
     {
       "category": "Tech & Science",
       "contentType": "brief",
@@ -150,7 +305,19 @@
           50.35
         ]
       ],
-      "primaryGuide": null,
+      "primaryGuide": {
+        "slug": "how-wildfire-evacuations-work",
+        "title": "How Wildfire Evacuations Work",
+        "url": "/live/?slug=how-wildfire-evacuations-work"
+      },
+      "readerNext": {
+        "buttonLabel": "Guide",
+        "kind": "background-guide",
+        "label": "Background guide",
+        "slug": "how-wildfire-evacuations-work",
+        "title": "How Wildfire Evacuations Work",
+        "url": "/live/?slug=how-wildfire-evacuations-work"
+      },
       "relatedBriefSlugs": [],
       "shortTitle": "Officials order evacuations as wildfires threaten residents",
       "slug": "spain-and-france-wildfires-force-more-than-300-000-to-flee-as-macron-calls-crisi",
@@ -6583,7 +6750,7 @@
       "storylineNext": {
         "slug": "trump-returns-from-turkey-in-old-air-force-one-jet-due-to-security-concerns",
         "title": "Trump takes old Air Force One for security",
-        "url": "/live/?slug=trump-returns-from-turkey-in-old-air-force-one-jet-due-to-security-concerns"
+        "url": "/briefs/trump-returns-from-turkey-in-old-air-force-one-jet-due-to-security-concerns/"
       },
       "storylineTitle": "The War and Security Order",
       "summary": "President Donald Trump says he will approve a license for Ukraine to produce Patriot missile interceptors, a potential long-term help for Kyiv as officials warn current air-defense stocks are running low against Russian ballistic attacks.",
@@ -7245,7 +7412,19 @@
           49.959
         ]
       ],
-      "primaryGuide": null,
+      "primaryGuide": {
+        "slug": "how-wildfire-evacuations-work",
+        "title": "How Wildfire Evacuations Work",
+        "url": "/live/?slug=how-wildfire-evacuations-work"
+      },
+      "readerNext": {
+        "buttonLabel": "Guide",
+        "kind": "background-guide",
+        "label": "Background guide",
+        "slug": "how-wildfire-evacuations-work",
+        "title": "How Wildfire Evacuations Work",
+        "url": "/live/?slug=how-wildfire-evacuations-work"
+      },
       "relatedBriefSlugs": [],
       "shortTitle": "Spain wildfire escape risk",
       "slug": "one-of-spain-s-deadliest-wildfires-kills-at-least-12-people-with-23-others-missi",
@@ -8451,177 +8630,6 @@
       "summary": "Federal race and ethnicity data turns self-identification, OMB standards, Census questions, detailed write-ins and agency tabulation rules into comparable statistics used for civil-rights enforcement, redistricting, program reporting and policy decisions.",
       "title": "How Federal Race and Ethnicity Data Works",
       "verificationNote": "Cross-checked across 3 sources"
-    },
-    {
-      "category": "U.S. & Politics",
-      "contentType": "brief",
-      "generatedAt": "2026-07-09T21:20:55.997Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What happened",
-            "panel": 1
-          },
-          {
-            "label": "Why it matters",
-            "panel": 4
-          },
-          {
-            "label": "What to watch",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/trump-returns-from-turkey-in-old-air-force-one-jet-due-to-security-concerns.webp",
-      "claims": [
-        {
-          "claim": "Trump left Turkey on the older Air Force One after U.S. strikes in Iran raised the security stakes.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The Secret Service advised using the older plane as a precaution, according to people briefed on the switch.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The older jet carried secure communications and military defenses officials wanted available during the Iran war.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "At RAF Mildenhall, the old jet met the new Qatari-gifted plane before the final leg home.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The U.S. spent $400 million retrofitting the new jet, which officials said still lacked some desired capabilities.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Officials cited no specific credible threat; readiness of the retrofitted jet remains the presidential-flight question.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "Trump left Turkey on the older Air Force One after U.S. strikes in Iran raised the security stakes.",
-        "The Secret Service advised using the older plane as a precaution, according to people briefed on the switch.",
-        "The older jet carried secure communications and military defenses officials wanted available during the Iran war.",
-        "At RAF Mildenhall, the old jet met the new Qatari-gifted plane before the final leg home.",
-        "The U.S. spent $400 million retrofitting the new jet, which officials said still lacked some desired capabilities.",
-        "Officials cited no specific credible threat; readiness of the retrofitted jet remains the presidential-flight question."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          33.213,
-          49.959
-        ],
-        [
-          34.365,
-          0,
-          31.987,
-          49.959
-        ],
-        [
-          66.982,
-          0,
-          33.018,
-          49.959
-        ],
-        [
-          0,
-          49.943,
-          33.213,
-          50.057
-        ],
-        [
-          34.365,
-          49.943,
-          31.987,
-          50.057
-        ],
-        [
-          66.982,
-          49.943,
-          33.018,
-          50.057
-        ]
-      ],
-      "primaryGuide": {
-        "slug": "how-war-powers-votes-work",
-        "title": "How War Powers Votes Work",
-        "url": "/live/?slug=how-war-powers-votes-work"
-      },
-      "readerNext": {
-        "buttonLabel": "Guide",
-        "kind": "background-guide",
-        "label": "Background guide",
-        "slug": "how-war-powers-votes-work",
-        "title": "How War Powers Votes Work",
-        "url": "/live/?slug=how-war-powers-votes-work"
-      },
-      "relatedBriefSlugs": [],
-      "shortTitle": "Trump takes old Air Force One for security",
-      "slug": "trump-returns-from-turkey-in-old-air-force-one-jet-due-to-security-concerns",
-      "sourceCount": 3,
-      "sources": [
-        {
-          "name": "ABC News U.S.",
-          "url": "https://abcnews.com/US/wireStory/surprise-swap-trump-flies-back-turkey-air-force-134596869"
-        },
-        {
-          "name": "CBS News Latest",
-          "url": "https://www.cbsnews.com/news/air-force-one-trump-turkey-secret-service"
-        },
-        {
-          "name": "NBC News Politics",
-          "url": "https://www.nbcnews.com/meet-the-press/video/trump-returns-from-turkey-in-old-air-force-one-jet-due-to-security-concerns-266454085809"
-        }
-      ],
-      "storylineKey": "war-security-order",
-      "storylineNext": {
-        "slug": "us-and-iran-exchange-back-and-forth-strikes-for-second-day",
-        "title": "U.S. Strikes Iran Again, Testing Ceasefire and Hormuz Oil Route",
-        "url": "/briefs/us-and-iran-exchange-back-and-forth-strikes-for-second-day/"
-      },
-      "storylineTitle": "The War and Security Order",
-      "summary": "After U.S. strikes in Iran, Trump left Turkey on the older Air Force One after Secret Service advice raised questions about the new Qatari-gifted jet's security readiness.",
-      "title": "Trump takes old Air Force One as Iran war raises security questions",
-      "verificationNote": "Cross-checked across 3 sources"
     }
   ],
   "dailyPaper": {
@@ -8671,6 +8679,21 @@
   },
   "feeds": {
     "categories": {
+      "Guide": [
+        "how-wildfire-evacuations-work",
+        "how-war-powers-votes-work",
+        "how-civil-nuclear-cooperation-deals-work",
+        "how-pay-transparency-laws-work",
+        "how-buy-now-pay-later-loans-work",
+        "how-us-senate-vacancies-are-filled",
+        "how-ev-battery-recycling-works",
+        "how-national-bank-charters-work",
+        "what-the-election-assistance-commission-does",
+        "how-bills-become-law-without-a-signature",
+        "how-the-digital-services-act-works",
+        "how-mortgage-rates-move",
+        "how-federal-race-and-ethnicity-data-works"
+      ],
       "Tech & Science": [
         "spain-and-france-wildfires-force-more-than-300-000-to-flee-as-macron-calls-crisi",
         "the-politics-of-new-york-s-data-center-construction-pause"
@@ -8705,22 +8728,7 @@
         "maine-democrats-announce-july-25-convention-to-pick-platner-replacement",
         "trump-leaves-election-assistance-commission-without-members",
         "trump-lets-housing-bill-become-law-without-signing",
-        "chatgpt-56-security-gate",
-        "trump-returns-from-turkey-in-old-air-force-one-jet-due-to-security-concerns"
-      ],
-      "Guide": [
-        "how-war-powers-votes-work",
-        "how-civil-nuclear-cooperation-deals-work",
-        "how-pay-transparency-laws-work",
-        "how-buy-now-pay-later-loans-work",
-        "how-us-senate-vacancies-are-filled",
-        "how-ev-battery-recycling-works",
-        "how-national-bank-charters-work",
-        "what-the-election-assistance-commission-does",
-        "how-bills-become-law-without-a-signature",
-        "how-the-digital-services-act-works",
-        "how-mortgage-rates-move",
-        "how-federal-race-and-ethnicity-data-works"
+        "chatgpt-56-security-gate"
       ],
       "Money": [
         "us-imposing-25-tariff-on-some-brazilian-imports-citing-unfair-trade-practices",
@@ -8733,6 +8741,7 @@
       ]
     },
     "guides": [
+      "how-wildfire-evacuations-work",
       "how-war-powers-votes-work",
       "how-civil-nuclear-cooperation-deals-work",
       "how-pay-transparency-laws-work",
@@ -8770,8 +8779,7 @@
         "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
         "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
         "trump-says-iran-ceasefire-is-over",
-        "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the",
-        "trump-returns-from-turkey-in-old-air-force-one-jet-due-to-security-concerns"
+        "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the"
       ],
       "new-energy-system": [
         "how-civil-nuclear-cooperation-deals-work",
