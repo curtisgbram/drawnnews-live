@@ -1,8 +1,193 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-25T13:24:53.444Z",
-  "rolling24HourCount": 3,
+  "updatedAt": "2026-07-27T13:38:39.236Z",
+  "rolling24HourCount": 1,
   "comics": [
+    {
+      "category": "Tech & Science",
+      "contentType": "brief",
+      "generatedAt": "2026-07-27T13:37:50.174Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What happened",
+            "panel": 1
+          },
+          {
+            "label": "Why it matters",
+            "panel": 2
+          },
+          {
+            "label": "What to watch",
+            "panel": 6
+          }
+        ]
+      },
+      "imagePath": "/live/media/spain-and-france-wildfires-force-more-than-300-000-to-flee-as-macron-calls-crisi.webp",
+      "claims": [
+        {
+          "claim": "Officials order mass evacuations as wildfires put residents, roads, crews near Bordeaux at safety risk.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Near Bordeaux, shifting winds pushed a Gironde blaze toward roads, rail lines, neighborhoods.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Spanish crews outside Madrid got weather relief, while Valencia officials reported one fatality.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "In southwest France, another 55,000 evacuation orders pushed displacement toward 250,000 people.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Burned land and closures hit tourist towns, vineyards, transport corridors, and local work.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Macron called ministers together as Sanchez headed to Valencia for the next response.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Officials order mass evacuations as wildfires put residents, roads, crews near Bordeaux at safety risk.",
+        "Near Bordeaux, shifting winds pushed a Gironde blaze toward roads, rail lines, neighborhoods.",
+        "Spanish crews outside Madrid got weather relief, while Valencia officials reported one fatality.",
+        "In southwest France, another 55,000 evacuation orders pushed displacement toward 250,000 people.",
+        "Burned land and closures hit tourist towns, vineyards, transport corridors, and local work.",
+        "Macron called ministers together as Sanchez headed to Valencia for the next response."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.2133,
+          50.35
+        ],
+        [
+          33.4533,
+          0,
+          33.0933,
+          50.35
+        ],
+        [
+          66.7867,
+          0,
+          33.2133,
+          50.35
+        ],
+        [
+          0,
+          49.65,
+          33.2133,
+          50.35
+        ],
+        [
+          33.4533,
+          49.65,
+          33.0933,
+          50.35
+        ],
+        [
+          66.7867,
+          49.65,
+          33.2133,
+          50.35
+        ]
+      ],
+      "primaryGuide": null,
+      "relatedBriefSlugs": [],
+      "shortTitle": "Officials order evacuations as wildfires threaten residents",
+      "slug": "spain-and-france-wildfires-force-more-than-300-000-to-flee-as-macron-calls-crisi",
+      "sourceCount": 6,
+      "sources": [
+        {
+          "name": "BBC Science",
+          "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "CNBC Top News",
+          "url": "https://www.cnbc.com/2026/07/27/wildfires-spain-france-bordeaux-heatwave.html"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/27/wildfires-in-southwest-europe-what-we-know-so-far?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/wildfires-spread-in-france-and-spain-forcing-more-to-flee/a-78119908?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20260726-bordeaux-under-threat-as-france-and-spain-battle-unprecedented-wildfires"
+        },
+        {
+          "name": "The New York Times World",
+          "url": "https://www.nytimes.com/2026/07/25/world/europe/europe-fires-france-spain-what-to-know.html"
+        }
+      ],
+      "storylineKey": "",
+      "storylineNext": null,
+      "storylineTitle": "",
+      "summary": "Authorities expanded evacuations, road and rail closures, and crisis meetings as fires in southwest France and Spain strained crews under heat and wind.",
+      "title": "Wildfires force evacuations near Bordeaux",
+      "verificationNote": "Cross-checked across 6 sources"
+    },
     {
       "category": "World",
       "contentType": "brief",
@@ -8431,195 +8616,12 @@
       "storylineNext": {
         "slug": "us-and-iran-exchange-back-and-forth-strikes-for-second-day",
         "title": "U.S. Strikes Iran Again, Testing Ceasefire and Hormuz Oil Route",
-        "url": "/live/?slug=us-and-iran-exchange-back-and-forth-strikes-for-second-day"
+        "url": "/briefs/us-and-iran-exchange-back-and-forth-strikes-for-second-day/"
       },
       "storylineTitle": "The War and Security Order",
       "summary": "After U.S. strikes in Iran, Trump left Turkey on the older Air Force One after Secret Service advice raised questions about the new Qatari-gifted jet's security readiness.",
       "title": "Trump takes old Air Force One as Iran war raises security questions",
       "verificationNote": "Cross-checked across 3 sources"
-    },
-    {
-      "category": "U.S. & Politics",
-      "contentType": "brief",
-      "generatedAt": "2026-07-09T19:28:53.886Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What happened",
-            "panel": 1
-          },
-          {
-            "label": "Why it matters",
-            "panel": 5
-          },
-          {
-            "label": "What to watch",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/us-and-iran-exchange-back-and-forth-strikes-for-second-day.webp",
-      "claims": [
-        {
-          "claim": "U.S. strikes Iran again after Hormuz ship attacks, putting the ceasefire, Gulf security, and oil prices at risk.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Iran says a U.S. strike landed near its nuclear power plant as blasts spread across the country.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Command screens track a second day of back-and-forth attacks while leaders weigh how far to escalate.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The Strait of Hormuz remains the map stake because ships, fuel markets, and mariners depend on passage.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Markets watch oil boards after the strikes jolt prices and raise costs beyond the Gulf.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The next move is whether mediators can save talks while Washington and Tehran trade warnings.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "U.S. strikes Iran again after Hormuz ship attacks, putting the ceasefire, Gulf security, and oil prices at risk.",
-        "Iran says a U.S. strike landed near its nuclear power plant as blasts spread across the country.",
-        "Command screens track a second day of back-and-forth attacks while leaders weigh how far to escalate.",
-        "The Strait of Hormuz remains the map stake because ships, fuel markets, and mariners depend on passage.",
-        "Markets watch oil boards after the strikes jolt prices and raise costs beyond the Gulf.",
-        "The next move is whether mediators can save talks while Washington and Tehran trade warnings."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          33.213,
-          50.35
-        ],
-        [
-          33.453,
-          0,
-          33.093,
-          50.35
-        ],
-        [
-          66.787,
-          0,
-          33.213,
-          50.35
-        ],
-        [
-          0,
-          49.65,
-          33.213,
-          50.35
-        ],
-        [
-          33.453,
-          49.65,
-          33.093,
-          50.35
-        ],
-        [
-          66.787,
-          49.65,
-          33.213,
-          50.35
-        ]
-      ],
-      "primaryGuide": {
-        "slug": "how-oil-prices-move",
-        "title": "How Oil Prices Move",
-        "url": "/briefs/how-oil-prices-move/"
-      },
-      "readerNext": {
-        "buttonLabel": "Read update",
-        "kind": "latest-development",
-        "label": "Latest development",
-        "slug": "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
-        "title": "Trump Changes Hormuz Toll Plan, With Tankers Stalled",
-        "url": "/live/?slug=trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz"
-      },
-      "relatedBriefSlugs": [
-        "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over"
-      ],
-      "shortTitle": "U.S. Strikes Iran Again, Testing Ceasefire and Hormuz Oil Route",
-      "slug": "us-and-iran-exchange-back-and-forth-strikes-for-second-day",
-      "sourceCount": 4,
-      "sources": [
-        {
-          "name": "ABC News U.S.",
-          "url": "https://abcnews.com/US/wireStory/iran-deal-war-back-timeline-conflict-talks-134583039"
-        },
-        {
-          "name": "NBC News",
-          "url": "https://www.today.com/video/us-and-iran-exchange-back-and-forth-strikes-for-second-day-266418245880"
-        },
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/iran-claims-us-strike-hit-near-nuclear-powerplant"
-        },
-        {
-          "name": "The New York Times U.S.",
-          "url": "https://www.nytimes.com/2026/07/08/us/politics/us-iran-strikes.html"
-        }
-      ],
-      "storylineKey": "war-security-order",
-      "storylineNext": {
-        "slug": "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
-        "title": "U.S. and Iran Trade Strikes, Raising Hormuz Shipping Risk",
-        "url": "/briefs/u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over/"
-      },
-      "storylineTitle": "The War and Security Order",
-      "summary": "The U.S. and Iran traded new strikes after Trump said the ceasefire was over; the fighting threatens Hormuz shipping, Gulf security, and oil-price stability.",
-      "title": "U.S. Strikes Iran Again, Testing Ceasefire and Hormuz Oil Route",
-      "verificationNote": "Cross-checked across 4 sources"
     }
   ],
   "dailyPaper": {
@@ -8669,6 +8671,10 @@
   },
   "feeds": {
     "categories": {
+      "Tech & Science": [
+        "spain-and-france-wildfires-force-more-than-300-000-to-flee-as-macron-calls-crisi",
+        "the-politics-of-new-york-s-data-center-construction-pause"
+      ],
       "World": [
         "cockroaches-won-india-s-education-minister-resigns-amid-massive-youth-protests",
         "trump-warns-iran-after-tanker-attacks-raise-oil-risk",
@@ -8700,8 +8706,7 @@
         "trump-leaves-election-assistance-commission-without-members",
         "trump-lets-housing-bill-become-law-without-signing",
         "chatgpt-56-security-gate",
-        "trump-returns-from-turkey-in-old-air-force-one-jet-due-to-security-concerns",
-        "us-and-iran-exchange-back-and-forth-strikes-for-second-day"
+        "trump-returns-from-turkey-in-old-air-force-one-jet-due-to-security-concerns"
       ],
       "Guide": [
         "how-war-powers-votes-work",
@@ -8725,9 +8730,6 @@
       ],
       "Sports & Culture": [
         "world-cup-favorites-france-unravel-as-spain-book-s"
-      ],
-      "Tech & Science": [
-        "the-politics-of-new-york-s-data-center-construction-pause"
       ]
     },
     "guides": [
@@ -8769,8 +8771,7 @@
         "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
         "trump-says-iran-ceasefire-is-over",
         "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the",
-        "trump-returns-from-turkey-in-old-air-force-one-jet-due-to-security-concerns",
-        "us-and-iran-exchange-back-and-forth-strikes-for-second-day"
+        "trump-returns-from-turkey-in-old-air-force-one-jet-due-to-security-concerns"
       ],
       "new-energy-system": [
         "how-civil-nuclear-cooperation-deals-work",
