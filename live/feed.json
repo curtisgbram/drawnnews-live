@@ -1,8 +1,173 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-27T16:13:35.844Z",
-  "rolling24HourCount": 2,
+  "updatedAt": "2026-07-27T19:27:12.178Z",
+  "rolling24HourCount": 3,
   "comics": [
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-27T19:26:22.853Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What happened",
+            "panel": 1
+          },
+          {
+            "label": "Why it matters",
+            "panel": 5
+          },
+          {
+            "label": "Where it stands",
+            "panel": 6
+          }
+        ]
+      },
+      "imagePath": "/live/media/citing-common-sense-james-comey-s-team-urges-judge-to-toss-seashells-case.webp",
+      "claims": [
+        {
+          "claim": "James Comey's lawyers asked a federal judge to dismiss charges over a seashell Instagram post.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Prosecutors cite shells arranged as '86 47,' which they tied to President Trump.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The defense says the government cannot prove the post was a true threat.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The judge must decide whether the case moves toward trial.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The dispute turns a social-media image into evidence for a federal court.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "If dismissal fails, hearings continue over intent, context, and legal boundaries.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "James Comey's lawyers asked a federal judge to dismiss charges over a seashell Instagram post.",
+        "Prosecutors cite shells arranged as '86 47,' which they tied to President Trump.",
+        "The defense says the government cannot prove the post was a true threat.",
+        "The judge must decide whether the case moves toward trial.",
+        "The dispute turns a social-media image into evidence for a federal court.",
+        "If dismissal fails, hearings continue over intent, context, and legal boundaries."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          28.916,
+          50.545
+        ],
+        [
+          30.003,
+          0,
+          36.544,
+          50.545
+        ],
+        [
+          66.787,
+          0,
+          33.213,
+          50.545
+        ],
+        [
+          0,
+          51.798,
+          28.916,
+          48.202
+        ],
+        [
+          30.003,
+          51.798,
+          36.544,
+          48.202
+        ],
+        [
+          66.787,
+          51.798,
+          33.213,
+          48.202
+        ]
+      ],
+      "primaryGuide": null,
+      "relatedBriefSlugs": [],
+      "shortTitle": "Comey asks judge to dismiss case",
+      "slug": "citing-common-sense-james-comey-s-team-urges-judge-to-toss-seashells-case",
+      "sourceCount": 4,
+      "sources": [
+        {
+          "name": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/politics/comey-says-seashells-post-was-political-speech-not-a-threat-as-he-presses-judge-to-dismiss-charges"
+        },
+        {
+          "name": "CBS News Latest",
+          "url": "https://www.cbsnews.com/news/james-comey-trump-86-47-seashells-instagram-post-first-amendment"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/politics/justice-department/james-comey-seashells-case-lawyers-ask-judge-dismiss-trump-administrat-rcna589465"
+        },
+        {
+          "name": "CNBC Top News",
+          "url": "https://www.cnbc.com/2026/07/27/james-comey-trump-seashells-threat.html"
+        }
+      ],
+      "storylineKey": "",
+      "storylineNext": null,
+      "storylineTitle": "",
+      "summary": "James Comey's lawyers asked a federal judge to dismiss charges tied to an Instagram photo of seashells arranged as '86 47,' arguing prosecutors cannot prove",
+      "title": "Comey asks judge to dismiss seashell-post threat case",
+      "verificationNote": "Cross-checked across 4 sources"
+    },
     {
       "category": "Guide",
       "contentType": "guide",
@@ -7666,7 +7831,7 @@
       "storylineNext": {
         "slug": "how-federal-race-and-ethnicity-data-works",
         "title": "Federal Race and Ethnicity Data, Explained",
-        "url": "/live/?slug=how-federal-race-and-ethnicity-data-works"
+        "url": "/briefs/how-federal-race-and-ethnicity-data-works/"
       },
       "storylineTitle": "U.S. Elections",
       "summary": "The bipartisan housing bill takes effect without Trump's signature because he chose not to sign or veto it while demanding action on voter ID legislation.",
@@ -8471,165 +8636,6 @@
       "summary": "OpenAI moved ChatGPT 5.6 from restricted early access to a wider release after a government-requested cybersecurity review and additional testing.",
       "title": "OpenAI Released ChatGPT 5.6 Through a Security Gate",
       "verificationNote": "Cross-checked across 2 sources"
-    },
-    {
-      "category": "Guide",
-      "contentType": "guide",
-      "generatedAt": "2026-07-09T21:59:53.425Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What it explains",
-            "panel": 1
-          },
-          {
-            "label": "How it works",
-            "panel": 2
-          },
-          {
-            "label": "Where it gets hard",
-            "panel": 5
-          }
-        ]
-      },
-      "imagePath": "/live/media/how-federal-race-and-ethnicity-data-works.webp",
-      "claims": [
-        {
-          "claim": "Federal race and ethnicity data turns self-identification into government rules for civil rights, redistricting, programs and policy decisions.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Input gate: OMB sets minimum category rules so agencies compare data across censuses, surveys and civil-rights reports.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Data path: the combined question allows multiple selections and adds the Middle Eastern or North African category in 2024.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Tabulation ledger: Census forms convert checkboxes and write-ins into grouped tables for policy decisions, redistricting and civil rights.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Failure mode: confusing categories, missing detail or small samples can hide communities or break comparisons over time.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Watch timeline: agency action plans, the 2027 American Community Survey and the 2030 Census show implementation.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "Federal race and ethnicity data turns self-identification into government rules for civil rights, redistricting, programs and policy decisions.",
-        "Input gate: OMB sets minimum category rules so agencies compare data across censuses, surveys and civil-rights reports.",
-        "Data path: the combined question allows multiple selections and adds the Middle Eastern or North African category in 2024.",
-        "Tabulation ledger: Census forms convert checkboxes and write-ins into grouped tables for policy decisions, redistricting and civil rights.",
-        "Failure mode: confusing categories, missing detail or small samples can hide communities or break comparisons over time.",
-        "Watch timeline: agency action plans, the 2027 American Community Survey and the 2030 Census show implementation."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          32.823,
-          49.08
-        ],
-        [
-          33.649,
-          0,
-          30.294,
-          49.08
-        ],
-        [
-          64.768,
-          0,
-          35.232,
-          49.08
-        ],
-        [
-          0,
-          49.162,
-          32.823,
-          50.838
-        ],
-        [
-          33.649,
-          49.162,
-          30.294,
-          50.838
-        ],
-        [
-          64.768,
-          49.162,
-          35.232,
-          50.838
-        ]
-      ],
-      "primaryGuide": null,
-      "relatedBriefSlugs": [],
-      "shortTitle": "Federal Race and Ethnicity Data, Explained",
-      "slug": "how-federal-race-and-ethnicity-data-works",
-      "sourceCount": 3,
-      "sources": [
-        {
-          "name": "U.S. Census Bureau: Race/Ethnicity Standards Update",
-          "url": "https://www.census.gov/about/our-research/race-ethnicity/standards-updates.html"
-        },
-        {
-          "name": "U.S. Census Bureau: Race",
-          "url": "https://www.census.gov/topics/population/race/about.html"
-        },
-        {
-          "name": "U.S. Census Bureau: Hispanic Origin",
-          "url": "https://www.census.gov/topics/population/hispanic-origin/about.html"
-        }
-      ],
-      "storylineKey": "governing-crisis",
-      "storylineNext": {
-        "slug": "latino-trump-voters-are-less-likely-than-harris-voters-to-say-being-latino-is-ce",
-        "title": "Trump-Harris Survey Tests Latino Voters' Identity Split",
-        "url": "/briefs/latino-trump-voters-are-less-likely-than-harris-voters-to-say-being-latino-is-ce/"
-      },
-      "storylineTitle": "U.S. Elections",
-      "summary": "Federal race and ethnicity data turns self-identification, OMB standards, Census questions, detailed write-ins and agency tabulation rules into comparable statistics used for civil-rights enforcement, redistricting, program reporting and policy decisions.",
-      "title": "How Federal Race and Ethnicity Data Works",
-      "verificationNote": "Cross-checked across 3 sources"
     }
   ],
   "dailyPaper": {
@@ -8679,38 +8685,8 @@
   },
   "feeds": {
     "categories": {
-      "Guide": [
-        "how-wildfire-evacuations-work",
-        "how-war-powers-votes-work",
-        "how-civil-nuclear-cooperation-deals-work",
-        "how-pay-transparency-laws-work",
-        "how-buy-now-pay-later-loans-work",
-        "how-us-senate-vacancies-are-filled",
-        "how-ev-battery-recycling-works",
-        "how-national-bank-charters-work",
-        "what-the-election-assistance-commission-does",
-        "how-bills-become-law-without-a-signature",
-        "how-the-digital-services-act-works",
-        "how-mortgage-rates-move",
-        "how-federal-race-and-ethnicity-data-works"
-      ],
-      "Tech & Science": [
-        "spain-and-france-wildfires-force-more-than-300-000-to-flee-as-macron-calls-crisi",
-        "the-politics-of-new-york-s-data-center-construction-pause"
-      ],
-      "World": [
-        "cockroaches-won-india-s-education-minister-resigns-amid-massive-youth-protests",
-        "trump-warns-iran-after-tanker-attacks-raise-oil-risk",
-        "defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
-        "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
-        "inflation-slowed-during-pause-in-war-with-iran",
-        "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
-        "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
-        "trump-says-iran-ceasefire-is-over",
-        "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the",
-        "one-of-spain-s-deadliest-wildfires-kills-at-least-12-people-with-23-others-missi"
-      ],
       "U.S. & Politics": [
+        "citing-common-sense-james-comey-s-team-urges-judge-to-toss-seashells-case",
         "dnc-committee-sets-up-south-carolina-to-vote-first-in-democrats-2028-presidentia",
         "israel-welcomes-trump-s-demand-for-diplomatic-ties-with-saudi-arabia",
         "trump-attends-dignified-transfer-of-4-service-members-killed-in-iran-attacks",
@@ -8729,6 +8705,36 @@
         "trump-leaves-election-assistance-commission-without-members",
         "trump-lets-housing-bill-become-law-without-signing",
         "chatgpt-56-security-gate"
+      ],
+      "Guide": [
+        "how-wildfire-evacuations-work",
+        "how-war-powers-votes-work",
+        "how-civil-nuclear-cooperation-deals-work",
+        "how-pay-transparency-laws-work",
+        "how-buy-now-pay-later-loans-work",
+        "how-us-senate-vacancies-are-filled",
+        "how-ev-battery-recycling-works",
+        "how-national-bank-charters-work",
+        "what-the-election-assistance-commission-does",
+        "how-bills-become-law-without-a-signature",
+        "how-the-digital-services-act-works",
+        "how-mortgage-rates-move"
+      ],
+      "Tech & Science": [
+        "spain-and-france-wildfires-force-more-than-300-000-to-flee-as-macron-calls-crisi",
+        "the-politics-of-new-york-s-data-center-construction-pause"
+      ],
+      "World": [
+        "cockroaches-won-india-s-education-minister-resigns-amid-massive-youth-protests",
+        "trump-warns-iran-after-tanker-attacks-raise-oil-risk",
+        "defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
+        "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
+        "inflation-slowed-during-pause-in-war-with-iran",
+        "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
+        "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
+        "trump-says-iran-ceasefire-is-over",
+        "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the",
+        "one-of-spain-s-deadliest-wildfires-kills-at-least-12-people-with-23-others-missi"
       ],
       "Money": [
         "us-imposing-25-tariff-on-some-brazilian-imports-citing-unfair-trade-practices",
@@ -8752,8 +8758,7 @@
       "what-the-election-assistance-commission-does",
       "how-bills-become-law-without-a-signature",
       "how-the-digital-services-act-works",
-      "how-mortgage-rates-move",
-      "how-federal-race-and-ethnicity-data-works"
+      "how-mortgage-rates-move"
     ],
     "storylines": {
       "governing-crisis": [
@@ -8766,8 +8771,7 @@
         "what-the-election-assistance-commission-does",
         "maine-democrats-announce-july-25-convention-to-pick-platner-replacement",
         "trump-leaves-election-assistance-commission-without-members",
-        "trump-lets-housing-bill-become-law-without-signing",
-        "how-federal-race-and-ethnicity-data-works"
+        "trump-lets-housing-bill-become-law-without-signing"
       ],
       "war-security-order": [
         "trump-warns-iran-after-tanker-attacks-raise-oil-risk",
