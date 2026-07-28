@@ -1,8 +1,195 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-28T16:22:55.261Z",
-  "rolling24HourCount": 4,
+  "updatedAt": "2026-07-28T19:16:35.172Z",
+  "rolling24HourCount": 5,
   "comics": [
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-28T19:15:45.302Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What happened",
+            "panel": 1
+          },
+          {
+            "label": "Why it matters",
+            "panel": 5
+          },
+          {
+            "label": "What to watch",
+            "panel": 6
+          }
+        ]
+      },
+      "imagePath": "/live/media/watch-trump-calls-graham-beloved-friend-and-american-original-in-eulogy.webp",
+      "claims": [
+        {
+          "claim": "Graham's death cuts Ukraine's Senate access, heightening military aid stakes around Trump's White House.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Trump led the eulogy at Washington National Cathedral before senior U.S. officials.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Zelenskyy attended, underscoring Graham's role as an advocate for Ukraine in Washington.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Netanyahu and congressional leaders joined, showing how Graham's network crossed domestic and foreign policy.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Senators must decide who now carries Ukraine's case to Trump's office.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "A South Carolina service follows Wednesday before Washington tests the next Ukraine messenger.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Graham's death cuts Ukraine's Senate access, heightening military aid stakes around Trump's White House.",
+        "Trump led the eulogy at Washington National Cathedral before senior U.S. officials.",
+        "Zelenskyy attended, underscoring Graham's role as an advocate for Ukraine in Washington.",
+        "Netanyahu and congressional leaders joined, showing how Graham's network crossed domestic and foreign policy.",
+        "Senators must decide who now carries Ukraine's case to Trump's office.",
+        "A South Carolina service follows Wednesday before Washington tests the next Ukraine messenger."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.213,
+          50.35
+        ],
+        [
+          33.453,
+          0,
+          33.093,
+          50.35
+        ],
+        [
+          66.787,
+          0,
+          33.213,
+          50.35
+        ],
+        [
+          0,
+          49.65,
+          33.213,
+          50.35
+        ],
+        [
+          33.453,
+          49.65,
+          33.093,
+          50.35
+        ],
+        [
+          66.787,
+          49.65,
+          33.213,
+          50.35
+        ]
+      ],
+      "primaryGuide": null,
+      "readerNext": {
+        "buttonLabel": "Storyline",
+        "kind": "storyline",
+        "label": "Storyline",
+        "slug": "war-security-order",
+        "title": "The War and Security Order",
+        "url": "/storylines/war-security-order/"
+      },
+      "relatedBriefSlugs": [],
+      "shortTitle": "Graham's Death Cuts Ukraine's Trump Channel",
+      "slug": "watch-trump-calls-graham-beloved-friend-and-american-original-in-eulogy",
+      "sourceCount": 5,
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/live/2026/jul/28/lindsey-graham-funeral-donald-trump-benjamin-netanyahu-volodymyr-zelenskyy-iran-israel-hormuz-ukraine-russia-latest-news-updates"
+        },
+        {
+          "name": "ABC News Top Stories",
+          "url": "https://abcnews.com/Politics/sen-lindsey-grahams-funeral-service-place-dc-tuesday/story?id=135118944"
+        },
+        {
+          "name": "CBS News Latest",
+          "url": "https://www.cbsnews.com/live-updates/lindsey-graham-funeral-trump-washington-dc"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/politics/congress/washington-says-goodbye-sen-lindsey-graham-rcna589475"
+        },
+        {
+          "name": "The New York Times U.S.",
+          "url": "https://www.nytimes.com/live/2026/07/28/us/lindsey-graham-funeral-services/with-lindsey-graham-gone-ukraine-loses-an-ally-with-trumps-ear"
+        }
+      ],
+      "storylineKey": "war-security-order",
+      "storylineNext": {
+        "slug": "trump-warns-iran-after-tanker-attacks-raise-oil-risk",
+        "title": "Trump Warns Iran Over Red Sea Oil Risk",
+        "url": "/live/?slug=trump-warns-iran-after-tanker-attacks-raise-oil-risk"
+      },
+      "storylineTitle": "The War and Security Order",
+      "summary": "At Sen. Lindsey Graham's Washington funeral, Trump and foreign leaders marked the loss of a senator whose Ukraine advocacy gave Kyiv a channel into Trump's circle.",
+      "title": "Graham's Death Cuts Ukraine's Channel to Trump",
+      "verificationNote": "Cross-checked across 5 sources"
+    },
     {
       "category": "Guide",
       "contentType": "guide",
@@ -8533,171 +8720,6 @@
       "summary": "The Digital Services Act turns online-platform risks into EU duties: user rights, very-large-platform designation, systemic-risk assessments, mitigation measures, audits, data access and enforcement deadlines.",
       "title": "How the Digital Services Act Works",
       "verificationNote": "Cross-checked across 4 sources"
-    },
-    {
-      "category": "Money",
-      "contentType": "brief",
-      "generatedAt": "2026-07-10T13:11:51.454Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What happened",
-            "panel": 1
-          },
-          {
-            "label": "Why it matters",
-            "panel": 5
-          },
-          {
-            "label": "Where it stands",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/easyjet-agrees-to-apollo-7-7b-bid-sidelining-castlelake-offer.webp",
-      "claims": [
-        {
-          "claim": "EasyJet says Apollo's $7.7B deal beats Castlelake's weekend proposal, putting shareholder money behind a higher bid.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Apollo offers £7.15 a share, above Castlelake's £6.90, putting two U.S. investors over the same airline.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The board says Apollo delivers a superior outcome and is no longer minded to recommend Castlelake.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The airline employs more than 19,000 people and operates across 35 European countries.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "EasyJet shares rose 13.2% Friday after Apollo put a richer bid before owners.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Apollo has until Aug. 7 under U.K. rules to make a firm offer or walk away.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "EasyJet says Apollo's $7.7B deal beats Castlelake's weekend proposal, putting shareholder money behind a higher bid.",
-        "Apollo offers £7.15 a share, above Castlelake's £6.90, putting two U.S. investors over the same airline.",
-        "The board says Apollo delivers a superior outcome and is no longer minded to recommend Castlelake.",
-        "The airline employs more than 19,000 people and operates across 35 European countries.",
-        "EasyJet shares rose 13.2% Friday after Apollo put a richer bid before owners.",
-        "Apollo has until Aug. 7 under U.K. rules to make a firm offer or walk away."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          33.278,
-          50.35
-        ],
-        [
-          35.016,
-          0,
-          31.987,
-          50.35
-        ],
-        [
-          67.242,
-          0,
-          32.758,
-          50.35
-        ],
-        [
-          0,
-          50.236,
-          33.278,
-          49.764
-        ],
-        [
-          35.016,
-          50.236,
-          31.987,
-          49.764
-        ],
-        [
-          67.242,
-          50.236,
-          32.758,
-          49.764
-        ]
-      ],
-      "primaryGuide": null,
-      "relatedBriefSlugs": [],
-      "shortTitle": "EasyJet agrees to Apollo's $7.7B bid, sidelining Castlelake offer",
-      "slug": "easyjet-agrees-to-apollo-7-7b-bid-sidelining-castlelake-offer",
-      "sourceCount": 4,
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Guardian US",
-          "url": "https://www.theguardian.com/business/2026/jul/10/us-private-equity-firm-apollo-enters-bidding-war-for-easyjet"
-        },
-        {
-          "name": "CBS News Latest",
-          "url": "https://www.cbsnews.com/news/easyjet-takeover-offer-apollo-bidding-war-castlerock"
-        },
-        {
-          "name": "CNBC Top News",
-          "url": "https://www.cnbc.com/2026/07/10/easyjet-apollo-takeover-bid-castlelake-share-price.html"
-        }
-      ],
-      "storylineKey": "",
-      "storylineNext": null,
-      "storylineTitle": "",
-      "summary": "British budget airline EasyJet says it has reached an agreement in principle on Apollo's £5.7 billion ($7.7 billion) takeover offer, above Castlelake's rival proposal.",
-      "title": "EasyJet agrees to Apollo's $7.7B bid, sidelining Castlelake offer",
-      "verificationNote": "Cross-checked across 4 sources"
     }
   ],
   "dailyPaper": {
@@ -8747,6 +8769,28 @@
   },
   "feeds": {
     "categories": {
+      "U.S. & Politics": [
+        "watch-trump-calls-graham-beloved-friend-and-american-original-in-eulogy",
+        "trump-asks-supreme-court-to-allow-order-restricting-mail-voting",
+        "citing-common-sense-james-comey-s-team-urges-judge-to-toss-seashells-case",
+        "dnc-committee-sets-up-south-carolina-to-vote-first-in-democrats-2028-presidentia",
+        "israel-welcomes-trump-s-demand-for-diplomatic-ties-with-saudi-arabia",
+        "trump-attends-dignified-transfer-of-4-service-members-killed-in-iran-attacks",
+        "trump-administration-signs-commercial-nuclear-deal-with-saudi-arabia",
+        "house-votes-for-permanent-daylight-saving-time",
+        "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
+        "justice-kagan-calls-for-additional-supreme-court-security-funding",
+        "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa",
+        "grahams-death-opens-senate-seat-as-gop-guards-slim-majority",
+        "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
+        "200-young-campers-staff-rescued-amid-record-flooding-in-missouri",
+        "justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporti",
+        "apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secr",
+        "graham-platner-officially-withdraws-from-the-maine-senate-race",
+        "maine-democrats-announce-july-25-convention-to-pick-platner-replacement",
+        "trump-leaves-election-assistance-commission-without-members",
+        "trump-lets-housing-bill-become-law-without-signing"
+      ],
       "Guide": [
         "how-mail-ballots-are-processed",
         "how-wildfire-evacuations-work",
@@ -8774,35 +8818,13 @@
         "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the",
         "one-of-spain-s-deadliest-wildfires-kills-at-least-12-people-with-23-others-missi"
       ],
-      "U.S. & Politics": [
-        "trump-asks-supreme-court-to-allow-order-restricting-mail-voting",
-        "citing-common-sense-james-comey-s-team-urges-judge-to-toss-seashells-case",
-        "dnc-committee-sets-up-south-carolina-to-vote-first-in-democrats-2028-presidentia",
-        "israel-welcomes-trump-s-demand-for-diplomatic-ties-with-saudi-arabia",
-        "trump-attends-dignified-transfer-of-4-service-members-killed-in-iran-attacks",
-        "trump-administration-signs-commercial-nuclear-deal-with-saudi-arabia",
-        "house-votes-for-permanent-daylight-saving-time",
-        "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
-        "justice-kagan-calls-for-additional-supreme-court-security-funding",
-        "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa",
-        "grahams-death-opens-senate-seat-as-gop-guards-slim-majority",
-        "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
-        "200-young-campers-staff-rescued-amid-record-flooding-in-missouri",
-        "justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporti",
-        "apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secr",
-        "graham-platner-officially-withdraws-from-the-maine-senate-race",
-        "maine-democrats-announce-july-25-convention-to-pick-platner-replacement",
-        "trump-leaves-election-assistance-commission-without-members",
-        "trump-lets-housing-bill-become-law-without-signing"
-      ],
       "Tech & Science": [
         "spain-and-france-wildfires-force-more-than-300-000-to-flee-as-macron-calls-crisi",
         "the-politics-of-new-york-s-data-center-construction-pause"
       ],
       "Money": [
         "us-imposing-25-tariff-on-some-brazilian-imports-citing-unfair-trade-practices",
-        "paramount-and-warner-bros-sued-to-block-110bn-mega-merger",
-        "easyjet-agrees-to-apollo-7-7b-bid-sidelining-castlelake-offer"
+        "paramount-and-warner-bros-sued-to-block-110bn-mega-merger"
       ],
       "Sports & Culture": [
         "world-cup-favorites-france-unravel-as-spain-book-s"
@@ -8823,6 +8845,19 @@
       "how-the-digital-services-act-works"
     ],
     "storylines": {
+      "war-security-order": [
+        "watch-trump-calls-graham-beloved-friend-and-american-original-in-eulogy",
+        "trump-warns-iran-after-tanker-attacks-raise-oil-risk",
+        "israel-welcomes-trump-s-demand-for-diplomatic-ties-with-saudi-arabia",
+        "defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
+        "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
+        "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
+        "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
+        "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
+        "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
+        "trump-says-iran-ceasefire-is-over",
+        "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the"
+      ],
       "governing-crisis": [
         "how-mail-ballots-are-processed",
         "trump-asks-supreme-court-to-allow-order-restricting-mail-voting",
@@ -8836,18 +8871,6 @@
         "maine-democrats-announce-july-25-convention-to-pick-platner-replacement",
         "trump-leaves-election-assistance-commission-without-members",
         "trump-lets-housing-bill-become-law-without-signing"
-      ],
-      "war-security-order": [
-        "trump-warns-iran-after-tanker-attacks-raise-oil-risk",
-        "israel-welcomes-trump-s-demand-for-diplomatic-ties-with-saudi-arabia",
-        "defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
-        "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
-        "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
-        "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
-        "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
-        "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
-        "trump-says-iran-ceasefire-is-over",
-        "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the"
       ],
       "new-energy-system": [
         "how-civil-nuclear-cooperation-deals-work",
