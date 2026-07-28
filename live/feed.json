@@ -1,6 +1,6 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-28T01:13:59.822Z",
+  "updatedAt": "2026-07-28T05:07:25.517Z",
   "rolling24HourCount": 4,
   "comics": [
     {
@@ -8674,46 +8674,46 @@
     "briefs": [
       {
         "category": "U.S. & Politics",
-        "shortTitle": "Saudi Nuclear Pact Faces Gate",
-        "slug": "israel-welcomes-trump-s-demand-for-diplomatic-ties-with-saudi-arabia",
-        "summary": "Trump says a U.S.-Saudi civilian nuclear pact depends on Saudi Arabia joining the Abraham Accords.",
-        "title": "Trump Adds Israel Condition to Saudi Nuclear Pact"
+        "shortTitle": "Justice Department Seeks Ballot Block Lifted",
+        "slug": "trump-asks-supreme-court-to-allow-order-restricting-mail-voting",
+        "summary": "The Justice Department asked justices to lift a lower-court block on mail-ballot rules affecting 23 suing states before November midterms.",
+        "title": "Justice Department Asks Justices to Lift 23-State Mail-Ballot Block"
       },
       {
         "category": "U.S. & Politics",
-        "shortTitle": "Four U.S. War Dead Return",
-        "slug": "trump-attends-dignified-transfer-of-4-service-members-killed-in-iran-attacks",
-        "summary": "Trump and Defense Secretary Pete Hegseth attended a dignified transfer at Dover Air Force Base for four U.S. Army soldiers killed in recent Middle East attacks.",
-        "title": "Trump Attends Dover Transfer as Four U.S. War Dead Return"
+        "shortTitle": "Comey asks judge to dismiss case",
+        "slug": "citing-common-sense-james-comey-s-team-urges-judge-to-toss-seashells-case",
+        "summary": "James Comey's lawyers asked a federal judge to dismiss charges tied to an Instagram photo of seashells arranged as '86 47,' arguing prosecutors cannot prove",
+        "title": "Comey asks judge to dismiss seashell-post threat case"
       },
       {
-        "category": "World",
-        "shortTitle": "Trump Warns Iran Over Red Sea Oil Risk",
-        "slug": "trump-warns-iran-after-tanker-attacks-raise-oil-risk",
-        "summary": "Trump warned Iran over two Saudi tanker attacks. He also said he is considering wider strikes as U.S. strikes continued and oil topped $100.",
-        "title": "Trump Warns Iran Over Red Sea Oil Risk"
+        "category": "Tech & Science",
+        "shortTitle": "Officials order evacuations as wildfires threaten residents",
+        "slug": "spain-and-france-wildfires-force-more-than-300-000-to-flee-as-macron-calls-crisi",
+        "summary": "Authorities expanded evacuations, road and rail closures, and crisis meetings as fires in southwest France and Spain strained crews under heat and wind.",
+        "title": "Wildfires force evacuations near Bordeaux"
       },
       {
         "category": "Guide",
-        "shortTitle": "How Civil Nuclear Deals Work",
-        "slug": "how-civil-nuclear-cooperation-deals-work",
-        "summary": "Civil nuclear cooperation deals let countries share reactor technology only after legal terms, safeguards, export licensing, congressional review, and fuel-cycle limits line up.",
-        "title": "How Civil Nuclear Deals Work"
+        "shortTitle": "Wildfire Evacuations, Explained",
+        "slug": "how-wildfire-evacuations-work",
+        "summary": "Wildfire evacuations turn fire weather, fuels, crews, local authority, alert zones, routes, shelters, and reentry checks into staged decisions about who must move and when.",
+        "title": "How Wildfire Evacuations Work"
       }
     ],
     "categories": [
       "U.S. & Politics",
-      "World",
+      "Tech & Science",
       "Guide"
     ],
-    "date": "2026-07-23",
-    "imagePath": "/live/papers/2026-07-23.webp",
-    "leadTitle": "Trump Adds Israel Condition to Saudi Nuclear Pact",
-    "shortHeadline": "Trump Adds Israel Condition to Saudi Nuclear Pact leads the daily briefing.",
-    "sourceTotal": 21,
-    "summary": "Trump Adds Israel Condition to Saudi Nuclear Pact leads a 4-brief front page across 3 sections.",
+    "date": "2026-07-27",
+    "imagePath": "/live/papers/2026-07-27.webp",
+    "leadTitle": "Justice Department Asks Justices to Lift 23-State Mail-Ballot Block",
+    "shortHeadline": "Justice Department Asks Justices to Lift 23-State Mail-Ballot Block leads the daily briefing.",
+    "sourceTotal": 18,
+    "summary": "Justice Department Asks Justices to Lift 23-State Mail-Ballot Block leads a 4-brief front page across 3 sections.",
     "topStripCount": 4,
-    "updatedAt": "2026-07-24T03:54:12.159Z"
+    "updatedAt": "2026-07-28T05:07:25.513Z"
   },
   "feeds": {
     "categories": {
