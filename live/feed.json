@@ -1,8 +1,187 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-28T05:07:25.517Z",
-  "rolling24HourCount": 4,
+  "updatedAt": "2026-07-28T13:21:43.851Z",
+  "rolling24HourCount": 5,
   "comics": [
+    {
+      "category": "World",
+      "contentType": "brief",
+      "generatedAt": "2026-07-28T13:20:54.530Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What happened",
+            "panel": 1
+          },
+          {
+            "label": "Why it matters",
+            "panel": 3
+          },
+          {
+            "label": "What to watch",
+            "panel": 6
+          }
+        ]
+      },
+      "imagePath": "/live/media/watch-hundreds-of-thousands-forced-to-evacuate-in-europe-from-raging-wildfires.webp",
+      "claims": [
+        {
+          "claim": "Wildfires force families from Gironde and Spain as heat creates new evacuation risk.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Gironde officials reported roughly 104,000 burned acres and 93 injured firefighters.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Spanish fires added about 190,000 burned acres, widening the cross-border emergency.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "A heat wave near 95 degrees threatens fragile fire lines this week.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "France ordered nearly 4,000 more evacuations from Atlantic coast tourist sites Tuesday.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Aircraft shortages and longer seasons now stretch Europe’s firefighting capacity.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Wildfires force families from Gironde and Spain as heat creates new evacuation risk.",
+        "Gironde officials reported roughly 104,000 burned acres and 93 injured firefighters.",
+        "Spanish fires added about 190,000 burned acres, widening the cross-border emergency.",
+        "A heat wave near 95 degrees threatens fragile fire lines this week.",
+        "France ordered nearly 4,000 more evacuations from Atlantic coast tourist sites Tuesday.",
+        "Aircraft shortages and longer seasons now stretch Europe’s firefighting capacity."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.213,
+          50.35
+        ],
+        [
+          33.453,
+          0,
+          33.093,
+          50.35
+        ],
+        [
+          66.787,
+          0,
+          33.213,
+          50.35
+        ],
+        [
+          0,
+          51.798,
+          33.213,
+          48.202
+        ],
+        [
+          33.453,
+          51.798,
+          33.093,
+          48.202
+        ],
+        [
+          66.787,
+          51.798,
+          33.213,
+          48.202
+        ]
+      ],
+      "primaryGuide": {
+        "slug": "how-wildfire-evacuations-work",
+        "title": "How Wildfire Evacuations Work",
+        "url": "/live/?slug=how-wildfire-evacuations-work"
+      },
+      "readerNext": {
+        "buttonLabel": "Earlier brief",
+        "kind": "earlier-brief",
+        "label": "Earlier in this story",
+        "slug": "spain-and-france-wildfires-force-more-than-300-000-to-flee-as-macron-calls-crisi",
+        "title": "Officials order evacuations as wildfires threaten residents",
+        "url": "/live/?slug=spain-and-france-wildfires-force-more-than-300-000-to-flee-as-macron-calls-crisi"
+      },
+      "relatedBriefSlugs": [
+        "spain-and-france-wildfires-force-more-than-300-000-to-flee-as-macron-calls-crisi"
+      ],
+      "shortTitle": "Wildfires force mass evacuations in France and Spain",
+      "slug": "watch-hundreds-of-thousands-forced-to-evacuate-in-europe-from-raging-wildfires",
+      "sourceCount": 4,
+      "sources": [
+        {
+          "name": "ABC News Top Stories",
+          "url": "https://abcnews.com/video/135135633"
+        },
+        {
+          "name": "CNBC Top News",
+          "url": "https://www.cnbc.com/2026/07/28/france-spain-wildfires-heat-wave.html"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20260728-live-massive-wildfires-near-bordeaux-still-under-control-after-calm-night-local-authorities-say"
+        },
+        {
+          "name": "The New York Times World",
+          "url": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-france-spain-bordeaux-madrid.html"
+        }
+      ],
+      "storylineKey": "",
+      "storylineNext": null,
+      "storylineTitle": "",
+      "summary": "Wildfires in southwest France and Spain have burned nearly 300,000 acres, forced about 300,000 evacuations, injured firefighters in Gironde, and left crews bracing for a hotter week.",
+      "title": "Wildfires force mass evacuations as heat tests France and Spain crews",
+      "verificationNote": "Cross-checked across 4 sources"
+    },
     {
       "category": "U.S. & Politics",
       "contentType": "brief",
@@ -665,12 +844,12 @@
         "url": "/live/?slug=how-wildfire-evacuations-work"
       },
       "readerNext": {
-        "buttonLabel": "Guide",
-        "kind": "background-guide",
-        "label": "Background guide",
-        "slug": "how-wildfire-evacuations-work",
-        "title": "How Wildfire Evacuations Work",
-        "url": "/live/?slug=how-wildfire-evacuations-work"
+        "buttonLabel": "Read update",
+        "kind": "latest-development",
+        "label": "Latest development",
+        "slug": "watch-hundreds-of-thousands-forced-to-evacuate-in-europe-from-raging-wildfires",
+        "title": "Wildfires force mass evacuations in France and Spain",
+        "url": "/live/?slug=watch-hundreds-of-thousands-forced-to-evacuate-in-europe-from-raging-wildfires"
       },
       "relatedBriefSlugs": [],
       "shortTitle": "Officials order evacuations as wildfires threaten residents",
@@ -8503,171 +8682,6 @@
       "summary": "The U.S. leads the world in crude production and consumption, but import needs, OPEC+ supply power, gasoline-price shocks and a drawn-down emergency reserve still shape what drivers pay.",
       "title": "U.S. Oil Dominance Still Leaves Drivers Exposed",
       "verificationNote": "Checked against the primary source"
-    },
-    {
-      "category": "Guide",
-      "contentType": "guide",
-      "generatedAt": "2026-07-10T00:13:54.479Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What it explains",
-            "panel": 1
-          },
-          {
-            "label": "How it works",
-            "panel": 2
-          },
-          {
-            "label": "Where it gets hard",
-            "panel": 5
-          }
-        ]
-      },
-      "imagePath": "/live/media/how-mortgage-rates-move.webp",
-      "claims": [
-        {
-          "claim": "Mortgage-rate pipeline turns market benchmarks and lender rate boards into the monthly payment a buyer can carry.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "PMMS benchmark data samples lender applications each week, creating a market reference for 30-year and 15-year loans.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Loan Estimate document shows the gate: loan amount, interest rate, APR, points, fees and projected payment.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Borrower inputs such as credit score, down payment, loan type, term and rate lock adjust the offer.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Affordability bottleneck: a higher rate or fee raises principal-and-interest and can block the buyer's budget.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Watch meter: PMMS, quoted APR, points, fees and rate-lock terms show whether the headline rate hides costs.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "Mortgage-rate pipeline turns market benchmarks and lender rate boards into the monthly payment a buyer can carry.",
-        "PMMS benchmark data samples lender applications each week, creating a market reference for 30-year and 15-year loans.",
-        "Loan Estimate document shows the gate: loan amount, interest rate, APR, points, fees and projected payment.",
-        "Borrower inputs such as credit score, down payment, loan type, term and rate lock adjust the offer.",
-        "Affordability bottleneck: a higher rate or fee raises principal-and-interest and can block the buyer's budget.",
-        "Watch meter: PMMS, quoted APR, points, fees and rate-lock terms show whether the headline rate hides costs."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          32.953,
-          48.006
-        ],
-        [
-          33.779,
-          0,
-          31.466,
-          48.006
-        ],
-        [
-          66.136,
-          0,
-          33.864,
-          48.006
-        ],
-        [
-          0,
-          48.283,
-          32.953,
-          51.717
-        ],
-        [
-          33.779,
-          48.283,
-          31.466,
-          51.717
-        ],
-        [
-          66.136,
-          48.283,
-          33.864,
-          51.717
-        ]
-      ],
-      "primaryGuide": null,
-      "relatedBriefSlugs": [],
-      "shortTitle": "Mortgage Rates, Explained",
-      "slug": "how-mortgage-rates-move",
-      "sourceCount": 4,
-      "sources": [
-        {
-          "name": "Consumer Financial Protection Bureau",
-          "url": "https://www.consumerfinance.gov/owning-a-home/explore-rates/"
-        },
-        {
-          "name": "Consumer Financial Protection Bureau",
-          "url": "https://www.consumerfinance.gov/owning-a-home/loan-estimate/"
-        },
-        {
-          "name": "Freddie Mac",
-          "url": "https://www.freddiemac.com/pmms"
-        },
-        {
-          "name": "Federal Reserve Bank of St. Louis",
-          "url": "https://fred.stlouisfed.org/series/MORTGAGE30US"
-        }
-      ],
-      "storylineKey": "",
-      "storylineNext": null,
-      "storylineTitle": "",
-      "summary": "Mortgage rates move as market benchmarks, investor demand, lender costs, borrower risk, loan terms, points and fees turn into the quoted rate and monthly payment a homebuyer sees.",
-      "title": "How Mortgage Rates Move",
-      "verificationNote": "Cross-checked across 4 sources"
     }
   ],
   "dailyPaper": {
@@ -8717,6 +8731,11 @@
   },
   "feeds": {
     "categories": {
+      "Tech & Science": [
+        "watch-hundreds-of-thousands-forced-to-evacuate-in-europe-from-raging-wildfires",
+        "spain-and-france-wildfires-force-more-than-300-000-to-flee-as-macron-calls-crisi",
+        "the-politics-of-new-york-s-data-center-construction-pause"
+      ],
       "U.S. & Politics": [
         "trump-asks-supreme-court-to-allow-order-restricting-mail-voting",
         "citing-common-sense-james-comey-s-team-urges-judge-to-toss-seashells-case",
@@ -8749,12 +8768,7 @@
         "how-national-bank-charters-work",
         "what-the-election-assistance-commission-does",
         "how-bills-become-law-without-a-signature",
-        "how-the-digital-services-act-works",
-        "how-mortgage-rates-move"
-      ],
-      "Tech & Science": [
-        "spain-and-france-wildfires-force-more-than-300-000-to-flee-as-macron-calls-crisi",
-        "the-politics-of-new-york-s-data-center-construction-pause"
+        "how-the-digital-services-act-works"
       ],
       "World": [
         "cockroaches-won-india-s-education-minister-resigns-amid-massive-youth-protests",
@@ -8789,8 +8803,7 @@
       "how-national-bank-charters-work",
       "what-the-election-assistance-commission-does",
       "how-bills-become-law-without-a-signature",
-      "how-the-digital-services-act-works",
-      "how-mortgage-rates-move"
+      "how-the-digital-services-act-works"
     ],
     "storylines": {
       "governing-crisis": [
