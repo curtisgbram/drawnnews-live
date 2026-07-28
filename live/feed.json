@@ -1,8 +1,197 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-27T19:27:12.178Z",
-  "rolling24HourCount": 3,
+  "updatedAt": "2026-07-28T01:13:59.822Z",
+  "rolling24HourCount": 4,
   "comics": [
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-28T01:13:09.882Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What happened",
+            "panel": 1
+          },
+          {
+            "label": "Why it matters",
+            "panel": 5
+          },
+          {
+            "label": "What to watch",
+            "panel": 6
+          }
+        ]
+      },
+      "imagePath": "/live/media/trump-asks-supreme-court-to-allow-order-restricting-mail-voting.webp",
+      "claims": [
+        {
+          "claim": "Federal lawyers seek emergency relief as 23 states face November mail-ballot rule changes.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The March order pushes voter-list work and Postal Service ballot-delivery limits.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Twenty-three states sued, saying federal agencies would disrupt state-run elections.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The First Circuit kept the lower-court block in place during the appeal.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Judges said fast rule changes could create confusion and disenfranchise voters.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Justices now decide whether agencies may prepare rules while litigation continues.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Federal lawyers seek emergency relief as 23 states face November mail-ballot rule changes.",
+        "The March order pushes voter-list work and Postal Service ballot-delivery limits.",
+        "Twenty-three states sued, saying federal agencies would disrupt state-run elections.",
+        "The First Circuit kept the lower-court block in place during the appeal.",
+        "Judges said fast rule changes could create confusion and disenfranchise voters.",
+        "Justices now decide whether agencies may prepare rules while litigation continues."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.213,
+          50.35
+        ],
+        [
+          33.453,
+          0,
+          33.093,
+          50.35
+        ],
+        [
+          66.787,
+          0,
+          33.213,
+          50.35
+        ],
+        [
+          0,
+          51.798,
+          33.213,
+          48.202
+        ],
+        [
+          33.453,
+          51.798,
+          33.093,
+          48.202
+        ],
+        [
+          66.787,
+          51.798,
+          33.213,
+          48.202
+        ]
+      ],
+      "primaryGuide": null,
+      "readerNext": {
+        "buttonLabel": "Earlier brief",
+        "kind": "earlier-brief",
+        "label": "Earlier in this story",
+        "slug": "justice-department-secures-ruling-to-allow-montana-vegetation-management-project",
+        "title": "Court Clears Montana Forest Project",
+        "url": "/briefs/justice-department-secures-ruling-to-allow-montana-vegetation-management-project/"
+      },
+      "relatedBriefSlugs": [
+        "justice-department-secures-ruling-to-allow-montana-vegetation-management-project"
+      ],
+      "shortTitle": "Justice Department Seeks Ballot Block Lifted",
+      "slug": "trump-asks-supreme-court-to-allow-order-restricting-mail-voting",
+      "sourceCount": 5,
+      "sources": [
+        {
+          "name": "ABC News Top Stories",
+          "url": "https://abcnews.com/Politics/appeals-court-trump-impose-restrictions-mail-voting-now/story?id=135101642"
+        },
+        {
+          "name": "CBS News Politics",
+          "url": "https://www.cbsnews.com/news/trump-supreme-court-mail-in-voting-executive-order"
+        },
+        {
+          "name": "CNBC Top News",
+          "url": "https://www.cnbc.com/2026/07/27/trump-supreme-court-mail-in-voting-restrictions.html"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/27/trump-asks-us-supreme-court-to-allow-mail-in-voting-restrictions?traffic_source=rss"
+        },
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/27/us/politics/supreme-court-trump-mail-ballots.html"
+        }
+      ],
+      "storylineKey": "governing-crisis",
+      "storylineNext": {
+        "slug": "dnc-committee-sets-up-south-carolina-to-vote-first-in-democrats-2028-presidentia",
+        "title": "DNC panel advances South Carolina-first primary calendar",
+        "url": "/live/?slug=dnc-committee-sets-up-south-carolina-to-vote-first-in-democrats-2028-presidentia"
+      },
+      "storylineTitle": "U.S. Elections",
+      "summary": "The Justice Department asked justices to lift a lower-court block on mail-ballot rules affecting 23 suing states before November midterms.",
+      "title": "Justice Department Asks Justices to Lift 23-State Mail-Ballot Block",
+      "verificationNote": "Cross-checked across 5 sources"
+    },
     {
       "category": "U.S. & Politics",
       "contentType": "brief",
@@ -6384,7 +6573,7 @@
       "storylineNext": {
         "slug": "chatgpt-56-security-gate",
         "title": "OpenAI ChatGPT 5.6 Security Gate",
-        "url": "/live/?slug=chatgpt-56-security-gate"
+        "url": "/briefs/chatgpt-56-security-gate/"
       },
       "storylineTitle": "The AI Buildout",
       "summary": "Apple's lawsuit turns OpenAI's device ambitions into a court test over alleged hardware trade-secret theft.",
@@ -8479,163 +8668,6 @@
       "summary": "Mortgage rates move as market benchmarks, investor demand, lender costs, borrower risk, loan terms, points and fees turn into the quoted rate and monthly payment a homebuyer sees.",
       "title": "How Mortgage Rates Move",
       "verificationNote": "Cross-checked across 4 sources"
-    },
-    {
-      "category": "U.S. & Politics",
-      "contentType": "brief",
-      "generatedAt": "2026-07-09T22:24:59.635Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What happened",
-            "panel": 1
-          },
-          {
-            "label": "Why it matters",
-            "panel": 4
-          },
-          {
-            "label": "What to watch",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/chatgpt-56-security-gate.webp",
-      "claims": [
-        {
-          "claim": "OpenAI moves ChatGPT 5.6 to wider release after a government-requested cybersecurity review limited early access to approved users.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The model passes through briefings, trusted partners, and additional testing before the wider rollout.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The capability gate checks whether stronger AI can help cybersecurity work or enable more dangerous attacks.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Release speed becomes the bottleneck: companies push customers forward while officials add review time.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Anthropic went through a similar restriction, making frontier AI access a repeat policy chokepoint.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The next advanced model may pass through the same voluntary review before reaching customers.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "OpenAI moves ChatGPT 5.6 to wider release after a government-requested cybersecurity review limited early access to approved users.",
-        "The model passes through briefings, trusted partners, and additional testing before the wider rollout.",
-        "The capability gate checks whether stronger AI can help cybersecurity work or enable more dangerous attacks.",
-        "Release speed becomes the bottleneck: companies push customers forward while officials add review time.",
-        "Anthropic went through a similar restriction, making frontier AI access a repeat policy chokepoint.",
-        "The next advanced model may pass through the same voluntary review before reaching customers."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          32.627,
-          49.862
-        ],
-        [
-          33.584,
-          0,
-          32.507,
-          49.862
-        ],
-        [
-          66.982,
-          0,
-          33.018,
-          49.862
-        ],
-        [
-          0,
-          50.236,
-          32.627,
-          49.764
-        ],
-        [
-          33.584,
-          50.236,
-          32.507,
-          49.764
-        ],
-        [
-          66.982,
-          50.236,
-          33.018,
-          49.764
-        ]
-      ],
-      "primaryGuide": null,
-      "readerNext": {
-        "buttonLabel": "Storyline",
-        "kind": "storyline",
-        "label": "Storyline",
-        "slug": "ai-buildout",
-        "title": "The AI Buildout",
-        "url": "/storylines/ai-buildout/"
-      },
-      "relatedBriefSlugs": [],
-      "shortTitle": "OpenAI ChatGPT 5.6 Security Gate",
-      "slug": "chatgpt-56-security-gate",
-      "sourceCount": 2,
-      "sources": [
-        {
-          "name": "The Guardian US",
-          "url": "https://www.theguardian.com/technology/2026/jul/09/trump-administration-openai-chatgpt-cybersecurity"
-        },
-        {
-          "name": "The New York Times Technology",
-          "url": "https://www.nytimes.com/2026/07/09/technology/openai-sol-ai.html"
-        }
-      ],
-      "storylineKey": "ai-buildout",
-      "storylineNext": {
-        "slug": "how-to-prevent-meta-from-using-your-instagram-images-in-a-i",
-        "title": "Meta Opens Photos to AI Reuse",
-        "url": "/briefs/how-to-prevent-meta-from-using-your-instagram-images-in-a-i/"
-      },
-      "storylineTitle": "The AI Buildout",
-      "summary": "OpenAI moved ChatGPT 5.6 from restricted early access to a wider release after a government-requested cybersecurity review and additional testing.",
-      "title": "OpenAI Released ChatGPT 5.6 Through a Security Gate",
-      "verificationNote": "Cross-checked across 2 sources"
     }
   ],
   "dailyPaper": {
@@ -8686,6 +8718,7 @@
   "feeds": {
     "categories": {
       "U.S. & Politics": [
+        "trump-asks-supreme-court-to-allow-order-restricting-mail-voting",
         "citing-common-sense-james-comey-s-team-urges-judge-to-toss-seashells-case",
         "dnc-committee-sets-up-south-carolina-to-vote-first-in-democrats-2028-presidentia",
         "israel-welcomes-trump-s-demand-for-diplomatic-ties-with-saudi-arabia",
@@ -8703,8 +8736,7 @@
         "graham-platner-officially-withdraws-from-the-maine-senate-race",
         "maine-democrats-announce-july-25-convention-to-pick-platner-replacement",
         "trump-leaves-election-assistance-commission-without-members",
-        "trump-lets-housing-bill-become-law-without-signing",
-        "chatgpt-56-security-gate"
+        "trump-lets-housing-bill-become-law-without-signing"
       ],
       "Guide": [
         "how-wildfire-evacuations-work",
@@ -8762,6 +8794,7 @@
     ],
     "storylines": {
       "governing-crisis": [
+        "trump-asks-supreme-court-to-allow-order-restricting-mail-voting",
         "dnc-committee-sets-up-south-carolina-to-vote-first-in-democrats-2028-presidentia",
         "how-war-powers-votes-work",
         "how-us-senate-vacancies-are-filled",
@@ -8791,8 +8824,7 @@
       ],
       "ai-buildout": [
         "the-politics-of-new-york-s-data-center-construction-pause",
-        "apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secr",
-        "chatgpt-56-security-gate"
+        "apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secr"
       ]
     }
   }
