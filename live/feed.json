@@ -1,8 +1,167 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-28T13:21:43.851Z",
-  "rolling24HourCount": 5,
+  "updatedAt": "2026-07-28T16:22:55.261Z",
+  "rolling24HourCount": 4,
   "comics": [
+    {
+      "category": "Guide",
+      "contentType": "guide",
+      "generatedAt": "2026-07-28T16:22:05.496Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What it explains",
+            "panel": 1
+          },
+          {
+            "label": "How it works",
+            "panel": 2
+          },
+          {
+            "label": "What to watch",
+            "panel": 6
+          }
+        ]
+      },
+      "imagePath": "/live/media/how-mail-ballots-are-processed.webp",
+      "claims": [
+        {
+          "claim": "State election rules require voters to request or receive mail ballots before return deadlines decide whether envelopes count.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Election offices match voters to ballot styles and send envelopes along a traceable mail path.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Voters mark, seal, sign, and choose the return path: mail, drop box, or election office.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Inbound envelopes enter a custody chain: secure bins, date checks, scanners, locked storage.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Verification gates check signatures or voter eligibility before cure outreach or rejection decisions.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Watch the counting timeline: return deadline, postmark rule, cure window, rejection rate, and mail delays.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "State election rules require voters to request or receive mail ballots before return deadlines decide whether envelopes count.",
+        "Election offices match voters to ballot styles and send envelopes along a traceable mail path.",
+        "Voters mark, seal, sign, and choose the return path: mail, drop box, or election office.",
+        "Inbound envelopes enter a custody chain: secure bins, date checks, scanners, locked storage.",
+        "Verification gates check signatures or voter eligibility before cure outreach or rejection decisions.",
+        "Watch the counting timeline: return deadline, postmark rule, cure window, rejection rate, and mail delays."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.278,
+          48.202
+        ],
+        [
+          33.518,
+          0,
+          32.963,
+          48.202
+        ],
+        [
+          66.722,
+          0,
+          33.278,
+          48.202
+        ],
+        [
+          0,
+          49.748,
+          33.278,
+          50.252
+        ],
+        [
+          33.518,
+          49.748,
+          32.963,
+          50.252
+        ],
+        [
+          66.722,
+          49.748,
+          33.278,
+          50.252
+        ]
+      ],
+      "primaryGuide": null,
+      "relatedBriefSlugs": [],
+      "shortTitle": "Mail Ballots",
+      "slug": "how-mail-ballots-are-processed",
+      "sourceCount": 3,
+      "sources": [
+        {
+          "name": "USA.gov Absentee Voting",
+          "url": "https://www.usa.gov/absentee-voting"
+        },
+        {
+          "name": "U.S. Election Assistance Commission Voting by Mail",
+          "url": "https://www.eac.gov/election-officials/voting-mail-absentee-voting"
+        },
+        {
+          "name": "U.S. Election Assistance Commission Inbound Ballot Process",
+          "url": "https://www.eac.gov/sites/default/files/electionofficials/vbm/Inbound_Ballot_Process.pdf"
+        }
+      ],
+      "storylineKey": "governing-crisis",
+      "storylineNext": {
+        "slug": "trump-asks-supreme-court-to-allow-order-restricting-mail-voting",
+        "title": "Justice Department Seeks Ballot Block Lifted",
+        "url": "/live/?slug=trump-asks-supreme-court-to-allow-order-restricting-mail-voting"
+      },
+      "storylineTitle": "U.S. Elections",
+      "summary": "Mail ballots move through state eligibility rules, ballot requests, mail delivery, envelope custody, voter verification, cure windows, and tabulation deadlines before they can count.",
+      "title": "How Mail Ballots Are Processed",
+      "verificationNote": "Checked across 3 sources"
+    },
     {
       "category": "World",
       "contentType": "brief",
@@ -323,7 +482,11 @@
           48.202
         ]
       ],
-      "primaryGuide": null,
+      "primaryGuide": {
+        "slug": "how-mail-ballots-are-processed",
+        "title": "How Mail Ballots Are Processed",
+        "url": "/live/?slug=how-mail-ballots-are-processed"
+      },
       "readerNext": {
         "buttonLabel": "Earlier brief",
         "kind": "earlier-brief",
@@ -8535,153 +8698,6 @@
       "summary": "British budget airline EasyJet says it has reached an agreement in principle on Apollo's £5.7 billion ($7.7 billion) takeover offer, above Castlelake's rival proposal.",
       "title": "EasyJet agrees to Apollo's $7.7B bid, sidelining Castlelake offer",
       "verificationNote": "Cross-checked across 4 sources"
-    },
-    {
-      "category": "Money",
-      "contentType": "brief",
-      "generatedAt": "2026-07-10T02:57:55.080Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What happened",
-            "panel": 1
-          },
-          {
-            "label": "Why it matters",
-            "panel": 3
-          },
-          {
-            "label": "What to watch",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/what-to-know-about-u-s-oil-production-and-consumption-in-6-charts.webp",
-      "claims": [
-        {
-          "claim": "U.S. oil dominance keeps gasoline prices exposed as global crude markets and reserve releases move money.",
-          "panel": 1,
-          "sourceIndexes": [
-            0
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "A production map shows fracking pushed U.S. crude output to No. 1 in 2018; it led in 2025.",
-          "panel": 2,
-          "sourceIndexes": [
-            0
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "A demand meter puts U.S. use at 20.6 million barrels a day in 2025, the top consumer load.",
-          "panel": 3,
-          "sourceIndexes": [
-            0
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "An OPEC+ supply ledger shows 35% from OPEC and 55% from OPEC+ in 2025.",
-          "panel": 4,
-          "sourceIndexes": [
-            0
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The import flow path still routes net inward: 2.2 million barrels a day in 2025, mostly Canada.",
-          "panel": 5,
-          "sourceIndexes": [
-            0
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "An emergency reserve meter fell to 319.5 million barrels by July 3 after market-shock releases.",
-          "panel": 6,
-          "sourceIndexes": [
-            0
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "U.S. oil dominance keeps gasoline prices exposed as global crude markets and reserve releases move money.",
-        "A production map shows fracking pushed U.S. crude output to No. 1 in 2018; it led in 2025.",
-        "A demand meter puts U.S. use at 20.6 million barrels a day in 2025, the top consumer load.",
-        "An OPEC+ supply ledger shows 35% from OPEC and 55% from OPEC+ in 2025.",
-        "The import flow path still routes net inward: 2.2 million barrels a day in 2025, mostly Canada.",
-        "An emergency reserve meter fell to 319.5 million barrels by July 3 after market-shock releases."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          34.906,
-          48.495
-        ],
-        [
-          35.146,
-          0,
-          29.317,
-          48.495
-        ],
-        [
-          65.81,
-          0,
-          34.19,
-          48.495
-        ],
-        [
-          0,
-          48.576,
-          34.906,
-          51.424
-        ],
-        [
-          35.146,
-          48.576,
-          29.317,
-          51.424
-        ],
-        [
-          65.81,
-          48.576,
-          34.19,
-          51.424
-        ]
-      ],
-      "primaryGuide": {
-        "slug": "how-oil-prices-move",
-        "title": "How Oil Prices Move",
-        "url": "/briefs/how-oil-prices-move/"
-      },
-      "readerNext": {
-        "buttonLabel": "Guide",
-        "kind": "background-guide",
-        "label": "Background guide",
-        "slug": "how-oil-prices-move",
-        "title": "How Oil Prices Move",
-        "url": "/briefs/how-oil-prices-move/"
-      },
-      "relatedBriefSlugs": [],
-      "shortTitle": "U.S. Oil Dominance Leaves Drivers Exposed",
-      "slug": "what-to-know-about-u-s-oil-production-and-consumption-in-6-charts",
-      "sourceCount": 1,
-      "sources": [
-        {
-          "name": "Pew Research Center",
-          "url": "https://www.pewresearch.org/short-reads/2026/07/07/what-to-know-about-us-oil-production-and-consumption-in-6-charts"
-        }
-      ],
-      "storylineKey": "",
-      "storylineNext": null,
-      "storylineTitle": "",
-      "summary": "The U.S. leads the world in crude production and consumption, but import needs, OPEC+ supply power, gasoline-price shocks and a drawn-down emergency reserve still shape what drivers pay.",
-      "title": "U.S. Oil Dominance Still Leaves Drivers Exposed",
-      "verificationNote": "Checked against the primary source"
     }
   ],
   "dailyPaper": {
@@ -8731,10 +8747,32 @@
   },
   "feeds": {
     "categories": {
-      "Tech & Science": [
+      "Guide": [
+        "how-mail-ballots-are-processed",
+        "how-wildfire-evacuations-work",
+        "how-war-powers-votes-work",
+        "how-civil-nuclear-cooperation-deals-work",
+        "how-pay-transparency-laws-work",
+        "how-buy-now-pay-later-loans-work",
+        "how-us-senate-vacancies-are-filled",
+        "how-ev-battery-recycling-works",
+        "how-national-bank-charters-work",
+        "what-the-election-assistance-commission-does",
+        "how-bills-become-law-without-a-signature",
+        "how-the-digital-services-act-works"
+      ],
+      "World": [
         "watch-hundreds-of-thousands-forced-to-evacuate-in-europe-from-raging-wildfires",
-        "spain-and-france-wildfires-force-more-than-300-000-to-flee-as-macron-calls-crisi",
-        "the-politics-of-new-york-s-data-center-construction-pause"
+        "cockroaches-won-india-s-education-minister-resigns-amid-massive-youth-protests",
+        "trump-warns-iran-after-tanker-attacks-raise-oil-risk",
+        "defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
+        "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
+        "inflation-slowed-during-pause-in-war-with-iran",
+        "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
+        "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
+        "trump-says-iran-ceasefire-is-over",
+        "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the",
+        "one-of-spain-s-deadliest-wildfires-kills-at-least-12-people-with-23-others-missi"
       ],
       "U.S. & Politics": [
         "trump-asks-supreme-court-to-allow-order-restricting-mail-voting",
@@ -8757,42 +8795,21 @@
         "trump-leaves-election-assistance-commission-without-members",
         "trump-lets-housing-bill-become-law-without-signing"
       ],
-      "Guide": [
-        "how-wildfire-evacuations-work",
-        "how-war-powers-votes-work",
-        "how-civil-nuclear-cooperation-deals-work",
-        "how-pay-transparency-laws-work",
-        "how-buy-now-pay-later-loans-work",
-        "how-us-senate-vacancies-are-filled",
-        "how-ev-battery-recycling-works",
-        "how-national-bank-charters-work",
-        "what-the-election-assistance-commission-does",
-        "how-bills-become-law-without-a-signature",
-        "how-the-digital-services-act-works"
-      ],
-      "World": [
-        "cockroaches-won-india-s-education-minister-resigns-amid-massive-youth-protests",
-        "trump-warns-iran-after-tanker-attacks-raise-oil-risk",
-        "defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
-        "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
-        "inflation-slowed-during-pause-in-war-with-iran",
-        "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
-        "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
-        "trump-says-iran-ceasefire-is-over",
-        "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the",
-        "one-of-spain-s-deadliest-wildfires-kills-at-least-12-people-with-23-others-missi"
+      "Tech & Science": [
+        "spain-and-france-wildfires-force-more-than-300-000-to-flee-as-macron-calls-crisi",
+        "the-politics-of-new-york-s-data-center-construction-pause"
       ],
       "Money": [
         "us-imposing-25-tariff-on-some-brazilian-imports-citing-unfair-trade-practices",
         "paramount-and-warner-bros-sued-to-block-110bn-mega-merger",
-        "easyjet-agrees-to-apollo-7-7b-bid-sidelining-castlelake-offer",
-        "what-to-know-about-u-s-oil-production-and-consumption-in-6-charts"
+        "easyjet-agrees-to-apollo-7-7b-bid-sidelining-castlelake-offer"
       ],
       "Sports & Culture": [
         "world-cup-favorites-france-unravel-as-spain-book-s"
       ]
     },
     "guides": [
+      "how-mail-ballots-are-processed",
       "how-wildfire-evacuations-work",
       "how-war-powers-votes-work",
       "how-civil-nuclear-cooperation-deals-work",
@@ -8807,6 +8824,7 @@
     ],
     "storylines": {
       "governing-crisis": [
+        "how-mail-ballots-are-processed",
         "trump-asks-supreme-court-to-allow-order-restricting-mail-voting",
         "dnc-committee-sets-up-south-carolina-to-vote-first-in-democrats-2028-presidentia",
         "how-war-powers-votes-work",
