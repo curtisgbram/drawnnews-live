@@ -1,8 +1,173 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-29T13:26:33.688Z",
+  "updatedAt": "2026-07-29T16:25:45.078Z",
   "rolling24HourCount": 3,
   "comics": [
+    {
+      "category": "Guide",
+      "contentType": "guide",
+      "generatedAt": "2026-07-29T16:24:55.128Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What it explains",
+            "panel": 1
+          },
+          {
+            "label": "How it works",
+            "panel": 2
+          },
+          {
+            "label": "Where it gets hard",
+            "panel": 4
+          }
+        ]
+      },
+      "imagePath": "/live/media/how-structural-collapse-rescue-works.webp",
+      "claims": [
+        {
+          "claim": "Structural-collapse rescue moves emergency crews through a public-safety map of unstable rubble and trapped residents.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "A cutaway triage path marks voids, cracked load paths, gas leaks, and aftershock risk before entry.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Search layers witness reports, listening gear, cameras, dogs, and drones through one survivable-space gate.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The sequence shores the load path, opens access, removes debris slowly, and keeps medics close.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The bottleneck is safety capacity: structural specialists, damaged lifelines, shifting rubble, and speed pressure.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Watch aftershocks, utility shutoffs, structural engineers, outside task forces, and the shift to recovery decisions.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Structural-collapse rescue moves emergency crews through a public-safety map of unstable rubble and trapped residents.",
+        "A cutaway triage path marks voids, cracked load paths, gas leaks, and aftershock risk before entry.",
+        "Search layers witness reports, listening gear, cameras, dogs, and drones through one survivable-space gate.",
+        "The sequence shores the load path, opens access, removes debris slowly, and keeps medics close.",
+        "The bottleneck is safety capacity: structural specialists, damaged lifelines, shifting rubble, and speed pressure.",
+        "Watch aftershocks, utility shutoffs, structural engineers, outside task forces, and the shift to recovery decisions."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.213,
+          47.225
+        ],
+        [
+          33.453,
+          0,
+          33.028,
+          47.225
+        ],
+        [
+          66.722,
+          0,
+          33.278,
+          47.225
+        ],
+        [
+          0,
+          49.748,
+          33.213,
+          50.252
+        ],
+        [
+          33.453,
+          49.748,
+          33.028,
+          50.252
+        ],
+        [
+          66.722,
+          49.748,
+          33.278,
+          50.252
+        ]
+      ],
+      "primaryGuide": null,
+      "relatedBriefSlugs": [],
+      "shortTitle": "How Collapse Rescue Works",
+      "slug": "how-structural-collapse-rescue-works",
+      "sourceCount": 4,
+      "sources": [
+        {
+          "name": "FEMA: National Urban Search & Rescue Response System",
+          "url": "https://www.fema.gov/emergency-managers/national-preparedness/frameworks/urban-search-rescue"
+        },
+        {
+          "name": "INSARAG: Guidelines Annex",
+          "url": "https://insarag.org/guidance-notes/guidelines-annex/"
+        },
+        {
+          "name": "Ready.gov: Earthquakes",
+          "url": "https://www.ready.gov/earthquakes"
+        },
+        {
+          "name": "FEMA: National Earthquake Hazards Reduction Program",
+          "url": "https://www.fema.gov/emergency-managers/risk-management/earthquake"
+        }
+      ],
+      "storylineKey": "",
+      "storylineNext": null,
+      "storylineTitle": "",
+      "summary": "Structural-collapse rescue turns unstable rubble, command posts, specialized teams, search technology, shoring, medical handoffs and aftershock risk into decisions about where rescuers can safely search next.",
+      "title": "How Structural-Collapse Rescue Works",
+      "verificationNote": "Cross-checked across 4 sources"
+    },
     {
       "category": "World",
       "contentType": "brief",
@@ -156,7 +321,19 @@
           50.252
         ]
       ],
-      "primaryGuide": null,
+      "primaryGuide": {
+        "slug": "how-structural-collapse-rescue-works",
+        "title": "How Structural-Collapse Rescue Works",
+        "url": "/live/?slug=how-structural-collapse-rescue-works"
+      },
+      "readerNext": {
+        "buttonLabel": "Guide",
+        "kind": "background-guide",
+        "label": "Background guide",
+        "slug": "how-structural-collapse-rescue-works",
+        "title": "How Structural-Collapse Rescue Works",
+        "url": "/live/?slug=how-structural-collapse-rescue-works"
+      },
       "relatedBriefSlugs": [],
       "shortTitle": "Japan Moves Rescue Workers Into Quake Rubble",
       "slug": "after-large-earthquake-japan-races-against-time-to-reach-people-trapped",
@@ -8354,7 +8531,7 @@
       "storylineNext": {
         "slug": "trump-lets-housing-bill-become-law-without-signing",
         "title": "Trump Lets Housing Bill Become Law Without Signing",
-        "url": "/live/?slug=trump-lets-housing-bill-become-law-without-signing"
+        "url": "/briefs/trump-lets-housing-bill-become-law-without-signing/"
       },
       "storylineTitle": "U.S. Elections",
       "summary": "Trump removed the remaining Election Assistance Commission members, leaving the federal election-administration agency without commissioners months before the midterms.",
@@ -8527,229 +8704,6 @@
       "summary": "At least 12 people died and 23 were missing after a wildfire in Almeria, Andalusia; several victims were found in burnt-out vehicles after trying to flee.",
       "title": "Spain Wildfire Deaths Show the Escape-Route Risk",
       "verificationNote": "Cross-checked across 3 sources"
-    },
-    {
-      "category": "U.S. & Politics",
-      "contentType": "brief",
-      "generatedAt": "2026-07-10T18:23:11.083Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What happened",
-            "panel": 1
-          },
-          {
-            "label": "Why it matters",
-            "panel": 4
-          },
-          {
-            "label": "What to watch",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/trump-lets-housing-bill-become-law-without-signing.webp",
-      "claims": [
-        {
-          "claim": "Trump refuses to sign a bipartisan housing bill affecting buyers, renters, and homebuilders unless Congress advances voter ID rules.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The 10-day clock gives three choices: sign the bill, veto it, or let it take effect without a signature.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Because Trump is not vetoing it, the housing package still becomes law after the countdown expires.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The dispute shifts attention to the Save America Act, the voter ID bill named in Trump's demand to Congress.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The dispute complicates a housing-affordability message for buyers, renters, and builders across the housing market.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Congress faces Trump's voter ID demand while the unsigned housing law moves into effect.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "Trump refuses to sign a bipartisan housing bill affecting buyers, renters, and homebuilders unless Congress advances voter ID rules.",
-        "The 10-day clock gives three choices: sign the bill, veto it, or let it take effect without a signature.",
-        "Because Trump is not vetoing it, the housing package still becomes law after the countdown expires.",
-        "The dispute shifts attention to the Save America Act, the voter ID bill named in Trump's demand to Congress.",
-        "The dispute complicates a housing-affordability message for buyers, renters, and builders across the housing market.",
-        "Congress faces Trump's voter ID demand while the unsigned housing law moves into effect."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          33.2133,
-          50.35
-        ],
-        [
-          33.4533,
-          0,
-          33.0933,
-          50.35
-        ],
-        [
-          66.7867,
-          0,
-          33.2133,
-          50.35
-        ],
-        [
-          0,
-          49.65,
-          33.2133,
-          50.35
-        ],
-        [
-          33.4533,
-          49.65,
-          33.0933,
-          50.35
-        ],
-        [
-          66.7867,
-          49.65,
-          33.2133,
-          50.35
-        ]
-      ],
-      "primaryGuide": {
-        "slug": "how-bills-become-law-without-a-signature",
-        "title": "How Bills Become Law Without a Signature",
-        "url": "/live/?slug=how-bills-become-law-without-a-signature"
-      },
-      "readerNext": {
-        "buttonLabel": "Earlier brief",
-        "kind": "earlier-brief",
-        "label": "Earlier in this story",
-        "slug": "trump-refuses-to-sign-housing-bill-until-divisive-save-voting-act-passes-congres",
-        "title": "Trump Stalls Housing Bill Over SAVE Act",
-        "url": "/briefs/trump-refuses-to-sign-housing-bill-until-divisive-save-voting-act-passes-congres/"
-      },
-      "relatedBriefSlugs": [
-        "trump-refuses-to-sign-housing-bill-until-divisive-save-voting-act-passes-congres"
-      ],
-      "shortTitle": "Trump Lets Housing Bill Become Law Without Signing",
-      "slug": "trump-lets-housing-bill-become-law-without-signing",
-      "sourceCount": 8,
-      "sources": [
-        {
-          "name": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/politics/trump-will-let-bipartisan-housing-bill-become-law-without-signing-in-protest-over-gop-voter-id-law"
-        },
-        {
-          "name": "The Guardian US",
-          "url": "https://www.theguardian.com/us-news/2026/jul/10/housing-bill-becomes-law-without-trump-veto"
-        },
-        {
-          "name": "Axios",
-          "url": "https://www.axios.com/2026/07/10/trump-housing-bill-senate-save-act"
-        },
-        {
-          "name": "CBS News Latest",
-          "url": "https://www.cbsnews.com/news/trump-wont-sign-housing-bill-will-become-law-soon-without-veto"
-        },
-        {
-          "name": "CNBC Top News",
-          "url": "https://www.cnbc.com/2026/07/10/trump-housing-bill-save-act-law.html"
-        },
-        {
-          "name": "Politico Congress",
-          "url": "https://www.politico.com/live-updates/2026/07/10/congress/trump-refuses-sign-housing-bill-00993024"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/7/10/trump-refuses-to-sign-us-housing-bill-over-voting-act-standoff?traffic_source=rss"
-        },
-        {
-          "name": "The New York Times U.S.",
-          "url": "https://www.nytimes.com/2026/07/10/us/politics/trump-housing-bill.html"
-        }
-      ],
-      "storylineKey": "governing-crisis",
-      "storylineNext": {
-        "slug": "how-federal-race-and-ethnicity-data-works",
-        "title": "Federal Race and Ethnicity Data, Explained",
-        "url": "/briefs/how-federal-race-and-ethnicity-data-works/"
-      },
-      "storylineTitle": "U.S. Elections",
-      "summary": "The bipartisan housing bill takes effect without Trump's signature because he chose not to sign or veto it while demanding action on voter ID legislation.",
-      "title": "Trump Lets Housing Bill Become Law as Voter ID Demand Stalls Signing",
-      "verificationNote": "Cross-checked across 8 sources"
     }
   ],
   "dailyPaper": {
@@ -8799,6 +8753,20 @@
   },
   "feeds": {
     "categories": {
+      "Guide": [
+        "how-structural-collapse-rescue-works",
+        "how-mail-ballots-are-processed",
+        "how-wildfire-evacuations-work",
+        "how-war-powers-votes-work",
+        "how-civil-nuclear-cooperation-deals-work",
+        "how-pay-transparency-laws-work",
+        "how-buy-now-pay-later-loans-work",
+        "how-us-senate-vacancies-are-filled",
+        "how-ev-battery-recycling-works",
+        "how-national-bank-charters-work",
+        "what-the-election-assistance-commission-does",
+        "how-bills-become-law-without-a-signature"
+      ],
       "World": [
         "after-large-earthquake-japan-races-against-time-to-reach-people-trapped",
         "watch-hundreds-of-thousands-forced-to-evacuate-in-europe-from-raging-wildfires",
@@ -8832,21 +8800,7 @@
         "apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secr",
         "graham-platner-officially-withdraws-from-the-maine-senate-race",
         "maine-democrats-announce-july-25-convention-to-pick-platner-replacement",
-        "trump-leaves-election-assistance-commission-without-members",
-        "trump-lets-housing-bill-become-law-without-signing"
-      ],
-      "Guide": [
-        "how-mail-ballots-are-processed",
-        "how-wildfire-evacuations-work",
-        "how-war-powers-votes-work",
-        "how-civil-nuclear-cooperation-deals-work",
-        "how-pay-transparency-laws-work",
-        "how-buy-now-pay-later-loans-work",
-        "how-us-senate-vacancies-are-filled",
-        "how-ev-battery-recycling-works",
-        "how-national-bank-charters-work",
-        "what-the-election-assistance-commission-does",
-        "how-bills-become-law-without-a-signature"
+        "trump-leaves-election-assistance-commission-without-members"
       ],
       "Tech & Science": [
         "spain-and-france-wildfires-force-more-than-300-000-to-flee-as-macron-calls-crisi",
@@ -8861,6 +8815,7 @@
       ]
     },
     "guides": [
+      "how-structural-collapse-rescue-works",
       "how-mail-ballots-are-processed",
       "how-wildfire-evacuations-work",
       "how-war-powers-votes-work",
@@ -8898,8 +8853,7 @@
         "graham-platner-officially-withdraws-from-the-maine-senate-race",
         "what-the-election-assistance-commission-does",
         "maine-democrats-announce-july-25-convention-to-pick-platner-replacement",
-        "trump-leaves-election-assistance-commission-without-members",
-        "trump-lets-housing-bill-become-law-without-signing"
+        "trump-leaves-election-assistance-commission-without-members"
       ],
       "new-energy-system": [
         "how-civil-nuclear-cooperation-deals-work",
