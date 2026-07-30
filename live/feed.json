@@ -1,8 +1,179 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-29T16:25:45.078Z",
+  "updatedAt": "2026-07-30T01:24:51.546Z",
   "rolling24HourCount": 3,
   "comics": [
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-30T01:24:01.584Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What happened",
+            "panel": 1
+          },
+          {
+            "label": "Why it matters",
+            "panel": 4
+          },
+          {
+            "label": "Where it stands",
+            "panel": 6
+          }
+        ]
+      },
+      "imagePath": "/live/media/trump-threatens-iran-strikes-after-missiles-target-us-forces.webp",
+      "claims": [
+        {
+          "claim": "Trump threatened Iran strikes after missiles targeted U.S. forces in the Middle East.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "U.S. Central Command said the missiles were intercepted before reaching American troops.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Brent closed at $90.74 as traders priced a wider regional conflict.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "A command-room map turns retaliation into routes, targets, and escalation risk.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Oil and military pressure now travel through the same regional chokepoints.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Washington must choose between U.S. strikes and a push to lower escalation.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Trump threatened Iran strikes after missiles targeted U.S. forces in the Middle East.",
+        "U.S. Central Command said the missiles were intercepted before reaching American troops.",
+        "Brent closed at $90.74 as traders priced a wider regional conflict.",
+        "A command-room map turns retaliation into routes, targets, and escalation risk.",
+        "Oil and military pressure now travel through the same regional chokepoints.",
+        "Washington must choose between U.S. strikes and a push to lower escalation."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.018,
+          50.35
+        ],
+        [
+          33.714,
+          0,
+          32.573,
+          50.35
+        ],
+        [
+          66.982,
+          0,
+          33.018,
+          50.35
+        ],
+        [
+          0,
+          51.798,
+          33.018,
+          48.202
+        ],
+        [
+          33.714,
+          51.798,
+          32.573,
+          48.202
+        ],
+        [
+          66.982,
+          51.798,
+          33.018,
+          48.202
+        ]
+      ],
+      "primaryGuide": {
+        "slug": "how-missile-defense-works",
+        "title": "How Missile Defense Works",
+        "url": "/briefs/how-missile-defense-works/"
+      },
+      "readerNext": {
+        "buttonLabel": "Guide",
+        "kind": "background-guide",
+        "label": "Background guide",
+        "slug": "how-missile-defense-works",
+        "title": "How Missile Defense Works",
+        "url": "/briefs/how-missile-defense-works/"
+      },
+      "relatedBriefSlugs": [],
+      "shortTitle": "Trump Threatens Iran Strikes",
+      "slug": "trump-threatens-iran-strikes-after-missiles-target-us-forces",
+      "sourceCount": 3,
+      "sources": [
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/video/trump-threatens-to-hit-iran-very-hard"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/trump-threatens-iran-strikes-after-attack-on-us-base-in-jordan?traffic_source=rss"
+        }
+      ],
+      "storylineKey": "war-security-order",
+      "storylineNext": {
+        "slug": "watch-trump-calls-graham-beloved-friend-and-american-original-in-eulogy",
+        "title": "Graham's Death Cuts Ukraine's Trump Channel",
+        "url": "/live/?slug=watch-trump-calls-graham-beloved-friend-and-american-original-in-eulogy"
+      },
+      "storylineTitle": "The War and Security Order",
+      "summary": "Trump threatened U.S. strikes on Iran after reported missile attacks on U.S. forces were intercepted, while oil prices jumped as markets priced renewed Middle East risk.",
+      "title": "Trump Threatens Iran Strikes After Missiles Target U.S. Forces",
+      "verificationNote": "Cross-checked across 3 sources"
+    },
     {
       "category": "Guide",
       "contentType": "guide",
@@ -8537,173 +8708,6 @@
       "summary": "Trump removed the remaining Election Assistance Commission members, leaving the federal election-administration agency without commissioners months before the midterms.",
       "title": "Trump leaves Election Assistance Commission without members",
       "verificationNote": "Cross-checked across 3 sources"
-    },
-    {
-      "category": "World",
-      "contentType": "brief",
-      "generatedAt": "2026-07-10T18:51:51.342Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What happened",
-            "panel": 1
-          },
-          {
-            "label": "Why it matters",
-            "panel": 5
-          },
-          {
-            "label": "What to watch",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/one-of-spain-s-deadliest-wildfires-kills-at-least-12-people-with-23-others-missi.webp",
-      "claims": [
-        {
-          "claim": "Almeria wildfire puts public evacuation safety in focus: 12 dead, 23 missing, victims found in fleeing vehicles.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The reported danger point was the road: several victims were found inside burnt-out vehicles while fleeing.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Andalusia's tourist geography matters because many victims were foreign tourists, Spanish authorities said.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The count still has two layers: confirmed deaths and people still missing after the blaze.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The practical tradeoff is visible: leaving late can put evacuees in traffic beside the fire.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Watch the missing-person count and the route timeline; those show how the escape chain failed.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "Almeria wildfire puts public evacuation safety in focus: 12 dead, 23 missing, victims found in fleeing vehicles.",
-        "The reported danger point was the road: several victims were found inside burnt-out vehicles while fleeing.",
-        "Andalusia's tourist geography matters because many victims were foreign tourists, Spanish authorities said.",
-        "The count still has two layers: confirmed deaths and people still missing after the blaze.",
-        "The practical tradeoff is visible: leaving late can put evacuees in traffic beside the fire.",
-        "Watch the missing-person count and the route timeline; those show how the escape chain failed."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          33.213,
-          49.569
-        ],
-        [
-          34.3,
-          0,
-          30.815,
-          49.569
-        ],
-        [
-          66.396,
-          0,
-          33.604,
-          49.569
-        ],
-        [
-          0,
-          50.041,
-          33.213,
-          49.959
-        ],
-        [
-          34.3,
-          50.041,
-          30.815,
-          49.959
-        ],
-        [
-          66.396,
-          50.041,
-          33.604,
-          49.959
-        ]
-      ],
-      "primaryGuide": {
-        "slug": "how-wildfire-evacuations-work",
-        "title": "How Wildfire Evacuations Work",
-        "url": "/live/?slug=how-wildfire-evacuations-work"
-      },
-      "readerNext": {
-        "buttonLabel": "Guide",
-        "kind": "background-guide",
-        "label": "Background guide",
-        "slug": "how-wildfire-evacuations-work",
-        "title": "How Wildfire Evacuations Work",
-        "url": "/live/?slug=how-wildfire-evacuations-work"
-      },
-      "relatedBriefSlugs": [],
-      "shortTitle": "Spain wildfire escape risk",
-      "slug": "one-of-spain-s-deadliest-wildfires-kills-at-least-12-people-with-23-others-missi",
-      "sourceCount": 3,
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/jul/10/wildfire-southern-spain-temperatures-almeria-los-gallardos-bedar"
-        },
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/spain-wildfires-deadliest-blaze-in-20-years"
-        },
-        {
-          "name": "The New York Times World",
-          "url": "https://www.nytimes.com/2026/07/10/world/europe/spain-wildfire-deaths.html"
-        }
-      ],
-      "storylineKey": "",
-      "storylineNext": null,
-      "storylineTitle": "",
-      "summary": "At least 12 people died and 23 were missing after a wildfire in Almeria, Andalusia; several victims were found in burnt-out vehicles after trying to flee.",
-      "title": "Spain Wildfire Deaths Show the Escape-Route Risk",
-      "verificationNote": "Cross-checked across 3 sources"
     }
   ],
   "dailyPaper": {
@@ -8753,6 +8757,28 @@
   },
   "feeds": {
     "categories": {
+      "U.S. & Politics": [
+        "trump-threatens-iran-strikes-after-missiles-target-us-forces",
+        "watch-trump-calls-graham-beloved-friend-and-american-original-in-eulogy",
+        "trump-asks-supreme-court-to-allow-order-restricting-mail-voting",
+        "citing-common-sense-james-comey-s-team-urges-judge-to-toss-seashells-case",
+        "dnc-committee-sets-up-south-carolina-to-vote-first-in-democrats-2028-presidentia",
+        "israel-welcomes-trump-s-demand-for-diplomatic-ties-with-saudi-arabia",
+        "trump-attends-dignified-transfer-of-4-service-members-killed-in-iran-attacks",
+        "trump-administration-signs-commercial-nuclear-deal-with-saudi-arabia",
+        "house-votes-for-permanent-daylight-saving-time",
+        "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
+        "justice-kagan-calls-for-additional-supreme-court-security-funding",
+        "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa",
+        "grahams-death-opens-senate-seat-as-gop-guards-slim-majority",
+        "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
+        "200-young-campers-staff-rescued-amid-record-flooding-in-missouri",
+        "justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporti",
+        "apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secr",
+        "graham-platner-officially-withdraws-from-the-maine-senate-race",
+        "maine-democrats-announce-july-25-convention-to-pick-platner-replacement",
+        "trump-leaves-election-assistance-commission-without-members"
+      ],
       "Guide": [
         "how-structural-collapse-rescue-works",
         "how-mail-ballots-are-processed",
@@ -8778,29 +8804,7 @@
         "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
         "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
         "trump-says-iran-ceasefire-is-over",
-        "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the",
-        "one-of-spain-s-deadliest-wildfires-kills-at-least-12-people-with-23-others-missi"
-      ],
-      "U.S. & Politics": [
-        "watch-trump-calls-graham-beloved-friend-and-american-original-in-eulogy",
-        "trump-asks-supreme-court-to-allow-order-restricting-mail-voting",
-        "citing-common-sense-james-comey-s-team-urges-judge-to-toss-seashells-case",
-        "dnc-committee-sets-up-south-carolina-to-vote-first-in-democrats-2028-presidentia",
-        "israel-welcomes-trump-s-demand-for-diplomatic-ties-with-saudi-arabia",
-        "trump-attends-dignified-transfer-of-4-service-members-killed-in-iran-attacks",
-        "trump-administration-signs-commercial-nuclear-deal-with-saudi-arabia",
-        "house-votes-for-permanent-daylight-saving-time",
-        "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
-        "justice-kagan-calls-for-additional-supreme-court-security-funding",
-        "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa",
-        "grahams-death-opens-senate-seat-as-gop-guards-slim-majority",
-        "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
-        "200-young-campers-staff-rescued-amid-record-flooding-in-missouri",
-        "justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporti",
-        "apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secr",
-        "graham-platner-officially-withdraws-from-the-maine-senate-race",
-        "maine-democrats-announce-july-25-convention-to-pick-platner-replacement",
-        "trump-leaves-election-assistance-commission-without-members"
+        "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the"
       ],
       "Tech & Science": [
         "spain-and-france-wildfires-force-more-than-300-000-to-flee-as-macron-calls-crisi",
@@ -8830,6 +8834,7 @@
     ],
     "storylines": {
       "war-security-order": [
+        "trump-threatens-iran-strikes-after-missiles-target-us-forces",
         "watch-trump-calls-graham-beloved-friend-and-american-original-in-eulogy",
         "trump-warns-iran-after-tanker-attacks-raise-oil-risk",
         "israel-welcomes-trump-s-demand-for-diplomatic-ties-with-saudi-arabia",
