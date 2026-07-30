@@ -1,8 +1,175 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-30T01:24:51.546Z",
+  "updatedAt": "2026-07-30T13:36:02.129Z",
   "rolling24HourCount": 3,
   "comics": [
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-30T13:35:12.086Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What happened",
+            "panel": 1
+          },
+          {
+            "label": "Why it matters",
+            "panel": 5
+          },
+          {
+            "label": "Where it stands",
+            "panel": 6
+          }
+        ]
+      },
+      "imagePath": "/live/media/senate-panel-delays-vote-on-blanche-s-ag-nomination-as-key-republicans-voice-con.webp",
+      "claims": [
+        {
+          "claim": "Senate Judiciary delayed Todd Blanche’s attorney general vote, putting DOJ leadership and public money at stake.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The postponed committee markup stops the nomination before it can reach the full Senate.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "John Cornyn and Thom Tillis want written answers about a proposed $1.776 billion settlement.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Chair Chuck Grassley said the pause gives senators time to secure enough support.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The delay keeps Justice Department leadership questions open while other nominees move.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "A rescheduled committee vote depends on enough support to advance the nomination.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Senate Judiciary delayed Todd Blanche’s attorney general vote, putting DOJ leadership and public money at stake.",
+        "The postponed committee markup stops the nomination before it can reach the full Senate.",
+        "John Cornyn and Thom Tillis want written answers about a proposed $1.776 billion settlement.",
+        "Chair Chuck Grassley said the pause gives senators time to secure enough support.",
+        "The delay keeps Justice Department leadership questions open while other nominees move.",
+        "A rescheduled committee vote depends on enough support to advance the nomination."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.2133,
+          50.35
+        ],
+        [
+          33.4533,
+          0,
+          33.0933,
+          50.35
+        ],
+        [
+          66.7867,
+          0,
+          33.2133,
+          50.35
+        ],
+        [
+          0,
+          49.65,
+          33.2133,
+          50.35
+        ],
+        [
+          33.4533,
+          49.65,
+          33.0933,
+          50.35
+        ],
+        [
+          66.7867,
+          49.65,
+          33.2133,
+          50.35
+        ]
+      ],
+      "primaryGuide": null,
+      "readerNext": {
+        "buttonLabel": "Storyline",
+        "kind": "storyline",
+        "label": "Storyline",
+        "slug": "governing-crisis",
+        "title": "U.S. Elections",
+        "url": "/storylines/governing-crisis/"
+      },
+      "relatedBriefSlugs": [],
+      "shortTitle": "Senate Delays Blanche AG Vote",
+      "slug": "senate-panel-delays-vote-on-blanche-s-ag-nomination-as-key-republicans-voice-con",
+      "sourceCount": 3,
+      "sources": [
+        {
+          "name": "The Guardian US",
+          "url": "https://www.theguardian.com/us-news/live/2026/jul/29/donald-trump-anthony-fauci-rand-paul-covid-lab-leak-theory-iran-tariffs-latest-news-updates"
+        },
+        {
+          "name": "CBS News Latest",
+          "url": "https://www.cbsnews.com/video/todd-blanches-nomination-for-attorney-general-stalled-republican-holdouts"
+        },
+        {
+          "name": "Politico Congress",
+          "url": "https://www.politico.com/live-updates/2026/07/28/congress/todd-blanche-judiciary-committee-delay-01013621"
+        }
+      ],
+      "storylineKey": "governing-crisis",
+      "storylineNext": {
+        "slug": "how-mail-ballots-are-processed",
+        "title": "Mail Ballots",
+        "url": "/live/?slug=how-mail-ballots-are-processed"
+      },
+      "storylineTitle": "U.S. Elections",
+      "summary": "The Senate Judiciary Committee delayed Todd Blanche’s attorney general nomination vote after two Republicans sought written DOJ assurances about a proposed $1.776 billion Trump-IRS settlement.",
+      "title": "Senate Panel Delays Blanche AG Vote Over DOJ Assurances",
+      "verificationNote": "Cross-checked across 3 sources"
+    },
     {
       "category": "U.S. & Politics",
       "contentType": "brief",
@@ -8376,7 +8543,7 @@
       "storylineNext": {
         "slug": "trump-leaves-election-assistance-commission-without-members",
         "title": "Trump leaves election agency without members",
-        "url": "/live/?slug=trump-leaves-election-assistance-commission-without-members"
+        "url": "/briefs/trump-leaves-election-assistance-commission-without-members/"
       },
       "storylineTitle": "U.S. Elections",
       "summary": "After Graham Platner formally withdrew from Maine's Senate race, state Democrats set a July 25 Bangor convention to choose a replacement for a contest tied to Senate control.",
@@ -8537,177 +8704,6 @@
       "summary": "A U.S. bill can become law after House and Senate passage when the enrolled bill reaches the president, the 10-day clock runs without a signed approval or returned veto, and Congress remains able to receive a return message.",
       "title": "How Bills Become Law Without a Signature",
       "verificationNote": "Cross-checked across 3 sources"
-    },
-    {
-      "category": "U.S. & Politics",
-      "contentType": "brief",
-      "generatedAt": "2026-07-10T19:23:43.222Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What happened",
-            "panel": 1
-          },
-          {
-            "label": "Why it matters",
-            "panel": 3
-          },
-          {
-            "label": "What to watch",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/trump-leaves-election-assistance-commission-without-members.webp",
-      "claims": [
-        {
-          "claim": "Trump put a federal election-support agency in limbo by forcing out its final commissioners months from midterms.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Two Democratic commissioners were fired by email; Republican Christy McCormick was allowed to resign.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The agency helps state and local election officials administer funds and voting-system standards.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The White House cited a Supreme Court ruling expanding presidential removal power over independent agencies.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "New commissioners require Senate confirmation, leaving no quick replacement path for the vacant agency.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "States now face the midterm calendar with federal election support and standards work in limbo.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "Trump put a federal election-support agency in limbo by forcing out its final commissioners months from midterms.",
-        "Two Democratic commissioners were fired by email; Republican Christy McCormick was allowed to resign.",
-        "The agency helps state and local election officials administer funds and voting-system standards.",
-        "The White House cited a Supreme Court ruling expanding presidential removal power over independent agencies.",
-        "New commissioners require Senate confirmation, leaving no quick replacement path for the vacant agency.",
-        "States now face the midterm calendar with federal election support and standards work in limbo."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          33.213,
-          50.057
-        ],
-        [
-          33.453,
-          0,
-          32.898,
-          50.057
-        ],
-        [
-          66.591,
-          0,
-          33.409,
-          50.057
-        ],
-        [
-          0,
-          51.017,
-          33.213,
-          48.983
-        ],
-        [
-          33.453,
-          51.017,
-          32.898,
-          48.983
-        ],
-        [
-          66.591,
-          51.017,
-          33.409,
-          48.983
-        ]
-      ],
-      "primaryGuide": {
-        "slug": "what-the-election-assistance-commission-does",
-        "title": "What the Election Assistance Commission Does",
-        "url": "/live/?slug=what-the-election-assistance-commission-does"
-      },
-      "readerNext": {
-        "buttonLabel": "Guide",
-        "kind": "background-guide",
-        "label": "Background guide",
-        "slug": "what-the-election-assistance-commission-does",
-        "title": "What the Election Assistance Commission Does",
-        "url": "/live/?slug=what-the-election-assistance-commission-does"
-      },
-      "relatedBriefSlugs": [],
-      "shortTitle": "Trump leaves election agency without members",
-      "slug": "trump-leaves-election-assistance-commission-without-members",
-      "sourceCount": 3,
-      "sources": [
-        {
-          "name": "NBC News",
-          "url": "https://www.nbcnews.com/politics/2026-election/trump-fires-election-assistance-commission-members-ahead-midterms-rcna353781"
-        },
-        {
-          "name": "CNBC Top News",
-          "url": "https://www.cnbc.com/2026/07/10/trump-purges-election-assistance-commission.html"
-        },
-        {
-          "name": "ProPublica",
-          "url": "https://www.propublica.org/article/federal-election-assistance-commission-trump-dismantled"
-        }
-      ],
-      "storylineKey": "governing-crisis",
-      "storylineNext": {
-        "slug": "trump-lets-housing-bill-become-law-without-signing",
-        "title": "Trump Lets Housing Bill Become Law Without Signing",
-        "url": "/briefs/trump-lets-housing-bill-become-law-without-signing/"
-      },
-      "storylineTitle": "U.S. Elections",
-      "summary": "Trump removed the remaining Election Assistance Commission members, leaving the federal election-administration agency without commissioners months before the midterms.",
-      "title": "Trump leaves Election Assistance Commission without members",
-      "verificationNote": "Cross-checked across 3 sources"
     }
   ],
   "dailyPaper": {
@@ -8758,6 +8754,7 @@
   "feeds": {
     "categories": {
       "U.S. & Politics": [
+        "senate-panel-delays-vote-on-blanche-s-ag-nomination-as-key-republicans-voice-con",
         "trump-threatens-iran-strikes-after-missiles-target-us-forces",
         "watch-trump-calls-graham-beloved-friend-and-american-original-in-eulogy",
         "trump-asks-supreme-court-to-allow-order-restricting-mail-voting",
@@ -8776,8 +8773,7 @@
         "justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporti",
         "apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secr",
         "graham-platner-officially-withdraws-from-the-maine-senate-race",
-        "maine-democrats-announce-july-25-convention-to-pick-platner-replacement",
-        "trump-leaves-election-assistance-commission-without-members"
+        "maine-democrats-announce-july-25-convention-to-pick-platner-replacement"
       ],
       "Guide": [
         "how-structural-collapse-rescue-works",
@@ -8833,6 +8829,19 @@
       "how-bills-become-law-without-a-signature"
     ],
     "storylines": {
+      "governing-crisis": [
+        "senate-panel-delays-vote-on-blanche-s-ag-nomination-as-key-republicans-voice-con",
+        "how-mail-ballots-are-processed",
+        "trump-asks-supreme-court-to-allow-order-restricting-mail-voting",
+        "dnc-committee-sets-up-south-carolina-to-vote-first-in-democrats-2028-presidentia",
+        "how-war-powers-votes-work",
+        "how-us-senate-vacancies-are-filled",
+        "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa",
+        "grahams-death-opens-senate-seat-as-gop-guards-slim-majority",
+        "graham-platner-officially-withdraws-from-the-maine-senate-race",
+        "what-the-election-assistance-commission-does",
+        "maine-democrats-announce-july-25-convention-to-pick-platner-replacement"
+      ],
       "war-security-order": [
         "trump-threatens-iran-strikes-after-missiles-target-us-forces",
         "watch-trump-calls-graham-beloved-friend-and-american-original-in-eulogy",
@@ -8846,19 +8855,6 @@
         "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
         "trump-says-iran-ceasefire-is-over",
         "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the"
-      ],
-      "governing-crisis": [
-        "how-mail-ballots-are-processed",
-        "trump-asks-supreme-court-to-allow-order-restricting-mail-voting",
-        "dnc-committee-sets-up-south-carolina-to-vote-first-in-democrats-2028-presidentia",
-        "how-war-powers-votes-work",
-        "how-us-senate-vacancies-are-filled",
-        "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa",
-        "grahams-death-opens-senate-seat-as-gop-guards-slim-majority",
-        "graham-platner-officially-withdraws-from-the-maine-senate-race",
-        "what-the-election-assistance-commission-does",
-        "maine-democrats-announce-july-25-convention-to-pick-platner-replacement",
-        "trump-leaves-election-assistance-commission-without-members"
       ],
       "new-energy-system": [
         "how-civil-nuclear-cooperation-deals-work",
