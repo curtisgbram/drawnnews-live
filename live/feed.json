@@ -1,8 +1,237 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-30T16:27:09.035Z",
-  "rolling24HourCount": 3,
+  "updatedAt": "2026-07-30T19:40:46.054Z",
+  "rolling24HourCount": 4,
   "comics": [
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-30T19:39:55.898Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What happened",
+            "panel": 1
+          },
+          {
+            "label": "Why it matters",
+            "panel": 5
+          },
+          {
+            "label": "What to watch",
+            "panel": 6
+          }
+        ]
+      },
+      "imagePath": "/live/media/trump-says-he-may-pull-blanche-ag-nomination-temporarily.webp",
+      "claims": [
+        {
+          "claim": "Cornyn and Tillis block Blanche's attorney general appointment over a $1.8 billion fund.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Their holdouts block a Senate Judiciary vote on the nomination.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "They want written DOJ limits on the proposed Trump-IRS settlement fund.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Blanche says the compensation fund is not moving forward now.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The fight leaves an acting attorney general without Senate confirmation.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "DOJ can send assurances before the senators leave office next year.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Cornyn and Tillis block Blanche's attorney general appointment over a $1.8 billion fund.",
+        "Their holdouts block a Senate Judiciary vote on the nomination.",
+        "They want written DOJ limits on the proposed Trump-IRS settlement fund.",
+        "Blanche says the compensation fund is not moving forward now.",
+        "The fight leaves an acting attorney general without Senate confirmation.",
+        "DOJ can send assurances before the senators leave office next year."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.278,
+          50.448
+        ],
+        [
+          33.518,
+          0,
+          33.028,
+          50.448
+        ],
+        [
+          66.787,
+          0,
+          33.213,
+          50.448
+        ],
+        [
+          0,
+          51.798,
+          33.278,
+          48.202
+        ],
+        [
+          33.518,
+          51.798,
+          33.028,
+          48.202
+        ],
+        [
+          66.787,
+          51.798,
+          33.213,
+          48.202
+        ]
+      ],
+      "primaryGuide": null,
+      "readerNext": {
+        "buttonLabel": "Earlier brief",
+        "kind": "earlier-brief",
+        "label": "Earlier in this story",
+        "slug": "senate-panel-delays-vote-on-blanche-s-ag-nomination-as-key-republicans-voice-con",
+        "title": "Senate Delays Blanche AG Vote",
+        "url": "/live/?slug=senate-panel-delays-vote-on-blanche-s-ag-nomination-as-key-republicans-voice-con"
+      },
+      "relatedBriefSlugs": [
+        "senate-panel-delays-vote-on-blanche-s-ag-nomination-as-key-republicans-voice-con"
+      ],
+      "shortTitle": "Blanche vote blocked",
+      "slug": "trump-says-he-may-pull-blanche-ag-nomination-temporarily",
+      "sourceCount": 9,
+      "sources": [
+        {
+          "name": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/politics/trump-says-he-may-temporarily-pull-blanches-nomination-for-attorney-general-as-republicans-seek-concessions"
+        },
+        {
+          "name": "The Guardian US",
+          "url": "https://www.theguardian.com/us-news/2026/jul/30/todd-blanche-attorney-general-doj-nomination-trump"
+        },
+        {
+          "name": "Axios",
+          "url": "https://www.axios.com/2026/07/30/trump-blanche-nomination-tillis-cornyn"
+        },
+        {
+          "name": "ABC News Top Stories",
+          "url": "https://abcnews.com/Politics/gops-cornyn-continues-block-todd-blanche-attorney-general/story?id=135228494"
+        },
+        {
+          "name": "CBS News Latest",
+          "url": "https://www.cbsnews.com/news/trump-todd-blanche-nomination-attorney-general-cornyn-tillis"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/now/video/trump-says-he-could-pull-blanche-s-attorney-general-nomination-until-gop-holdouts-leave-267524677834"
+        },
+        {
+          "name": "NBC News Politics",
+          "url": "https://www.today.com/video/republicans-delay-key-vote-on-todd-blanche-s-doj-nomination-267503685570"
+        },
+        {
+          "name": "CNBC Top News",
+          "url": "https://www.cnbc.com/2026/07/30/trump-blanche-ag-doj-cornyn-tillis.html"
+        },
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/15/us/politics/todd-blanche-confirmation-irs.html"
+        }
+      ],
+      "storylineKey": "governing-crisis",
+      "storylineNext": {
+        "slug": "how-senate-confirmations-work",
+        "title": "Senate Confirmations, Explained",
+        "url": "/live/?slug=how-senate-confirmations-work"
+      },
+      "storylineTitle": "U.S. Elections",
+      "summary": "Cornyn and Tillis block Blanche's vote over a Trump-IRS fund.",
+      "title": "Cornyn, Tillis block Blanche vote over fund",
+      "verificationNote": "Cross-checked across 9 sources"
+    },
     {
       "category": "Guide",
       "contentType": "guide",
@@ -303,12 +532,12 @@
       ],
       "primaryGuide": null,
       "readerNext": {
-        "buttonLabel": "Storyline",
-        "kind": "storyline",
-        "label": "Storyline",
-        "slug": "governing-crisis",
-        "title": "U.S. Elections",
-        "url": "/storylines/governing-crisis/"
+        "buttonLabel": "Read update",
+        "kind": "latest-development",
+        "label": "Latest development",
+        "slug": "trump-says-he-may-pull-blanche-ag-nomination-temporarily",
+        "title": "Blanche vote blocked",
+        "url": "/live/?slug=trump-says-he-may-pull-blanche-ag-nomination-temporarily"
       },
       "relatedBriefSlugs": [],
       "shortTitle": "Senate Delays Blanche AG Vote",
@@ -8130,7 +8359,7 @@
         "label": "Earlier in this story",
         "slug": "maine-democrats-announce-july-25-convention-to-pick-platner-replacement",
         "title": "Maine Democrats Plan Senate Replacement Vote",
-        "url": "/live/?slug=maine-democrats-announce-july-25-convention-to-pick-platner-replacement"
+        "url": "/briefs/maine-democrats-announce-july-25-convention-to-pick-platner-replacement/"
       },
       "relatedBriefSlugs": [
         "maine-democrats-announce-july-25-convention-to-pick-platner-replacement",
@@ -8331,7 +8560,7 @@
       "storylineNext": {
         "slug": "maine-democrats-announce-july-25-convention-to-pick-platner-replacement",
         "title": "Maine Democrats Plan Senate Replacement Vote",
-        "url": "/live/?slug=maine-democrats-announce-july-25-convention-to-pick-platner-replacement"
+        "url": "/briefs/maine-democrats-announce-july-25-convention-to-pick-platner-replacement/"
       },
       "storylineTitle": "U.S. Elections",
       "summary": "The Election Assistance Commission helps state and local officials administer voting for voters by setting voluntary voting-system guidelines, accrediting test labs, certifying voting systems and sharing election-administration support without running elections itself.",
@@ -8518,206 +8747,6 @@
       "summary": "President Donald Trump says he will approve a license for Ukraine to produce Patriot missile interceptors, a potential long-term help for Kyiv as officials warn current air-defense stocks are running low against Russian ballistic attacks.",
       "title": "Trump approves Patriot license as Ukraine air defenses run low",
       "verificationNote": "Cross-checked across 4 sources"
-    },
-    {
-      "category": "U.S. & Politics",
-      "contentType": "brief",
-      "generatedAt": "2026-07-11T06:30:12.178Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What happened",
-            "panel": 1
-          },
-          {
-            "label": "Why it matters",
-            "panel": 3
-          },
-          {
-            "label": "What to watch",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/maine-democrats-announce-july-25-convention-to-pick-platner-replacement.webp",
-      "claims": [
-        {
-          "claim": "Maine Democrats open a July 25 Bangor convention fight, with voters facing a reopened Senate race.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Platner filed withdrawal paperwork with Maine's secretary of state, ending the primary winner's campaign.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The open nomination matters because Democrats see Maine as central to Senate control.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Susan Collins remains the Republican target as Democrats scramble to choose a replacement nominee.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Several hopefuls have begun jockeying for position before party delegates gather in Bangor.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The next deadline is the July 25 convention, when Democrats must settle on one challenger.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "Maine Democrats open a July 25 Bangor convention fight, with voters facing a reopened Senate race.",
-        "Platner filed withdrawal paperwork with Maine's secretary of state, ending the primary winner's campaign.",
-        "The open nomination matters because Democrats see Maine as central to Senate control.",
-        "Susan Collins remains the Republican target as Democrats scramble to choose a replacement nominee.",
-        "Several hopefuls have begun jockeying for position before party delegates gather in Bangor.",
-        "The next deadline is the July 25 convention, when Democrats must settle on one challenger."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          33.148,
-          50.057
-        ],
-        [
-          33.388,
-          0,
-          33.093,
-          50.057
-        ],
-        [
-          66.722,
-          0,
-          33.278,
-          50.057
-        ],
-        [
-          0,
-          49.943,
-          33.148,
-          50.057
-        ],
-        [
-          33.388,
-          49.943,
-          33.093,
-          50.057
-        ],
-        [
-          66.722,
-          49.943,
-          33.278,
-          50.057
-        ]
-      ],
-      "primaryGuide": null,
-      "readerNext": {
-        "buttonLabel": "Read update",
-        "kind": "latest-development",
-        "label": "Latest development",
-        "slug": "graham-platner-officially-withdraws-from-the-maine-senate-race",
-        "title": "Platner withdrawal opens July 27 Maine Senate race replacement deadline",
-        "url": "/live/?slug=graham-platner-officially-withdraws-from-the-maine-senate-race"
-      },
-      "relatedBriefSlugs": [
-        "maine-democrats-vote-to-replace-platner-before-july-13-senate-deadline",
-        "how-dems-could-replace-platner-in-maine-senate-race-and-who-might-take-his-place"
-      ],
-      "shortTitle": "Maine Democrats Plan Senate Replacement Vote",
-      "slug": "maine-democrats-announce-july-25-convention-to-pick-platner-replacement",
-      "sourceCount": 6,
-      "sources": [
-        {
-          "name": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/politics/graham-platner-submits-notice-to-formally-withdraw-from-maine-senate-race"
-        },
-        {
-          "name": "ABC News Top Stories",
-          "url": "https://abcnews.com/Politics/graham-platner-officially-withdraws-maine-senate-race/story?id=134663041"
-        },
-        {
-          "name": "CBS News Politics",
-          "url": "https://www.cbsnews.com/video/071026-the-takeout-with-major-garrett"
-        },
-        {
-          "name": "NBC News",
-          "url": "https://www.nbcnews.com/politics/2026-election/graham-platner-officially-drops-maine-senate-race-rcna385842"
-        },
-        {
-          "name": "Politico",
-          "url": "https://www.politico.com/news/2026/07/09/graham-platner-maine-democrats-replacement-process-00991464"
-        },
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/10/us/maine-democrats-platner-replacement-convention.html"
-        }
-      ],
-      "storylineKey": "governing-crisis",
-      "storylineNext": {
-        "slug": "trump-leaves-election-assistance-commission-without-members",
-        "title": "Trump leaves election agency without members",
-        "url": "/briefs/trump-leaves-election-assistance-commission-without-members/"
-      },
-      "storylineTitle": "U.S. Elections",
-      "summary": "After Graham Platner formally withdrew from Maine's Senate race, state Democrats set a July 25 Bangor convention to choose a replacement for a contest tied to Senate control.",
-      "title": "Maine Democrats Plan July 25 Vote to Replace Platner in Senate Race",
-      "verificationNote": "Cross-checked across 6 sources"
     }
   ],
   "dailyPaper": {
@@ -8767,21 +8796,8 @@
   },
   "feeds": {
     "categories": {
-      "Guide": [
-        "how-senate-confirmations-work",
-        "how-structural-collapse-rescue-works",
-        "how-mail-ballots-are-processed",
-        "how-wildfire-evacuations-work",
-        "how-war-powers-votes-work",
-        "how-civil-nuclear-cooperation-deals-work",
-        "how-pay-transparency-laws-work",
-        "how-buy-now-pay-later-loans-work",
-        "how-us-senate-vacancies-are-filled",
-        "how-ev-battery-recycling-works",
-        "how-national-bank-charters-work",
-        "what-the-election-assistance-commission-does"
-      ],
       "U.S. & Politics": [
+        "trump-says-he-may-pull-blanche-ag-nomination-temporarily",
         "senate-panel-delays-vote-on-blanche-s-ag-nomination-as-key-republicans-voice-con",
         "trump-threatens-iran-strikes-after-missiles-target-us-forces",
         "watch-trump-calls-graham-beloved-friend-and-american-original-in-eulogy",
@@ -8800,8 +8816,21 @@
         "200-young-campers-staff-rescued-amid-record-flooding-in-missouri",
         "justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporti",
         "apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secr",
-        "graham-platner-officially-withdraws-from-the-maine-senate-race",
-        "maine-democrats-announce-july-25-convention-to-pick-platner-replacement"
+        "graham-platner-officially-withdraws-from-the-maine-senate-race"
+      ],
+      "Guide": [
+        "how-senate-confirmations-work",
+        "how-structural-collapse-rescue-works",
+        "how-mail-ballots-are-processed",
+        "how-wildfire-evacuations-work",
+        "how-war-powers-votes-work",
+        "how-civil-nuclear-cooperation-deals-work",
+        "how-pay-transparency-laws-work",
+        "how-buy-now-pay-later-loans-work",
+        "how-us-senate-vacancies-are-filled",
+        "how-ev-battery-recycling-works",
+        "how-national-bank-charters-work",
+        "what-the-election-assistance-commission-does"
       ],
       "World": [
         "after-large-earthquake-japan-races-against-time-to-reach-people-trapped",
@@ -8844,6 +8873,7 @@
     ],
     "storylines": {
       "governing-crisis": [
+        "trump-says-he-may-pull-blanche-ag-nomination-temporarily",
         "how-senate-confirmations-work",
         "senate-panel-delays-vote-on-blanche-s-ag-nomination-as-key-republicans-voice-con",
         "how-mail-ballots-are-processed",
@@ -8854,8 +8884,7 @@
         "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa",
         "grahams-death-opens-senate-seat-as-gop-guards-slim-majority",
         "graham-platner-officially-withdraws-from-the-maine-senate-race",
-        "what-the-election-assistance-commission-does",
-        "maine-democrats-announce-july-25-convention-to-pick-platner-replacement"
+        "what-the-election-assistance-commission-does"
       ],
       "war-security-order": [
         "trump-threatens-iran-strikes-after-missiles-target-us-forces",
