@@ -1,8 +1,177 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-30T13:36:02.129Z",
+  "updatedAt": "2026-07-30T16:27:09.035Z",
   "rolling24HourCount": 3,
   "comics": [
+    {
+      "category": "Guide",
+      "contentType": "guide",
+      "generatedAt": "2026-07-30T16:26:19.017Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What it explains",
+            "panel": 1
+          },
+          {
+            "label": "How it works",
+            "panel": 2
+          },
+          {
+            "label": "Where it gets hard",
+            "panel": 4
+          }
+        ]
+      },
+      "imagePath": "/live/media/how-senate-confirmations-work.webp",
+      "claims": [
+        {
+          "claim": "A president moves a nominee into the Senate appointment pipeline while a public office waits for confirmation.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Committee chairs open the first gate with questionnaires, ethics checks, hearing rooms, and member questions.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Senators can report the nomination favorably, unfavorably, without recommendation, or leave it waiting in committee.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Floor leaders manage the calendar while holds, time agreements, cloture, and debate rules decide speed.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "A confirmed nominee moves from Senate vote to commission, oath, agency handoff, and operational authority.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Watch the bottleneck: committee votes, holds, cloture math, recess timing, and whether the office stays vacant.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "A president moves a nominee into the Senate appointment pipeline while a public office waits for confirmation.",
+        "Committee chairs open the first gate with questionnaires, ethics checks, hearing rooms, and member questions.",
+        "Senators can report the nomination favorably, unfavorably, without recommendation, or leave it waiting in committee.",
+        "Floor leaders manage the calendar while holds, time agreements, cloture, and debate rules decide speed.",
+        "A confirmed nominee moves from Senate vote to commission, oath, agency handoff, and operational authority.",
+        "Watch the bottleneck: committee votes, holds, cloture math, recess timing, and whether the office stays vacant."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.213,
+          47.225
+        ],
+        [
+          33.453,
+          0,
+          33.093,
+          47.225
+        ],
+        [
+          66.787,
+          0,
+          33.213,
+          47.225
+        ],
+        [
+          0,
+          49.455,
+          33.213,
+          50.545
+        ],
+        [
+          33.453,
+          49.455,
+          33.093,
+          50.545
+        ],
+        [
+          66.787,
+          49.455,
+          33.213,
+          50.545
+        ]
+      ],
+      "primaryGuide": null,
+      "relatedBriefSlugs": [],
+      "shortTitle": "Senate Confirmations, Explained",
+      "slug": "how-senate-confirmations-work",
+      "sourceCount": 4,
+      "sources": [
+        {
+          "name": "U.S. Senate: About Nominations",
+          "url": "https://www.senate.gov/about/powers-procedures/nominations.htm"
+        },
+        {
+          "name": "U.S. Senate: Executive Nominations Overview",
+          "url": "https://www.senate.gov/about/powers-procedures/nominations/executive-nominations-overview.htm"
+        },
+        {
+          "name": "U.S. Senate: Nominations",
+          "url": "https://www.senate.gov/legislative/nominations_new.htm"
+        },
+        {
+          "name": "U.S. Senate: Nominations in Committee",
+          "url": "https://www.senate.gov/pagelayout/legislative/one_item_and_teasers/nom_cmtec.htm"
+        }
+      ],
+      "storylineKey": "governing-crisis",
+      "storylineNext": {
+        "slug": "senate-panel-delays-vote-on-blanche-s-ag-nomination-as-key-republicans-voice-con",
+        "title": "Senate Delays Blanche AG Vote",
+        "url": "/live/?slug=senate-panel-delays-vote-on-blanche-s-ag-nomination-as-key-republicans-voice-con"
+      },
+      "storylineTitle": "U.S. Elections",
+      "summary": "Senate confirmations move presidential nominees through committee review, public hearings, reports, floor scheduling, cloture pressure, final votes, oaths, and agency handoffs before an office gains confirmed authority.",
+      "title": "How Senate Confirmations Work",
+      "verificationNote": "Cross-checked across 4 sources"
+    },
     {
       "category": "U.S. & Politics",
       "contentType": "brief",
@@ -8549,161 +8718,6 @@
       "summary": "After Graham Platner formally withdrew from Maine's Senate race, state Democrats set a July 25 Bangor convention to choose a replacement for a contest tied to Senate control.",
       "title": "Maine Democrats Plan July 25 Vote to Replace Platner in Senate Race",
       "verificationNote": "Cross-checked across 6 sources"
-    },
-    {
-      "category": "Guide",
-      "contentType": "guide",
-      "generatedAt": "2026-07-11T00:16:23.728Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What it explains",
-            "panel": 1
-          },
-          {
-            "label": "How it works",
-            "panel": 2
-          },
-          {
-            "label": "Where it gets hard",
-            "panel": 5
-          }
-        ]
-      },
-      "imagePath": "/live/media/how-bills-become-law-without-a-signature.webp",
-      "claims": [
-        {
-          "claim": "Presentment gate: Congress turns a bill into federal law only after the enrolled document reaches the White House, starting the public deadline.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Choice diagram: the president can sign, return a veto, or let the 10-day clock keep running while Congress can receive objections.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Timeline rule: 10 days, Sundays excepted, converts silence into law unless adjournment blocks a return message.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Override path: two-thirds votes in both chambers route a vetoed bill through a vote board and back into law.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Failure mode: adjournment can create a pocket-veto stop, preventing return and leaving the unsigned document outside the law.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Watch ledger: receipt date, adjournment status, veto message and public-law publication reveal which path happened.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "Presentment gate: Congress turns a bill into federal law only after the enrolled document reaches the White House, starting the public deadline.",
-        "Choice diagram: the president can sign, return a veto, or let the 10-day clock keep running while Congress can receive objections.",
-        "Timeline rule: 10 days, Sundays excepted, converts silence into law unless adjournment blocks a return message.",
-        "Override path: two-thirds votes in both chambers route a vetoed bill through a vote board and back into law.",
-        "Failure mode: adjournment can create a pocket-veto stop, preventing return and leaving the unsigned document outside the law.",
-        "Watch ledger: receipt date, adjournment status, veto message and public-law publication reveal which path happened."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          33.278,
-          50.252
-        ],
-        [
-          34.169,
-          0,
-          30.815,
-          50.252
-        ],
-        [
-          65.94,
-          0,
-          34.06,
-          50.252
-        ],
-        [
-          0,
-          50.724,
-          33.278,
-          49.276
-        ],
-        [
-          34.169,
-          50.724,
-          30.815,
-          49.276
-        ],
-        [
-          65.94,
-          50.724,
-          34.06,
-          49.276
-        ]
-      ],
-      "primaryGuide": null,
-      "relatedBriefSlugs": [],
-      "shortTitle": "Bills Without a Signature",
-      "slug": "how-bills-become-law-without-a-signature",
-      "sourceCount": 3,
-      "sources": [
-        {
-          "name": "National Archives: Constitution transcript",
-          "url": "https://www.archives.gov/founding-docs/constitution-transcript"
-        },
-        {
-          "name": "U.S. House: The Legislative Process",
-          "url": "https://www.house.gov/the-house-explained/the-legislative-process"
-        },
-        {
-          "name": "U.S. Senate: About Voting",
-          "url": "https://www.senate.gov/about/powers-procedures/voting.htm"
-        }
-      ],
-      "storylineKey": "",
-      "storylineNext": null,
-      "storylineTitle": "",
-      "summary": "A U.S. bill can become law after House and Senate passage when the enrolled bill reaches the president, the 10-day clock runs without a signed approval or returned veto, and Congress remains able to receive a return message.",
-      "title": "How Bills Become Law Without a Signature",
-      "verificationNote": "Cross-checked across 3 sources"
     }
   ],
   "dailyPaper": {
@@ -8753,6 +8767,20 @@
   },
   "feeds": {
     "categories": {
+      "Guide": [
+        "how-senate-confirmations-work",
+        "how-structural-collapse-rescue-works",
+        "how-mail-ballots-are-processed",
+        "how-wildfire-evacuations-work",
+        "how-war-powers-votes-work",
+        "how-civil-nuclear-cooperation-deals-work",
+        "how-pay-transparency-laws-work",
+        "how-buy-now-pay-later-loans-work",
+        "how-us-senate-vacancies-are-filled",
+        "how-ev-battery-recycling-works",
+        "how-national-bank-charters-work",
+        "what-the-election-assistance-commission-does"
+      ],
       "U.S. & Politics": [
         "senate-panel-delays-vote-on-blanche-s-ag-nomination-as-key-republicans-voice-con",
         "trump-threatens-iran-strikes-after-missiles-target-us-forces",
@@ -8774,20 +8802,6 @@
         "apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secr",
         "graham-platner-officially-withdraws-from-the-maine-senate-race",
         "maine-democrats-announce-july-25-convention-to-pick-platner-replacement"
-      ],
-      "Guide": [
-        "how-structural-collapse-rescue-works",
-        "how-mail-ballots-are-processed",
-        "how-wildfire-evacuations-work",
-        "how-war-powers-votes-work",
-        "how-civil-nuclear-cooperation-deals-work",
-        "how-pay-transparency-laws-work",
-        "how-buy-now-pay-later-loans-work",
-        "how-us-senate-vacancies-are-filled",
-        "how-ev-battery-recycling-works",
-        "how-national-bank-charters-work",
-        "what-the-election-assistance-commission-does",
-        "how-bills-become-law-without-a-signature"
       ],
       "World": [
         "after-large-earthquake-japan-races-against-time-to-reach-people-trapped",
@@ -8815,6 +8829,7 @@
       ]
     },
     "guides": [
+      "how-senate-confirmations-work",
       "how-structural-collapse-rescue-works",
       "how-mail-ballots-are-processed",
       "how-wildfire-evacuations-work",
@@ -8825,11 +8840,11 @@
       "how-us-senate-vacancies-are-filled",
       "how-ev-battery-recycling-works",
       "how-national-bank-charters-work",
-      "what-the-election-assistance-commission-does",
-      "how-bills-become-law-without-a-signature"
+      "what-the-election-assistance-commission-does"
     ],
     "storylines": {
       "governing-crisis": [
+        "how-senate-confirmations-work",
         "senate-panel-delays-vote-on-blanche-s-ag-nomination-as-key-republicans-voice-con",
         "how-mail-ballots-are-processed",
         "trump-asks-supreme-court-to-allow-order-restricting-mail-voting",
