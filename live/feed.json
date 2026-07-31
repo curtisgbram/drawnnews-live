@@ -1,8 +1,209 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-30T19:40:46.054Z",
-  "rolling24HourCount": 4,
+  "updatedAt": "2026-07-31T01:14:36.082Z",
+  "rolling24HourCount": 5,
   "comics": [
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-31T01:13:44.906Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What happened",
+            "panel": 1
+          },
+          {
+            "label": "Why it matters",
+            "panel": 4
+          },
+          {
+            "label": "What to watch",
+            "panel": 6
+          }
+        ]
+      },
+      "imagePath": "/live/media/former-lt-gov-mandela-barnes-exits-race-for-wisconsin-governor.webp",
+      "claims": [
+        {
+          "claim": "Before Aug. 11, Barnes says his Wisconsin governor campaign is ending, narrowing voters’ choice.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Polls showed state Rep. Francesca Hong leading the Democratic field.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "His exit narrowed a volatile race after two other Democratic withdrawals.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Campaign staff and supporters absorbed the decision through a video announcement.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Wisconsin Democrats now weigh nominees for a closely divided battleground state.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The Aug. 11 primary becomes the next test for Hong’s coalition.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Before Aug. 11, Barnes says his Wisconsin governor campaign is ending, narrowing voters’ choice.",
+        "Polls showed state Rep. Francesca Hong leading the Democratic field.",
+        "His exit narrowed a volatile race after two other Democratic withdrawals.",
+        "Campaign staff and supporters absorbed the decision through a video announcement.",
+        "Wisconsin Democrats now weigh nominees for a closely divided battleground state.",
+        "The Aug. 11 primary becomes the next test for Hong’s coalition."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          37.12,
+          50.545
+        ],
+        [
+          37.88,
+          0,
+          28.796,
+          50.545
+        ],
+        [
+          67.893,
+          0,
+          32.107,
+          50.545
+        ],
+        [
+          0,
+          51.213,
+          37.12,
+          48.787
+        ],
+        [
+          37.88,
+          51.213,
+          28.796,
+          48.787
+        ],
+        [
+          67.893,
+          51.213,
+          32.107,
+          48.787
+        ]
+      ],
+      "primaryGuide": {
+        "slug": "how-primary-elections-work",
+        "title": "How Primary Elections Work",
+        "url": "/briefs/how-primary-elections-work/"
+      },
+      "readerNext": {
+        "buttonLabel": "Guide",
+        "kind": "background-guide",
+        "label": "Background guide",
+        "slug": "how-primary-elections-work",
+        "title": "How Primary Elections Work",
+        "url": "/briefs/how-primary-elections-work/"
+      },
+      "relatedBriefSlugs": [],
+      "shortTitle": "Barnes Drops Wisconsin Campaign",
+      "slug": "former-lt-gov-mandela-barnes-exits-race-for-wisconsin-governor",
+      "sourceCount": 6,
+      "sources": [
+        {
+          "name": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/politics/mandela-barnes-drops-out-of-democratic-primary-race-for-wisconsin-governor"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/jul/30/mandela-barnes-wisconsin-governor-race"
+        },
+        {
+          "name": "ABC News Top Stories",
+          "url": "https://abcnews.com/Politics/wireStory/mandela-barnes-drops-democratic-primary-wisconsin-governor-135238562"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/politics/2026-election/democrat-mandela-barnes-drops-wisconsin-governors-race-rcna590096"
+        },
+        {
+          "name": "Politico",
+          "url": "https://www.politico.com/news/2026/07/30/mandela-barnes-wisconsin-governor-democrat-race-01017783"
+        },
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/30/us/wisconsin-democratic-primary-for-governor-narrows-as-candidate-exits.html"
+        }
+      ],
+      "storylineKey": "governing-crisis",
+      "storylineNext": {
+        "slug": "trump-says-he-may-pull-blanche-ag-nomination-temporarily",
+        "title": "Blanche vote blocked",
+        "url": "/live/?slug=trump-says-he-may-pull-blanche-ag-nomination-temporarily"
+      },
+      "storylineTitle": "U.S. Elections",
+      "summary": "Mandela Barnes ended his Wisconsin governor campaign after polls showed state Rep. Francesca Hong leading, narrowing a volatile Democratic primary less than two weeks before Aug. 11.",
+      "title": "Barnes Drops Campaign as Hong Leads Wisconsin Governor Primary",
+      "verificationNote": "Cross-checked across 6 sources"
+    },
     {
       "category": "U.S. & Politics",
       "contentType": "brief",
@@ -8003,7 +8204,7 @@
       "storylineNext": {
         "slug": "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the",
         "title": "Trump approves Patriot license as Ukraine air defenses run low",
-        "url": "/live/?slug=patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the"
+        "url": "/briefs/patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the/"
       },
       "storylineTitle": "The War and Security Order",
       "summary": "After new U.S. attacks, Trump says the Iran ceasefire is over, Iranian leaders say they will not surrender, and mediators are trying to stop a wider fight.",
@@ -8566,187 +8767,6 @@
       "summary": "The Election Assistance Commission helps state and local officials administer voting for voters by setting voluntary voting-system guidelines, accrediting test labs, certifying voting systems and sharing election-administration support without running elections itself.",
       "title": "What the Election Assistance Commission Does",
       "verificationNote": "Checked against 4 primary sources"
-    },
-    {
-      "category": "World",
-      "contentType": "brief",
-      "generatedAt": "2026-07-11T08:42:42.293Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What happened",
-            "panel": 1
-          },
-          {
-            "label": "Why it matters",
-            "panel": 3
-          },
-          {
-            "label": "What to watch",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the.webp",
-      "claims": [
-        {
-          "claim": "Trump says he will license Ukraine to make Patriot interceptors as Russian missile attacks strain air defense.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Kyiv wants production at home because imported Patriot rounds are limited and replacement lines cannot move instantly.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The license opens a legal path, but factories, testing, and supply chains still have to follow.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "France 24 says experts see a long-term investment, not an immediate shield for tonight's air raids.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Zelensky has warned for weeks that interceptor stocks are running low against near-constant ballistic attacks.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The practical question is timing: can licensed production arrive before Ukraine loses more air-defense capacity?",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "Trump says he will license Ukraine to make Patriot interceptors as Russian missile attacks strain air defense.",
-        "Kyiv wants production at home because imported Patriot rounds are limited and replacement lines cannot move instantly.",
-        "The license opens a legal path, but factories, testing, and supply chains still have to follow.",
-        "France 24 says experts see a long-term investment, not an immediate shield for tonight's air raids.",
-        "Zelensky has warned for weeks that interceptor stocks are running low against near-constant ballistic attacks.",
-        "The practical question is timing: can licensed production arrive before Ukraine loses more air-defense capacity?"
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          32.758,
-          49.666
-        ],
-        [
-          33.779,
-          0,
-          32.507,
-          49.666
-        ],
-        [
-          66.526,
-          0,
-          33.474,
-          49.666
-        ],
-        [
-          0,
-          50.236,
-          32.758,
-          49.764
-        ],
-        [
-          33.779,
-          50.236,
-          32.507,
-          49.764
-        ],
-        [
-          66.526,
-          50.236,
-          33.474,
-          49.764
-        ]
-      ],
-      "primaryGuide": {
-        "slug": "how-missile-defense-works",
-        "title": "How Missile Defense Works",
-        "url": "/briefs/how-missile-defense-works/"
-      },
-      "readerNext": {
-        "buttonLabel": "Guide",
-        "kind": "background-guide",
-        "label": "Background guide",
-        "slug": "how-missile-defense-works",
-        "title": "How Missile Defense Works",
-        "url": "/briefs/how-missile-defense-works/"
-      },
-      "relatedBriefSlugs": [],
-      "shortTitle": "Trump approves Patriot license as Ukraine air defenses run low",
-      "slug": "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the",
-      "sourceCount": 4,
-      "sources": [
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/europe/20260711-patriot-missile-license-ukraine-can-it-afford-the-wait-trump"
-        },
-        {
-          "name": "The New York Times World",
-          "url": "https://www.nytimes.com/2026/07/09/world/europe/ukraine-patriots-trump-russia.html"
-        },
-        {
-          "name": "ABC News",
-          "url": "https://abcnews.com/Politics/experts-trumps-plan-license-patriot-missiles-ukraine-years/story?id=134623702"
-        },
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/trump-signals-support-for-patriot-production-in-ukraine/a-77909681?maca=en-rss-en-all-1573-rdf"
-        }
-      ],
-      "storylineKey": "war-security-order",
-      "storylineNext": {
-        "slug": "trump-returns-from-turkey-in-old-air-force-one-jet-due-to-security-concerns",
-        "title": "Trump takes old Air Force One for security",
-        "url": "/briefs/trump-returns-from-turkey-in-old-air-force-one-jet-due-to-security-concerns/"
-      },
-      "storylineTitle": "The War and Security Order",
-      "summary": "President Donald Trump says he will approve a license for Ukraine to produce Patriot missile interceptors, a potential long-term help for Kyiv as officials warn current air-defense stocks are running low against Russian ballistic attacks.",
-      "title": "Trump approves Patriot license as Ukraine air defenses run low",
-      "verificationNote": "Cross-checked across 4 sources"
     }
   ],
   "dailyPaper": {
@@ -8797,6 +8817,7 @@
   "feeds": {
     "categories": {
       "U.S. & Politics": [
+        "former-lt-gov-mandela-barnes-exits-race-for-wisconsin-governor",
         "trump-says-he-may-pull-blanche-ag-nomination-temporarily",
         "senate-panel-delays-vote-on-blanche-s-ag-nomination-as-key-republicans-voice-con",
         "trump-threatens-iran-strikes-after-missiles-target-us-forces",
@@ -8842,8 +8863,7 @@
         "inflation-slowed-during-pause-in-war-with-iran",
         "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
         "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
-        "trump-says-iran-ceasefire-is-over",
-        "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the"
+        "trump-says-iran-ceasefire-is-over"
       ],
       "Tech & Science": [
         "spain-and-france-wildfires-force-more-than-300-000-to-flee-as-macron-calls-crisi",
@@ -8873,6 +8893,7 @@
     ],
     "storylines": {
       "governing-crisis": [
+        "former-lt-gov-mandela-barnes-exits-race-for-wisconsin-governor",
         "trump-says-he-may-pull-blanche-ag-nomination-temporarily",
         "how-senate-confirmations-work",
         "senate-panel-delays-vote-on-blanche-s-ag-nomination-as-key-republicans-voice-con",
@@ -8897,8 +8918,7 @@
         "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
         "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
         "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
-        "trump-says-iran-ceasefire-is-over",
-        "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the"
+        "trump-says-iran-ceasefire-is-over"
       ],
       "new-energy-system": [
         "how-civil-nuclear-cooperation-deals-work",
