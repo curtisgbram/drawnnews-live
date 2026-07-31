@@ -1,7 +1,7 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-31T01:14:36.082Z",
-  "rolling24HourCount": 5,
+  "updatedAt": "2026-07-31T03:51:02.328Z",
+  "rolling24HourCount": 4,
   "comics": [
     {
       "category": "U.S. & Politics",
@@ -8773,46 +8773,45 @@
     "briefs": [
       {
         "category": "U.S. & Politics",
-        "shortTitle": "Justice Department Seeks Ballot Block Lifted",
-        "slug": "trump-asks-supreme-court-to-allow-order-restricting-mail-voting",
-        "summary": "The Justice Department asked justices to lift a lower-court block on mail-ballot rules affecting 23 suing states before November midterms.",
-        "title": "Justice Department Asks Justices to Lift 23-State Mail-Ballot Block"
+        "shortTitle": "Blanche vote blocked",
+        "slug": "trump-says-he-may-pull-blanche-ag-nomination-temporarily",
+        "summary": "Cornyn and Tillis block Blanche's vote over a Trump-IRS fund.",
+        "title": "Cornyn, Tillis block Blanche vote over fund"
       },
       {
         "category": "U.S. & Politics",
-        "shortTitle": "Comey asks judge to dismiss case",
-        "slug": "citing-common-sense-james-comey-s-team-urges-judge-to-toss-seashells-case",
-        "summary": "James Comey's lawyers asked a federal judge to dismiss charges tied to an Instagram photo of seashells arranged as '86 47,' arguing prosecutors cannot prove",
-        "title": "Comey asks judge to dismiss seashell-post threat case"
+        "shortTitle": "Barnes Drops Wisconsin Campaign",
+        "slug": "former-lt-gov-mandela-barnes-exits-race-for-wisconsin-governor",
+        "summary": "Mandela Barnes ended his Wisconsin governor campaign after polls showed state Rep. Francesca Hong leading, narrowing a volatile Democratic primary less than two weeks before Aug. 11.",
+        "title": "Barnes Drops Campaign as Hong Leads Wisconsin Governor Primary"
       },
       {
-        "category": "Tech & Science",
-        "shortTitle": "Officials order evacuations as wildfires threaten residents",
-        "slug": "spain-and-france-wildfires-force-more-than-300-000-to-flee-as-macron-calls-crisi",
-        "summary": "Authorities expanded evacuations, road and rail closures, and crisis meetings as fires in southwest France and Spain strained crews under heat and wind.",
-        "title": "Wildfires force evacuations near Bordeaux"
+        "category": "U.S. & Politics",
+        "shortTitle": "Senate Delays Blanche AG Vote",
+        "slug": "senate-panel-delays-vote-on-blanche-s-ag-nomination-as-key-republicans-voice-con",
+        "summary": "The Senate Judiciary Committee delayed Todd Blanche’s attorney general nomination vote after two Republicans sought written DOJ assurances about a proposed $1.776 billion Trump-IRS settlement.",
+        "title": "Senate Panel Delays Blanche AG Vote Over DOJ Assurances"
       },
       {
         "category": "Guide",
-        "shortTitle": "Wildfire Evacuations, Explained",
-        "slug": "how-wildfire-evacuations-work",
-        "summary": "Wildfire evacuations turn fire weather, fuels, crews, local authority, alert zones, routes, shelters, and reentry checks into staged decisions about who must move and when.",
-        "title": "How Wildfire Evacuations Work"
+        "shortTitle": "Senate Confirmations, Explained",
+        "slug": "how-senate-confirmations-work",
+        "summary": "Senate confirmations move presidential nominees through committee review, public hearings, reports, floor scheduling, cloture pressure, final votes, oaths, and agency handoffs before an office gains confirmed authority.",
+        "title": "How Senate Confirmations Work"
       }
     ],
     "categories": [
       "U.S. & Politics",
-      "Tech & Science",
       "Guide"
     ],
-    "date": "2026-07-27",
-    "imagePath": "/live/papers/2026-07-27.webp",
-    "leadTitle": "Justice Department Asks Justices to Lift 23-State Mail-Ballot Block",
-    "shortHeadline": "Justice Department Asks Justices to Lift 23-State Mail-Ballot Block leads the daily briefing.",
-    "sourceTotal": 18,
-    "summary": "Justice Department Asks Justices to Lift 23-State Mail-Ballot Block leads a 4-brief front page across 3 sections.",
+    "date": "2026-07-30",
+    "imagePath": "/live/papers/2026-07-30.webp",
+    "leadTitle": "Cornyn, Tillis block Blanche vote over fund",
+    "shortHeadline": "Cornyn, Tillis block Blanche vote over fund leads the daily briefing.",
+    "sourceTotal": 22,
+    "summary": "Cornyn, Tillis block Blanche vote over fund leads a 4-brief front page across 2 sections.",
     "topStripCount": 4,
-    "updatedAt": "2026-07-28T05:07:25.513Z"
+    "updatedAt": "2026-07-31T03:51:02.322Z"
   },
   "feeds": {
     "categories": {
