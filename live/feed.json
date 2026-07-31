@@ -1,8 +1,163 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-31T16:15:48.460Z",
+  "updatedAt": "2026-07-31T19:15:38.344Z",
   "rolling24HourCount": 4,
   "comics": [
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-07-31T19:14:47.855Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What happened",
+            "panel": 1
+          },
+          {
+            "label": "Why it matters",
+            "panel": 5
+          },
+          {
+            "label": "What to watch",
+            "panel": 6
+          }
+        ]
+      },
+      "imagePath": "/live/media/3-states-would-face-colorado-river-water-cuts-under-federal-plan.webp",
+      "claims": [
+        {
+          "claim": "A federal plan would cut Colorado River deliveries for Arizona, California, Nevada users.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The river supplies more than 40 million people across seven Western states.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Mandatory cuts spare Colorado, Utah, New Mexico, Wyoming for now.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Lower Basin cuts could reach 3 million acre-feet in dry years.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Managers would reset Lake Powell releases every two years through 2036.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The next fight is a durable seven-state shortage-sharing deal.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "A federal plan would cut Colorado River deliveries for Arizona, California, Nevada users.",
+        "The river supplies more than 40 million people across seven Western states.",
+        "Mandatory cuts spare Colorado, Utah, New Mexico, Wyoming for now.",
+        "Lower Basin cuts could reach 3 million acre-feet in dry years.",
+        "Managers would reset Lake Powell releases every two years through 2036.",
+        "The next fight is a durable seven-state shortage-sharing deal."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.344,
+          47.225
+        ],
+        [
+          33.584,
+          0,
+          32.833,
+          47.225
+        ],
+        [
+          66.656,
+          0,
+          33.344,
+          47.225
+        ],
+        [
+          0,
+          49.65,
+          33.344,
+          50.35
+        ],
+        [
+          33.584,
+          49.65,
+          32.833,
+          50.35
+        ],
+        [
+          66.656,
+          49.65,
+          33.344,
+          50.35
+        ]
+      ],
+      "primaryGuide": null,
+      "relatedBriefSlugs": [],
+      "shortTitle": "Federal Plan Would Cut Colorado River Water",
+      "slug": "3-states-would-face-colorado-river-water-cuts-under-federal-plan",
+      "sourceCount": 3,
+      "sources": [
+        {
+          "name": "The Guardian US",
+          "url": "https://www.theguardian.com/us-news/2026/jul/31/colorado-river-water-cuts"
+        },
+        {
+          "name": "CBS News Latest",
+          "url": "https://www.cbsnews.com/news/arizona-california-nevada-colorado-river-water-federal-plan"
+        },
+        {
+          "name": "The New York Times Science",
+          "url": "https://www.nytimes.com/2026/07/31/climate/colorado-river-basin-water-cuts.html"
+        }
+      ],
+      "storylineKey": "",
+      "storylineNext": null,
+      "storylineTitle": "",
+      "summary": "The U.S. Bureau of Reclamation proposed a 10-year framework that could reduce Colorado River deliveries to Arizona, California and Nevada while states keep negotiating a long-term deal.",
+      "title": "Federal Plan Would Cut Colorado River Water for Three States",
+      "verificationNote": "Cross-checked across 3 sources"
+    },
     {
       "category": "Guide",
       "contentType": "guide",
@@ -7341,7 +7496,7 @@
       "storylineNext": {
         "slug": "graham-platner-officially-withdraws-from-the-maine-senate-race",
         "title": "Platner withdrawal opens July 27 Maine Senate race replacement deadline",
-        "url": "/live/?slug=graham-platner-officially-withdraws-from-the-maine-senate-race"
+        "url": "/briefs/graham-platner-officially-withdraws-from-the-maine-senate-race/"
       },
       "storylineTitle": "U.S. Elections",
       "summary": "Sen. Lindsey Graham died at 71, creating a South Carolina vacancy while the Senate GOP holds a slim majority and an unfinished Russia sanctions push awaits new ownership.",
@@ -8594,187 +8749,6 @@
       "summary": "Apple's lawsuit turns OpenAI's device ambitions into a court test over alleged hardware trade-secret theft.",
       "title": "Apple Sues OpenAI over Alleged Hardware Trade-Secret Theft",
       "verificationNote": "Cross-checked across 7 sources"
-    },
-    {
-      "category": "U.S. & Politics",
-      "contentType": "brief",
-      "generatedAt": "2026-07-11T13:32:43.574Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What happened",
-            "panel": 1
-          },
-          {
-            "label": "Why it matters",
-            "panel": 5
-          },
-          {
-            "label": "What to watch",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/graham-platner-officially-withdraws-from-the-maine-senate-race.webp",
-      "claims": [
-        {
-          "claim": "Platner files withdrawal papers before Maine's July 13 deadline, forcing a ballot change for November Senate voters.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The filing turned a campaign announcement into an official election record inside the Secretary of State's office.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Maine Democrats now have a short replacement window instead of leaving Platner on the ballot.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "State law gives the party until July 27 at 5 p.m. ET to submit a replacement nominee.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The choice determines who challenges Republican Sen. Susan Collins in November.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The next public checkpoint is the replacement filing, not Platner's suspended campaign or the withdrawn letter.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "Platner files withdrawal papers before Maine's July 13 deadline, forcing a ballot change for November Senate voters.",
-        "The filing turned a campaign announcement into an official election record inside the Secretary of State's office.",
-        "Maine Democrats now have a short replacement window instead of leaving Platner on the ballot.",
-        "State law gives the party until July 27 at 5 p.m. ET to submit a replacement nominee.",
-        "The choice determines who challenges Republican Sen. Susan Collins in November.",
-        "The next public checkpoint is the replacement filing, not Platner's suspended campaign or the withdrawn letter."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          36.989,
-          49.959
-        ],
-        [
-          37.229,
-          0,
-          29.057,
-          49.959
-        ],
-        [
-          66.526,
-          0,
-          33.474,
-          49.959
-        ],
-        [
-          0,
-          49.259,
-          36.989,
-          50.741
-        ],
-        [
-          37.229,
-          49.259,
-          29.057,
-          50.741
-        ],
-        [
-          66.526,
-          49.259,
-          33.474,
-          50.741
-        ]
-      ],
-      "primaryGuide": null,
-      "readerNext": {
-        "buttonLabel": "Earlier brief",
-        "kind": "earlier-brief",
-        "label": "Earlier in this story",
-        "slug": "maine-democrats-announce-july-25-convention-to-pick-platner-replacement",
-        "title": "Maine Democrats Plan Senate Replacement Vote",
-        "url": "/briefs/maine-democrats-announce-july-25-convention-to-pick-platner-replacement/"
-      },
-      "relatedBriefSlugs": [
-        "maine-democrats-announce-july-25-convention-to-pick-platner-replacement",
-        "sanders-warren-drop-endorsements-of-maine-s-graham-platner",
-        "democrats-have-abandoned-graham-platner"
-      ],
-      "shortTitle": "Platner withdrawal opens July 27 Maine Senate race replacement deadline",
-      "slug": "graham-platner-officially-withdraws-from-the-maine-senate-race",
-      "sourceCount": 4,
-      "sources": [
-        {
-          "name": "Axios",
-          "url": "https://www.axios.com/2026/07/09/graham-platner-exit-maine-senate-race-deadline"
-        },
-        {
-          "name": "CBS News Latest",
-          "url": "https://www.cbsnews.com/news/graham-platner-exits-maine-senate-race"
-        },
-        {
-          "name": "NBC News Politics",
-          "url": "https://www.nbcnews.com/politics/2026-election/graham-platner-officially-drops-maine-senate-race-rcna385842"
-        },
-        {
-          "name": "Politico Congress",
-          "url": "https://www.politico.com/live-updates/2026/07/10/congress/graham-platner-officially-withdraws-senate-campaign-00993646"
-        }
-      ],
-      "storylineKey": "governing-crisis",
-      "storylineNext": {
-        "slug": "what-the-election-assistance-commission-does",
-        "title": "What the Election Assistance Commission Does",
-        "url": "/briefs/what-the-election-assistance-commission-does/"
-      },
-      "storylineTitle": "U.S. Elections",
-      "summary": "Graham Platner's formal withdrawal before Maine's July 13 ballot cutoff removes his name from the November ballot and gives Democrats until July 27 to submit a replacement nominee.",
-      "title": "Platner withdrawal opens July 27 Maine Senate race replacement deadline",
-      "verificationNote": "Cross-checked across 4 sources"
     }
   ],
   "dailyPaper": {
@@ -8823,21 +8797,8 @@
   },
   "feeds": {
     "categories": {
-      "Guide": [
-        "how-dignified-transfers-work",
-        "how-senate-confirmations-work",
-        "how-structural-collapse-rescue-works",
-        "how-mail-ballots-are-processed",
-        "how-wildfire-evacuations-work",
-        "how-war-powers-votes-work",
-        "how-civil-nuclear-cooperation-deals-work",
-        "how-pay-transparency-laws-work",
-        "how-buy-now-pay-later-loans-work",
-        "how-us-senate-vacancies-are-filled",
-        "how-ev-battery-recycling-works",
-        "how-national-bank-charters-work"
-      ],
       "U.S. & Politics": [
+        "3-states-would-face-colorado-river-water-cuts-under-federal-plan",
         "former-lt-gov-mandela-barnes-exits-race-for-wisconsin-governor",
         "trump-says-he-may-pull-blanche-ag-nomination-temporarily",
         "senate-panel-delays-vote-on-blanche-s-ag-nomination-as-key-republicans-voice-con",
@@ -8857,8 +8818,21 @@
         "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
         "200-young-campers-staff-rescued-amid-record-flooding-in-missouri",
         "justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporti",
-        "apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secr",
-        "graham-platner-officially-withdraws-from-the-maine-senate-race"
+        "apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secr"
+      ],
+      "Guide": [
+        "how-dignified-transfers-work",
+        "how-senate-confirmations-work",
+        "how-structural-collapse-rescue-works",
+        "how-mail-ballots-are-processed",
+        "how-wildfire-evacuations-work",
+        "how-war-powers-votes-work",
+        "how-civil-nuclear-cooperation-deals-work",
+        "how-pay-transparency-laws-work",
+        "how-buy-now-pay-later-loans-work",
+        "how-us-senate-vacancies-are-filled",
+        "how-ev-battery-recycling-works",
+        "how-national-bank-charters-work"
       ],
       "World": [
         "after-large-earthquake-japan-races-against-time-to-reach-people-trapped",
@@ -8910,8 +8884,7 @@
         "how-war-powers-votes-work",
         "how-us-senate-vacancies-are-filled",
         "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa",
-        "grahams-death-opens-senate-seat-as-gop-guards-slim-majority",
-        "graham-platner-officially-withdraws-from-the-maine-senate-race"
+        "grahams-death-opens-senate-seat-as-gop-guards-slim-majority"
       ],
       "war-security-order": [
         "trump-threatens-iran-strikes-after-missiles-target-us-forces",
