@@ -1,8 +1,177 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-08-01T02:08:33.485Z",
+  "updatedAt": "2026-08-01T16:34:48.826Z",
   "rolling24HourCount": 3,
   "comics": [
+    {
+      "category": "Guide",
+      "contentType": "guide",
+      "generatedAt": "2026-08-01T16:33:57.923Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What it explains",
+            "panel": 1
+          },
+          {
+            "label": "How it works",
+            "panel": 2
+          },
+          {
+            "label": "Where it gets hard",
+            "panel": 5
+          }
+        ]
+      },
+      "imagePath": "/live/media/how-colorado-river-water-cuts-work.webp",
+      "claims": [
+        {
+          "claim": "Federal rules turn Lake Mead forecasts into water cuts affecting tribal rights, city pipes and farms statewide.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "A basin map links snowpack, runoff, Lake Powell, Lake Mead, canals, and downstream delivery paths.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Shortage tiers compare reservoir elevations with priority rights, then allocate reductions across states, tribes, cities, farms.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Negotiated conservation moves cutbacks through farm districts, city intakes, tribal rights, and emergency operating plans.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The storage bottleneck appears when drought, overuse, or delayed agreements drain buffers before rules catch up.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Watch the elevation gate, basin snowpack, state deals, and federal shortage declarations before cuts trigger.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Federal rules turn Lake Mead forecasts into water cuts affecting tribal rights, city pipes and farms statewide.",
+        "A basin map links snowpack, runoff, Lake Powell, Lake Mead, canals, and downstream delivery paths.",
+        "Shortage tiers compare reservoir elevations with priority rights, then allocate reductions across states, tribes, cities, farms.",
+        "Negotiated conservation moves cutbacks through farm districts, city intakes, tribal rights, and emergency operating plans.",
+        "The storage bottleneck appears when drought, overuse, or delayed agreements drain buffers before rules catch up.",
+        "Watch the elevation gate, basin snowpack, state deals, and federal shortage declarations before cuts trigger."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.213,
+          50.448
+        ],
+        [
+          33.453,
+          0,
+          33.093,
+          50.448
+        ],
+        [
+          66.787,
+          0,
+          33.213,
+          50.448
+        ],
+        [
+          0,
+          51.798,
+          33.213,
+          48.202
+        ],
+        [
+          33.453,
+          51.798,
+          33.093,
+          48.202
+        ],
+        [
+          66.787,
+          51.798,
+          33.213,
+          48.202
+        ]
+      ],
+      "primaryGuide": null,
+      "relatedBriefSlugs": [],
+      "shortTitle": "Colorado River Cuts",
+      "slug": "how-colorado-river-water-cuts-work",
+      "sourceCount": 4,
+      "sources": [
+        {
+          "name": "U.S. Bureau of Reclamation: Colorado River Basin",
+          "url": "https://www.usbr.gov/ColoradoRiverBasin/"
+        },
+        {
+          "name": "U.S. Bureau of Reclamation: 24-Month Study",
+          "url": "https://www.usbr.gov/lc/region/g4000/24mo/index.html"
+        },
+        {
+          "name": "U.S. Bureau of Reclamation: Colorado River 5-Year Projections",
+          "url": "https://www.usbr.gov/lc/region/g4000/riverops/crss-5year-projections.html"
+        },
+        {
+          "name": "U.S. Bureau of Reclamation: Lower Colorado River Basin System Conservation",
+          "url": "https://www.usbr.gov/lc/region/programs/strategies.html"
+        }
+      ],
+      "storylineKey": "governing-crisis",
+      "storylineNext": {
+        "slug": "former-lt-gov-mandela-barnes-exits-race-for-wisconsin-governor",
+        "title": "Barnes Drops Wisconsin Campaign",
+        "url": "/live/?slug=former-lt-gov-mandela-barnes-exits-race-for-wisconsin-governor"
+      },
+      "storylineTitle": "U.S. Elections",
+      "summary": "Colorado River water cuts convert reservoir forecasts and priority rights into delivery reductions when federal rules, state deals, and conservation plans collide with falling Mead and Powell storage.",
+      "title": "How Colorado River Water Cuts Work",
+      "verificationNote": "Cross-checked across 4 sources"
+    },
     {
       "category": "World",
       "contentType": "brief",
@@ -327,7 +496,19 @@
           50.35
         ]
       ],
-      "primaryGuide": null,
+      "primaryGuide": {
+        "slug": "how-colorado-river-water-cuts-work",
+        "title": "How Colorado River Water Cuts Work",
+        "url": "/live/?slug=how-colorado-river-water-cuts-work"
+      },
+      "readerNext": {
+        "buttonLabel": "Guide",
+        "kind": "background-guide",
+        "label": "Background guide",
+        "slug": "how-colorado-river-water-cuts-work",
+        "title": "How Colorado River Water Cuts Work",
+        "url": "/live/?slug=how-colorado-river-water-cuts-work"
+      },
       "relatedBriefSlugs": [],
       "shortTitle": "Federal Plan Would Cut Colorado River Water",
       "slug": "3-states-would-face-colorado-river-water-cuts-under-federal-plan",
@@ -8236,7 +8417,7 @@
       "storylineNext": {
         "slug": "trump-says-iran-ceasefire-is-over",
         "title": "Trump Says Iran Ceasefire Over; Strait Risk Rises",
-        "url": "/live/?slug=trump-says-iran-ceasefire-is-over"
+        "url": "/briefs/trump-says-iran-ceasefire-is-over/"
       },
       "storylineTitle": "The War and Security Order",
       "summary": "Rep. Ro Khanna says armed Israeli settlers blocked his delegation for 90 minutes; Israel's military says troops dispersed the civilians and reopened the road.",
@@ -8572,171 +8753,6 @@
       "summary": "The Justice Department subpoenaed New York Times reporters for grand jury testimony after Air Force One security reporting, putting a leak inquiry against press-freedom concerns.",
       "title": "DOJ subpoenas Times reporters for court testimony in leak fight",
       "verificationNote": "Cross-checked across 5 sources"
-    },
-    {
-      "category": "World",
-      "contentType": "brief",
-      "generatedAt": "2026-07-11T15:16:42.149Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What happened",
-            "panel": 1
-          },
-          {
-            "label": "Why it matters",
-            "panel": 5
-          },
-          {
-            "label": "What to watch",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/trump-says-iran-ceasefire-is-over.webp",
-      "claims": [
-        {
-          "claim": "Trump says Iran ceasefire is over after new U.S. military strikes, making Strait of Hormuz shipping a security risk.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Iranian leaders say they will not surrender, narrowing the path back to the interim deal.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The U.S. says the strikes target threats to navigation, tying military action to oil and gas routes.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Mediators are trying to save the deal while both sides signal they may keep escalating.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Higher fuel prices could become a domestic midterm problem if the conflict keeps disrupting energy markets.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Watch whether Washington orders more strikes, mediators restore talks, or the fight spreads across the region.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "Trump says Iran ceasefire is over after new U.S. military strikes, making Strait of Hormuz shipping a security risk.",
-        "Iranian leaders say they will not surrender, narrowing the path back to the interim deal.",
-        "The U.S. says the strikes target threats to navigation, tying military action to oil and gas routes.",
-        "Mediators are trying to save the deal while both sides signal they may keep escalating.",
-        "Higher fuel prices could become a domestic midterm problem if the conflict keeps disrupting energy markets.",
-        "Watch whether Washington orders more strikes, mediators restore talks, or the fight spreads across the region."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          33.018,
-          50.057
-        ],
-        [
-          33.649,
-          0,
-          32.703,
-          50.057
-        ],
-        [
-          66.982,
-          0,
-          33.018,
-          50.057
-        ],
-        [
-          0,
-          49.943,
-          33.018,
-          50.057
-        ],
-        [
-          33.649,
-          49.943,
-          32.703,
-          50.057
-        ],
-        [
-          66.982,
-          49.943,
-          33.018,
-          50.057
-        ]
-      ],
-      "primaryGuide": {
-        "slug": "how-ceasefires-are-monitored",
-        "title": "How Ceasefires Are Monitored",
-        "url": "/briefs/how-ceasefires-are-monitored/"
-      },
-      "readerNext": {
-        "buttonLabel": "Earlier brief",
-        "kind": "earlier-brief",
-        "label": "Earlier in this story",
-        "slug": "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
-        "title": "U.S. and Iran Trade Strikes, Raising Hormuz Shipping Risk",
-        "url": "/briefs/u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over/"
-      },
-      "relatedBriefSlugs": [
-        "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
-        "us-and-iran-exchange-back-and-forth-strikes-for-second-day",
-        "bahrain-condemns-iranian-tit-for-tat-drone-attack-as-flagrant-threat"
-      ],
-      "shortTitle": "Trump Says Iran Ceasefire Over; Strait Risk Rises",
-      "slug": "trump-says-iran-ceasefire-is-over",
-      "sourceCount": 2,
-      "sources": [
-        {
-          "name": "ABC News U.S.",
-          "url": "https://abcnews.com/US/wireStory/new-attacks-raise-questions-iran-war-134599224"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/are-the-us-and-iran-at-war-again?traffic_source=rss"
-        }
-      ],
-      "storylineKey": "war-security-order",
-      "storylineNext": {
-        "slug": "patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the",
-        "title": "Trump approves Patriot license as Ukraine air defenses run low",
-        "url": "/briefs/patriot-missile-license-a-long-term-investment-for-ukraine-but-can-it-afford-the/"
-      },
-      "storylineTitle": "The War and Security Order",
-      "summary": "After new U.S. attacks, Trump says the Iran ceasefire is over, Iranian leaders say they will not surrender, and mediators are trying to stop a wider fight.",
-      "title": "Trump Says Iran Ceasefire Over; Strait Risk Rises",
-      "verificationNote": "Cross-checked across 2 sources"
     }
   ],
   "dailyPaper": {
@@ -8785,6 +8801,21 @@
   },
   "feeds": {
     "categories": {
+      "Guide": [
+        "how-colorado-river-water-cuts-work",
+        "how-dignified-transfers-work",
+        "how-senate-confirmations-work",
+        "how-structural-collapse-rescue-works",
+        "how-mail-ballots-are-processed",
+        "how-wildfire-evacuations-work",
+        "how-war-powers-votes-work",
+        "how-civil-nuclear-cooperation-deals-work",
+        "how-pay-transparency-laws-work",
+        "how-buy-now-pay-later-loans-work",
+        "how-us-senate-vacancies-are-filled",
+        "how-ev-battery-recycling-works",
+        "how-national-bank-charters-work"
+      ],
       "World": [
         "tens-of-thousands-of-migrants-enter-spanish-territory-then-return-to-morocco",
         "after-large-earthquake-japan-races-against-time-to-reach-people-trapped",
@@ -8795,8 +8826,7 @@
         "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
         "inflation-slowed-during-pause-in-war-with-iran",
         "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
-        "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
-        "trump-says-iran-ceasefire-is-over"
+        "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank"
       ],
       "U.S. & Politics": [
         "3-states-would-face-colorado-river-water-cuts-under-federal-plan",
@@ -8820,20 +8850,6 @@
         "200-young-campers-staff-rescued-amid-record-flooding-in-missouri",
         "justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporti"
       ],
-      "Guide": [
-        "how-dignified-transfers-work",
-        "how-senate-confirmations-work",
-        "how-structural-collapse-rescue-works",
-        "how-mail-ballots-are-processed",
-        "how-wildfire-evacuations-work",
-        "how-war-powers-votes-work",
-        "how-civil-nuclear-cooperation-deals-work",
-        "how-pay-transparency-laws-work",
-        "how-buy-now-pay-later-loans-work",
-        "how-us-senate-vacancies-are-filled",
-        "how-ev-battery-recycling-works",
-        "how-national-bank-charters-work"
-      ],
       "Tech & Science": [
         "spain-and-france-wildfires-force-more-than-300-000-to-flee-as-macron-calls-crisi",
         "the-politics-of-new-york-s-data-center-construction-pause"
@@ -8847,6 +8863,7 @@
       ]
     },
     "guides": [
+      "how-colorado-river-water-cuts-work",
       "how-dignified-transfers-work",
       "how-senate-confirmations-work",
       "how-structural-collapse-rescue-works",
@@ -8862,6 +8879,7 @@
     ],
     "storylines": {
       "governing-crisis": [
+        "how-colorado-river-water-cuts-work",
         "former-lt-gov-mandela-barnes-exits-race-for-wisconsin-governor",
         "trump-says-he-may-pull-blanche-ag-nomination-temporarily",
         "how-senate-confirmations-work",
@@ -8884,8 +8902,7 @@
         "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
         "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
         "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
-        "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
-        "trump-says-iran-ceasefire-is-over"
+        "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank"
       ],
       "new-energy-system": [
         "how-civil-nuclear-cooperation-deals-work",
