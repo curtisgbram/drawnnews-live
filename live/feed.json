@@ -1,8 +1,203 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-07-31T19:15:38.344Z",
-  "rolling24HourCount": 4,
+  "updatedAt": "2026-08-01T02:08:33.485Z",
+  "rolling24HourCount": 3,
   "comics": [
+    {
+      "category": "World",
+      "contentType": "brief",
+      "generatedAt": "2026-08-01T02:07:41.546Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What happened",
+            "panel": 1
+          },
+          {
+            "label": "Why it matters",
+            "panel": 3
+          },
+          {
+            "label": "What to watch",
+            "panel": 6
+          }
+        ]
+      },
+      "imagePath": "/live/media/tens-of-thousands-of-migrants-enter-spanish-territory-then-return-to-morocco.webp",
+      "claims": [
+        {
+          "claim": "Madrid adds military help after Morocco crossings strain Ceuta border capacity and 85,000 residents.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "At least 57 people died trying to reach the enclave across sea and border routes.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Civil Guard and military reinforcements moved to restore control around the crossing.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "A Supreme Court ruling limited summary returns near both Ceuta and Melilla enclaves.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Spain said trafficking networks exploited the ruling and accelerated the crossings.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Madrid and Rabat now face coordinated returns while EU states debate the response.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Madrid adds military help after Morocco crossings strain Ceuta border capacity and 85,000 residents.",
+        "At least 57 people died trying to reach the enclave across sea and border routes.",
+        "Civil Guard and military reinforcements moved to restore control around the crossing.",
+        "A Supreme Court ruling limited summary returns near both Ceuta and Melilla enclaves.",
+        "Spain said trafficking networks exploited the ruling and accelerated the crossings.",
+        "Madrid and Rabat now face coordinated returns while EU states debate the response."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.213,
+          48.202
+        ],
+        [
+          33.453,
+          0,
+          33.158,
+          48.202
+        ],
+        [
+          66.852,
+          0,
+          33.148,
+          48.202
+        ],
+        [
+          0,
+          49.65,
+          33.213,
+          50.35
+        ],
+        [
+          33.453,
+          49.65,
+          33.158,
+          50.35
+        ],
+        [
+          66.852,
+          49.65,
+          33.148,
+          50.35
+        ]
+      ],
+      "primaryGuide": null,
+      "relatedBriefSlugs": [],
+      "shortTitle": "Spain Sends Troops to Ceuta",
+      "slug": "tens-of-thousands-of-migrants-enter-spanish-territory-then-return-to-morocco",
+      "sourceCount": 7,
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/show/tens-of-thousands-of-migrants-enter-spanish-territory-then-return-to-morocco"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths"
+        },
+        {
+          "name": "CBS News Latest",
+          "url": "https://www.cbsnews.com/news/spain-ceuta-morocco-migrants-border-crossings"
+        },
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/spain-s-pm-visits-ceuta-after-thousands-breached-border/a-78187002?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20260731-eu-races-to-contain-new-migrant-crisis-as-thousands-cross-into-spanish-territory-of-ceuta"
+        },
+        {
+          "name": "The New York Times World",
+          "url": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco/spain-ceuta-border-migrants-sanchez"
+        }
+      ],
+      "storylineKey": "",
+      "storylineNext": null,
+      "storylineTitle": "",
+      "summary": "Mass crossings from Morocco strained border capacity in the Spanish North African enclave of Ceuta, left dozens dead, triggered military reinforcements, and forced Madrid into return talks with Morocco as EU states debated the response.",
+      "title": "Spain Sends Troops After Ceuta Crossings Overwhelm Border Capacity",
+      "verificationNote": "Cross-checked across 7 sources"
+    },
     {
       "category": "U.S. & Politics",
       "contentType": "brief",
@@ -5831,7 +6026,7 @@
       "storylineNext": {
         "slug": "apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secr",
         "title": "Apple Sues OpenAI over Hardware Secrets",
-        "url": "/live/?slug=apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secr"
+        "url": "/briefs/apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secr/"
       },
       "storylineTitle": "The AI Buildout",
       "summary": "Gov. Kathy Hochul paused permits for new hyperscale AI data centers for up to a year while New York sets rules on power, water and ratepayer impacts.",
@@ -8542,213 +8737,6 @@
       "summary": "After new U.S. attacks, Trump says the Iran ceasefire is over, Iranian leaders say they will not surrender, and mediators are trying to stop a wider fight.",
       "title": "Trump Says Iran Ceasefire Over; Strait Risk Rises",
       "verificationNote": "Cross-checked across 2 sources"
-    },
-    {
-      "category": "U.S. & Politics",
-      "contentType": "brief",
-      "generatedAt": "2026-07-11T14:18:09.676Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What happened",
-            "panel": 1
-          },
-          {
-            "label": "Why it matters",
-            "panel": 4
-          },
-          {
-            "label": "What to watch",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secr.webp",
-      "claims": [
-        {
-          "claim": "Apple's lawsuit makes OpenAI's ChatGPT device plans a legal test over alleged stolen hardware secrets.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The case names OpenAI, io Products, Tang Tan and Chang Liu, tying the dispute to hardware hiring.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Apple's evidence path moves through recruiting, emailed files, and claims protected details could benefit OpenAI work.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The legal test asks whether the files were protected secrets and whether OpenAI benefited from them.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "OpenAI says it has no interest in other companies' trade secrets and is reviewing the complaint.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Next signal: court filings may show whether Apple's claim blocks, settles, or forces hardware-plan disclosures.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "Apple's lawsuit makes OpenAI's ChatGPT device plans a legal test over alleged stolen hardware secrets.",
-        "The case names OpenAI, io Products, Tang Tan and Chang Liu, tying the dispute to hardware hiring.",
-        "Apple's evidence path moves through recruiting, emailed files, and claims protected details could benefit OpenAI work.",
-        "The legal test asks whether the files were protected secrets and whether OpenAI benefited from them.",
-        "OpenAI says it has no interest in other companies' trade secrets and is reviewing the complaint.",
-        "Next signal: court filings may show whether Apple's claim blocks, settles, or forces hardware-plan disclosures."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          33.278,
-          49.959
-        ],
-        [
-          33.518,
-          0,
-          32.898,
-          49.959
-        ],
-        [
-          66.656,
-          0,
-          33.344,
-          49.959
-        ],
-        [
-          0,
-          49.259,
-          33.278,
-          50.741
-        ],
-        [
-          33.518,
-          49.259,
-          32.898,
-          50.741
-        ],
-        [
-          66.656,
-          49.259,
-          33.344,
-          50.741
-        ]
-      ],
-      "primaryGuide": null,
-      "readerNext": {
-        "buttonLabel": "Storyline",
-        "kind": "storyline",
-        "label": "Storyline",
-        "slug": "ai-buildout",
-        "title": "The AI Buildout",
-        "url": "/storylines/ai-buildout/"
-      },
-      "relatedBriefSlugs": [],
-      "shortTitle": "Apple Sues OpenAI over Hardware Secrets",
-      "slug": "apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secr",
-      "sourceCount": 7,
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/nation/apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secrets"
-        },
-        {
-          "name": "CBS News U.S.",
-          "url": "https://www.cbsnews.com/news/apple-sues-openai-chatgpt-stealing-trade-secrets"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft"
-        },
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/apple-sues-openai-over-stealing-trade-secrets/a-77912767?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "name": "The New York Times Technology",
-          "url": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html"
-        }
-      ],
-      "storylineKey": "ai-buildout",
-      "storylineNext": {
-        "slug": "chatgpt-56-security-gate",
-        "title": "OpenAI ChatGPT 5.6 Security Gate",
-        "url": "/briefs/chatgpt-56-security-gate/"
-      },
-      "storylineTitle": "The AI Buildout",
-      "summary": "Apple's lawsuit turns OpenAI's device ambitions into a court test over alleged hardware trade-secret theft.",
-      "title": "Apple Sues OpenAI over Alleged Hardware Trade-Secret Theft",
-      "verificationNote": "Cross-checked across 7 sources"
     }
   ],
   "dailyPaper": {
@@ -8797,6 +8785,19 @@
   },
   "feeds": {
     "categories": {
+      "World": [
+        "tens-of-thousands-of-migrants-enter-spanish-territory-then-return-to-morocco",
+        "after-large-earthquake-japan-races-against-time-to-reach-people-trapped",
+        "watch-hundreds-of-thousands-forced-to-evacuate-in-europe-from-raging-wildfires",
+        "cockroaches-won-india-s-education-minister-resigns-amid-massive-youth-protests",
+        "trump-warns-iran-after-tanker-attacks-raise-oil-risk",
+        "defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
+        "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
+        "inflation-slowed-during-pause-in-war-with-iran",
+        "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
+        "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
+        "trump-says-iran-ceasefire-is-over"
+      ],
       "U.S. & Politics": [
         "3-states-would-face-colorado-river-water-cuts-under-federal-plan",
         "former-lt-gov-mandela-barnes-exits-race-for-wisconsin-governor",
@@ -8817,8 +8818,7 @@
         "grahams-death-opens-senate-seat-as-gop-guards-slim-majority",
         "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
         "200-young-campers-staff-rescued-amid-record-flooding-in-missouri",
-        "justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporti",
-        "apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secr"
+        "justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporti"
       ],
       "Guide": [
         "how-dignified-transfers-work",
@@ -8833,18 +8833,6 @@
         "how-us-senate-vacancies-are-filled",
         "how-ev-battery-recycling-works",
         "how-national-bank-charters-work"
-      ],
-      "World": [
-        "after-large-earthquake-japan-races-against-time-to-reach-people-trapped",
-        "watch-hundreds-of-thousands-forced-to-evacuate-in-europe-from-raging-wildfires",
-        "cockroaches-won-india-s-education-minister-resigns-amid-massive-youth-protests",
-        "trump-warns-iran-after-tanker-attacks-raise-oil-risk",
-        "defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
-        "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
-        "inflation-slowed-during-pause-in-war-with-iran",
-        "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
-        "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
-        "trump-says-iran-ceasefire-is-over"
       ],
       "Tech & Science": [
         "spain-and-france-wildfires-force-more-than-300-000-to-flee-as-macron-calls-crisi",
@@ -8904,8 +8892,7 @@
         "how-ev-battery-recycling-works"
       ],
       "ai-buildout": [
-        "the-politics-of-new-york-s-data-center-construction-pause",
-        "apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secr"
+        "the-politics-of-new-york-s-data-center-construction-pause"
       ]
     }
   }
