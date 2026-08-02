@@ -1,8 +1,173 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-08-01T16:34:48.826Z",
+  "updatedAt": "2026-08-02T01:30:12.817Z",
   "rolling24HourCount": 3,
   "comics": [
+    {
+      "category": "World",
+      "contentType": "brief",
+      "generatedAt": "2026-08-02T01:29:21.808Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What happened",
+            "panel": 1
+          },
+          {
+            "label": "Why it matters",
+            "panel": 3
+          },
+          {
+            "label": "What to watch",
+            "panel": 6
+          }
+        ]
+      },
+      "imagePath": "/live/media/questions-grow-about-gaza-s-future-after-trump-announces-deal-to-disarm-hamas.webp",
+      "claims": [
+        {
+          "claim": "Trump's Gaza security plan requires Hamas weapons handoffs before Israeli forces pull back.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Hamas police would transfer small arms to an internationally trained force.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "A technocratic committee, not the Palestinian Authority, would administer Gaza.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "International troops would deploy as reconstruction starts under the framework.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "U.S. and Board of Peace officials say implementation could be derailed.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Weapons handoffs and troop withdrawals are the threshold that matters now.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Trump's Gaza security plan requires Hamas weapons handoffs before Israeli forces pull back.",
+        "Hamas police would transfer small arms to an internationally trained force.",
+        "A technocratic committee, not the Palestinian Authority, would administer Gaza.",
+        "International troops would deploy as reconstruction starts under the framework.",
+        "U.S. and Board of Peace officials say implementation could be derailed.",
+        "Weapons handoffs and troop withdrawals are the threshold that matters now."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.213,
+          50.252
+        ],
+        [
+          33.453,
+          0,
+          32.442,
+          50.252
+        ],
+        [
+          66.787,
+          0,
+          33.213,
+          50.252
+        ],
+        [
+          0,
+          51.798,
+          33.213,
+          48.202
+        ],
+        [
+          33.453,
+          51.798,
+          32.442,
+          48.202
+        ],
+        [
+          66.787,
+          51.798,
+          33.213,
+          48.202
+        ]
+      ],
+      "primaryGuide": null,
+      "relatedBriefSlugs": [],
+      "shortTitle": "Trump Gaza Plan Ties Pullback to Weapons Handoffs",
+      "slug": "questions-grow-about-gaza-s-future-after-trump-announces-deal-to-disarm-hamas",
+      "sourceCount": 4,
+      "sources": [
+        {
+          "name": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/show/whats-in-the-proposed-deal-to-disarm-hamas-and-withdraw-israeli-forces-from-gaza"
+        },
+        {
+          "name": "Axios",
+          "url": "https://www.axios.com/2026/07/30/hamas-weapons-gaza-deal-israel-board-peace"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/nightly-news/video/questions-grow-about-gaza-s-future-after-trump-announces-deal-to-disarm-hamas-267631173776"
+        },
+        {
+          "name": "The New York Times World",
+          "url": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html"
+        }
+      ],
+      "storylineKey": "",
+      "storylineNext": null,
+      "storylineTitle": "",
+      "summary": "Trump announced a Gaza security road map linking Hamas weapons handoffs, Israeli pullback, interim administration, international forces, and reconstruction.",
+      "title": "Trump Gaza Plan Ties Pullback to Weapons Handoffs",
+      "verificationNote": "Cross-checked across 4 sources"
+    },
     {
       "category": "Guide",
       "contentType": "guide",
@@ -8578,181 +8743,6 @@
       "summary": "A national bank charter turns an organizing group, business plan, managers, capital, risk controls, public review, and OCC decisions into conditional and then final permission to operate under a defined banking scope.",
       "title": "How National Bank Charters Work",
       "verificationNote": "Cross-checked across 3 sources"
-    },
-    {
-      "category": "U.S. & Politics",
-      "contentType": "brief",
-      "generatedAt": "2026-07-11T17:20:15.978Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What happened",
-            "panel": 1
-          },
-          {
-            "label": "Why it matters",
-            "panel": 2
-          },
-          {
-            "label": "Where it stands",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporti.webp",
-      "claims": [
-        {
-          "claim": "Agents delivered subpoenas to journalists' doorsteps after Air Force One security stories, moving reporting into federal court process.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The stories examined security concerns around a Qatar-gifted presidential jet that entered service last week.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Agents delivered some summonses at reporters' homes, seeking grand jury testimony in Manhattan.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The subpoenas say testimony is required about an alleged violation of federal criminal law.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The Times says the reporters must appear before the grand jury on Wednesday.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "DOJ says reporters are not targets; the Times' lawyer calls the doorstep visits intimidation.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "Agents delivered subpoenas to journalists' doorsteps after Air Force One security stories, moving reporting into federal court process.",
-        "The stories examined security concerns around a Qatar-gifted presidential jet that entered service last week.",
-        "Agents delivered some summonses at reporters' homes, seeking grand jury testimony in Manhattan.",
-        "The subpoenas say testimony is required about an alleged violation of federal criminal law.",
-        "The Times says the reporters must appear before the grand jury on Wednesday.",
-        "DOJ says reporters are not targets; the Times' lawyer calls the doorstep visits intimidation."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          33.213,
-          50.35
-        ],
-        [
-          33.453,
-          0,
-          33.093,
-          50.35
-        ],
-        [
-          66.787,
-          0,
-          33.213,
-          50.35
-        ],
-        [
-          0,
-          49.65,
-          33.213,
-          50.35
-        ],
-        [
-          33.453,
-          49.65,
-          33.093,
-          50.35
-        ],
-        [
-          66.787,
-          49.65,
-          33.213,
-          50.35
-        ]
-      ],
-      "primaryGuide": null,
-      "relatedBriefSlugs": [],
-      "shortTitle": "DOJ subpoenas Times reporters for court testimony in leak fight",
-      "slug": "justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporti",
-      "sourceCount": 5,
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/jul/11/justice-department-subpoenas-new-york-times-air-force-one"
-        },
-        {
-          "name": "ABC News U.S.",
-          "url": "https://abcnews.com/US/wireStory/multiple-new-york-times-reporters-issued-subpoenas-air-134671452"
-        },
-        {
-          "name": "CBS News Latest",
-          "url": "https://www.cbsnews.com/news/trump-air-force-one-security-subpoena-journalists"
-        },
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/11/business/media/new-york-times-trump-subpoenas.html"
-        }
-      ],
-      "storylineKey": "",
-      "storylineNext": null,
-      "storylineTitle": "",
-      "summary": "The Justice Department subpoenaed New York Times reporters for grand jury testimony after Air Force One security reporting, putting a leak inquiry against press-freedom concerns.",
-      "title": "DOJ subpoenas Times reporters for court testimony in leak fight",
-      "verificationNote": "Cross-checked across 5 sources"
     }
   ],
   "dailyPaper": {
@@ -8801,6 +8791,19 @@
   },
   "feeds": {
     "categories": {
+      "World": [
+        "questions-grow-about-gaza-s-future-after-trump-announces-deal-to-disarm-hamas",
+        "tens-of-thousands-of-migrants-enter-spanish-territory-then-return-to-morocco",
+        "after-large-earthquake-japan-races-against-time-to-reach-people-trapped",
+        "watch-hundreds-of-thousands-forced-to-evacuate-in-europe-from-raging-wildfires",
+        "cockroaches-won-india-s-education-minister-resigns-amid-massive-youth-protests",
+        "trump-warns-iran-after-tanker-attacks-raise-oil-risk",
+        "defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
+        "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
+        "inflation-slowed-during-pause-in-war-with-iran",
+        "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
+        "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank"
+      ],
       "Guide": [
         "how-colorado-river-water-cuts-work",
         "how-dignified-transfers-work",
@@ -8815,18 +8818,6 @@
         "how-us-senate-vacancies-are-filled",
         "how-ev-battery-recycling-works",
         "how-national-bank-charters-work"
-      ],
-      "World": [
-        "tens-of-thousands-of-migrants-enter-spanish-territory-then-return-to-morocco",
-        "after-large-earthquake-japan-races-against-time-to-reach-people-trapped",
-        "watch-hundreds-of-thousands-forced-to-evacuate-in-europe-from-raging-wildfires",
-        "cockroaches-won-india-s-education-minister-resigns-amid-massive-youth-protests",
-        "trump-warns-iran-after-tanker-attacks-raise-oil-risk",
-        "defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
-        "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
-        "inflation-slowed-during-pause-in-war-with-iran",
-        "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
-        "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank"
       ],
       "U.S. & Politics": [
         "3-states-would-face-colorado-river-water-cuts-under-federal-plan",
@@ -8847,8 +8838,7 @@
         "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa",
         "grahams-death-opens-senate-seat-as-gop-guards-slim-majority",
         "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
-        "200-young-campers-staff-rescued-amid-record-flooding-in-missouri",
-        "justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporti"
+        "200-young-campers-staff-rescued-amid-record-flooding-in-missouri"
       ],
       "Tech & Science": [
         "spain-and-france-wildfires-force-more-than-300-000-to-flee-as-macron-calls-crisi",
