@@ -1,12 +1,211 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-08-02T01:30:12.817Z",
-  "rolling24HourCount": 3,
+  "updatedAt": "2026-08-02T19:27:18.369Z",
+  "rolling24HourCount": 2,
   "comics": [
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-08-02T19:25:37.617Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What happened",
+            "panel": 1
+          },
+          {
+            "label": "Why it matters",
+            "panel": 4
+          },
+          {
+            "label": "Where it stands",
+            "panel": 6
+          }
+        ]
+      },
+      "imagePath": "/live/media/trump-calls-off-attack-on-iran-subject-to-peace-deal-being-rapidly-reached.webp",
+      "claims": [
+        {
+          "claim": "Trump says he canceled an Iran strike plan while mediators test a security deal.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "A proposal would reopen Hormuz and return Washington and Tehran to talks.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Iranian state-linked media denied Tehran requested the pause and said forces remain alert.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Regional mediators still must settle militia attacks and security guarantees for Gulf states.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The United States would end its naval blockade and allow Iranian oil exports.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Mediators must secure shipping lanes, attack halts, and the blockade lift.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Trump says he canceled an Iran strike plan while mediators test a security deal.",
+        "A proposal would reopen Hormuz and return Washington and Tehran to talks.",
+        "Iranian state-linked media denied Tehran requested the pause and said forces remain alert.",
+        "Regional mediators still must settle militia attacks and security guarantees for Gulf states.",
+        "The United States would end its naval blockade and allow Iranian oil exports.",
+        "Mediators must secure shipping lanes, attack halts, and the blockade lift."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.278,
+          50.448
+        ],
+        [
+          33.518,
+          0,
+          33.028,
+          50.448
+        ],
+        [
+          66.787,
+          0,
+          33.213,
+          50.448
+        ],
+        [
+          0,
+          53.361,
+          33.278,
+          46.639
+        ],
+        [
+          33.518,
+          53.361,
+          33.028,
+          46.639
+        ],
+        [
+          66.787,
+          53.361,
+          33.213,
+          46.639
+        ]
+      ],
+      "primaryGuide": null,
+      "readerNext": {
+        "buttonLabel": "Earlier brief",
+        "kind": "earlier-brief",
+        "label": "Earlier in this story",
+        "slug": "more-mixed-messages-on-u-s-iran-peace-talks",
+        "title": "Trump claims Doha talks; Iran denies meeting",
+        "url": "/briefs/more-mixed-messages-on-u-s-iran-peace-talks/"
+      },
+      "relatedBriefSlugs": [
+        "more-mixed-messages-on-u-s-iran-peace-talks"
+      ],
+      "shortTitle": "Trump cancels Iran strike plan",
+      "slug": "trump-calls-off-attack-on-iran-subject-to-peace-deal-being-rapidly-reached",
+      "sourceCount": 6,
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/aug/02/trump-climbs-down-on-iran-strikes-after-saudi-alarm-and-threats-from-tehran"
+        },
+        {
+          "name": "CBS News Latest",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-kuwait-jordan-air-base"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/world/middle-east/state-department-urges-americans-consider-leaving-middle-east-region-rcna590396"
+        },
+        {
+          "name": "CNBC Top News",
+          "url": "https://www.cnbc.com/2026/08/02/trump-planned-attack-on-iran-canceled-after-reaching-outline-of-deal.html"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20260802-live-trump-says-us-to-stop-new-strikes-on-iran-calls-for-rapid-deal-on-hormuz"
+        }
+      ],
+      "storylineKey": "war-security-order",
+      "storylineNext": {
+        "slug": "trump-threatens-iran-strikes-after-missiles-target-us-forces",
+        "title": "Trump Threatens Iran Strikes",
+        "url": "/live/?slug=trump-threatens-iran-strikes-after-missiles-target-us-forces"
+      },
+      "storylineTitle": "The War and Security Order",
+      "summary": "Trump said he canceled a planned Iran strike as mediators seek to reopen Hormuz, halt regional attacks, and ease the U.S. naval blockade.",
+      "title": "Trump cancels Iran strike plan, Hormuz talks start",
+      "verificationNote": "Cross-checked across 6 sources"
+    },
     {
       "category": "World",
       "contentType": "brief",
-      "generatedAt": "2026-08-02T01:29:21.808Z",
+      "generatedAt": "2026-08-02T01:03:49.074Z",
       "fastContext": {
         "points": [
           {
@@ -8588,161 +8787,6 @@
       "summary": "Rep. Ro Khanna says armed Israeli settlers blocked his delegation for 90 minutes; Israel's military says troops dispersed the civilians and reopened the road.",
       "title": "Armed Settlers Block Khanna's West Bank Delegation",
       "verificationNote": "Cross-checked across 6 sources"
-    },
-    {
-      "category": "Guide",
-      "contentType": "guide",
-      "generatedAt": "2026-07-11T21:31:02.346Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What it explains",
-            "panel": 1
-          },
-          {
-            "label": "How it works",
-            "panel": 2
-          },
-          {
-            "label": "What follows",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/how-national-bank-charters-work.webp",
-      "claims": [
-        {
-          "claim": "The OCC approves a charter before organizers open a national bank, placing institutional risk and operations under federal agency supervision.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "A business-plan document maps proposed activities, markets, managers, capital, earnings, controls, and community needs before review begins.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "OCC reviewers check management, capital, earnings, compliance, and risk controls against the safe-and-sound operating gate.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "For covered applications, a public comment path routes community and industry views to support, oppose, question, or request conditions.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Preliminary approval triggers a buildout sequence: raise capital, hire staff, install systems, and clear every preopening gate.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Final approval clears the opening gate, but recurring OCC examinations create a feedback loop that can require corrections.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "The OCC approves a charter before organizers open a national bank, placing institutional risk and operations under federal agency supervision.",
-        "A business-plan document maps proposed activities, markets, managers, capital, earnings, controls, and community needs before review begins.",
-        "OCC reviewers check management, capital, earnings, compliance, and risk controls against the safe-and-sound operating gate.",
-        "For covered applications, a public comment path routes community and industry views to support, oppose, question, or request conditions.",
-        "Preliminary approval triggers a buildout sequence: raise capital, hire staff, install systems, and clear every preopening gate.",
-        "Final approval clears the opening gate, but recurring OCC examinations create a feedback loop that can require corrections."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          32.302,
-          50.545
-        ],
-        [
-          33.518,
-          0,
-          33.028,
-          50.545
-        ],
-        [
-          68.61,
-          0,
-          31.39,
-          50.545
-        ],
-        [
-          0,
-          51.798,
-          32.302,
-          48.202
-        ],
-        [
-          33.518,
-          51.798,
-          33.028,
-          48.202
-        ],
-        [
-          68.61,
-          51.798,
-          31.39,
-          48.202
-        ]
-      ],
-      "primaryGuide": null,
-      "relatedBriefSlugs": [],
-      "shortTitle": "National Bank Charters",
-      "slug": "how-national-bank-charters-work",
-      "sourceCount": 3,
-      "sources": [
-        {
-          "name": "Office of the Comptroller of the Currency",
-          "url": "https://www.occ.treas.gov/publications-and-resources/publications/comptrollers-licensing-manual/files/licensing-booklet-charters.html"
-        },
-        {
-          "name": "Office of the Comptroller of the Currency",
-          "url": "https://occ.treas.gov/topics/charters-and-licensing/index-charters-licensing.html"
-        },
-        {
-          "name": "Office of the Comptroller of the Currency",
-          "url": "https://www.occ.treas.gov/topics/charters-and-licensing/public-comment/index-public-comments-on-applications.html"
-        }
-      ],
-      "storylineKey": "",
-      "storylineNext": null,
-      "storylineTitle": "",
-      "summary": "A national bank charter turns an organizing group, business plan, managers, capital, risk controls, public review, and OCC decisions into conditional and then final permission to operate under a defined banking scope.",
-      "title": "How National Bank Charters Work",
-      "verificationNote": "Cross-checked across 3 sources"
     }
   ],
   "dailyPaper": {
@@ -8791,6 +8835,28 @@
   },
   "feeds": {
     "categories": {
+      "U.S. & Politics": [
+        "trump-calls-off-attack-on-iran-subject-to-peace-deal-being-rapidly-reached",
+        "3-states-would-face-colorado-river-water-cuts-under-federal-plan",
+        "former-lt-gov-mandela-barnes-exits-race-for-wisconsin-governor",
+        "trump-says-he-may-pull-blanche-ag-nomination-temporarily",
+        "senate-panel-delays-vote-on-blanche-s-ag-nomination-as-key-republicans-voice-con",
+        "trump-threatens-iran-strikes-after-missiles-target-us-forces",
+        "watch-trump-calls-graham-beloved-friend-and-american-original-in-eulogy",
+        "trump-asks-supreme-court-to-allow-order-restricting-mail-voting",
+        "citing-common-sense-james-comey-s-team-urges-judge-to-toss-seashells-case",
+        "dnc-committee-sets-up-south-carolina-to-vote-first-in-democrats-2028-presidentia",
+        "israel-welcomes-trump-s-demand-for-diplomatic-ties-with-saudi-arabia",
+        "trump-attends-dignified-transfer-of-4-service-members-killed-in-iran-attacks",
+        "trump-administration-signs-commercial-nuclear-deal-with-saudi-arabia",
+        "house-votes-for-permanent-daylight-saving-time",
+        "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
+        "justice-kagan-calls-for-additional-supreme-court-security-funding",
+        "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa",
+        "grahams-death-opens-senate-seat-as-gop-guards-slim-majority",
+        "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
+        "200-young-campers-staff-rescued-amid-record-flooding-in-missouri"
+      ],
       "World": [
         "questions-grow-about-gaza-s-future-after-trump-announces-deal-to-disarm-hamas",
         "tens-of-thousands-of-migrants-enter-spanish-territory-then-return-to-morocco",
@@ -8816,29 +8882,7 @@
         "how-pay-transparency-laws-work",
         "how-buy-now-pay-later-loans-work",
         "how-us-senate-vacancies-are-filled",
-        "how-ev-battery-recycling-works",
-        "how-national-bank-charters-work"
-      ],
-      "U.S. & Politics": [
-        "3-states-would-face-colorado-river-water-cuts-under-federal-plan",
-        "former-lt-gov-mandela-barnes-exits-race-for-wisconsin-governor",
-        "trump-says-he-may-pull-blanche-ag-nomination-temporarily",
-        "senate-panel-delays-vote-on-blanche-s-ag-nomination-as-key-republicans-voice-con",
-        "trump-threatens-iran-strikes-after-missiles-target-us-forces",
-        "watch-trump-calls-graham-beloved-friend-and-american-original-in-eulogy",
-        "trump-asks-supreme-court-to-allow-order-restricting-mail-voting",
-        "citing-common-sense-james-comey-s-team-urges-judge-to-toss-seashells-case",
-        "dnc-committee-sets-up-south-carolina-to-vote-first-in-democrats-2028-presidentia",
-        "israel-welcomes-trump-s-demand-for-diplomatic-ties-with-saudi-arabia",
-        "trump-attends-dignified-transfer-of-4-service-members-killed-in-iran-attacks",
-        "trump-administration-signs-commercial-nuclear-deal-with-saudi-arabia",
-        "house-votes-for-permanent-daylight-saving-time",
-        "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
-        "justice-kagan-calls-for-additional-supreme-court-security-funding",
-        "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa",
-        "grahams-death-opens-senate-seat-as-gop-guards-slim-majority",
-        "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
-        "200-young-campers-staff-rescued-amid-record-flooding-in-missouri"
+        "how-ev-battery-recycling-works"
       ],
       "Tech & Science": [
         "spain-and-france-wildfires-force-more-than-300-000-to-flee-as-macron-calls-crisi",
@@ -8864,10 +8908,22 @@
       "how-pay-transparency-laws-work",
       "how-buy-now-pay-later-loans-work",
       "how-us-senate-vacancies-are-filled",
-      "how-ev-battery-recycling-works",
-      "how-national-bank-charters-work"
+      "how-ev-battery-recycling-works"
     ],
     "storylines": {
+      "war-security-order": [
+        "trump-calls-off-attack-on-iran-subject-to-peace-deal-being-rapidly-reached",
+        "trump-threatens-iran-strikes-after-missiles-target-us-forces",
+        "watch-trump-calls-graham-beloved-friend-and-american-original-in-eulogy",
+        "trump-warns-iran-after-tanker-attacks-raise-oil-risk",
+        "israel-welcomes-trump-s-demand-for-diplomatic-ties-with-saudi-arabia",
+        "defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
+        "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
+        "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
+        "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
+        "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
+        "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank"
+      ],
       "governing-crisis": [
         "how-colorado-river-water-cuts-work",
         "former-lt-gov-mandela-barnes-exits-race-for-wisconsin-governor",
@@ -8881,18 +8937,6 @@
         "how-us-senate-vacancies-are-filled",
         "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa",
         "grahams-death-opens-senate-seat-as-gop-guards-slim-majority"
-      ],
-      "war-security-order": [
-        "trump-threatens-iran-strikes-after-missiles-target-us-forces",
-        "watch-trump-calls-graham-beloved-friend-and-american-original-in-eulogy",
-        "trump-warns-iran-after-tanker-attacks-raise-oil-risk",
-        "israel-welcomes-trump-s-demand-for-diplomatic-ties-with-saudi-arabia",
-        "defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
-        "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
-        "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
-        "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
-        "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
-        "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank"
       ],
       "new-energy-system": [
         "how-civil-nuclear-cooperation-deals-work",
