@@ -1,8 +1,185 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-08-02T19:27:18.369Z",
+  "updatedAt": "2026-08-03T01:27:37.770Z",
   "rolling24HourCount": 2,
   "comics": [
+    {
+      "category": "Tech & Science",
+      "contentType": "brief",
+      "generatedAt": "2026-08-03T01:26:43.422Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What happened",
+            "panel": 1
+          },
+          {
+            "label": "Why it matters",
+            "panel": 3
+          },
+          {
+            "label": "What to watch",
+            "panel": 6
+          }
+        ]
+      },
+      "imagePath": "/live/media/eastern-washington-fires-have-burned-600-structures-and-forced-the-evacuation-of.webp",
+      "claims": [
+        {
+          "claim": "Spokane-area fires force residents from homes as uncontained flames cover evacuation routes near neighborhoods.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Officials report more than 600 structures destroyed and no deaths so far.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Evacuees include families, hospital patients, ranchers, and people moving through smoke.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The Spokane Complex Fire remains uncontained as bulldozers and helicopters work the lines.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Dry heat, wind, and smoke keep eastern Washington under fire and air alerts.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Crews need containment lines before dry winds threaten more homes and ranch structures.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Spokane-area fires force residents from homes as uncontained flames cover evacuation routes near neighborhoods.",
+        "Officials report more than 600 structures destroyed and no deaths so far.",
+        "Evacuees include families, hospital patients, ranchers, and people moving through smoke.",
+        "The Spokane Complex Fire remains uncontained as bulldozers and helicopters work the lines.",
+        "Dry heat, wind, and smoke keep eastern Washington under fire and air alerts.",
+        "Crews need containment lines before dry winds threaten more homes and ranch structures."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.213,
+          50.35
+        ],
+        [
+          33.453,
+          0,
+          33.093,
+          50.35
+        ],
+        [
+          66.787,
+          0,
+          33.213,
+          50.35
+        ],
+        [
+          0,
+          53.361,
+          33.213,
+          46.639
+        ],
+        [
+          33.453,
+          53.361,
+          33.093,
+          46.639
+        ],
+        [
+          66.787,
+          53.361,
+          33.213,
+          46.639
+        ]
+      ],
+      "primaryGuide": {
+        "slug": "how-wildfire-evacuations-work",
+        "title": "How Wildfire Evacuations Work",
+        "url": "/live/?slug=how-wildfire-evacuations-work"
+      },
+      "readerNext": {
+        "buttonLabel": "Guide",
+        "kind": "background-guide",
+        "label": "Background guide",
+        "slug": "how-wildfire-evacuations-work",
+        "title": "How Wildfire Evacuations Work",
+        "url": "/live/?slug=how-wildfire-evacuations-work"
+      },
+      "relatedBriefSlugs": [],
+      "shortTitle": "Spokane wildfires destroy 600 structures",
+      "slug": "eastern-washington-fires-have-burned-600-structures-and-forced-the-evacuation-of",
+      "sourceCount": 4,
+      "sources": [
+        {
+          "name": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/nation/eastern-washington-fires-have-burned-600-structures-and-forced-the-evacuation-of-5000-homes"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/aug/02/eastern-washington-wildfires"
+        },
+        {
+          "name": "ABC News U.S.",
+          "url": "https://abcnews.com/US/wireStory/eastern-washington-fires-burned-600-structures-forced-evacuation-135307789"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/news/us-news/spokane-washington-wildfire-rcna590469"
+        }
+      ],
+      "storylineKey": "",
+      "storylineNext": null,
+      "storylineTitle": "",
+      "summary": "Spokane-area wildfires have destroyed more than 600 structures, forced thousands of homes and tens of thousands of people under evacuation orders, and left crews fighting dry, windy conditions with no containment reported Sunday.",
+      "title": "Spokane-area wildfires destroy 600 structures and stretch evacuations",
+      "verificationNote": "Cross-checked across 4 sources"
+    },
     {
       "category": "U.S. & Politics",
       "contentType": "brief",
@@ -8407,7 +8584,7 @@
       "storylineNext": {
         "slug": "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
         "title": "Armed Settlers Block Khanna's West Bank Delegation",
-        "url": "/live/?slug=congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank"
+        "url": "/briefs/congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank/"
       },
       "storylineTitle": "The War and Security Order",
       "summary": "Iranian forces struck a Cyprus-flagged container ship in the Strait of Hormuz. The U.S. answered with a third round of strikes against Iran as the ship’s crew abandoned the damaged vessel.",
@@ -8590,203 +8767,6 @@
       "summary": "Eight Missouri National Guard helicopters airlifted 202 campers and counselors after 6 to 12 inches of rain cut every road into Camp Taum Sauk, while more storms threatened saturated communities.",
       "title": "Missouri Guard Rescues 202 Campers as Floods Cut Off Roads",
       "verificationNote": "Cross-checked across 4 sources"
-    },
-    {
-      "category": "World",
-      "contentType": "brief",
-      "generatedAt": "2026-07-11T21:53:33.272Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What happened",
-            "panel": 1
-          },
-          {
-            "label": "Why it matters",
-            "panel": 5
-          },
-          {
-            "label": "What to watch",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank.webp",
-      "claims": [
-        {
-          "claim": "Rep. Ro Khanna says armed settlers blocked his delegation for 90 minutes while the federal lawmaker toured the occupied West Bank.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The group was visiting Khirbet Zanuta, a village abandoned after settler attacks, during a three-day West Bank tour.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Masked men carrying rifles surrounded the delegation's van; a New York Times photographer witnessed the confrontation.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Khanna says the group left only after calls to the U.S. Embassy and Israeli police brought outside intervention.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Israel's military says troops dispersed the civilians and reopened the road, denying that soldiers helped block it.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The military says the armed person's identity remains under review as Khanna's account and its response diverge.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "Rep. Ro Khanna says armed settlers blocked his delegation for 90 minutes while the federal lawmaker toured the occupied West Bank.",
-        "The group was visiting Khirbet Zanuta, a village abandoned after settler attacks, during a three-day West Bank tour.",
-        "Masked men carrying rifles surrounded the delegation's van; a New York Times photographer witnessed the confrontation.",
-        "Khanna says the group left only after calls to the U.S. Embassy and Israeli police brought outside intervention.",
-        "Israel's military says troops dispersed the civilians and reopened the road, denying that soldiers helped block it.",
-        "The military says the armed person's identity remains under review as Khanna's account and its response diverge."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          33.148,
-          50.35
-        ],
-        [
-          35.276,
-          0,
-          31.27,
-          50.35
-        ],
-        [
-          66.787,
-          0,
-          33.213,
-          50.35
-        ],
-        [
-          0,
-          51.798,
-          33.148,
-          48.202
-        ],
-        [
-          35.276,
-          51.798,
-          31.27,
-          48.202
-        ],
-        [
-          66.787,
-          51.798,
-          33.213,
-          48.202
-        ]
-      ],
-      "primaryGuide": null,
-      "readerNext": {
-        "buttonLabel": "Storyline",
-        "kind": "storyline",
-        "label": "Storyline",
-        "slug": "war-security-order",
-        "title": "The War and Security Order",
-        "url": "/storylines/war-security-order/"
-      },
-      "relatedBriefSlugs": [],
-      "shortTitle": "Armed Settlers Block Khanna's West Bank Delegation",
-      "slug": "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
-      "sourceCount": 6,
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/politics/rep-ro-khanna-says-he-was-detained-by-the-israeli-military-and-settlers-in-the-west-bank"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/jul/11/ro-khanna-congressman-detained-israel-settlers-west-bank"
-        },
-        {
-          "name": "CBS News Latest",
-          "url": "https://www.cbsnews.com/news/ro-khanna-israeli-settlers-west-bank"
-        },
-        {
-          "name": "NBC News",
-          "url": "https://www.nbcnews.com/video/rep-ro-khanna-says-he-was-detained-by-israeli-settlers-during-west-bank-visit-266542661983"
-        },
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/11/us/politics/ro-khanna-west-bank.html"
-        }
-      ],
-      "storylineKey": "war-security-order",
-      "storylineNext": {
-        "slug": "trump-says-iran-ceasefire-is-over",
-        "title": "Trump Says Iran Ceasefire Over; Strait Risk Rises",
-        "url": "/briefs/trump-says-iran-ceasefire-is-over/"
-      },
-      "storylineTitle": "The War and Security Order",
-      "summary": "Rep. Ro Khanna says armed Israeli settlers blocked his delegation for 90 minutes; Israel's military says troops dispersed the civilians and reopened the road.",
-      "title": "Armed Settlers Block Khanna's West Bank Delegation",
-      "verificationNote": "Cross-checked across 6 sources"
     }
   ],
   "dailyPaper": {
@@ -8835,6 +8815,11 @@
   },
   "feeds": {
     "categories": {
+      "Tech & Science": [
+        "eastern-washington-fires-have-burned-600-structures-and-forced-the-evacuation-of",
+        "spain-and-france-wildfires-force-more-than-300-000-to-flee-as-macron-calls-crisi",
+        "the-politics-of-new-york-s-data-center-construction-pause"
+      ],
       "U.S. & Politics": [
         "trump-calls-off-attack-on-iran-subject-to-peace-deal-being-rapidly-reached",
         "3-states-would-face-colorado-river-water-cuts-under-federal-plan",
@@ -8867,8 +8852,7 @@
         "defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
         "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
         "inflation-slowed-during-pause-in-war-with-iran",
-        "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
-        "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank"
+        "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f"
       ],
       "Guide": [
         "how-colorado-river-water-cuts-work",
@@ -8883,10 +8867,6 @@
         "how-buy-now-pay-later-loans-work",
         "how-us-senate-vacancies-are-filled",
         "how-ev-battery-recycling-works"
-      ],
-      "Tech & Science": [
-        "spain-and-france-wildfires-force-more-than-300-000-to-flee-as-macron-calls-crisi",
-        "the-politics-of-new-york-s-data-center-construction-pause"
       ],
       "Money": [
         "us-imposing-25-tariff-on-some-brazilian-imports-citing-unfair-trade-practices",
@@ -8921,8 +8901,7 @@
         "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
         "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
         "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
-        "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
-        "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank"
+        "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz"
       ],
       "governing-crisis": [
         "how-colorado-river-water-cuts-work",
