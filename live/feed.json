@@ -1,8 +1,163 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-08-03T01:27:37.770Z",
-  "rolling24HourCount": 2,
+  "updatedAt": "2026-08-08T04:22:53.774Z",
+  "rolling24HourCount": 1,
   "comics": [
+    {
+      "category": "Guide",
+      "contentType": "guide",
+      "generatedAt": "2026-08-08T04:22:03.103Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What it explains",
+            "panel": 1
+          },
+          {
+            "label": "How it works",
+            "panel": 2
+          },
+          {
+            "label": "Where it gets hard",
+            "panel": 5
+          }
+        ]
+      },
+      "imagePath": "/live/media/how-spacecraft-orbit-boosts-work.webp",
+      "claims": [
+        {
+          "claim": "NASA raises a federal science satellite's orbit after atmospheric drag threatens its mission.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Decay forecasts set the first gate: pause science, reduce drag, and pick a target orbit.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The servicer launches separately, unfolds solar panels, checks thrusters, and climbs higher.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Rendezvous is a timing threshold: match speed, distance, attitude, and sunlight before contact.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The failure mode is spin: unstable attitude can make a gentle boost risky.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The sequence holds when attitude stabilizes, thrusters burn cleanly, capture works, and altitude rises.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "NASA raises a federal science satellite's orbit after atmospheric drag threatens its mission.",
+        "Decay forecasts set the first gate: pause science, reduce drag, and pick a target orbit.",
+        "The servicer launches separately, unfolds solar panels, checks thrusters, and climbs higher.",
+        "Rendezvous is a timing threshold: match speed, distance, attitude, and sunlight before contact.",
+        "The failure mode is spin: unstable attitude can make a gentle boost risky.",
+        "The sequence holds when attitude stabilizes, thrusters burn cleanly, capture works, and altitude rises."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.2133,
+          50.35
+        ],
+        [
+          33.4533,
+          0,
+          33.0933,
+          50.35
+        ],
+        [
+          66.7867,
+          0,
+          33.2133,
+          50.35
+        ],
+        [
+          0,
+          49.65,
+          33.2133,
+          50.35
+        ],
+        [
+          33.4533,
+          49.65,
+          33.0933,
+          50.35
+        ],
+        [
+          66.7867,
+          49.65,
+          33.2133,
+          50.35
+        ]
+      ],
+      "primaryGuide": null,
+      "relatedBriefSlugs": [],
+      "shortTitle": "How Spacecraft Orbit Boosts Work",
+      "slug": "how-spacecraft-orbit-boosts-work",
+      "sourceCount": 3,
+      "sources": [
+        {
+          "name": "NASA Science: Swift Boost Mission",
+          "url": "https://science.nasa.gov/mission/swift/swift-boost-mission/"
+        },
+        {
+          "name": "NASA Scientific Visualization Studio: Katalyst-NASA Swift Boost Testing",
+          "url": "https://svs.gsfc.nasa.gov/15044/"
+        },
+        {
+          "name": "Katalyst Space: LINK Mission",
+          "url": "https://www.katalystspace.com/mission/link"
+        }
+      ],
+      "storylineKey": "",
+      "storylineNext": null,
+      "storylineTitle": "",
+      "summary": "Spacecraft orbit boosts fight atmospheric drag by predicting decay, launching a servicing vehicle, matching orbit, stabilizing attitude, capturing or pushing gently, and raising altitude without damaging the mission.",
+      "title": "How Spacecraft Orbit Boosts Work",
+      "verificationNote": "Cross-checked across 3 sources"
+    },
     {
       "category": "Tech & Science",
       "contentType": "brief",
@@ -8590,183 +8745,6 @@
       "summary": "Iranian forces struck a Cyprus-flagged container ship in the Strait of Hormuz. The U.S. answered with a third round of strikes against Iran as the ship’s crew abandoned the damaged vessel.",
       "title": "U.S. Strikes Iran After Ship Attack Threatens Hormuz Shipping",
       "verificationNote": "Cross-checked across 3 sources"
-    },
-    {
-      "category": "U.S. & Politics",
-      "contentType": "brief",
-      "generatedAt": "2026-07-11T23:20:32.464Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What happened",
-            "panel": 1
-          },
-          {
-            "label": "Why it matters",
-            "panel": 4
-          },
-          {
-            "label": "Where it stands",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/200-young-campers-staff-rescued-amid-record-flooding-in-missouri.webp",
-      "claims": [
-        {
-          "claim": "Record flooding forces a Missouri National Guard helicopter evacuation of 202 campers after every road into Camp Taum Sauk becomes a safety risk.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Six to 12 inches of rain swamped southeastern Missouri, stranding the camp near Lesterville as more storms approached.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Eight Black Hawk helicopters carried campers to a nearby elementary school, where families reunited after the evacuation.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "At Bearcat Getaway, about 20 people were rescued after floodwaters collapsed the building they had climbed for safety.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "More than 90 water rescues followed across the region, while one person remained missing after Friday's storms.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Additional storms threatened saturated areas from Missouri through Tennessee; officials urged low-lying communities to prepare for higher ground.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "Record flooding forces a Missouri National Guard helicopter evacuation of 202 campers after every road into Camp Taum Sauk becomes a safety risk.",
-        "Six to 12 inches of rain swamped southeastern Missouri, stranding the camp near Lesterville as more storms approached.",
-        "Eight Black Hawk helicopters carried campers to a nearby elementary school, where families reunited after the evacuation.",
-        "At Bearcat Getaway, about 20 people were rescued after floodwaters collapsed the building they had climbed for safety.",
-        "More than 90 water rescues followed across the region, while one person remained missing after Friday's storms.",
-        "Additional storms threatened saturated areas from Missouri through Tennessee; officials urged low-lying communities to prepare for higher ground."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          33.213,
-          50.35
-        ],
-        [
-          33.453,
-          0,
-          33.028,
-          50.35
-        ],
-        [
-          66.722,
-          0,
-          33.278,
-          50.35
-        ],
-        [
-          0,
-          51.798,
-          33.213,
-          48.202
-        ],
-        [
-          33.453,
-          51.798,
-          33.028,
-          48.202
-        ],
-        [
-          66.722,
-          51.798,
-          33.278,
-          48.202
-        ]
-      ],
-      "primaryGuide": {
-        "slug": "how-storm-warnings-work",
-        "title": "How Storm Warnings Work",
-        "url": "/briefs/how-storm-warnings-work/"
-      },
-      "readerNext": {
-        "buttonLabel": "Guide",
-        "kind": "background-guide",
-        "label": "Background guide",
-        "slug": "how-storm-warnings-work",
-        "title": "How Storm Warnings Work",
-        "url": "/briefs/how-storm-warnings-work/"
-      },
-      "relatedBriefSlugs": [],
-      "shortTitle": "Missouri Guard Rescues 202 Campers as Floods Cut Off Roads",
-      "slug": "200-young-campers-staff-rescued-amid-record-flooding-in-missouri",
-      "sourceCount": 4,
-      "sources": [
-        {
-          "name": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/nation/more-than-200-people-at-a-summer-camp-helicoptered-to-safety-as-missouri-faces-flooding"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/jul/11/missouri-flooding-airlift-rescue"
-        },
-        {
-          "name": "ABC News U.S.",
-          "url": "https://abcnews.com/US/wireStory/emergency-crews-rescue-20-after-campground-building-collapses-134665242"
-        },
-        {
-          "name": "CBS News Latest",
-          "url": "https://www.cbsnews.com/news/missouri-flooding-campers-rescued-helicopter-national-guard"
-        }
-      ],
-      "storylineKey": "",
-      "storylineNext": null,
-      "storylineTitle": "",
-      "summary": "Eight Missouri National Guard helicopters airlifted 202 campers and counselors after 6 to 12 inches of rain cut every road into Camp Taum Sauk, while more storms threatened saturated communities.",
-      "title": "Missouri Guard Rescues 202 Campers as Floods Cut Off Roads",
-      "verificationNote": "Cross-checked across 4 sources"
     }
   ],
   "dailyPaper": {
@@ -8815,6 +8793,21 @@
   },
   "feeds": {
     "categories": {
+      "Guide": [
+        "how-spacecraft-orbit-boosts-work",
+        "how-colorado-river-water-cuts-work",
+        "how-dignified-transfers-work",
+        "how-senate-confirmations-work",
+        "how-structural-collapse-rescue-works",
+        "how-mail-ballots-are-processed",
+        "how-wildfire-evacuations-work",
+        "how-war-powers-votes-work",
+        "how-civil-nuclear-cooperation-deals-work",
+        "how-pay-transparency-laws-work",
+        "how-buy-now-pay-later-loans-work",
+        "how-us-senate-vacancies-are-filled",
+        "how-ev-battery-recycling-works"
+      ],
       "Tech & Science": [
         "eastern-washington-fires-have-burned-600-structures-and-forced-the-evacuation-of",
         "spain-and-france-wildfires-force-more-than-300-000-to-flee-as-macron-calls-crisi",
@@ -8839,8 +8832,7 @@
         "justice-kagan-calls-for-additional-supreme-court-security-funding",
         "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa",
         "grahams-death-opens-senate-seat-as-gop-guards-slim-majority",
-        "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
-        "200-young-campers-staff-rescued-amid-record-flooding-in-missouri"
+        "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz"
       ],
       "World": [
         "questions-grow-about-gaza-s-future-after-trump-announces-deal-to-disarm-hamas",
@@ -8854,20 +8846,6 @@
         "inflation-slowed-during-pause-in-war-with-iran",
         "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f"
       ],
-      "Guide": [
-        "how-colorado-river-water-cuts-work",
-        "how-dignified-transfers-work",
-        "how-senate-confirmations-work",
-        "how-structural-collapse-rescue-works",
-        "how-mail-ballots-are-processed",
-        "how-wildfire-evacuations-work",
-        "how-war-powers-votes-work",
-        "how-civil-nuclear-cooperation-deals-work",
-        "how-pay-transparency-laws-work",
-        "how-buy-now-pay-later-loans-work",
-        "how-us-senate-vacancies-are-filled",
-        "how-ev-battery-recycling-works"
-      ],
       "Money": [
         "us-imposing-25-tariff-on-some-brazilian-imports-citing-unfair-trade-practices",
         "paramount-and-warner-bros-sued-to-block-110bn-mega-merger"
@@ -8877,6 +8855,7 @@
       ]
     },
     "guides": [
+      "how-spacecraft-orbit-boosts-work",
       "how-colorado-river-water-cuts-work",
       "how-dignified-transfers-work",
       "how-senate-confirmations-work",
