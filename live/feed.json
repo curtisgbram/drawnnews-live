@@ -1,8 +1,173 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-08-08T04:22:53.774Z",
-  "rolling24HourCount": 1,
+  "updatedAt": "2026-08-08T16:31:09.642Z",
+  "rolling24HourCount": 2,
   "comics": [
+    {
+      "category": "Guide",
+      "contentType": "guide",
+      "generatedAt": "2026-08-08T16:30:18.998Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What it explains",
+            "panel": 1
+          },
+          {
+            "label": "How it works",
+            "panel": 2
+          },
+          {
+            "label": "Where it gets hard",
+            "panel": 4
+          }
+        ]
+      },
+      "imagePath": "/live/media/how-wildfire-containment-lines-work.webp",
+      "claims": [
+        {
+          "claim": "Wildland crews turn bare earth into a safety buffer when residents face spreading fire.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The anchor-point gate checks whether crews can start without fire behind them.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Hand crews and dozers cut a path to mineral soil so flames lose fuel.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Roads, rivers, and fuel breaks extend the sequence when crews can tie into them.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The bottleneck is weather and flame length, which can push embers across the line.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The failure mode appears during mop-up if hot spots survive inside the perimeter.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Wildland crews turn bare earth into a safety buffer when residents face spreading fire.",
+        "The anchor-point gate checks whether crews can start without fire behind them.",
+        "Hand crews and dozers cut a path to mineral soil so flames lose fuel.",
+        "Roads, rivers, and fuel breaks extend the sequence when crews can tie into them.",
+        "The bottleneck is weather and flame length, which can push embers across the line.",
+        "The failure mode appears during mop-up if hot spots survive inside the perimeter."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.213,
+          48.202
+        ],
+        [
+          35.146,
+          0,
+          29.968,
+          48.202
+        ],
+        [
+          66.787,
+          0,
+          33.213,
+          48.202
+        ],
+        [
+          0,
+          49.65,
+          33.213,
+          50.35
+        ],
+        [
+          35.146,
+          49.65,
+          29.968,
+          50.35
+        ],
+        [
+          66.787,
+          49.65,
+          33.213,
+          50.35
+        ]
+      ],
+      "primaryGuide": null,
+      "relatedBriefSlugs": [],
+      "shortTitle": "Wildfire Containment Lines",
+      "slug": "how-wildfire-containment-lines-work",
+      "sourceCount": 4,
+      "sources": [
+        {
+          "name": "NWCG Glossary: Fireline",
+          "url": "https://www.nwcg.gov/publications/pms205/nwcg-glossary-of-wildland-fire-pms-205/fireline-line-7"
+        },
+        {
+          "name": "NWCG Glossary: Containment",
+          "url": "https://www.nwcg.gov/publications/pms205/nwcg-glossary-of-wildland-fire-pms-205/containment-wildfire-5"
+        },
+        {
+          "name": "USDA Forest Service: Anatomy of a Fire Response",
+          "url": "https://www.fs.usda.gov/r05/shasta-trinity/newsroom/stories/anatomy-fire-response-how-usfs-wildland-firefighters-tackle"
+        },
+        {
+          "name": "USDA Forest Service Research: Fireline Effectiveness",
+          "url": "https://research.fs.usda.gov/rmrs/articles/fireline-effectiveness-data-driven-approach"
+        }
+      ],
+      "storylineKey": "",
+      "storylineNext": null,
+      "storylineTitle": "",
+      "summary": "Wildfire containment lines are a ground system: crews, dozers, roads, rivers, fuel breaks, weather, flame length, and mop-up must align before bare earth can stop fire spread.",
+      "title": "How Wildfire Containment Lines Work",
+      "verificationNote": "Cross-checked across 4 sources"
+    },
     {
       "category": "Guide",
       "contentType": "guide",
@@ -294,17 +459,17 @@
         ]
       ],
       "primaryGuide": {
-        "slug": "how-wildfire-evacuations-work",
-        "title": "How Wildfire Evacuations Work",
-        "url": "/live/?slug=how-wildfire-evacuations-work"
+        "slug": "how-wildfire-containment-lines-work",
+        "title": "How Wildfire Containment Lines Work",
+        "url": "/live/?slug=how-wildfire-containment-lines-work"
       },
       "readerNext": {
         "buttonLabel": "Guide",
         "kind": "background-guide",
         "label": "Background guide",
-        "slug": "how-wildfire-evacuations-work",
-        "title": "How Wildfire Evacuations Work",
-        "url": "/live/?slug=how-wildfire-evacuations-work"
+        "slug": "how-wildfire-containment-lines-work",
+        "title": "How Wildfire Containment Lines Work",
+        "url": "/live/?slug=how-wildfire-containment-lines-work"
       },
       "relatedBriefSlugs": [],
       "shortTitle": "Spokane wildfires destroy 600 structures",
@@ -5640,7 +5805,7 @@
         "label": "Earlier in this story",
         "slug": "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
         "title": "U.S. Strikes Iran After Ship Attack Threatens Hormuz Shipping",
-        "url": "/live/?slug=u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz"
+        "url": "/briefs/u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz/"
       },
       "relatedBriefSlugs": [
         "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz"
@@ -6475,7 +6640,7 @@
         "label": "Earlier in this story",
         "slug": "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
         "title": "U.S. Strikes Iran After Ship Attack Threatens Hormuz Shipping",
-        "url": "/live/?slug=u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz"
+        "url": "/briefs/u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz/"
       },
       "relatedBriefSlugs": [
         "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
@@ -8150,7 +8315,7 @@
       "storylineNext": {
         "slug": "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
         "title": "U.S. Strikes Iran After Ship Attack Threatens Hormuz Shipping",
-        "url": "/live/?slug=u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz"
+        "url": "/briefs/u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz/"
       },
       "storylineTitle": "The War and Security Order",
       "summary": "U.S. forces struck Iranian military targets; Iran answered with attacks on U.S. bases in Gulf states, escalating a standoff over the Strait of Hormuz and the shipping route it controls.",
@@ -8574,177 +8739,6 @@
       "summary": "Sen. Lindsey Graham died at 71, creating a South Carolina vacancy while the Senate GOP holds a slim majority and an unfinished Russia sanctions push awaits new ownership.",
       "title": "Graham Dies, Opening Seat Before Close Senate Votes",
       "verificationNote": "Cross-checked across 12 sources"
-    },
-    {
-      "category": "U.S. & Politics",
-      "contentType": "brief",
-      "generatedAt": "2026-07-12T03:17:12.277Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What happened",
-            "panel": 1
-          },
-          {
-            "label": "Why it matters",
-            "panel": 5
-          },
-          {
-            "label": "What to watch",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz.webp",
-      "claims": [
-        {
-          "claim": "Iranian forces struck a civilian container ship in the Strait of Hormuz; the U.S. answered with a third round of strikes.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The Cyprus-flagged ship suffered engine-room damage and a fire about nine nautical miles east of Oman, military authorities reported.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The crew abandoned ship for a lifeboat, while U.S. Central Command reported one civilian crew member missing.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Iran said the ship used an unapproved route and had switched off its systems before its forces brought the vessel to a halt.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "U.S. Central Command said its strikes aim to reduce Iran’s ability to attack civilian mariners and commercial ships.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Iran declared the strait closed and warned retaliation would bring a severe response, raising the risk of further disruption.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "Iranian forces struck a civilian container ship in the Strait of Hormuz; the U.S. answered with a third round of strikes.",
-        "The Cyprus-flagged ship suffered engine-room damage and a fire about nine nautical miles east of Oman, military authorities reported.",
-        "The crew abandoned ship for a lifeboat, while U.S. Central Command reported one civilian crew member missing.",
-        "Iran said the ship used an unapproved route and had switched off its systems before its forces brought the vessel to a halt.",
-        "U.S. Central Command said its strikes aim to reduce Iran’s ability to attack civilian mariners and commercial ships.",
-        "Iran declared the strait closed and warned retaliation would bring a severe response, raising the risk of further disruption."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          33.2133,
-          50.35
-        ],
-        [
-          33.4533,
-          0,
-          33.0933,
-          50.35
-        ],
-        [
-          66.7867,
-          0,
-          33.2133,
-          50.35
-        ],
-        [
-          0,
-          49.65,
-          33.2133,
-          50.35
-        ],
-        [
-          33.4533,
-          49.65,
-          33.0933,
-          50.35
-        ],
-        [
-          66.7867,
-          49.65,
-          33.2133,
-          50.35
-        ]
-      ],
-      "primaryGuide": null,
-      "readerNext": {
-        "buttonLabel": "Earlier brief",
-        "kind": "earlier-brief",
-        "label": "Earlier in this story",
-        "slug": "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
-        "title": "U.S. and Iran Trade Strikes, Raising Hormuz Shipping Risk",
-        "url": "/briefs/u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over/"
-      },
-      "relatedBriefSlugs": [
-        "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
-        "un-agency-pauses-evacuation-of-ships-through-the-strait-of-hormuz-after-attack-o",
-        "iran-s-strikes-on-ships-in-strait-of-hormuz-threaten-oil-flow"
-      ],
-      "shortTitle": "U.S. Strikes Iran After Ship Attack Threatens Hormuz Shipping",
-      "slug": "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
-      "sourceCount": 3,
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/jul/12/us-and-iran-exchange-strikes-as-tehran-again-says-strait-of-hormuz-is-closed"
-        },
-        {
-          "name": "Axios",
-          "url": "https://www.axios.com/2026/07/11/iran-strikes-cargo-ship-in-strait-of-hormuz-defying-us-ultimatum"
-        },
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/iran-closes-strait-of-hormuz-us-launches-fresh-strikes/live-77920097?maca=en-rss-en-all-1573-rdf"
-        }
-      ],
-      "storylineKey": "war-security-order",
-      "storylineNext": {
-        "slug": "congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank",
-        "title": "Armed Settlers Block Khanna's West Bank Delegation",
-        "url": "/briefs/congressman-says-he-was-detained-by-israeli-settlers-in-the-west-bank/"
-      },
-      "storylineTitle": "The War and Security Order",
-      "summary": "Iranian forces struck a Cyprus-flagged container ship in the Strait of Hormuz. The U.S. answered with a third round of strikes against Iran as the ship’s crew abandoned the damaged vessel.",
-      "title": "U.S. Strikes Iran After Ship Attack Threatens Hormuz Shipping",
-      "verificationNote": "Cross-checked across 3 sources"
     }
   ],
   "dailyPaper": {
@@ -8794,6 +8788,7 @@
   "feeds": {
     "categories": {
       "Guide": [
+        "how-wildfire-containment-lines-work",
         "how-spacecraft-orbit-boosts-work",
         "how-colorado-river-water-cuts-work",
         "how-dignified-transfers-work",
@@ -8831,8 +8826,7 @@
         "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
         "justice-kagan-calls-for-additional-supreme-court-security-funding",
         "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa",
-        "grahams-death-opens-senate-seat-as-gop-guards-slim-majority",
-        "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz"
+        "grahams-death-opens-senate-seat-as-gop-guards-slim-majority"
       ],
       "World": [
         "questions-grow-about-gaza-s-future-after-trump-announces-deal-to-disarm-hamas",
@@ -8855,6 +8849,7 @@
       ]
     },
     "guides": [
+      "how-wildfire-containment-lines-work",
       "how-spacecraft-orbit-boosts-work",
       "how-colorado-river-water-cuts-work",
       "how-dignified-transfers-work",
@@ -8879,8 +8874,7 @@
         "defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
         "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
         "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
-        "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
-        "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz"
+        "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f"
       ],
       "governing-crisis": [
         "how-colorado-river-water-cuts-work",
