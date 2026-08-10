@@ -1,8 +1,153 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-08-08T16:31:09.642Z",
-  "rolling24HourCount": 2,
+  "updatedAt": "2026-08-10T16:28:04.458Z",
+  "rolling24HourCount": 1,
   "comics": [
+    {
+      "category": "Guide",
+      "contentType": "guide",
+      "generatedAt": "2026-08-10T16:27:13.094Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What it explains",
+            "panel": 1
+          },
+          {
+            "label": "How it works",
+            "panel": 2
+          },
+          {
+            "label": "Where it gets hard",
+            "panel": 4
+          }
+        ]
+      },
+      "imagePath": "/live/media/how-aerial-firefighting-drops-work.webp",
+      "claims": [
+        {
+          "claim": "Federal wildfire teams require aircraft drops to slow flames for public safety and crew escape routes.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Airbase loading routes water or retardant into aircraft before wind, terrain, and smoke columns.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Lead aircraft routes the drop path so payload lands ahead of the fire edge.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The bottleneck is timing: heat and wind can scatter drops before crews reach line.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Avoidance zones protect waterways and sensitive habitat unless life safety changes the gate.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Watch visibility checks, reload distance, crew access, and whether firefighters secure the line.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Federal wildfire teams require aircraft drops to slow flames for public safety and crew escape routes.",
+        "Airbase loading routes water or retardant into aircraft before wind, terrain, and smoke columns.",
+        "Lead aircraft routes the drop path so payload lands ahead of the fire edge.",
+        "The bottleneck is timing: heat and wind can scatter drops before crews reach line.",
+        "Avoidance zones protect waterways and sensitive habitat unless life safety changes the gate.",
+        "Watch visibility checks, reload distance, crew access, and whether firefighters secure the line."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.213,
+          50.448
+        ],
+        [
+          33.453,
+          0,
+          31.661,
+          50.448
+        ],
+        [
+          66.787,
+          0,
+          33.213,
+          50.448
+        ],
+        [
+          0,
+          51.798,
+          33.213,
+          48.202
+        ],
+        [
+          33.453,
+          51.798,
+          31.661,
+          48.202
+        ],
+        [
+          66.787,
+          51.798,
+          33.213,
+          48.202
+        ]
+      ],
+      "primaryGuide": null,
+      "relatedBriefSlugs": [],
+      "shortTitle": "Aerial Fire Drops, Explained",
+      "slug": "how-aerial-firefighting-drops-work",
+      "sourceCount": 2,
+      "sources": [
+        {
+          "name": "National Interagency Fire Center: Airtankers",
+          "url": "https://www.nifc.gov/resources/aircraft/airtankers"
+        },
+        {
+          "name": "USDA Forest Service: Wildland Fire Chemicals Policy",
+          "url": "https://www.fs.usda.gov/managing-land/fire/chemicals"
+        }
+      ],
+      "storylineKey": "",
+      "storylineNext": null,
+      "storylineTitle": "",
+      "summary": "Aerial firefighting drops connect air attack, airbases, pilots, ground crews, water or retardant loads, wind, terrain, avoidance zones, and follow-up line work so aircraft slow fire spread instead of replacing firefighters.",
+      "title": "How Aerial Firefighting Drops Work",
+      "verificationNote": "Cross-checked across 2 sources"
+    },
     {
       "category": "Guide",
       "contentType": "guide",
@@ -459,17 +604,17 @@
         ]
       ],
       "primaryGuide": {
-        "slug": "how-wildfire-containment-lines-work",
-        "title": "How Wildfire Containment Lines Work",
-        "url": "/live/?slug=how-wildfire-containment-lines-work"
+        "slug": "how-aerial-firefighting-drops-work",
+        "title": "How Aerial Firefighting Drops Work",
+        "url": "/live/?slug=how-aerial-firefighting-drops-work"
       },
       "readerNext": {
         "buttonLabel": "Guide",
         "kind": "background-guide",
         "label": "Background guide",
-        "slug": "how-wildfire-containment-lines-work",
-        "title": "How Wildfire Containment Lines Work",
-        "url": "/live/?slug=how-wildfire-containment-lines-work"
+        "slug": "how-aerial-firefighting-drops-work",
+        "title": "How Aerial Firefighting Drops Work",
+        "url": "/live/?slug=how-aerial-firefighting-drops-work"
       },
       "relatedBriefSlugs": [],
       "shortTitle": "Spokane wildfires destroy 600 structures",
@@ -8472,273 +8617,12 @@
       "storylineNext": {
         "slug": "grahams-death-opens-senate-seat-as-gop-guards-slim-majority",
         "title": "Graham Dies, Opening Seat Before Close Senate Votes",
-        "url": "/live/?slug=grahams-death-opens-senate-seat-as-gop-guards-slim-majority"
+        "url": "/briefs/grahams-death-opens-senate-seat-as-gop-guards-slim-majority/"
       },
       "storylineTitle": "U.S. Elections",
       "summary": "A federal judge dismissed the remaining Proud Boys convictions after President Trump's clemency erased every federal Jan. 6 prosecution.",
       "title": "Judge Ends Proud Boys Case After Trump Erases Jan. 6 Convictions",
       "verificationNote": "Cross-checked across 2 sources"
-    },
-    {
-      "category": "U.S. & Politics",
-      "contentType": "brief",
-      "generatedAt": "2026-07-12T08:54:28.046Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What happened",
-            "panel": 1
-          },
-          {
-            "label": "Why it matters",
-            "panel": 5
-          },
-          {
-            "label": "What to watch",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/grahams-death-opens-senate-seat-as-gop-guards-slim-majority.webp",
-      "claims": [
-        {
-          "claim": "Lindsey Graham’s death opens South Carolina’s Senate seat, leaving voters awaiting a successor while a slim Republican majority faces close votes.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "His office announced a “brief and sudden illness” Saturday night, gave no cause, and asked for family privacy.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "South Carolina law lets the governor appoint an interim senator through January after the next general election.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Graham had served since 2003 and chaired the Budget Committee, which steers major bills through reconciliation.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "That committee helped carry last year’s tax law without a filibuster, making the vacant seat consequential for close votes.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Graham returned from Kyiv after advancing a Russia sanctions package; Senate leaders must now decide who carries that work.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            11
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "Lindsey Graham’s death opens South Carolina’s Senate seat, leaving voters awaiting a successor while a slim Republican majority faces close votes.",
-        "His office announced a “brief and sudden illness” Saturday night, gave no cause, and asked for family privacy.",
-        "South Carolina law lets the governor appoint an interim senator through January after the next general election.",
-        "Graham had served since 2003 and chaired the Budget Committee, which steers major bills through reconciliation.",
-        "That committee helped carry last year’s tax law without a filibuster, making the vacant seat consequential for close votes.",
-        "Graham returned from Kyiv after advancing a Russia sanctions package; Senate leaders must now decide who carries that work."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          33.148,
-          50.448
-        ],
-        [
-          33.388,
-          0,
-          33.224,
-          50.448
-        ],
-        [
-          66.852,
-          0,
-          33.148,
-          50.448
-        ],
-        [
-          0,
-          51.798,
-          33.148,
-          48.202
-        ],
-        [
-          33.388,
-          51.798,
-          33.224,
-          48.202
-        ],
-        [
-          66.852,
-          51.798,
-          33.148,
-          48.202
-        ]
-      ],
-      "primaryGuide": {
-        "slug": "how-us-senate-vacancies-are-filled",
-        "title": "How U.S. Senate Vacancies Are Filled",
-        "url": "/live/?slug=how-us-senate-vacancies-are-filled"
-      },
-      "readerNext": {
-        "buttonLabel": "Guide",
-        "kind": "background-guide",
-        "label": "Background guide",
-        "slug": "how-us-senate-vacancies-are-filled",
-        "title": "How U.S. Senate Vacancies Are Filled",
-        "url": "/live/?slug=how-us-senate-vacancies-are-filled"
-      },
-      "relatedBriefSlugs": [],
-      "shortTitle": "Graham Dies, Opening Seat Before Close Senate Votes",
-      "slug": "grahams-death-opens-senate-seat-as-gop-guards-slim-majority",
-      "sourceCount": 12,
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/jul/12/lindsey-graham-key-ally-of-donald-trump-has-died-after-sudden-illness-his-office-says"
-        },
-        {
-          "name": "ABC News Top Stories",
-          "url": "https://abcnews.com/Politics/sen-lindsey-graham-south-carolina-dies-71/story?id=134688641"
-        },
-        {
-          "name": "CBS News Latest",
-          "url": "https://www.cbsnews.com/video/sen-lindsey-graham-dies-after-sudden-illness-special-report"
-        },
-        {
-          "name": "NBC News",
-          "url": "https://www.nbcnews.com/politics/politics-news/sen-lindsey-graham-dies-71-brief-sudden-illness-rcna552722"
-        },
-        {
-          "name": "CNBC Top News",
-          "url": "https://www.cnbc.com/2026/07/12/senator-lindsey-graham-has-died-after-a-brief-illness-his-office-says.html"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/7/12/us-senator-lindsey-graham-passes-away?traffic_source=rss"
-        },
-        {
-          "name": "Deutsche Welle",
-          "url": "https://www.dw.com/en/us-senator-lindsey-graham-dies/a-77921386?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/americas/20260712-us-senator-and-trump-ally-lindsey-graham-dies-after-brief-and-sudden-illness"
-        },
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-dead.html"
-        },
-        {
-          "name": "Associated Press",
-          "url": "https://apnews.com/article/lindsey-graham-dies-south-carolina-bfa556e170f2df22ce9ffc7165da3dfa"
-        },
-        {
-          "name": "South Carolina Legislature",
-          "url": "https://www.scstatehouse.gov/code/t07c019.php"
-        }
-      ],
-      "storylineKey": "governing-crisis",
-      "storylineNext": {
-        "slug": "graham-platner-officially-withdraws-from-the-maine-senate-race",
-        "title": "Platner withdrawal opens July 27 Maine Senate race replacement deadline",
-        "url": "/briefs/graham-platner-officially-withdraws-from-the-maine-senate-race/"
-      },
-      "storylineTitle": "U.S. Elections",
-      "summary": "Sen. Lindsey Graham died at 71, creating a South Carolina vacancy while the Senate GOP holds a slim majority and an unfinished Russia sanctions push awaits new ownership.",
-      "title": "Graham Dies, Opening Seat Before Close Senate Votes",
-      "verificationNote": "Cross-checked across 12 sources"
     }
   ],
   "dailyPaper": {
@@ -8788,6 +8672,7 @@
   "feeds": {
     "categories": {
       "Guide": [
+        "how-aerial-firefighting-drops-work",
         "how-wildfire-containment-lines-work",
         "how-spacecraft-orbit-boosts-work",
         "how-colorado-river-water-cuts-work",
@@ -8825,8 +8710,7 @@
         "house-votes-for-permanent-daylight-saving-time",
         "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
         "justice-kagan-calls-for-additional-supreme-court-security-funding",
-        "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa",
-        "grahams-death-opens-senate-seat-as-gop-guards-slim-majority"
+        "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa"
       ],
       "World": [
         "questions-grow-about-gaza-s-future-after-trump-announces-deal-to-disarm-hamas",
@@ -8849,6 +8733,7 @@
       ]
     },
     "guides": [
+      "how-aerial-firefighting-drops-work",
       "how-wildfire-containment-lines-work",
       "how-spacecraft-orbit-boosts-work",
       "how-colorado-river-water-cuts-work",
@@ -8887,8 +8772,7 @@
         "dnc-committee-sets-up-south-carolina-to-vote-first-in-democrats-2028-presidentia",
         "how-war-powers-votes-work",
         "how-us-senate-vacancies-are-filled",
-        "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa",
-        "grahams-death-opens-senate-seat-as-gop-guards-slim-majority"
+        "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa"
       ],
       "new-energy-system": [
         "how-civil-nuclear-cooperation-deals-work",
