@@ -1,8 +1,222 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-08-10T16:28:04.458Z",
+  "updatedAt": "2026-08-12T01:38:07.424Z",
   "rolling24HourCount": 1,
   "comics": [
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-08-12T01:37:16.422Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What happened",
+            "panel": 1
+          },
+          {
+            "label": "Why it matters",
+            "panel": 5
+          },
+          {
+            "label": "What to watch",
+            "panel": 6
+          }
+        ]
+      },
+      "imagePath": "/live/media/in-south-carolina-sen-darline-graham-advances-to-a-gop-special-primary-runoff-fo.webp",
+      "claims": [
+        {
+          "claim": "Darline Graham keeps South Carolina's Senate race headed to an August runoff ballot after no candidate cleared 50%.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "She is serving temporarily after Gov. Henry McMaster appointed her to Lindsey Graham's seat.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "State runoff rules send the top two candidates forward when no one clears half.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The August 25 runoff will decide the Republican nominee for November's ballot.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The winner is set to face Democrat Annie Andrews for a full Senate term.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Election officials still must identify the second finalist before the August 25 ballot.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Darline Graham keeps South Carolina's Senate race headed to an August runoff ballot after no candidate cleared 50%.",
+        "She is serving temporarily after Gov. Henry McMaster appointed her to Lindsey Graham's seat.",
+        "State runoff rules send the top two candidates forward when no one clears half.",
+        "The August 25 runoff will decide the Republican nominee for November's ballot.",
+        "The winner is set to face Democrat Annie Andrews for a full Senate term.",
+        "Election officials still must identify the second finalist before the August 25 ballot."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.213,
+          50.35
+        ],
+        [
+          33.453,
+          0,
+          32.963,
+          50.35
+        ],
+        [
+          66.656,
+          0,
+          33.344,
+          50.35
+        ],
+        [
+          0,
+          51.798,
+          33.213,
+          48.202
+        ],
+        [
+          33.453,
+          51.798,
+          32.963,
+          48.202
+        ],
+        [
+          66.656,
+          51.798,
+          33.344,
+          48.202
+        ]
+      ],
+      "primaryGuide": {
+        "slug": "how-primary-elections-work",
+        "title": "How Primary Elections Work",
+        "url": "/briefs/how-primary-elections-work/"
+      },
+      "readerNext": {
+        "buttonLabel": "Earlier brief",
+        "kind": "earlier-brief",
+        "label": "Earlier in this story",
+        "slug": "dnc-committee-sets-up-south-carolina-to-vote-first-in-democrats-2028-presidentia",
+        "title": "DNC panel advances South Carolina-first primary calendar",
+        "url": "/live/?slug=dnc-committee-sets-up-south-carolina-to-vote-first-in-democrats-2028-presidentia"
+      },
+      "relatedBriefSlugs": [
+        "dnc-committee-sets-up-south-carolina-to-vote-first-in-democrats-2028-presidentia",
+        "alan-wilson-boosted-by-trump-s-late-co-endorsement-wins-south-carolina-governor-"
+      ],
+      "shortTitle": "Graham Enters South Carolina Senate Runoff",
+      "slug": "in-south-carolina-sen-darline-graham-advances-to-a-gop-special-primary-runoff-fo",
+      "sourceCount": 7,
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/live/2026/aug/11/donald-trump-democrats-primaries-wisconsin-minnesota-south-carolina-vaccines-max-miller-latest-news-updates"
+        },
+        {
+          "name": "Axios",
+          "url": "https://www.axios.com/2026/08/12/south-carolina-gop-senate-graham-primary-runoff"
+        },
+        {
+          "name": "CBS News Latest",
+          "url": "https://www.cbsnews.com/news/lindsey-graham-south-carolina-senate-special-election-primary-results"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/politics/2026-election/appointed-sen-darline-graham-advances-gop-senate-primary-runoff-south-rcna591628"
+        },
+        {
+          "name": "CNBC Top News",
+          "url": "https://www.cnbc.com/2026/08/11/primary-election-wisconsin-minnesota-south-carolina-democrats-hong-flanagan-craig.html"
+        },
+        {
+          "name": "Politico",
+          "url": "https://www.politico.com/news/2026/08/09/south-carolina-senate-darline-graham-trump-01029927"
+        },
+        {
+          "name": "The New York Times U.S.",
+          "url": "https://www.nytimes.com/2026/08/11/us/politics/darline-graham-south-carolina-primary.html"
+        }
+      ],
+      "storylineKey": "governing-crisis",
+      "storylineNext": {
+        "slug": "how-colorado-river-water-cuts-work",
+        "title": "Colorado River Cuts",
+        "url": "/live/?slug=how-colorado-river-water-cuts-work"
+      },
+      "storylineTitle": "U.S. Elections",
+      "summary": "South Carolina Republicans sent interim Sen. Darline Graham to an August 25 runoff after no candidate cleared 50%, keeping the party's U.S. Senate nomination unsettled.",
+      "title": "Darline Graham Enters Runoff as South Carolina GOP Reopens U.S. Senate Race",
+      "verificationNote": "Cross-checked across 7 sources"
+    },
     {
       "category": "Guide",
       "contentType": "guide",
@@ -4591,12 +4805,12 @@
         "url": "/briefs/how-primary-elections-work/"
       },
       "readerNext": {
-        "buttonLabel": "Earlier brief",
-        "kind": "earlier-brief",
-        "label": "Earlier in this story",
-        "slug": "rep-nancy-mace-fails-to-advance-in-gop-primary-for-south-carolina-governor",
-        "title": "Evette and Wilson move to governor race runoff",
-        "url": "/briefs/rep-nancy-mace-fails-to-advance-in-gop-primary-for-south-carolina-governor/"
+        "buttonLabel": "Read update",
+        "kind": "latest-development",
+        "label": "Latest development",
+        "slug": "in-south-carolina-sen-darline-graham-advances-to-a-gop-special-primary-runoff-fo",
+        "title": "Graham Enters South Carolina Senate Runoff",
+        "url": "/live/?slug=in-south-carolina-sen-darline-graham-advances-to-a-gop-special-primary-runoff-fo"
       },
       "relatedBriefSlugs": [
         "rep-nancy-mace-fails-to-advance-in-gop-primary-for-south-carolina-governor",
@@ -7945,7 +8159,7 @@
       "storylineNext": {
         "slug": "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa",
         "title": "Trump Clemency Ends Proud Boys Case",
-        "url": "/live/?slug=judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa"
+        "url": "/briefs/judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa/"
       },
       "storylineTitle": "U.S. Elections",
       "summary": "A U.S. Senate vacancy moves through the Seventeenth Amendment, state law, an interim appointment or special election, and the Senate’s seating process. The key constraint is that states set the replacement rules.",
@@ -8466,163 +8680,6 @@
       "summary": "U.S. forces struck Iranian military targets; Iran answered with attacks on U.S. bases in Gulf states, escalating a standoff over the Strait of Hormuz and the shipping route it controls.",
       "title": "U.S. and Iran Trade Strikes, Deepening the Strait of Hormuz Standoff",
       "verificationNote": "Cross-checked across 2 sources"
-    },
-    {
-      "category": "U.S. & Politics",
-      "contentType": "brief",
-      "generatedAt": "2026-07-12T11:13:51.375Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What happened",
-            "panel": 1
-          },
-          {
-            "label": "Why it matters",
-            "panel": 5
-          },
-          {
-            "label": "Where it stands",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa.webp",
-      "claims": [
-        {
-          "claim": "A federal judge rules the remaining Proud Boys convictions cannot stand after Trump's clemency erased every federal Jan. 6 prosecution.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The case began with seditious-conspiracy convictions over a plot to attack the Capitol and block the presidential transfer of power.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Trump used pardon powers last year to erase cases brought against people prosecuted over the Jan. 6 attack.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "U.S. District Judge Timothy Kelly saw no basis to preserve convictions after the Justice Department abandoned the case.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Kelly called the Capitol riot a perilous assault on the constitutional requirement for peaceful presidential transfers.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Kelly said dismissal did not endorse the Justice Department's choice; the order closes the landmark prosecution.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "A federal judge rules the remaining Proud Boys convictions cannot stand after Trump's clemency erased every federal Jan. 6 prosecution.",
-        "The case began with seditious-conspiracy convictions over a plot to attack the Capitol and block the presidential transfer of power.",
-        "Trump used pardon powers last year to erase cases brought against people prosecuted over the Jan. 6 attack.",
-        "U.S. District Judge Timothy Kelly saw no basis to preserve convictions after the Justice Department abandoned the case.",
-        "Kelly called the Capitol riot a perilous assault on the constitutional requirement for peaceful presidential transfers.",
-        "Kelly said dismissal did not endorse the Justice Department's choice; the order closes the landmark prosecution."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          33.278,
-          50.448
-        ],
-        [
-          35.016,
-          0,
-          31.466,
-          50.448
-        ],
-        [
-          66.722,
-          0,
-          33.278,
-          50.448
-        ],
-        [
-          0,
-          51.798,
-          33.278,
-          48.202
-        ],
-        [
-          35.016,
-          51.798,
-          31.466,
-          48.202
-        ],
-        [
-          66.722,
-          51.798,
-          33.278,
-          48.202
-        ]
-      ],
-      "primaryGuide": null,
-      "readerNext": {
-        "buttonLabel": "Storyline",
-        "kind": "storyline",
-        "label": "Storyline",
-        "slug": "governing-crisis",
-        "title": "U.S. Elections",
-        "url": "/storylines/governing-crisis/"
-      },
-      "relatedBriefSlugs": [],
-      "shortTitle": "Trump Clemency Ends Proud Boys Case",
-      "slug": "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa",
-      "sourceCount": 2,
-      "sources": [
-        {
-          "name": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/politics/judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trumps-broad-clemency"
-        },
-        {
-          "name": "ABC News U.S.",
-          "url": "https://abcnews.com/US/wireStory/judge-tosses-remnants-proud-boys-seditious-conspiracy-case-134679502"
-        }
-      ],
-      "storylineKey": "governing-crisis",
-      "storylineNext": {
-        "slug": "grahams-death-opens-senate-seat-as-gop-guards-slim-majority",
-        "title": "Graham Dies, Opening Seat Before Close Senate Votes",
-        "url": "/briefs/grahams-death-opens-senate-seat-as-gop-guards-slim-majority/"
-      },
-      "storylineTitle": "U.S. Elections",
-      "summary": "A federal judge dismissed the remaining Proud Boys convictions after President Trump's clemency erased every federal Jan. 6 prosecution.",
-      "title": "Judge Ends Proud Boys Case After Trump Erases Jan. 6 Convictions",
-      "verificationNote": "Cross-checked across 2 sources"
     }
   ],
   "dailyPaper": {
@@ -8671,6 +8728,25 @@
   },
   "feeds": {
     "categories": {
+      "U.S. & Politics": [
+        "in-south-carolina-sen-darline-graham-advances-to-a-gop-special-primary-runoff-fo",
+        "trump-calls-off-attack-on-iran-subject-to-peace-deal-being-rapidly-reached",
+        "3-states-would-face-colorado-river-water-cuts-under-federal-plan",
+        "former-lt-gov-mandela-barnes-exits-race-for-wisconsin-governor",
+        "trump-says-he-may-pull-blanche-ag-nomination-temporarily",
+        "senate-panel-delays-vote-on-blanche-s-ag-nomination-as-key-republicans-voice-con",
+        "trump-threatens-iran-strikes-after-missiles-target-us-forces",
+        "watch-trump-calls-graham-beloved-friend-and-american-original-in-eulogy",
+        "trump-asks-supreme-court-to-allow-order-restricting-mail-voting",
+        "citing-common-sense-james-comey-s-team-urges-judge-to-toss-seashells-case",
+        "dnc-committee-sets-up-south-carolina-to-vote-first-in-democrats-2028-presidentia",
+        "israel-welcomes-trump-s-demand-for-diplomatic-ties-with-saudi-arabia",
+        "trump-attends-dignified-transfer-of-4-service-members-killed-in-iran-attacks",
+        "trump-administration-signs-commercial-nuclear-deal-with-saudi-arabia",
+        "house-votes-for-permanent-daylight-saving-time",
+        "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
+        "justice-kagan-calls-for-additional-supreme-court-security-funding"
+      ],
       "Guide": [
         "how-aerial-firefighting-drops-work",
         "how-wildfire-containment-lines-work",
@@ -8692,25 +8768,6 @@
         "eastern-washington-fires-have-burned-600-structures-and-forced-the-evacuation-of",
         "spain-and-france-wildfires-force-more-than-300-000-to-flee-as-macron-calls-crisi",
         "the-politics-of-new-york-s-data-center-construction-pause"
-      ],
-      "U.S. & Politics": [
-        "trump-calls-off-attack-on-iran-subject-to-peace-deal-being-rapidly-reached",
-        "3-states-would-face-colorado-river-water-cuts-under-federal-plan",
-        "former-lt-gov-mandela-barnes-exits-race-for-wisconsin-governor",
-        "trump-says-he-may-pull-blanche-ag-nomination-temporarily",
-        "senate-panel-delays-vote-on-blanche-s-ag-nomination-as-key-republicans-voice-con",
-        "trump-threatens-iran-strikes-after-missiles-target-us-forces",
-        "watch-trump-calls-graham-beloved-friend-and-american-original-in-eulogy",
-        "trump-asks-supreme-court-to-allow-order-restricting-mail-voting",
-        "citing-common-sense-james-comey-s-team-urges-judge-to-toss-seashells-case",
-        "dnc-committee-sets-up-south-carolina-to-vote-first-in-democrats-2028-presidentia",
-        "israel-welcomes-trump-s-demand-for-diplomatic-ties-with-saudi-arabia",
-        "trump-attends-dignified-transfer-of-4-service-members-killed-in-iran-attacks",
-        "trump-administration-signs-commercial-nuclear-deal-with-saudi-arabia",
-        "house-votes-for-permanent-daylight-saving-time",
-        "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
-        "justice-kagan-calls-for-additional-supreme-court-security-funding",
-        "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa"
       ],
       "World": [
         "questions-grow-about-gaza-s-future-after-trump-announces-deal-to-disarm-hamas",
@@ -8750,6 +8807,19 @@
       "how-ev-battery-recycling-works"
     ],
     "storylines": {
+      "governing-crisis": [
+        "in-south-carolina-sen-darline-graham-advances-to-a-gop-special-primary-runoff-fo",
+        "how-colorado-river-water-cuts-work",
+        "former-lt-gov-mandela-barnes-exits-race-for-wisconsin-governor",
+        "trump-says-he-may-pull-blanche-ag-nomination-temporarily",
+        "how-senate-confirmations-work",
+        "senate-panel-delays-vote-on-blanche-s-ag-nomination-as-key-republicans-voice-con",
+        "how-mail-ballots-are-processed",
+        "trump-asks-supreme-court-to-allow-order-restricting-mail-voting",
+        "dnc-committee-sets-up-south-carolina-to-vote-first-in-democrats-2028-presidentia",
+        "how-war-powers-votes-work",
+        "how-us-senate-vacancies-are-filled"
+      ],
       "war-security-order": [
         "trump-calls-off-attack-on-iran-subject-to-peace-deal-being-rapidly-reached",
         "trump-threatens-iran-strikes-after-missiles-target-us-forces",
@@ -8760,19 +8830,6 @@
         "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
         "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
         "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f"
-      ],
-      "governing-crisis": [
-        "how-colorado-river-water-cuts-work",
-        "former-lt-gov-mandela-barnes-exits-race-for-wisconsin-governor",
-        "trump-says-he-may-pull-blanche-ag-nomination-temporarily",
-        "how-senate-confirmations-work",
-        "senate-panel-delays-vote-on-blanche-s-ag-nomination-as-key-republicans-voice-con",
-        "how-mail-ballots-are-processed",
-        "trump-asks-supreme-court-to-allow-order-restricting-mail-voting",
-        "dnc-committee-sets-up-south-carolina-to-vote-first-in-democrats-2028-presidentia",
-        "how-war-powers-votes-work",
-        "how-us-senate-vacancies-are-filled",
-        "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa"
       ],
       "new-energy-system": [
         "how-civil-nuclear-cooperation-deals-work",
