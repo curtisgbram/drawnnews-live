@@ -1,8 +1,173 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-08-12T01:38:07.424Z",
+  "updatedAt": "2026-08-15T16:19:11.604Z",
   "rolling24HourCount": 1,
   "comics": [
+    {
+      "category": "Guide",
+      "contentType": "guide",
+      "generatedAt": "2026-08-15T16:18:20.313Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What it explains",
+            "panel": 1
+          },
+          {
+            "label": "How it works",
+            "panel": 2
+          },
+          {
+            "label": "Where it gets hard",
+            "panel": 5
+          }
+        ]
+      },
+      "imagePath": "/live/media/how-broadcast-ownership-caps-work.webp",
+      "claims": [
+        {
+          "claim": "When station groups merge, FCC review moves the deal through rules affecting local TV markets.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The calculation maps stations, ownership interests, and household reach before the cap threshold.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "UHF-discount rules route some station reach through a lower-weight path before review.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Public-interest review checks localism, competition, and viewpoint diversity at the agency gate.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Failed review redirects the deal toward divestitures, conditions, waivers, delays, possible rejection.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The watch path runs through merger filings, court challenges, Congress, and new FCC orders.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "When station groups merge, FCC review moves the deal through rules affecting local TV markets.",
+        "The calculation maps stations, ownership interests, and household reach before the cap threshold.",
+        "UHF-discount rules route some station reach through a lower-weight path before review.",
+        "Public-interest review checks localism, competition, and viewpoint diversity at the agency gate.",
+        "Failed review redirects the deal toward divestitures, conditions, waivers, delays, possible rejection.",
+        "The watch path runs through merger filings, court challenges, Congress, and new FCC orders."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.278,
+          47.225
+        ],
+        [
+          33.518,
+          0,
+          33.028,
+          47.225
+        ],
+        [
+          66.787,
+          0,
+          33.213,
+          47.225
+        ],
+        [
+          0,
+          49.748,
+          33.278,
+          50.252
+        ],
+        [
+          33.518,
+          49.748,
+          33.028,
+          50.252
+        ],
+        [
+          66.787,
+          49.748,
+          33.213,
+          50.252
+        ]
+      ],
+      "primaryGuide": null,
+      "relatedBriefSlugs": [],
+      "shortTitle": "Broadcast Caps, Explained",
+      "slug": "how-broadcast-ownership-caps-work",
+      "sourceCount": 4,
+      "sources": [
+        {
+          "name": "Federal Communications Commission: Broadcast Ownership Cap Order",
+          "url": "https://docs.fcc.gov/public/attachments/DOC-424076A1.pdf"
+        },
+        {
+          "name": "eCFR API: 47 CFR Section 73.3555",
+          "url": "https://www.ecfr.gov/api/search/v1/results?query=73.3555&per_page=5"
+        },
+        {
+          "name": "Federal Register API: National Broadcast Television Ownership Rules",
+          "url": "https://www.federalregister.gov/api/v1/documents/E7-6162.json"
+        },
+        {
+          "name": "Federal Communications Commission: Record Refresh Public Notice",
+          "url": "https://docs.fcc.gov/public/attachments/DA-25-530A1.pdf"
+        }
+      ],
+      "storylineKey": "",
+      "storylineNext": null,
+      "storylineTitle": "",
+      "summary": "Broadcast ownership caps turn station mergers into a household-reach calculation. FCC reviewers count station markets, ownership interests, and UHF-discount treatment, then decide whether the public-interest record supports approval, conditions, divestitures, waivers, delay, or rejection.",
+      "title": "How Broadcast Ownership Caps Work",
+      "verificationNote": "Checked against 4 primary sources"
+    },
     {
       "category": "U.S. & Politics",
       "contentType": "brief",
@@ -7638,7 +7803,7 @@
       "storylineNext": {
         "slug": "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
         "title": "U.S.-Iran Strikes Deepen Hormuz Standoff",
-        "url": "/live/?slug=us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f"
+        "url": "/briefs/us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f/"
       },
       "storylineTitle": "The War and Security Order",
       "summary": "President Trump reversed a planned 20% toll on cargo ships using the Strait of Hormuz as tanker traffic slowed amid U.S.-Iran fighting. The shift leaves shipping companies and officials watching whether transit through the waterway resumes safely.",
@@ -8519,167 +8684,6 @@
       "summary": "An electric-vehicle battery moves from collection and safety handling through diagnosis, reuse or disassembly, material recovery, and refining. Economics, chemistry, transport rules, and design for disassembly determine whether its critical materials return to the supply chain.",
       "title": "How EV Battery Recycling Works",
       "verificationNote": "Cross-checked across 2 sources"
-    },
-    {
-      "category": "World",
-      "contentType": "brief",
-      "generatedAt": "2026-07-13T15:09:12.251Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What happened",
-            "panel": 1
-          },
-          {
-            "label": "Why it matters",
-            "panel": 5
-          },
-          {
-            "label": "What to watch",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f.webp",
-      "claims": [
-        {
-          "claim": "U.S. forces and Iran traded missile and drone strikes around the Strait of Hormuz, a vital shipping route.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Iran says ships cannot pass the strait, where the narrow sea lane links Gulf oil ports to world markets.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The U.S. said it hit Iranian air defenses, coastal radar, missiles, drones and small boats used near the waterway.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Explosions were reported near Qeshm Island and Bandar Abbas, Iran's port city on the strait's northern shore.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Iran answered with attacks on U.S. military bases in several Gulf states, widening the conflict beyond Iranian territory.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The immediate test is whether the standoff disrupts ships through Hormuz or collapses the interim peace agreement.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "U.S. forces and Iran traded missile and drone strikes around the Strait of Hormuz, a vital shipping route.",
-        "Iran says ships cannot pass the strait, where the narrow sea lane links Gulf oil ports to world markets.",
-        "The U.S. said it hit Iranian air defenses, coastal radar, missiles, drones and small boats used near the waterway.",
-        "Explosions were reported near Qeshm Island and Bandar Abbas, Iran's port city on the strait's northern shore.",
-        "Iran answered with attacks on U.S. military bases in several Gulf states, widening the conflict beyond Iranian territory.",
-        "The immediate test is whether the standoff disrupts ships through Hormuz or collapses the interim peace agreement."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          33.278,
-          50.545
-        ],
-        [
-          33.518,
-          0,
-          33.093,
-          50.545
-        ],
-        [
-          66.852,
-          0,
-          33.148,
-          50.545
-        ],
-        [
-          0,
-          51.798,
-          33.278,
-          48.202
-        ],
-        [
-          33.518,
-          51.798,
-          33.093,
-          48.202
-        ],
-        [
-          66.852,
-          51.798,
-          33.148,
-          48.202
-        ]
-      ],
-      "primaryGuide": null,
-      "readerNext": {
-        "buttonLabel": "Earlier brief",
-        "kind": "earlier-brief",
-        "label": "Earlier in this story",
-        "slug": "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
-        "title": "U.S. and Iran Trade Strikes, Raising Hormuz Shipping Risk",
-        "url": "/briefs/u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over/"
-      },
-      "relatedBriefSlugs": [
-        "u-s-iran-trade-more-strikes-after-trump-says-ceasefire-is-over",
-        "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
-        "us-and-iran-exchange-back-and-forth-strikes-for-second-day"
-      ],
-      "shortTitle": "U.S.-Iran Strikes Deepen Hormuz Standoff",
-      "slug": "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
-      "sourceCount": 2,
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/jul/13/us-iran-war-missile-strikes-news-attacks-strait-of-hormuz"
-        },
-        {
-          "name": "CNBC World News",
-          "url": "https://www.cnbc.com/2026/07/13/us-iran-war-hormuz-oil-trump.html"
-        }
-      ],
-      "storylineKey": "war-security-order",
-      "storylineNext": {
-        "slug": "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
-        "title": "U.S. Strikes Iran After Ship Attack Threatens Hormuz Shipping",
-        "url": "/briefs/u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz/"
-      },
-      "storylineTitle": "The War and Security Order",
-      "summary": "U.S. forces struck Iranian military targets; Iran answered with attacks on U.S. bases in Gulf states, escalating a standoff over the Strait of Hormuz and the shipping route it controls.",
-      "title": "U.S. and Iran Trade Strikes, Deepening the Strait of Hormuz Standoff",
-      "verificationNote": "Cross-checked across 2 sources"
     }
   ],
   "dailyPaper": {
@@ -8728,6 +8732,24 @@
   },
   "feeds": {
     "categories": {
+      "Guide": [
+        "how-broadcast-ownership-caps-work",
+        "how-aerial-firefighting-drops-work",
+        "how-wildfire-containment-lines-work",
+        "how-spacecraft-orbit-boosts-work",
+        "how-colorado-river-water-cuts-work",
+        "how-dignified-transfers-work",
+        "how-senate-confirmations-work",
+        "how-structural-collapse-rescue-works",
+        "how-mail-ballots-are-processed",
+        "how-wildfire-evacuations-work",
+        "how-war-powers-votes-work",
+        "how-civil-nuclear-cooperation-deals-work",
+        "how-pay-transparency-laws-work",
+        "how-buy-now-pay-later-loans-work",
+        "how-us-senate-vacancies-are-filled",
+        "how-ev-battery-recycling-works"
+      ],
       "U.S. & Politics": [
         "in-south-carolina-sen-darline-graham-advances-to-a-gop-special-primary-runoff-fo",
         "trump-calls-off-attack-on-iran-subject-to-peace-deal-being-rapidly-reached",
@@ -8747,23 +8769,6 @@
         "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
         "justice-kagan-calls-for-additional-supreme-court-security-funding"
       ],
-      "Guide": [
-        "how-aerial-firefighting-drops-work",
-        "how-wildfire-containment-lines-work",
-        "how-spacecraft-orbit-boosts-work",
-        "how-colorado-river-water-cuts-work",
-        "how-dignified-transfers-work",
-        "how-senate-confirmations-work",
-        "how-structural-collapse-rescue-works",
-        "how-mail-ballots-are-processed",
-        "how-wildfire-evacuations-work",
-        "how-war-powers-votes-work",
-        "how-civil-nuclear-cooperation-deals-work",
-        "how-pay-transparency-laws-work",
-        "how-buy-now-pay-later-loans-work",
-        "how-us-senate-vacancies-are-filled",
-        "how-ev-battery-recycling-works"
-      ],
       "Tech & Science": [
         "eastern-washington-fires-have-burned-600-structures-and-forced-the-evacuation-of",
         "spain-and-france-wildfires-force-more-than-300-000-to-flee-as-macron-calls-crisi",
@@ -8778,8 +8783,7 @@
         "trump-warns-iran-after-tanker-attacks-raise-oil-risk",
         "defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
         "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
-        "inflation-slowed-during-pause-in-war-with-iran",
-        "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f"
+        "inflation-slowed-during-pause-in-war-with-iran"
       ],
       "Money": [
         "us-imposing-25-tariff-on-some-brazilian-imports-citing-unfair-trade-practices",
@@ -8790,6 +8794,7 @@
       ]
     },
     "guides": [
+      "how-broadcast-ownership-caps-work",
       "how-aerial-firefighting-drops-work",
       "how-wildfire-containment-lines-work",
       "how-spacecraft-orbit-boosts-work",
@@ -8828,8 +8833,7 @@
         "israel-welcomes-trump-s-demand-for-diplomatic-ties-with-saudi-arabia",
         "defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
         "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
-        "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
-        "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f"
+        "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz"
       ],
       "new-energy-system": [
         "how-civil-nuclear-cooperation-deals-work",
