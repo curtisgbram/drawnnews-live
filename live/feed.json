@@ -1,8 +1,163 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-08-16T14:17:07.021Z",
+  "updatedAt": "2026-08-16T16:41:08.618Z",
   "rolling24HourCount": 2,
   "comics": [
+    {
+      "category": "Guide",
+      "contentType": "guide",
+      "generatedAt": "2026-08-16T16:40:16.672Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What it explains",
+            "panel": 1
+          },
+          {
+            "label": "How it works",
+            "panel": 2
+          },
+          {
+            "label": "Where it gets hard",
+            "panel": 3
+          }
+        ]
+      },
+      "imagePath": "/live/media/how-earthquake-triggered-landslides-work.webp",
+      "claims": [
+        {
+          "claim": "Indonesia quake turns steep wet slopes into landslide risk for residents, roads, rescue crews.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "A slope fails when shaking and rain push soil past its strength threshold.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Hazard teams map the data path: shaking intensity, slope angle, soil, water, exposed roads.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Slides can cut roads, bury homes, block rivers and build unstable landslide dams.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Liquefaction routes saturated ground into a flow when shaking lowers soil strength.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Aftershocks, rainfall, satellite scars, blocked valleys, road closures and alerts become watch signals.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Indonesia quake turns steep wet slopes into landslide risk for residents, roads, rescue crews.",
+        "A slope fails when shaking and rain push soil past its strength threshold.",
+        "Hazard teams map the data path: shaking intensity, slope angle, soil, water, exposed roads.",
+        "Slides can cut roads, bury homes, block rivers and build unstable landslide dams.",
+        "Liquefaction routes saturated ground into a flow when shaking lowers soil strength.",
+        "Aftershocks, rainfall, satellite scars, blocked valleys, road closures and alerts become watch signals."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.148,
+          50.448
+        ],
+        [
+          33.388,
+          0,
+          33.158,
+          50.448
+        ],
+        [
+          66.787,
+          0,
+          33.213,
+          50.448
+        ],
+        [
+          0,
+          51.798,
+          33.148,
+          48.202
+        ],
+        [
+          33.388,
+          51.798,
+          33.158,
+          48.202
+        ],
+        [
+          66.787,
+          51.798,
+          33.213,
+          48.202
+        ]
+      ],
+      "primaryGuide": null,
+      "relatedBriefSlugs": [],
+      "shortTitle": "Earthquake Landslides",
+      "slug": "how-earthquake-triggered-landslides-work",
+      "sourceCount": 3,
+      "sources": [
+        {
+          "name": "USGS Publications: Earthquake-Induced Landslide Hazard Modeling",
+          "url": "https://pubs.usgs.gov/publication/70035100"
+        },
+        {
+          "name": "USGS Open-File Report: Probabilistic Seismic Landslide Mapping",
+          "url": "https://pubs.usgs.gov/of/1998/ofr-98-113/ofr98-113.html"
+        },
+        {
+          "name": "USGS Earthquake Hazards Program: Ground Failure ShakeMap",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rjhm/ground-failure/about"
+        }
+      ],
+      "storylineKey": "",
+      "storylineNext": null,
+      "storylineTitle": "",
+      "summary": "Earthquake-triggered landslides turn shaking, steep slopes, fractured rock, saturated soil, roads, rivers and aftershocks into a ground-failure hazard that can cut off communities after the shaking stops.",
+      "title": "How Earthquake-Triggered Landslides Work",
+      "verificationNote": "Cross-checked across 3 sources"
+    },
     {
       "category": "World",
       "contentType": "brief",
@@ -8501,211 +8656,6 @@
       "summary": "A U.S. Senate vacancy moves through the Seventeenth Amendment, state law, an interim appointment or special election, and the Senate’s seating process. The key constraint is that states set the replacement rules.",
       "title": "How U.S. Senate Vacancies Are Filled",
       "verificationNote": "Checked against 3 official sources"
-    },
-    {
-      "category": "Money",
-      "contentType": "brief",
-      "generatedAt": "2026-07-13T23:27:45.385Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What happened",
-            "panel": 1
-          },
-          {
-            "label": "Why it matters",
-            "panel": 5
-          },
-          {
-            "label": "What to watch",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/paramount-and-warner-bros-sued-to-block-110bn-mega-merger.webp",
-      "claims": [
-        {
-          "claim": "Twelve states sued to block Paramount's $110bn Warner Bros. purchase, saying the merged studio could raise prices for U.S. audiences.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The suit targets a deal that would combine Paramount and Warner Bros. into one of the nation's largest media companies.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "States say the merger could curb competition and push up cable packages, movie tickets, and other costs for consumers.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "California-led attorneys general asked a court to stop the transaction before it closes under federal antitrust law.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The combined company would control more than a quarter of major film releases, raising questions for creative workers and streaming households.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Paramount calls the lawsuit flawed; the court fight now tests whether states can block the $110bn deal.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "Twelve states sued to block Paramount's $110bn Warner Bros. purchase, saying the merged studio could raise prices for U.S. audiences.",
-        "The suit targets a deal that would combine Paramount and Warner Bros. into one of the nation's largest media companies.",
-        "States say the merger could curb competition and push up cable packages, movie tickets, and other costs for consumers.",
-        "California-led attorneys general asked a court to stop the transaction before it closes under federal antitrust law.",
-        "The combined company would control more than a quarter of major film releases, raising questions for creative workers and streaming households.",
-        "Paramount calls the lawsuit flawed; the court fight now tests whether states can block the $110bn deal."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          32.888,
-          49.862
-        ],
-        [
-          33.779,
-          0,
-          32.507,
-          49.862
-        ],
-        [
-          66.526,
-          0,
-          33.474,
-          49.862
-        ],
-        [
-          0,
-          50.138,
-          32.888,
-          49.862
-        ],
-        [
-          33.779,
-          50.138,
-          32.507,
-          49.862
-        ],
-        [
-          66.526,
-          50.138,
-          33.474,
-          49.862
-        ]
-      ],
-      "primaryGuide": null,
-      "readerNext": {
-        "buttonLabel": "Earlier brief",
-        "kind": "earlier-brief",
-        "label": "Earlier in this story",
-        "slug": "doj-approves-paramount-skydance-s-acquisition-of-warner-bros-discovery",
-        "title": "DOJ approves Paramount Skydance’s acquisition",
-        "url": "/briefs/doj-approves-paramount-skydance-s-acquisition-of-warner-bros-discovery/"
-      },
-      "relatedBriefSlugs": [
-        "doj-approves-paramount-skydance-s-acquisition-of-warner-bros-discovery"
-      ],
-      "shortTitle": "Twelve states sue to block Paramount's $110bn Warner Bros. merger",
-      "slug": "paramount-and-warner-bros-sued-to-block-110bn-mega-merger",
-      "sourceCount": 7,
-      "sources": [
-        {
-          "name": "BBC Business",
-          "url": "https://www.bbc.co.uk/news/articles/cgev34lvgp4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "CBS News Latest",
-          "url": "https://www.cbsnews.com/news/states-sue-to-block-paramount-warner-bros-discovery-merger"
-        },
-        {
-          "name": "NBC News",
-          "url": "https://www.nbcnews.com/now/video/12-states-file-lawsuit-to-block-110-billion-paramount-warner-bros-merger-266596933524"
-        },
-        {
-          "name": "CNBC Top News",
-          "url": "https://www.cnbc.com/2026/07/13/paramount-wbd-merger-lawsuit.html"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/policy/964916/paramount-warner-bros-discovery-states-lawsuit"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/13/12-states-sue-to-block-paramounts-110b-warner-bros-deal"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/7/13/twelve-us-states-sue-paramount-to-block-warner-bros-merger?traffic_source=rss"
-        }
-      ],
-      "storylineKey": "",
-      "storylineNext": null,
-      "storylineTitle": "",
-      "summary": "A dozen US states are taking legal action to halt the largest media consolidation in Hollywood history.",
-      "title": "Twelve states sue to block Paramount's $110bn Warner Bros. merger",
-      "verificationNote": "Cross-checked across 7 sources"
     }
   ],
   "dailyPaper": {
@@ -8754,19 +8704,8 @@
   },
   "feeds": {
     "categories": {
-      "World": [
-        "ukraine-launches-one-of-its-largest-aerial-attacks-of-the-war-killing-at-least-6",
-        "questions-grow-about-gaza-s-future-after-trump-announces-deal-to-disarm-hamas",
-        "tens-of-thousands-of-migrants-enter-spanish-territory-then-return-to-morocco",
-        "after-large-earthquake-japan-races-against-time-to-reach-people-trapped",
-        "watch-hundreds-of-thousands-forced-to-evacuate-in-europe-from-raging-wildfires",
-        "cockroaches-won-india-s-education-minister-resigns-amid-massive-youth-protests",
-        "trump-warns-iran-after-tanker-attacks-raise-oil-risk",
-        "defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
-        "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
-        "inflation-slowed-during-pause-in-war-with-iran"
-      ],
       "Guide": [
+        "how-earthquake-triggered-landslides-work",
         "how-broadcast-ownership-caps-work",
         "how-aerial-firefighting-drops-work",
         "how-wildfire-containment-lines-work",
@@ -8782,6 +8721,18 @@
         "how-pay-transparency-laws-work",
         "how-buy-now-pay-later-loans-work",
         "how-us-senate-vacancies-are-filled"
+      ],
+      "World": [
+        "ukraine-launches-one-of-its-largest-aerial-attacks-of-the-war-killing-at-least-6",
+        "questions-grow-about-gaza-s-future-after-trump-announces-deal-to-disarm-hamas",
+        "tens-of-thousands-of-migrants-enter-spanish-territory-then-return-to-morocco",
+        "after-large-earthquake-japan-races-against-time-to-reach-people-trapped",
+        "watch-hundreds-of-thousands-forced-to-evacuate-in-europe-from-raging-wildfires",
+        "cockroaches-won-india-s-education-minister-resigns-amid-massive-youth-protests",
+        "trump-warns-iran-after-tanker-attacks-raise-oil-risk",
+        "defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
+        "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
+        "inflation-slowed-during-pause-in-war-with-iran"
       ],
       "U.S. & Politics": [
         "in-south-carolina-sen-darline-graham-advances-to-a-gop-special-primary-runoff-fo",
@@ -8808,14 +8759,14 @@
         "the-politics-of-new-york-s-data-center-construction-pause"
       ],
       "Money": [
-        "us-imposing-25-tariff-on-some-brazilian-imports-citing-unfair-trade-practices",
-        "paramount-and-warner-bros-sued-to-block-110bn-mega-merger"
+        "us-imposing-25-tariff-on-some-brazilian-imports-citing-unfair-trade-practices"
       ],
       "Sports & Culture": [
         "world-cup-favorites-france-unravel-as-spain-book-s"
       ]
     },
     "guides": [
+      "how-earthquake-triggered-landslides-work",
       "how-broadcast-ownership-caps-work",
       "how-aerial-firefighting-drops-work",
       "how-wildfire-containment-lines-work",
