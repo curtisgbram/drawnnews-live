@@ -1,8 +1,179 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-08-15T16:19:11.604Z",
-  "rolling24HourCount": 1,
+  "updatedAt": "2026-08-16T14:17:07.021Z",
+  "rolling24HourCount": 2,
   "comics": [
+    {
+      "category": "World",
+      "contentType": "brief",
+      "generatedAt": "2026-08-16T14:16:15.278Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What happened",
+            "panel": 1
+          },
+          {
+            "label": "Why it matters",
+            "panel": 5
+          },
+          {
+            "label": "What to watch",
+            "panel": 6
+          }
+        ]
+      },
+      "imagePath": "/live/media/ukraine-launches-one-of-its-largest-aerial-attacks-of-the-war-killing-at-least-6.webp",
+      "claims": [
+        {
+          "claim": "Ukraine launches hundreds of drones into Russia, testing air defense capacity near Moscow and in Rostov.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Russian officials said 600 drones approached Moscow, and 201 were downed nearby.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "A warehouse near Moscow burned after the strike, turning a logistics hub into evidence.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Rostov officials reported five deaths, damaged homes, a rail station and a forest fire.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Ukraine said it hit a Rostov missile fuel plant tied to Russian weapons production.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Air defense capacity becomes the test as long range strikes reach deeper behind front lines.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Ukraine launches hundreds of drones into Russia, testing air defense capacity near Moscow and in Rostov.",
+        "Russian officials said 600 drones approached Moscow, and 201 were downed nearby.",
+        "A warehouse near Moscow burned after the strike, turning a logistics hub into evidence.",
+        "Rostov officials reported five deaths, damaged homes, a rail station and a forest fire.",
+        "Ukraine said it hit a Rostov missile fuel plant tied to Russian weapons production.",
+        "Air defense capacity becomes the test as long range strikes reach deeper behind front lines."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.409,
+          47.225
+        ],
+        [
+          33.649,
+          0,
+          32.898,
+          47.225
+        ],
+        [
+          66.787,
+          0,
+          33.213,
+          47.225
+        ],
+        [
+          0,
+          49.65,
+          33.409,
+          50.35
+        ],
+        [
+          33.649,
+          49.65,
+          32.898,
+          50.35
+        ],
+        [
+          66.787,
+          49.65,
+          33.213,
+          50.35
+        ]
+      ],
+      "primaryGuide": {
+        "slug": "how-aerial-firefighting-drops-work",
+        "title": "How Aerial Firefighting Drops Work",
+        "url": "/live/?slug=how-aerial-firefighting-drops-work"
+      },
+      "readerNext": {
+        "buttonLabel": "Guide",
+        "kind": "background-guide",
+        "label": "Background guide",
+        "slug": "how-aerial-firefighting-drops-work",
+        "title": "How Aerial Firefighting Drops Work",
+        "url": "/live/?slug=how-aerial-firefighting-drops-work"
+      },
+      "relatedBriefSlugs": [],
+      "shortTitle": "Ukraine Drone Wave Tests Russian Air Defenses",
+      "slug": "ukraine-launches-one-of-its-largest-aerial-attacks-of-the-war-killing-at-least-6",
+      "sourceCount": 3,
+      "sources": [
+        {
+          "name": "CBS News Latest",
+          "url": "https://www.cbsnews.com/news/ukraine-moscow-russia-drone-attack-largest-wildberries"
+        },
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/ukraine-launches-one-of-its-largest-attacks-of-war/a-78386779?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20260816-live-moscow-targeted-by-600-drones-overnight-explosions-heard-in-kyiv"
+        }
+      ],
+      "storylineKey": "war-security-order",
+      "storylineNext": {
+        "slug": "trump-calls-off-attack-on-iran-subject-to-peace-deal-being-rapidly-reached",
+        "title": "Trump cancels Iran strike plan",
+        "url": "/live/?slug=trump-calls-off-attack-on-iran-subject-to-peace-deal-being-rapidly-reached"
+      },
+      "storylineTitle": "The War and Security Order",
+      "summary": "Ukraine drones hit Russia, killing at least six and striking logistics and missile fuel infrastructure.",
+      "title": "Ukraine Drone Wave Hits Russia, Killing Six and Stretching Air Defenses",
+      "verificationNote": "Checked across 3 sources"
+    },
     {
       "category": "Guide",
       "contentType": "guide",
@@ -5762,7 +5933,7 @@
       "storylineNext": {
         "slug": "how-ev-battery-recycling-works",
         "title": "EV Battery Recycling, Explained",
-        "url": "/live/?slug=how-ev-battery-recycling-works"
+        "url": "/briefs/how-ev-battery-recycling-works/"
       },
       "storylineTitle": "The New Energy System",
       "summary": "Civil nuclear cooperation deals let countries share reactor technology only after legal terms, safeguards, export licensing, congressional review, and fuel-cycle limits line up.",
@@ -8535,155 +8706,6 @@
       "summary": "A dozen US states are taking legal action to halt the largest media consolidation in Hollywood history.",
       "title": "Twelve states sue to block Paramount's $110bn Warner Bros. merger",
       "verificationNote": "Cross-checked across 7 sources"
-    },
-    {
-      "category": "Guide",
-      "contentType": "guide",
-      "generatedAt": "2026-07-13T16:11:47.419Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What it explains",
-            "panel": 1
-          },
-          {
-            "label": "How it works",
-            "panel": 2
-          },
-          {
-            "label": "Where it gets hard",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/how-ev-battery-recycling-works.webp",
-      "claims": [
-        {
-          "claim": "Workers move a retired EV battery through a safety gate at a recycling facility, where fire risk and critical materials are at stake.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Workers isolate, discharge, and inspect the pack because transport rules and stored energy make damaged cells hazardous.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Testing makes the first sorting decision: operators route a healthy pack to stationary storage or a degraded pack to disassembly.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "A cutaway shows technicians opening modules and shredding cells into metal, plastic, and black-mass recovery streams.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The recovery flow uses heat, chemical leaching, or direct cathode recycling, trading energy, cost, and material yield.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Commercial recovery can stall when mixed chemistries, safe transport, and low material prices outweigh the value of recovered metals.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "Workers move a retired EV battery through a safety gate at a recycling facility, where fire risk and critical materials are at stake.",
-        "Workers isolate, discharge, and inspect the pack because transport rules and stored energy make damaged cells hazardous.",
-        "Testing makes the first sorting decision: operators route a healthy pack to stationary storage or a degraded pack to disassembly.",
-        "A cutaway shows technicians opening modules and shredding cells into metal, plastic, and black-mass recovery streams.",
-        "The recovery flow uses heat, chemical leaching, or direct cathode recycling, trading energy, cost, and material yield.",
-        "Commercial recovery can stall when mixed chemistries, safe transport, and low material prices outweigh the value of recovered metals."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          33.278,
-          50.448
-        ],
-        [
-          35.016,
-          0,
-          30.099,
-          50.448
-        ],
-        [
-          66.787,
-          0,
-          33.213,
-          50.448
-        ],
-        [
-          0,
-          51.798,
-          33.278,
-          48.202
-        ],
-        [
-          35.016,
-          51.798,
-          30.099,
-          48.202
-        ],
-        [
-          66.787,
-          51.798,
-          33.213,
-          48.202
-        ]
-      ],
-      "primaryGuide": null,
-      "relatedBriefSlugs": [],
-      "shortTitle": "EV Battery Recycling, Explained",
-      "slug": "how-ev-battery-recycling-works",
-      "sourceCount": 2,
-      "sources": [
-        {
-          "name": "U.S. Environmental Protection Agency",
-          "url": "https://www.epa.gov/recycle/used-lithium-ion-batteries"
-        },
-        {
-          "name": "U.S. Department of Energy Alternative Fuels Data Center",
-          "url": "https://afdc.energy.gov/vehicles/electric-batteries"
-        }
-      ],
-      "storylineKey": "new-energy-system",
-      "storylineNext": {
-        "slug": "how-power-grids-fail",
-        "title": "Power Grid Failure Mechanics",
-        "url": "/briefs/how-power-grids-fail/"
-      },
-      "storylineTitle": "The New Energy System",
-      "summary": "An electric-vehicle battery moves from collection and safety handling through diagnosis, reuse or disassembly, material recovery, and refining. Economics, chemistry, transport rules, and design for disassembly determine whether its critical materials return to the supply chain.",
-      "title": "How EV Battery Recycling Works",
-      "verificationNote": "Cross-checked across 2 sources"
     }
   ],
   "dailyPaper": {
@@ -8732,6 +8754,18 @@
   },
   "feeds": {
     "categories": {
+      "World": [
+        "ukraine-launches-one-of-its-largest-aerial-attacks-of-the-war-killing-at-least-6",
+        "questions-grow-about-gaza-s-future-after-trump-announces-deal-to-disarm-hamas",
+        "tens-of-thousands-of-migrants-enter-spanish-territory-then-return-to-morocco",
+        "after-large-earthquake-japan-races-against-time-to-reach-people-trapped",
+        "watch-hundreds-of-thousands-forced-to-evacuate-in-europe-from-raging-wildfires",
+        "cockroaches-won-india-s-education-minister-resigns-amid-massive-youth-protests",
+        "trump-warns-iran-after-tanker-attacks-raise-oil-risk",
+        "defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
+        "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
+        "inflation-slowed-during-pause-in-war-with-iran"
+      ],
       "Guide": [
         "how-broadcast-ownership-caps-work",
         "how-aerial-firefighting-drops-work",
@@ -8747,8 +8781,7 @@
         "how-civil-nuclear-cooperation-deals-work",
         "how-pay-transparency-laws-work",
         "how-buy-now-pay-later-loans-work",
-        "how-us-senate-vacancies-are-filled",
-        "how-ev-battery-recycling-works"
+        "how-us-senate-vacancies-are-filled"
       ],
       "U.S. & Politics": [
         "in-south-carolina-sen-darline-graham-advances-to-a-gop-special-primary-runoff-fo",
@@ -8774,17 +8807,6 @@
         "spain-and-france-wildfires-force-more-than-300-000-to-flee-as-macron-calls-crisi",
         "the-politics-of-new-york-s-data-center-construction-pause"
       ],
-      "World": [
-        "questions-grow-about-gaza-s-future-after-trump-announces-deal-to-disarm-hamas",
-        "tens-of-thousands-of-migrants-enter-spanish-territory-then-return-to-morocco",
-        "after-large-earthquake-japan-races-against-time-to-reach-people-trapped",
-        "watch-hundreds-of-thousands-forced-to-evacuate-in-europe-from-raging-wildfires",
-        "cockroaches-won-india-s-education-minister-resigns-amid-massive-youth-protests",
-        "trump-warns-iran-after-tanker-attacks-raise-oil-risk",
-        "defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
-        "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
-        "inflation-slowed-during-pause-in-war-with-iran"
-      ],
       "Money": [
         "us-imposing-25-tariff-on-some-brazilian-imports-citing-unfair-trade-practices",
         "paramount-and-warner-bros-sued-to-block-110bn-mega-merger"
@@ -8808,10 +8830,20 @@
       "how-civil-nuclear-cooperation-deals-work",
       "how-pay-transparency-laws-work",
       "how-buy-now-pay-later-loans-work",
-      "how-us-senate-vacancies-are-filled",
-      "how-ev-battery-recycling-works"
+      "how-us-senate-vacancies-are-filled"
     ],
     "storylines": {
+      "war-security-order": [
+        "ukraine-launches-one-of-its-largest-aerial-attacks-of-the-war-killing-at-least-6",
+        "trump-calls-off-attack-on-iran-subject-to-peace-deal-being-rapidly-reached",
+        "trump-threatens-iran-strikes-after-missiles-target-us-forces",
+        "watch-trump-calls-graham-beloved-friend-and-american-original-in-eulogy",
+        "trump-warns-iran-after-tanker-attacks-raise-oil-risk",
+        "israel-welcomes-trump-s-demand-for-diplomatic-ties-with-saudi-arabia",
+        "defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
+        "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
+        "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz"
+      ],
       "governing-crisis": [
         "in-south-carolina-sen-darline-graham-advances-to-a-gop-special-primary-runoff-fo",
         "how-colorado-river-water-cuts-work",
@@ -8825,19 +8857,8 @@
         "how-war-powers-votes-work",
         "how-us-senate-vacancies-are-filled"
       ],
-      "war-security-order": [
-        "trump-calls-off-attack-on-iran-subject-to-peace-deal-being-rapidly-reached",
-        "trump-threatens-iran-strikes-after-missiles-target-us-forces",
-        "watch-trump-calls-graham-beloved-friend-and-american-original-in-eulogy",
-        "trump-warns-iran-after-tanker-attacks-raise-oil-risk",
-        "israel-welcomes-trump-s-demand-for-diplomatic-ties-with-saudi-arabia",
-        "defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
-        "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
-        "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz"
-      ],
       "new-energy-system": [
-        "how-civil-nuclear-cooperation-deals-work",
-        "how-ev-battery-recycling-works"
+        "how-civil-nuclear-cooperation-deals-work"
       ],
       "ai-buildout": [
         "the-politics-of-new-york-s-data-center-construction-pause"
