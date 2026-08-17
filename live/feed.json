@@ -1,8 +1,205 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-08-16T16:41:08.618Z",
-  "rolling24HourCount": 2,
+  "updatedAt": "2026-08-17T01:39:04.371Z",
+  "rolling24HourCount": 3,
   "comics": [
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-08-17T01:38:12.893Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What happened",
+            "panel": 1
+          },
+          {
+            "label": "Why it matters",
+            "panel": 4
+          },
+          {
+            "label": "What to watch",
+            "panel": 6
+          }
+        ]
+      },
+      "imagePath": "/live/media/jared-kushner-meets-with-hamas-ahead-of-talks-with-netanyahu-on-gaza.webp",
+      "claims": [
+        {
+          "claim": "U.S. envoy Jared Kushner met Hamas over a Gaza plan affecting 2 million residents.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The plan links Hamas disarmament, Israeli withdrawal and civilian rule.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Egypt, Qatar and Turkey joined the more than two-hour meeting.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "About 2 million Gaza residents need aid and reconstruction pathways reopened.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Hamas urged mediators and the U.S.-created board to press Israel.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Next, Netanyahu decides whether the road map advances or remains stalled.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "U.S. envoy Jared Kushner met Hamas over a Gaza plan affecting 2 million residents.",
+        "The plan links Hamas disarmament, Israeli withdrawal and civilian rule.",
+        "Egypt, Qatar and Turkey joined the more than two-hour meeting.",
+        "About 2 million Gaza residents need aid and reconstruction pathways reopened.",
+        "Hamas urged mediators and the U.S.-created board to press Israel.",
+        "Next, Netanyahu decides whether the road map advances or remains stalled."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.213,
+          50.35
+        ],
+        [
+          33.453,
+          0,
+          33.028,
+          50.35
+        ],
+        [
+          66.722,
+          0,
+          33.278,
+          50.35
+        ],
+        [
+          0,
+          49.65,
+          33.213,
+          50.35
+        ],
+        [
+          33.453,
+          49.65,
+          33.028,
+          50.35
+        ],
+        [
+          66.722,
+          49.65,
+          33.278,
+          50.35
+        ]
+      ],
+      "primaryGuide": null,
+      "readerNext": {
+        "buttonLabel": "Storyline",
+        "kind": "storyline",
+        "label": "Storyline",
+        "slug": "war-security-order",
+        "title": "The War and Security Order",
+        "url": "/storylines/war-security-order/"
+      },
+      "relatedBriefSlugs": [],
+      "shortTitle": "Kushner Tests Gaza Plan for Residents",
+      "slug": "jared-kushner-meets-with-hamas-ahead-of-talks-with-netanyahu-on-gaza",
+      "sourceCount": 6,
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/world/kushner-has-rare-meeting-with-hamas-leader-on-gaza-road-map-a-meeting-with-netanyahu-is-next"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/aug/16/jared-kushner-hamas-gaza-meeting"
+        },
+        {
+          "name": "Axios",
+          "url": "https://www.axios.com/2026/08/16/kushner-hamas-gaza-disarmament-egypt-israel"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20260816-hamas-begins-crucial-talks-with-egypt-on-trump-s-gaza-peace-plan"
+        }
+      ],
+      "storylineKey": "war-security-order",
+      "storylineNext": {
+        "slug": "ukraine-launches-one-of-its-largest-aerial-attacks-of-the-war-killing-at-least-6",
+        "title": "Ukraine Drone Wave Tests Russian Air Defenses",
+        "url": "/live/?slug=ukraine-launches-one-of-its-largest-aerial-attacks-of-the-war-killing-at-least-6"
+      },
+      "storylineTitle": "The War and Security Order",
+      "summary": "Jared Kushner held Egypt talks with Hamas leader Khalil al-Hayya before a planned Netanyahu meeting, testing a U.S.-backed Gaza road map over disarmament, withdrawal, reconstruction and civilian governance.",
+      "title": "Kushner tests Gaza plan affecting 2 million residents in Hamas talks",
+      "verificationNote": "Cross-checked across 6 sources"
+    },
     {
       "category": "Guide",
       "contentType": "guide",
@@ -8497,165 +8694,6 @@
       "summary": "Supreme Court Justice Elena Kagan delivered her opening statement at a hearing over the court's budget, which includes an increase in security funding as the justices have faced growing threats in recent years.",
       "title": "Kagan Seeks $14.6M to Bolster Court Security",
       "verificationNote": "Cross-checked across 7 sources"
-    },
-    {
-      "category": "Guide",
-      "contentType": "guide",
-      "generatedAt": "2026-07-14T00:12:37.437Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What it explains",
-            "panel": 1
-          },
-          {
-            "label": "How it works",
-            "panel": 2
-          },
-          {
-            "label": "Where it gets hard",
-            "panel": 4
-          }
-        ]
-      },
-      "imagePath": "/live/media/how-us-senate-vacancies-are-filled.webp",
-      "claims": [
-        {
-          "claim": "When a senator leaves office, a state must protect voters’ representation by starting a vacancy process under constitutional and state rules.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The Seventeenth Amendment routes the vacancy to state law, which sets the operators, appointment authority, and election path.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "State lawmakers may authorize a governor to appoint an interim senator or schedule a special election under the vacancy rule.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The timeline is the bottleneck: statutory deadlines determine an interim term, ballot preparation, and when voters choose.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "A replacement brings state credentials to the Senate, where an oath and seating complete the handoff of representation.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Watch the vacancy statute and election calendar: they reveal the next legal threshold, deadline, and voter decision.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "When a senator leaves office, a state must protect voters’ representation by starting a vacancy process under constitutional and state rules.",
-        "The Seventeenth Amendment routes the vacancy to state law, which sets the operators, appointment authority, and election path.",
-        "State lawmakers may authorize a governor to appoint an interim senator or schedule a special election under the vacancy rule.",
-        "The timeline is the bottleneck: statutory deadlines determine an interim term, ballot preparation, and when voters choose.",
-        "A replacement brings state credentials to the Senate, where an oath and seating complete the handoff of representation.",
-        "Watch the vacancy statute and election calendar: they reveal the next legal threshold, deadline, and voter decision."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          35.948,
-          50.448
-        ],
-        [
-          38.141,
-          0,
-          26.974,
-          50.448
-        ],
-        [
-          66.787,
-          0,
-          33.213,
-          50.448
-        ],
-        [
-          0,
-          51.798,
-          35.948,
-          48.202
-        ],
-        [
-          38.141,
-          51.798,
-          26.974,
-          48.202
-        ],
-        [
-          66.787,
-          51.798,
-          33.213,
-          48.202
-        ]
-      ],
-      "primaryGuide": null,
-      "relatedBriefSlugs": [],
-      "shortTitle": "Filling a Senate Vacancy",
-      "slug": "how-us-senate-vacancies-are-filled",
-      "sourceCount": 3,
-      "sources": [
-        {
-          "name": "U.S. Senate: Seventeenth Amendment",
-          "url": "https://www.senate.gov/about/origins-foundations/senate-and-constitution/seventeenth-amendment.htm"
-        },
-        {
-          "name": "U.S. Senate: Appointed Senators",
-          "url": "https://www.senate.gov/senators/AppointedSenators.htm"
-        },
-        {
-          "name": "South Carolina Code Section 7-19-20",
-          "url": "https://www.scstatehouse.gov/code/t07c019.php"
-        }
-      ],
-      "storylineKey": "governing-crisis",
-      "storylineNext": {
-        "slug": "judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa",
-        "title": "Trump Clemency Ends Proud Boys Case",
-        "url": "/briefs/judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trump-s-broa/"
-      },
-      "storylineTitle": "U.S. Elections",
-      "summary": "A U.S. Senate vacancy moves through the Seventeenth Amendment, state law, an interim appointment or special election, and the Senate’s seating process. The key constraint is that states set the replacement rules.",
-      "title": "How U.S. Senate Vacancies Are Filled",
-      "verificationNote": "Checked against 3 official sources"
     }
   ],
   "dailyPaper": {
@@ -8704,37 +8742,8 @@
   },
   "feeds": {
     "categories": {
-      "Guide": [
-        "how-earthquake-triggered-landslides-work",
-        "how-broadcast-ownership-caps-work",
-        "how-aerial-firefighting-drops-work",
-        "how-wildfire-containment-lines-work",
-        "how-spacecraft-orbit-boosts-work",
-        "how-colorado-river-water-cuts-work",
-        "how-dignified-transfers-work",
-        "how-senate-confirmations-work",
-        "how-structural-collapse-rescue-works",
-        "how-mail-ballots-are-processed",
-        "how-wildfire-evacuations-work",
-        "how-war-powers-votes-work",
-        "how-civil-nuclear-cooperation-deals-work",
-        "how-pay-transparency-laws-work",
-        "how-buy-now-pay-later-loans-work",
-        "how-us-senate-vacancies-are-filled"
-      ],
-      "World": [
-        "ukraine-launches-one-of-its-largest-aerial-attacks-of-the-war-killing-at-least-6",
-        "questions-grow-about-gaza-s-future-after-trump-announces-deal-to-disarm-hamas",
-        "tens-of-thousands-of-migrants-enter-spanish-territory-then-return-to-morocco",
-        "after-large-earthquake-japan-races-against-time-to-reach-people-trapped",
-        "watch-hundreds-of-thousands-forced-to-evacuate-in-europe-from-raging-wildfires",
-        "cockroaches-won-india-s-education-minister-resigns-amid-massive-youth-protests",
-        "trump-warns-iran-after-tanker-attacks-raise-oil-risk",
-        "defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
-        "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
-        "inflation-slowed-during-pause-in-war-with-iran"
-      ],
       "U.S. & Politics": [
+        "jared-kushner-meets-with-hamas-ahead-of-talks-with-netanyahu-on-gaza",
         "in-south-carolina-sen-darline-graham-advances-to-a-gop-special-primary-runoff-fo",
         "trump-calls-off-attack-on-iran-subject-to-peace-deal-being-rapidly-reached",
         "3-states-would-face-colorado-river-water-cuts-under-federal-plan",
@@ -8752,6 +8761,35 @@
         "house-votes-for-permanent-daylight-saving-time",
         "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
         "justice-kagan-calls-for-additional-supreme-court-security-funding"
+      ],
+      "Guide": [
+        "how-earthquake-triggered-landslides-work",
+        "how-broadcast-ownership-caps-work",
+        "how-aerial-firefighting-drops-work",
+        "how-wildfire-containment-lines-work",
+        "how-spacecraft-orbit-boosts-work",
+        "how-colorado-river-water-cuts-work",
+        "how-dignified-transfers-work",
+        "how-senate-confirmations-work",
+        "how-structural-collapse-rescue-works",
+        "how-mail-ballots-are-processed",
+        "how-wildfire-evacuations-work",
+        "how-war-powers-votes-work",
+        "how-civil-nuclear-cooperation-deals-work",
+        "how-pay-transparency-laws-work",
+        "how-buy-now-pay-later-loans-work"
+      ],
+      "World": [
+        "ukraine-launches-one-of-its-largest-aerial-attacks-of-the-war-killing-at-least-6",
+        "questions-grow-about-gaza-s-future-after-trump-announces-deal-to-disarm-hamas",
+        "tens-of-thousands-of-migrants-enter-spanish-territory-then-return-to-morocco",
+        "after-large-earthquake-japan-races-against-time-to-reach-people-trapped",
+        "watch-hundreds-of-thousands-forced-to-evacuate-in-europe-from-raging-wildfires",
+        "cockroaches-won-india-s-education-minister-resigns-amid-massive-youth-protests",
+        "trump-warns-iran-after-tanker-attacks-raise-oil-risk",
+        "defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
+        "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
+        "inflation-slowed-during-pause-in-war-with-iran"
       ],
       "Tech & Science": [
         "eastern-washington-fires-have-burned-600-structures-and-forced-the-evacuation-of",
@@ -8780,11 +8818,11 @@
       "how-war-powers-votes-work",
       "how-civil-nuclear-cooperation-deals-work",
       "how-pay-transparency-laws-work",
-      "how-buy-now-pay-later-loans-work",
-      "how-us-senate-vacancies-are-filled"
+      "how-buy-now-pay-later-loans-work"
     ],
     "storylines": {
       "war-security-order": [
+        "jared-kushner-meets-with-hamas-ahead-of-talks-with-netanyahu-on-gaza",
         "ukraine-launches-one-of-its-largest-aerial-attacks-of-the-war-killing-at-least-6",
         "trump-calls-off-attack-on-iran-subject-to-peace-deal-being-rapidly-reached",
         "trump-threatens-iran-strikes-after-missiles-target-us-forces",
@@ -8805,8 +8843,7 @@
         "how-mail-ballots-are-processed",
         "trump-asks-supreme-court-to-allow-order-restricting-mail-voting",
         "dnc-committee-sets-up-south-carolina-to-vote-first-in-democrats-2028-presidentia",
-        "how-war-powers-votes-work",
-        "how-us-senate-vacancies-are-filled"
+        "how-war-powers-votes-work"
       ],
       "new-energy-system": [
         "how-civil-nuclear-cooperation-deals-work"
