@@ -1,8 +1,195 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-08-17T13:22:55.031Z",
-  "rolling24HourCount": 4,
+  "updatedAt": "2026-08-17T19:09:18.136Z",
+  "rolling24HourCount": 3,
   "comics": [
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-08-17T19:08:26.316Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What happened",
+            "panel": 1
+          },
+          {
+            "label": "Why it matters",
+            "panel": 4
+          },
+          {
+            "label": "Where it stands",
+            "panel": 6
+          }
+        ]
+      },
+      "imagePath": "/live/media/muddy-cleanup-ahead-as-tropical-storm-lala-moves-west-of-hawaii.webp",
+      "claims": [
+        {
+          "claim": "Lala forces Hawaii residents into flood cleanup after damaging homes and public roads nearby.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The storm weakened Sunday after grazing the island chain without making landfall.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Laupahoehoe recorded 43.54 inches, turning hillsides and roads into mud channels.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Floodwater swept Big Island homes from foundations, leaving crews to clear debris.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Coastal warnings lifted Monday, but dangerous surf and rip currents still threatened beaches.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Forecasters sent Lala west, away from land, with hurricane strength possible Wednesday.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Lala forces Hawaii residents into flood cleanup after damaging homes and public roads nearby.",
+        "The storm weakened Sunday after grazing the island chain without making landfall.",
+        "Laupahoehoe recorded 43.54 inches, turning hillsides and roads into mud channels.",
+        "Floodwater swept Big Island homes from foundations, leaving crews to clear debris.",
+        "Coastal warnings lifted Monday, but dangerous surf and rip currents still threatened beaches.",
+        "Forecasters sent Lala west, away from land, with hurricane strength possible Wednesday."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.278,
+          50.35
+        ],
+        [
+          33.518,
+          0,
+          31.466,
+          50.35
+        ],
+        [
+          66.787,
+          0,
+          33.213,
+          50.35
+        ],
+        [
+          0,
+          53.459,
+          33.278,
+          46.541
+        ],
+        [
+          33.518,
+          53.459,
+          31.466,
+          46.541
+        ],
+        [
+          66.787,
+          53.459,
+          33.213,
+          46.541
+        ]
+      ],
+      "primaryGuide": {
+        "slug": "how-storm-warnings-work",
+        "title": "How Storm Warnings Work",
+        "url": "/briefs/how-storm-warnings-work/"
+      },
+      "readerNext": {
+        "buttonLabel": "Guide",
+        "kind": "background-guide",
+        "label": "Background guide",
+        "slug": "how-storm-warnings-work",
+        "title": "How Storm Warnings Work",
+        "url": "/briefs/how-storm-warnings-work/"
+      },
+      "relatedBriefSlugs": [],
+      "shortTitle": "Lala flooding forces Hawaii cleanup around 100 homes",
+      "slug": "muddy-cleanup-ahead-as-tropical-storm-lala-moves-west-of-hawaii",
+      "sourceCount": 5,
+      "sources": [
+        {
+          "name": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/nation/cleanup-begins-in-hawaii-after-intense-rain-and-flooding-from-hurricane-lala"
+        },
+        {
+          "name": "The Guardian US",
+          "url": "https://www.theguardian.com/us-news/2026/aug/17/storm-lala-hawaii-damage"
+        },
+        {
+          "name": "ABC News U.S.",
+          "url": "https://abcnews.com/US/wireStory/muddy-cleanup-ahead-tropical-storm-lala-moves-west-135713443"
+        },
+        {
+          "name": "CBS News U.S.",
+          "url": "https://www.cbsnews.com/video/aerial-video-shows-extensive-damage-after-hurricane-lala-slammed-hawaii"
+        },
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/17/us/hurricane-lala-hawaii-damage.html"
+        }
+      ],
+      "storylineKey": "",
+      "storylineNext": null,
+      "storylineTitle": "",
+      "summary": "Lala flooding pushed Hawaii into cleanup after bridges were damaged, about 100 homes were swept from foundations, and surf hazards remained.",
+      "title": "Lala Flooding Forces Hawaii Cleanup Around 100 Homes",
+      "verificationNote": "Cross-checked across 5 sources"
+    },
     {
       "category": "U.S. & Politics",
       "contentType": "brief",
@@ -8549,173 +8736,6 @@
       "summary": "President Trump reversed a planned 20% toll on cargo ships using the Strait of Hormuz as tanker traffic slowed amid U.S.-Iran fighting. The shift leaves shipping companies and officials watching whether transit through the waterway resumes safely.",
       "title": "Trump Changes Hormuz Toll Plan, With Tankers Stalled",
       "verificationNote": "Cross-checked across 7 sources"
-    },
-    {
-      "category": "World",
-      "contentType": "brief",
-      "generatedAt": "2026-07-14T18:08:01.966Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What happened",
-            "panel": 1
-          },
-          {
-            "label": "Why it matters",
-            "panel": 5
-          },
-          {
-            "label": "What to watch",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/inflation-slowed-during-pause-in-war-with-iran.webp",
-      "claims": [
-        {
-          "claim": "In June, lower U.S. energy prices cut CPI by 0.4%, briefly easing household fuel costs.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Energy prices fell 5.7%; oil dropped 9.7% and gasoline 9.5%, pulling down the headline index.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "That brought annual CPI inflation to 3.5%, below economists' 3.8% forecast and May's 4.2% reading.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Core inflation, excluding food and energy, was flat for the month and 2.6% higher than a year earlier.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Gas averaged $3.85 a gallon, down from $4.07 a month earlier, a direct household-facing part of the decline.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The relief may prove temporary: fighting hit commercial tankers, and average gasoline prices rose from $3.79 last week.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "In June, lower U.S. energy prices cut CPI by 0.4%, briefly easing household fuel costs.",
-        "Energy prices fell 5.7%; oil dropped 9.7% and gasoline 9.5%, pulling down the headline index.",
-        "That brought annual CPI inflation to 3.5%, below economists' 3.8% forecast and May's 4.2% reading.",
-        "Core inflation, excluding food and energy, was flat for the month and 2.6% higher than a year earlier.",
-        "Gas averaged $3.85 a gallon, down from $4.07 a month earlier, a direct household-facing part of the decline.",
-        "The relief may prove temporary: fighting hit commercial tankers, and average gasoline prices rose from $3.79 last week."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          33.213,
-          50.448
-        ],
-        [
-          33.453,
-          0,
-          33.093,
-          50.448
-        ],
-        [
-          66.787,
-          0,
-          33.213,
-          50.448
-        ],
-        [
-          0,
-          51.798,
-          33.213,
-          48.202
-        ],
-        [
-          33.453,
-          51.798,
-          33.093,
-          48.202
-        ],
-        [
-          66.787,
-          51.798,
-          33.213,
-          48.202
-        ]
-      ],
-      "primaryGuide": {
-        "slug": "how-inflation-reports-work",
-        "title": "How Inflation Reports Work",
-        "url": "/briefs/how-inflation-reports-work/"
-      },
-      "readerNext": {
-        "buttonLabel": "Guide",
-        "kind": "background-guide",
-        "label": "Background guide",
-        "slug": "how-inflation-reports-work",
-        "title": "How Inflation Reports Work",
-        "url": "/briefs/how-inflation-reports-work/"
-      },
-      "relatedBriefSlugs": [],
-      "shortTitle": "U.S. Energy Price Drop Pulled CPI Inflation to 3.5%",
-      "slug": "inflation-slowed-during-pause-in-war-with-iran",
-      "sourceCount": 3,
-      "sources": [
-        {
-          "name": "CNBC Top News",
-          "url": "https://www.cnbc.com/2026/07/14/consumer-price-index-inflation-report-june-2026.html"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/7/14/us-consumer-prices-drop-in-june-as-energy-costs-tumble?traffic_source=rss"
-        },
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/14/business/economy/inflation-cpi.html"
-        }
-      ],
-      "storylineKey": "",
-      "storylineNext": null,
-      "storylineTitle": "",
-      "summary": "The Consumer Price Index fell to a 3.5 percent annual increase in June, and prices marked their biggest drop from a month earlier since 2020.",
-      "title": "U.S. Energy Price Drop Pulled CPI Inflation to 3.5%",
-      "verificationNote": "Cross-checked across 3 sources"
     }
   ],
   "dailyPaper": {
@@ -8765,6 +8785,7 @@
   "feeds": {
     "categories": {
       "U.S. & Politics": [
+        "muddy-cleanup-ahead-as-tropical-storm-lala-moves-west-of-hawaii",
         "trump-orders-pentagon-to-substantially-reduce-military-exercises-with-south-kore",
         "jared-kushner-meets-with-hamas-ahead-of-talks-with-netanyahu-on-gaza",
         "in-south-carolina-sen-darline-graham-advances-to-a-gop-special-primary-runoff-fo",
@@ -8810,8 +8831,7 @@
         "cockroaches-won-india-s-education-minister-resigns-amid-massive-youth-protests",
         "trump-warns-iran-after-tanker-attacks-raise-oil-risk",
         "defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
-        "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
-        "inflation-slowed-during-pause-in-war-with-iran"
+        "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade"
       ],
       "Tech & Science": [
         "eastern-washington-fires-have-burned-600-structures-and-forced-the-evacuation-of",
