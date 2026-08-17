@@ -1,8 +1,225 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-08-17T01:39:04.371Z",
-  "rolling24HourCount": 3,
+  "updatedAt": "2026-08-17T13:22:55.031Z",
+  "rolling24HourCount": 4,
   "comics": [
+    {
+      "category": "U.S. & Politics",
+      "contentType": "brief",
+      "generatedAt": "2026-08-17T13:22:02.872Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What happened",
+            "panel": 1
+          },
+          {
+            "label": "Why it matters",
+            "panel": 5
+          },
+          {
+            "label": "What to watch",
+            "panel": 6
+          }
+        ]
+      },
+      "imagePath": "/live/media/trump-orders-pentagon-to-substantially-reduce-military-exercises-with-south-kore.webp",
+      "claims": [
+        {
+          "claim": "Trump orders U.S.-South Korea military drill cuts as 18,000 troops face North Korea security threats.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The 11-day exercises involved 18,000 South Korean troops training for North Korea contingencies.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Trump said the drills were costly and sent a hostile signal to Pyongyang.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "North Korea had warned of stern steps, calling the drills a rehearsal for war.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The order followed South Korea declining to join U.S. pressure over Iran denuclearization.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Commanders now must preserve readiness while reducing exercises already too late to cancel.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Trump orders U.S.-South Korea military drill cuts as 18,000 troops face North Korea security threats.",
+        "The 11-day exercises involved 18,000 South Korean troops training for North Korea contingencies.",
+        "Trump said the drills were costly and sent a hostile signal to Pyongyang.",
+        "North Korea had warned of stern steps, calling the drills a rehearsal for war.",
+        "The order followed South Korea declining to join U.S. pressure over Iran denuclearization.",
+        "Commanders now must preserve readiness while reducing exercises already too late to cancel."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.344,
+          50.35
+        ],
+        [
+          33.584,
+          0,
+          32.833,
+          50.35
+        ],
+        [
+          66.656,
+          0,
+          33.344,
+          50.35
+        ],
+        [
+          0,
+          53.361,
+          33.344,
+          46.639
+        ],
+        [
+          33.584,
+          53.361,
+          32.833,
+          46.639
+        ],
+        [
+          66.656,
+          53.361,
+          33.344,
+          46.639
+        ]
+      ],
+      "primaryGuide": null,
+      "readerNext": {
+        "buttonLabel": "Storyline",
+        "kind": "storyline",
+        "label": "Storyline",
+        "slug": "war-security-order",
+        "title": "The War and Security Order",
+        "url": "/storylines/war-security-order/"
+      },
+      "relatedBriefSlugs": [],
+      "shortTitle": "Trump cuts Korea drills",
+      "slug": "trump-orders-pentagon-to-substantially-reduce-military-exercises-with-south-kore",
+      "sourceCount": 8,
+      "sources": [
+        {
+          "name": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/politics/trump-orders-pentagon-to-scale-back-joint-exercises-with-south-korea"
+        },
+        {
+          "name": "ABC News Top Stories",
+          "url": "https://abcnews.com/US/wireStory/trump-orders-pentagon-scale-back-joint-exercises-south-135694217"
+        },
+        {
+          "name": "CBS News Latest",
+          "url": "https://www.cbsnews.com/news/trump-scale-back-south-korea-military-exercises"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/politics/trump-administration/trump-orders-military-substantially-reduce-joint-exercises-south-korea-rcna592832"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-orders-us-to-scale-back-south-korea-military-drills?traffic_source=rss"
+        },
+        {
+          "name": "Deutsche Welle",
+          "url": "https://www.dw.com/en/trump-says-us-south-korea-military-drills-to-be-scaled-back/a-78390592?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20260817-trump-orders-pentagon-to-cut-back-military-drills-with-seoul-hours-before-start"
+        },
+        {
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/17/world/asia/trump-korea-military-kim-jong-un.html"
+        }
+      ],
+      "storylineKey": "war-security-order",
+      "storylineNext": {
+        "slug": "jared-kushner-meets-with-hamas-ahead-of-talks-with-netanyahu-on-gaza",
+        "title": "Kushner Tests Gaza Plan for Residents",
+        "url": "/live/?slug=jared-kushner-meets-with-hamas-ahead-of-talks-with-netanyahu-on-gaza"
+      },
+      "storylineTitle": "The War and Security Order",
+      "summary": "Trump ordered the Pentagon to reduce U.S.-South Korea military exercises scheduled to begin this week, citing cost and concern that the drills send a hostile signal to North Korea.",
+      "title": "Trump cuts South Korea drills as North Korea readiness test begins",
+      "verificationNote": "Cross-checked across 8 sources"
+    },
     {
       "category": "U.S. & Politics",
       "contentType": "brief",
@@ -8499,201 +8716,6 @@
       "summary": "The Consumer Price Index fell to a 3.5 percent annual increase in June, and prices marked their biggest drop from a month earlier since 2020.",
       "title": "U.S. Energy Price Drop Pulled CPI Inflation to 3.5%",
       "verificationNote": "Cross-checked across 3 sources"
-    },
-    {
-      "category": "U.S. & Politics",
-      "contentType": "brief",
-      "generatedAt": "2026-07-14T17:07:50.798Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What happened",
-            "panel": 1
-          },
-          {
-            "label": "Why it matters",
-            "panel": 5
-          },
-          {
-            "label": "What to watch",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/justice-kagan-calls-for-additional-supreme-court-security-funding.webp",
-      "claims": [
-        {
-          "claim": "Supreme Court Justice Elena Kagan asks Congress for $14.6 million to expand security as threats against justices rise.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Kagan and Barrett made a rare appearance before a House panel to defend the court's budget request.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The court seeks more than $228 million, an increase of over $20 million from its current budget.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Each justice now has four to eight security officers, with larger details during specific threats or public events.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Recent budget growth has gone largely to security, including protection at justices' homes.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Congress must decide the next fiscal year's funding before it begins October 1.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "Supreme Court Justice Elena Kagan asks Congress for $14.6 million to expand security as threats against justices rise.",
-        "Kagan and Barrett made a rare appearance before a House panel to defend the court's budget request.",
-        "The court seeks more than $228 million, an increase of over $20 million from its current budget.",
-        "Each justice now has four to eight security officers, with larger details during specific threats or public events.",
-        "Recent budget growth has gone largely to security, including protection at justices' homes.",
-        "Congress must decide the next fiscal year's funding before it begins October 1."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          33.278,
-          50.35
-        ],
-        [
-          33.518,
-          0,
-          32.963,
-          50.35
-        ],
-        [
-          66.722,
-          0,
-          33.278,
-          50.35
-        ],
-        [
-          0,
-          51.798,
-          33.278,
-          48.202
-        ],
-        [
-          33.518,
-          51.798,
-          32.963,
-          48.202
-        ],
-        [
-          66.722,
-          51.798,
-          33.278,
-          48.202
-        ]
-      ],
-      "primaryGuide": null,
-      "relatedBriefSlugs": [],
-      "shortTitle": "Kagan Seeks $14.6M for Court Security",
-      "slug": "justice-kagan-calls-for-additional-supreme-court-security-funding",
-      "sourceCount": 7,
-      "sources": [
-        {
-          "name": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/politics/watch-live-justices-kagan-and-coney-barrett-testify-on-supreme-court-budget-in-house-hearing"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/jul/14/supreme-court-justices-security-budget"
-        },
-        {
-          "name": "ABC News U.S.",
-          "url": "https://abcnews.com/US/wireStory/supreme-court-justices-testify-congress-increasing-security-funding-134735468"
-        },
-        {
-          "name": "CBS News Latest",
-          "url": "https://www.cbsnews.com/news/supreme-court-justices-amy-coney-barrett-elena-kagan-congress-security-funding-threats"
-        },
-        {
-          "name": "NBC News Politics",
-          "url": "https://www.nbcnews.com/video/justice-kagan-calls-for-additional-supreme-court-security-funding-266643013982"
-        },
-        {
-          "name": "CNBC Top News",
-          "url": "https://www.cnbc.com/2026/07/14/supreme-court-budget-congress-kagan-barrett.html"
-        },
-        {
-          "name": "The New York Times U.S.",
-          "url": "https://www.nytimes.com/2026/07/14/us/politics/kagan-house-testimony-supreme-court.html"
-        }
-      ],
-      "storylineKey": "",
-      "storylineNext": null,
-      "storylineTitle": "",
-      "summary": "Supreme Court Justice Elena Kagan delivered her opening statement at a hearing over the court's budget, which includes an increase in security funding as the justices have faced growing threats in recent years.",
-      "title": "Kagan Seeks $14.6M to Bolster Court Security",
-      "verificationNote": "Cross-checked across 7 sources"
     }
   ],
   "dailyPaper": {
@@ -8743,6 +8765,7 @@
   "feeds": {
     "categories": {
       "U.S. & Politics": [
+        "trump-orders-pentagon-to-substantially-reduce-military-exercises-with-south-kore",
         "jared-kushner-meets-with-hamas-ahead-of-talks-with-netanyahu-on-gaza",
         "in-south-carolina-sen-darline-graham-advances-to-a-gop-special-primary-runoff-fo",
         "trump-calls-off-attack-on-iran-subject-to-peace-deal-being-rapidly-reached",
@@ -8759,8 +8782,7 @@
         "trump-attends-dignified-transfer-of-4-service-members-killed-in-iran-attacks",
         "trump-administration-signs-commercial-nuclear-deal-with-saudi-arabia",
         "house-votes-for-permanent-daylight-saving-time",
-        "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
-        "justice-kagan-calls-for-additional-supreme-court-security-funding"
+        "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz"
       ],
       "Guide": [
         "how-earthquake-triggered-landslides-work",
@@ -8822,6 +8844,7 @@
     ],
     "storylines": {
       "war-security-order": [
+        "trump-orders-pentagon-to-substantially-reduce-military-exercises-with-south-kore",
         "jared-kushner-meets-with-hamas-ahead-of-talks-with-netanyahu-on-gaza",
         "ukraine-launches-one-of-its-largest-aerial-attacks-of-the-war-killing-at-least-6",
         "trump-calls-off-attack-on-iran-subject-to-peace-deal-being-rapidly-reached",
