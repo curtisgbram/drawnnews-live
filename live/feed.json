@@ -1,8 +1,185 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-08-17T19:09:18.136Z",
-  "rolling24HourCount": 3,
+  "updatedAt": "2026-08-20T19:55:39.688Z",
+  "rolling24HourCount": 1,
   "comics": [
+    {
+      "category": "Money",
+      "contentType": "brief",
+      "generatedAt": "2026-08-20T19:54:48.017Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What happened",
+            "panel": 1
+          },
+          {
+            "label": "Why it matters",
+            "panel": 5
+          },
+          {
+            "label": "What to watch",
+            "panel": 6
+          }
+        ]
+      },
+      "imagePath": "/live/media/bessent-says-u-s-likely-won-t-restart-large-scale-iran-combat-as-it-steps-up-eco.webp",
+      "claims": [
+        {
+          "claim": "Trump announced Iran penalties targeting trade lifelines after paused strikes moved focus to allies.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Bessent told CNBC sanctions could reduce the need for renewed large-scale U.S. combat.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The threat reaches banks, airports, businesses, and governments that provide Iran support.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "The shift follows paused strikes and reports of strained targets and munition stockpiles.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Allies and trading partners must choose compliance, resistance, or exposure to penalties.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Enforcement could isolate Tehran, or pull more trading partners into the confrontation.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "Trump announced Iran penalties targeting trade lifelines after paused strikes moved focus to allies.",
+        "Bessent told CNBC sanctions could reduce the need for renewed large-scale U.S. combat.",
+        "The threat reaches banks, airports, businesses, and governments that provide Iran support.",
+        "The shift follows paused strikes and reports of strained targets and munition stockpiles.",
+        "Allies and trading partners must choose compliance, resistance, or exposure to penalties.",
+        "Enforcement could isolate Tehran, or pull more trading partners into the confrontation."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          33.278,
+          50.448
+        ],
+        [
+          33.518,
+          0,
+          32.833,
+          50.448
+        ],
+        [
+          66.591,
+          0,
+          33.409,
+          50.448
+        ],
+        [
+          0,
+          51.798,
+          33.278,
+          48.202
+        ],
+        [
+          33.518,
+          51.798,
+          32.833,
+          48.202
+        ],
+        [
+          66.591,
+          51.798,
+          33.409,
+          48.202
+        ]
+      ],
+      "primaryGuide": null,
+      "readerNext": {
+        "buttonLabel": "Storyline",
+        "kind": "storyline",
+        "label": "Storyline",
+        "slug": "war-security-order",
+        "title": "The War and Security Order",
+        "url": "/storylines/war-security-order/"
+      },
+      "relatedBriefSlugs": [],
+      "shortTitle": "Trump threatens Iran trade lifelines",
+      "slug": "bessent-says-u-s-likely-won-t-restart-large-scale-iran-combat-as-it-steps-up-eco",
+      "sourceCount": 4,
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/aug/20/trump-threatens-crush-iran-economy-war-hormuz"
+        },
+        {
+          "name": "ABC News Top Stories",
+          "url": "https://abcnews.com/video/135800532"
+        },
+        {
+          "name": "NBC News Politics",
+          "url": "https://www.today.com/video/trump-issues-new-threat-against-iran-plans-to-meet-kim-jong-un-268575813875"
+        },
+        {
+          "name": "CNBC Top News",
+          "url": "https://www.cnbc.com/2026/08/20/bessent-economy-iran-war-trump.html"
+        }
+      ],
+      "storylineKey": "war-security-order",
+      "storylineNext": {
+        "slug": "trump-orders-pentagon-to-substantially-reduce-military-exercises-with-south-kore",
+        "title": "Trump cuts Korea drills",
+        "url": "/live/?slug=trump-orders-pentagon-to-substantially-reduce-military-exercises-with-south-kore"
+      },
+      "storylineTitle": "The War and Security Order",
+      "summary": "Trump announced economic penalties for countries and institutions that keep Iran connected to trade, while Bessent told CNBC sanctions could reduce the need for renewed large-scale combat.",
+      "title": "Trump threatens Iran trade lifelines as sanctions replace strikes",
+      "verificationNote": "Cross-checked across 4 sources"
+    },
     {
       "category": "U.S. & Politics",
       "contentType": "brief",
@@ -8123,7 +8300,7 @@
       "storylineNext": {
         "slug": "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
         "title": "Trump Changes Hormuz Toll Plan, With Tankers Stalled",
-        "url": "/live/?slug=trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz"
+        "url": "/briefs/trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz/"
       },
       "storylineTitle": "The War and Security Order",
       "summary": "Iran says it has closed the Strait of Hormuz after the United States reimposed a blockade, threatening a major route for Middle East oil and gas exports.",
@@ -8525,217 +8702,6 @@
       "summary": "Gov. Kathy Hochul paused permits for new hyperscale AI data centers for up to a year while New York sets rules on power, water and ratepayer impacts.",
       "title": "Hochul Pauses New AI Data Center Permits Over Grid Costs",
       "verificationNote": "Cross-checked across 6 sources"
-    },
-    {
-      "category": "U.S. & Politics",
-      "contentType": "brief",
-      "generatedAt": "2026-07-14T19:10:50.868Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What happened",
-            "panel": 1
-          },
-          {
-            "label": "Why it matters",
-            "panel": 2
-          },
-          {
-            "label": "What to watch",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz.webp",
-      "claims": [
-        {
-          "claim": "Trump changes a planned 20% Hormuz toll as tanker traffic stalls, raising risks for oil prices and cargo markets.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The change came before renewed American restrictions on Iranian ports, leaving crews and insurers to assess route security.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The Strait links the Persian Gulf to open seas, making it a vital passage for cargo and oil tankers.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Trump said trade and investment deals with Gulf states would replace the proposed charge on non-Iranian cargo ships.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Iran reported attacks in several cities; it said American facilities in Bahrain and Jordan came under attack.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Shipping companies now watch whether vessels resume transits as conflict and blockade threats persist.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "Trump changes a planned 20% Hormuz toll as tanker traffic stalls, raising risks for oil prices and cargo markets.",
-        "The change came before renewed American restrictions on Iranian ports, leaving crews and insurers to assess route security.",
-        "The Strait links the Persian Gulf to open seas, making it a vital passage for cargo and oil tankers.",
-        "Trump said trade and investment deals with Gulf states would replace the proposed charge on non-Iranian cargo ships.",
-        "Iran reported attacks in several cities; it said American facilities in Bahrain and Jordan came under attack.",
-        "Shipping companies now watch whether vessels resume transits as conflict and blockade threats persist."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          33.213,
-          50.35
-        ],
-        [
-          33.453,
-          0,
-          33.028,
-          50.35
-        ],
-        [
-          66.722,
-          0,
-          33.278,
-          50.35
-        ],
-        [
-          0,
-          51.798,
-          33.213,
-          48.202
-        ],
-        [
-          33.453,
-          51.798,
-          33.028,
-          48.202
-        ],
-        [
-          66.722,
-          51.798,
-          33.278,
-          48.202
-        ]
-      ],
-      "primaryGuide": null,
-      "readerNext": {
-        "buttonLabel": "Earlier brief",
-        "kind": "earlier-brief",
-        "label": "Earlier in this story",
-        "slug": "iran-s-strikes-on-ships-in-strait-of-hormuz-threaten-oil-flow",
-        "title": "Iran Tanker Attacks Draw U.S. Strikes",
-        "url": "/briefs/iran-s-strikes-on-ships-in-strait-of-hormuz-threaten-oil-flow/"
-      },
-      "relatedBriefSlugs": [
-        "iran-s-strikes-on-ships-in-strait-of-hormuz-threaten-oil-flow",
-        "u-s-launches-strikes-after-iran-fires-on-civilian-vessel-in-strait-of-hormuz",
-        "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f"
-      ],
-      "shortTitle": "Trump Changes Hormuz Toll Plan, With Tankers Stalled",
-      "slug": "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz",
-      "sourceCount": 7,
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "NPR News",
-          "url": "https://www.npr.org/2026/07/14/nx-s1-5893257/us-iran-updates"
-        },
-        {
-          "name": "Axios",
-          "url": "https://www.axios.com/2026/07/13/trump-iran-blockade-strait-hormuz"
-        },
-        {
-          "name": "CBS News Latest",
-          "url": "https://www.cbsnews.com/video/trump-says-us-military-doesnt-need-to-be-in-iran-reverses-course-on-strait-of-hormuz-tolls"
-        },
-        {
-          "name": "NBC News",
-          "url": "https://www.nbcnews.com/now/video/trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz-266653253537"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/7/14/piracy-will-trumps-20-percent-hormuz-toll-find-takers?traffic_source=rss"
-        },
-        {
-          "name": "The New York Times Business",
-          "url": "https://www.nytimes.com/2026/07/13/business/trump-hormuz-shipping-fee.html"
-        }
-      ],
-      "storylineKey": "war-security-order",
-      "storylineNext": {
-        "slug": "us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f",
-        "title": "U.S.-Iran Strikes Deepen Hormuz Standoff",
-        "url": "/briefs/us-and-iran-exchange-fresh-wave-of-strikes-as-tehran-says-diplomacy-has-proven-f/"
-      },
-      "storylineTitle": "The War and Security Order",
-      "summary": "President Trump reversed a planned 20% toll on cargo ships using the Strait of Hormuz as tanker traffic slowed amid U.S.-Iran fighting. The shift leaves shipping companies and officials watching whether transit through the waterway resumes safely.",
-      "title": "Trump Changes Hormuz Toll Plan, With Tankers Stalled",
-      "verificationNote": "Cross-checked across 7 sources"
     }
   ],
   "dailyPaper": {
@@ -8784,6 +8750,10 @@
   },
   "feeds": {
     "categories": {
+      "Money": [
+        "bessent-says-u-s-likely-won-t-restart-large-scale-iran-combat-as-it-steps-up-eco",
+        "us-imposing-25-tariff-on-some-brazilian-imports-citing-unfair-trade-practices"
+      ],
       "U.S. & Politics": [
         "muddy-cleanup-ahead-as-tropical-storm-lala-moves-west-of-hawaii",
         "trump-orders-pentagon-to-substantially-reduce-military-exercises-with-south-kore",
@@ -8802,8 +8772,7 @@
         "israel-welcomes-trump-s-demand-for-diplomatic-ties-with-saudi-arabia",
         "trump-attends-dignified-transfer-of-4-service-members-killed-in-iran-attacks",
         "trump-administration-signs-commercial-nuclear-deal-with-saudi-arabia",
-        "house-votes-for-permanent-daylight-saving-time",
-        "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz"
+        "house-votes-for-permanent-daylight-saving-time"
       ],
       "Guide": [
         "how-earthquake-triggered-landslides-work",
@@ -8838,9 +8807,6 @@
         "spain-and-france-wildfires-force-more-than-300-000-to-flee-as-macron-calls-crisi",
         "the-politics-of-new-york-s-data-center-construction-pause"
       ],
-      "Money": [
-        "us-imposing-25-tariff-on-some-brazilian-imports-citing-unfair-trade-practices"
-      ],
       "Sports & Culture": [
         "world-cup-favorites-france-unravel-as-spain-book-s"
       ]
@@ -8864,6 +8830,7 @@
     ],
     "storylines": {
       "war-security-order": [
+        "bessent-says-u-s-likely-won-t-restart-large-scale-iran-combat-as-it-steps-up-eco",
         "trump-orders-pentagon-to-substantially-reduce-military-exercises-with-south-kore",
         "jared-kushner-meets-with-hamas-ahead-of-talks-with-netanyahu-on-gaza",
         "ukraine-launches-one-of-its-largest-aerial-attacks-of-the-war-killing-at-least-6",
@@ -8873,8 +8840,7 @@
         "trump-warns-iran-after-tanker-attacks-raise-oil-risk",
         "israel-welcomes-trump-s-demand-for-diplomatic-ties-with-saudi-arabia",
         "defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
-        "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade",
-        "trump-says-he-will-back-off-plan-to-toll-ships-in-strait-of-hormuz"
+        "iran-threatens-to-halt-all-middle-east-energy-exports-amid-renewed-us-blockade"
       ],
       "governing-crisis": [
         "in-south-carolina-sen-darline-graham-advances-to-a-gop-special-primary-runoff-fo",
