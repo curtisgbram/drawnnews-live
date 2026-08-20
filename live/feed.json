@@ -1,8 +1,163 @@
 {
   "schemaVersion": "drawnnews.live-feed.v2",
-  "updatedAt": "2026-08-20T19:55:39.688Z",
-  "rolling24HourCount": 1,
+  "updatedAt": "2026-08-20T20:52:20.951Z",
+  "rolling24HourCount": 2,
   "comics": [
+    {
+      "category": "Guide",
+      "contentType": "guide",
+      "generatedAt": "2026-08-20T20:51:26.734Z",
+      "fastContext": {
+        "points": [
+          {
+            "label": "What it explains",
+            "panel": 1
+          },
+          {
+            "label": "How it works",
+            "panel": 2
+          },
+          {
+            "label": "Where it gets hard",
+            "panel": 4
+          }
+        ]
+      },
+      "imagePath": "/live/media/how-wrongful-detention-designations-work.webp",
+      "claims": [
+        {
+          "claim": "State Department moves overseas detention cases into a federal review when law, coercion, or fairness concerns appear.",
+          "panel": 1,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Officials check innocence claims, citizenship targeting, due-process gaps, and policy leverage at the criteria gate.",
+          "panel": 2,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "A designation routes the case to hostage-affairs officials, family support, Congress updates, and diplomatic action.",
+          "panel": 3,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Consular access, local law, privacy limits, and foreign-government leverage become bottlenecks.",
+          "panel": 4,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Sanctions or travel-warning tools can raise costs, but negotiation still depends on the detaining government.",
+          "panel": 5,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        },
+        {
+          "claim": "Watch official designations, travel advisories, family briefings, sanctions, releases, and stalled access.",
+          "panel": 6,
+          "sourceIndexes": [
+            0,
+            1,
+            2
+          ],
+          "verification": "briefing-source-set"
+        }
+      ],
+      "panelCaptions": [
+        "State Department moves overseas detention cases into a federal review when law, coercion, or fairness concerns appear.",
+        "Officials check innocence claims, citizenship targeting, due-process gaps, and policy leverage at the criteria gate.",
+        "A designation routes the case to hostage-affairs officials, family support, Congress updates, and diplomatic action.",
+        "Consular access, local law, privacy limits, and foreign-government leverage become bottlenecks.",
+        "Sanctions or travel-warning tools can raise costs, but negotiation still depends on the detaining government.",
+        "Watch official designations, travel advisories, family briefings, sanctions, releases, and stalled access."
+      ],
+      "panelFrames": [
+        [
+          0,
+          0,
+          27.745,
+          54.549
+        ],
+        [
+          29.091,
+          0,
+          37.52,
+          54.549
+        ],
+        [
+          69.456,
+          0,
+          30.544,
+          54.549
+        ],
+        [
+          0,
+          55.9,
+          27.745,
+          44.1
+        ],
+        [
+          29.091,
+          55.9,
+          37.52,
+          44.1
+        ],
+        [
+          69.456,
+          55.9,
+          30.544,
+          44.1
+        ]
+      ],
+      "primaryGuide": null,
+      "relatedBriefSlugs": [],
+      "shortTitle": "Wrongful Detention Designations",
+      "slug": "how-wrongful-detention-designations-work",
+      "sourceCount": 3,
+      "sources": [
+        {
+          "name": "U.S. Code: 22 U.S.C. 1741",
+          "url": "https://uscode.house.gov/view.xhtml?req=%28title%3A22%20section%3A1741%20edition%3Aprelim%29"
+        },
+        {
+          "name": "U.S. Treasury OFAC: Hostages and Wrongfully Detained U.S. Nationals Sanctions",
+          "url": "https://ofac.treasury.gov/sanctions-programs-and-country-information/hostages-and-wrongfully-detained-us-nationals-sanctions"
+        },
+        {
+          "name": "White House: Levinson Act and Executive Order brief",
+          "url": "https://www.whitehouse.gov/wp-content/uploads/2022/07/Levinson-Act_BIS.pdf"
+        }
+      ],
+      "storylineKey": "",
+      "storylineNext": null,
+      "storylineTitle": "",
+      "summary": "Wrongful-detention designations turn overseas detention cases into a U.S. review process linking legal criteria, consular limits, family support, diplomacy, sanctions tools and release negotiations.",
+      "title": "How Wrongful Detention Designations Work",
+      "verificationNote": "Cross-checked across 3 sources"
+    },
     {
       "category": "Money",
       "contentType": "brief",
@@ -8501,207 +8656,6 @@
       "summary": "House Republicans and Democrats united in favor of a bill to eliminate semiannual clock-changing, but it faces an uncertain fate in the Senate.",
       "title": "House Votes for Permanent Daylight Saving Time",
       "verificationNote": "Cross-checked across 7 sources"
-    },
-    {
-      "category": "Tech & Science",
-      "contentType": "brief",
-      "generatedAt": "2026-07-15T01:21:50.697Z",
-      "fastContext": {
-        "points": [
-          {
-            "label": "What happened",
-            "panel": 1
-          },
-          {
-            "label": "Why it matters",
-            "panel": 5
-          },
-          {
-            "label": "What to watch",
-            "panel": 6
-          }
-        ]
-      },
-      "imagePath": "/live/media/the-politics-of-new-york-s-data-center-construction-pause.webp",
-      "claims": [
-        {
-          "claim": "Gov. Kathy Hochul pauses new AI data-center permits while New York weighs higher electricity costs, water use and grid strain.",
-          "panel": 1,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The order targets “hyperscale” facilities: proposed data centers with more than 50 megawatts of electrical capacity.",
-          "panel": 2,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "For up to one year, state permitting for those projects stops while regulators draft new statewide standards.",
-          "panel": 3,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The review will weigh energy demand, water consumption, environmental effects, land disruption and noise near communities.",
-          "panel": 4,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "The immediate tradeoff: developers face delays while the state tests safeguards before more capacity can be built.",
-          "panel": 5,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        },
-        {
-          "claim": "Regulators now must write rules that protect ratepayers while deciding how much new computing capacity New York can permit.",
-          "panel": 6,
-          "sourceIndexes": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "verification": "briefing-source-set"
-        }
-      ],
-      "panelCaptions": [
-        "Gov. Kathy Hochul pauses new AI data-center permits while New York weighs higher electricity costs, water use and grid strain.",
-        "The order targets “hyperscale” facilities: proposed data centers with more than 50 megawatts of electrical capacity.",
-        "For up to one year, state permitting for those projects stops while regulators draft new statewide standards.",
-        "The review will weigh energy demand, water consumption, environmental effects, land disruption and noise near communities.",
-        "The immediate tradeoff: developers face delays while the state tests safeguards before more capacity can be built.",
-        "Regulators now must write rules that protect ratepayers while deciding how much new computing capacity New York can permit."
-      ],
-      "panelFrames": [
-        [
-          0,
-          0,
-          33.148,
-          50.448
-        ],
-        [
-          35.016,
-          0,
-          35.372,
-          50.448
-        ],
-        [
-          71.344,
-          0,
-          28.656,
-          50.448
-        ],
-        [
-          0,
-          51.798,
-          33.148,
-          48.202
-        ],
-        [
-          35.016,
-          51.798,
-          35.372,
-          48.202
-        ],
-        [
-          71.344,
-          51.798,
-          28.656,
-          48.202
-        ]
-      ],
-      "primaryGuide": {
-        "slug": "how-ai-data-centers-work",
-        "title": "How AI Data Centers Work",
-        "url": "/briefs/how-ai-data-centers-work/"
-      },
-      "readerNext": {
-        "buttonLabel": "Guide",
-        "kind": "background-guide",
-        "label": "Background guide",
-        "slug": "how-ai-data-centers-work",
-        "title": "How AI Data Centers Work",
-        "url": "/briefs/how-ai-data-centers-work/"
-      },
-      "relatedBriefSlugs": [],
-      "shortTitle": "Hochul Pauses AI Data Center Permits",
-      "slug": "the-politics-of-new-york-s-data-center-construction-pause",
-      "sourceCount": 6,
-      "sources": [
-        {
-          "name": "The Guardian Technology",
-          "url": "https://www.theguardian.com/us-news/2026/jul/14/new-york-moratorium-ai-datacenters"
-        },
-        {
-          "name": "ABC News Top Stories",
-          "url": "https://abcnews.com/GMA/News/new-york-gov-kathy-hochul-sign-moratorium-data/story?id=134741027"
-        },
-        {
-          "name": "CBS News Latest",
-          "url": "https://www.cbsnews.com/video/the-politics-of-new-yorks-data-center-construction-pause"
-        },
-        {
-          "name": "CNBC Top News",
-          "url": "https://www.cnbc.com/2026/07/14/new-york-ai-data-center-ban.html"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers"
-        },
-        {
-          "name": "WIRED",
-          "url": "https://www.wired.com/story/new-york-governor-signs-first-statewide-data-center-moratorium"
-        }
-      ],
-      "storylineKey": "ai-buildout",
-      "storylineNext": {
-        "slug": "apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secr",
-        "title": "Apple Sues OpenAI over Hardware Secrets",
-        "url": "/briefs/apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secr/"
-      },
-      "storylineTitle": "The AI Buildout",
-      "summary": "Gov. Kathy Hochul paused permits for new hyperscale AI data centers for up to a year while New York sets rules on power, water and ratepayer impacts.",
-      "title": "Hochul Pauses New AI Data Center Permits Over Grid Costs",
-      "verificationNote": "Cross-checked across 6 sources"
     }
   ],
   "dailyPaper": {
@@ -8750,6 +8704,24 @@
   },
   "feeds": {
     "categories": {
+      "Guide": [
+        "how-wrongful-detention-designations-work",
+        "how-earthquake-triggered-landslides-work",
+        "how-broadcast-ownership-caps-work",
+        "how-aerial-firefighting-drops-work",
+        "how-wildfire-containment-lines-work",
+        "how-spacecraft-orbit-boosts-work",
+        "how-colorado-river-water-cuts-work",
+        "how-dignified-transfers-work",
+        "how-senate-confirmations-work",
+        "how-structural-collapse-rescue-works",
+        "how-mail-ballots-are-processed",
+        "how-wildfire-evacuations-work",
+        "how-war-powers-votes-work",
+        "how-civil-nuclear-cooperation-deals-work",
+        "how-pay-transparency-laws-work",
+        "how-buy-now-pay-later-loans-work"
+      ],
       "Money": [
         "bessent-says-u-s-likely-won-t-restart-large-scale-iran-combat-as-it-steps-up-eco",
         "us-imposing-25-tariff-on-some-brazilian-imports-citing-unfair-trade-practices"
@@ -8774,23 +8746,6 @@
         "trump-administration-signs-commercial-nuclear-deal-with-saudi-arabia",
         "house-votes-for-permanent-daylight-saving-time"
       ],
-      "Guide": [
-        "how-earthquake-triggered-landslides-work",
-        "how-broadcast-ownership-caps-work",
-        "how-aerial-firefighting-drops-work",
-        "how-wildfire-containment-lines-work",
-        "how-spacecraft-orbit-boosts-work",
-        "how-colorado-river-water-cuts-work",
-        "how-dignified-transfers-work",
-        "how-senate-confirmations-work",
-        "how-structural-collapse-rescue-works",
-        "how-mail-ballots-are-processed",
-        "how-wildfire-evacuations-work",
-        "how-war-powers-votes-work",
-        "how-civil-nuclear-cooperation-deals-work",
-        "how-pay-transparency-laws-work",
-        "how-buy-now-pay-later-loans-work"
-      ],
       "World": [
         "ukraine-launches-one-of-its-largest-aerial-attacks-of-the-war-killing-at-least-6",
         "questions-grow-about-gaza-s-future-after-trump-announces-deal-to-disarm-hamas",
@@ -8804,14 +8759,14 @@
       ],
       "Tech & Science": [
         "eastern-washington-fires-have-burned-600-structures-and-forced-the-evacuation-of",
-        "spain-and-france-wildfires-force-more-than-300-000-to-flee-as-macron-calls-crisi",
-        "the-politics-of-new-york-s-data-center-construction-pause"
+        "spain-and-france-wildfires-force-more-than-300-000-to-flee-as-macron-calls-crisi"
       ],
       "Sports & Culture": [
         "world-cup-favorites-france-unravel-as-spain-book-s"
       ]
     },
     "guides": [
+      "how-wrongful-detention-designations-work",
       "how-earthquake-triggered-landslides-work",
       "how-broadcast-ownership-caps-work",
       "how-aerial-firefighting-drops-work",
@@ -8856,9 +8811,6 @@
       ],
       "new-energy-system": [
         "how-civil-nuclear-cooperation-deals-work"
-      ],
-      "ai-buildout": [
-        "the-politics-of-new-york-s-data-center-construction-pause"
       ]
     }
   }
